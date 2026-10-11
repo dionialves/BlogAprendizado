@@ -42,3 +42,16 @@ As páginas são `/`, `/gestao-de-projetos/`, `/aula-01/` e `/aula-02/`. Os ende
 Crie uma página em `src/pages/` usando `BaseLayout` e `SiteHeader`, seguindo uma das páginas existentes. Atualize os cartões e as contagens no catálogo e na matéria. Coloque novas imagens em `public/assets/` e use caminhos iniciados por `/assets/`. Importe scripts de atividades apenas na aula correspondente.
 
 As respostas das atividades são armazenadas no navegador por aula. O botão “Baixar minhas respostas” permite guardar uma cópia. As fontes dos materiais continuam indicadas no final das aulas.
+
+## Criar posts com agentes do OpenCode
+
+O agente principal `editor-do-blog` coordena pesquisa, planejamento, redação, revisão, enriquecimento visual e publicação. Após reiniciar o OpenCode, use:
+
+```text
+/criar-post matéria="Gestão de Projetos" aula="02"
+/criar-post matéria="Gestão de Projetos" aula="02" tema="Comunicação e gestão de conflitos"
+```
+
+O fluxo utiliza os materiais da pasta da matéria, cria um novo post, atualiza o catálogo e valida o build. Após revisão final, cria o commit e envia os arquivos da entrega ao remoto na branch `main`. O envio ao repositório não confirma publicação na internet; isso depende de hospedagem e deploy configurados.
+
+Consulte [o guia dos agentes](.opencode/README.md) para conhecer as etapas, ferramentas necessárias e recuperação de trabalhos. As regras editoriais estão em [`.opencode/editorial.md`](.opencode/editorial.md), e as instruções gerais em [`AGENTS.md`](AGENTS.md).
