@@ -5,11 +5,14 @@
 Reinicie o OpenCode após instalar ou alterar estes arquivos. Execute o comando na raiz do projeto:
 
 ```text
-/criar-post matéria="Gestão de Projetos" aula="02"
-/criar-post matéria="Gestão de Projetos" aula="02" tema="Comunicação e gestão de conflitos"
+/criar-post matéria="Gestão de Projetos" assunto="Comunicação e gestão de conflitos"
+/criar-post matéria="Gestão de Projetos" capítulo="02"
+/criar-post matéria="Gestão de Projetos" unidade="01"
+/criar-post matéria="Gestão de Projetos" tipo="aula-ao-vivo" aula="02"
+/criar-post matéria="Gestão de Projetos" tipo="aula-ao-vivo" aula="02" tema="Comunicação e gestão de conflitos"
 ```
 
-Os argumentos são interpretados em linguagem natural; não há parser rígido. Também é possível selecionar o agente principal `editor-do-blog` e pedir um post diretamente. Informe a matéria, aula e assunto desejado; ambiguidades essenciais poderão exigir uma pergunta.
+Os argumentos são interpretados em linguagem natural; não há parser rígido. Os números acima são exemplos de recorte, não uma confirmação de que esses materiais existem. Também é possível selecionar o agente principal `editor-do-blog` e pedir um post diretamente. Informe a matéria e o assunto, capítulo, unidade ou aula ao vivo desejado. O fluxo identifica primeiro o tipo de estudo; ambiguidades essenciais poderão exigir uma pergunta. Não é necessário informar uma aula para estudar o livro.
 
 O fluxo não pede aprovações intermediárias. Ao iniciar uma criação de post, você autoriza commit e push para `main` dos arquivos daquela entrega. É necessário acesso de leitura aos materiais, Node.js compatível com `package.json`, dependências instaladas e autenticação de escrita no remoto Git. As permissões globais do OpenCode ainda podem exigir autorização de ferramentas.
 
@@ -25,7 +28,7 @@ O fluxo não pede aprovações intermediárias. Ao iniciar uma criação de post
 | `editor-visual` | Recortes, SVGs, imagens externas ou geradas e créditos |
 | `publicador` | Montagem Astro, build, integração, commit e push |
 
-Escopo → pesquisa → planejamento → redação → revisão → visuais → montagem e validação → revisão final → commit e push. Erros retornam ao responsável antes de continuar.
+Identificação de matéria, assunto e tipo → escopo com prioridade das fontes → pesquisa → planejamento → redação → revisão → visuais → montagem e validação → revisão final → commit e push. Erros retornam ao responsável antes de continuar.
 
 ## Regras e documentos
 
@@ -39,7 +42,16 @@ Foi adotado o nome convencional `AGENTS.md` (maiúsculas), para descoberta autom
 
 ## Fontes, profundidade e visuais
 
-A base factual é `Matérias/<matéria>/`: slides/transcrição da aula, livro pertinente e pré-requisitos de outras aulas da mesma matéria. Posts existentes orientam o formato, mas não substituem fontes. Aprofundamentos geram novas páginas vinculadas à aula original.
+A base factual é exclusivamente `Matérias/<matéria>/`. Há dois tipos de post:
+
+| Tipo | Base do post | Complementos |
+| --- | --- | --- |
+| Estudo dirigido do livro (`estudo-dirigido`) | Assunto, capítulo ou unidade do livro. É o padrão para pedidos de temas. | Slides, aulas conceituais e aulas ao vivo pertinentes. |
+| Aula ao vivo (`aula-ao-vivo`) | Assuntos efetivamente tratados no registro/transcrição da aula solicitada. | Livro e slides pertinentes; aulas conceituais para esclarecer os mesmos assuntos. |
+
+Aula conceitual não é aula ao vivo: se indicada como recorte, seus assuntos orientam a seleção de um estudo dirigido baseado no livro. Pedidos apenas de “aula 02” são classificados pelos materiais disponíveis; se não for possível distinguir, o coordenador pergunta. Fonte principal ausente não é substituída silenciosamente.
+
+O dossiê registra o tipo de estudo e o papel de cada fonte. Post e cartão identificam “Estudo dirigido do livro” ou “Aula ao vivo”, e as referências separam base e complementos. Posts existentes orientam o formato, mas não substituem fontes. Aprofundamentos geram novas páginas vinculadas ao post de origem quando existente, sem exigir vínculo com uma aula para estudos do livro.
 
 Os textos seguem voz de tutor em português brasileiro, com densidade sustentada pelas fontes. Exemplos fictícios são identificados. Lacunas não são preenchidas com pesquisa externa ou conhecimento geral do modelo.
 

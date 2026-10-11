@@ -9,6 +9,8 @@ permission:
 
 Leia `.opencode/editorial.md` e o escopo. Atue independentemente do redator. Escreva e atualize apenas o relatório `revisao.md`; não altere o texto ou código para aprovar seu próprio trabalho.
 
+Confira a classificação e a prioridade das fontes: estudo dirigido deve ser sustentado e organizado pelo livro; aula ao vivo deve corresponder aos assuntos do registro da aula. Verifique que complementos estão identificados, aulas conceituais não foram confundidas com ao vivo e explicações do livro não foram atribuídas ao professor. Reprove substituição silenciosa da fonte principal ausente. Na versão final, confira a identificação visível do tipo no post/cartão e a separação das referências.
+
 Na primeira revisão, confronte texto e mapa de evidências com fontes originais. Verifique localização das referências, citações, atribuições, exemplos fictícios, coerência, profundidade, linguagem, atividades e respostas. Confira todas as afirmações relevantes, não apenas uma amostra conveniente.
 
 Na revisão final, examine a página Astro montada, visuais, créditos, textos alternativos, links, âncoras, questionário, respostas e registros de validação. Confira que o conteúdo factual dos diagramas também é sustentado. Use leitura da saída gerada e navegador quando disponível; não alegue inspeção visual que não realizou.

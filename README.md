@@ -48,10 +48,14 @@ As respostas das atividades são armazenadas no navegador por aula. O botão “
 O agente principal `editor-do-blog` coordena pesquisa, planejamento, redação, revisão, enriquecimento visual e publicação. Após reiniciar o OpenCode, use:
 
 ```text
-/criar-post matéria="Gestão de Projetos" aula="02"
-/criar-post matéria="Gestão de Projetos" aula="02" tema="Comunicação e gestão de conflitos"
+/criar-post matéria="Gestão de Projetos" assunto="Comunicação e gestão de conflitos"
+/criar-post matéria="Gestão de Projetos" capítulo="02"
+/criar-post matéria="Gestão de Projetos" unidade="01"
+/criar-post matéria="Gestão de Projetos" tipo="aula-ao-vivo" aula="02"
 ```
 
-O fluxo utiliza os materiais da pasta da matéria, cria um novo post, atualiza o catálogo e valida o build. Após revisão final, cria o commit e envia os arquivos da entrega ao remoto na branch `main`. O envio ao repositório não confirma publicação na internet; isso depende de hospedagem e deploy configurados.
+O fluxo identifica primeiro matéria, assunto e tipo de estudo. Estudos dirigidos de assuntos, capítulos ou unidades usam o livro como base, com slides e aulas conceituais/ao vivo como complemento. Posts de aulas ao vivo partem dos assuntos efetivamente tratados na aula, complementados pelo livro e slides. Todos os materiais conceituais devem estar na pasta da matéria.
+
+O fluxo cria um novo post, atualiza o catálogo e valida o build. Após revisão final, cria o commit e envia os arquivos da entrega ao remoto na branch `main`. O envio ao repositório não confirma publicação na internet; isso depende de hospedagem e deploy configurados.
 
 Consulte [o guia dos agentes](.opencode/README.md) para conhecer as etapas, ferramentas necessárias e recuperação de trabalhos. As regras editoriais estão em [`.opencode/editorial.md`](.opencode/editorial.md), e as instruções gerais em [`AGENTS.md`](AGENTS.md).

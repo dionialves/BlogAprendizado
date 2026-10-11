@@ -2,14 +2,27 @@
 
 ## Entrada e autonomia
 
-Receba matéria, aula e tema opcional, em linguagem natural ou no comando `/criar-post`. Um tema delimita um aprofundamento dentro da aula. Não solicite aprovações de rascunho ou de prévia. Resolva escolhas editoriais autonomamente; pergunte somente quando a matéria/aula for ambígua ou houver um bloqueio real para concluir.
+Primeiro identifique a matéria, o assunto e o tipo de estudo, em linguagem natural ou no comando `/criar-post`. O recorte pode ser um assunto, capítulo ou unidade do livro, ou uma aula ao vivo específica, com tema opcional para aprofundamento. Capítulo/unidade não exige número de aula. Não solicite aprovações de rascunho ou de prévia. Resolva escolhas editoriais autonomamente; pergunte somente quando a matéria, o recorte ou o tipo de aula for ambíguo ou houver um bloqueio real para concluir.
 
-Trate `Matérias/` como caminho relativo à raiz do projeto. Localize a pasta real, inclusive acentos e espaços, sem presumir nomes. Autorize slides e transcrição da aula, trechos pertinentes do livro da matéria e materiais de outras aulas dessa mesma matéria apenas para pré-requisitos, identificando essa utilização. Arquivos do site servem como referência de formato, não como evidência conceitual. Links citados nos documentos não autorizam buscar conteúdo externo.
+Trate `Matérias/` como caminho relativo à raiz do projeto. Localize a pasta real, inclusive acentos e espaços, sem presumir nomes. Todas as fontes conceituais, primárias e complementares, devem estar nessa pasta. Arquivos do site servem como referência de formato, não como evidência conceitual. Links citados nos documentos não autorizam buscar conteúdo externo.
+
+### Tipos de estudo e prioridade das fontes
+
+| Tipo | Fonte principal e organização | Complementos |
+| --- | --- | --- |
+| `estudo-dirigido` | Livro da matéria: assunto, capítulo ou unidade solicitado orienta a seleção e progressão dos conceitos. | Slides, aulas conceituais e aulas ao vivo pertinentes ao recorte. |
+| `aula-ao-vivo` | Registro/transcrição da aula ao vivo solicitada: seus assuntos efetivamente tratados orientam o escopo e o plano. | Trechos pertinentes do livro e slides; aulas conceituais podem esclarecer os mesmos assuntos. |
+
+Pedidos de assunto, capítulo ou unidade adotam `estudo-dirigido` por padrão. Aula conceitual é complemento do estudo dirigido, não deve ser confundida com aula ao vivo. Se uma aula conceitual for indicada como recorte, identifique seus assuntos e desenvolva-os com o livro como base. Para pedidos apenas de “aula 02”, examine os materiais para identificar o tipo; pergunte se os arquivos não permitirem distinguir. Não deduza o tipo só pelo número.
+
+No estudo dirigido, localize o recorte no sumário e nas páginas do livro antes de complementar com aulas. Na aula ao vivo, extraia primeiro os assuntos do registro da aula e depois relacione-os ao livro e slides, sem transformar o post em uma cobertura genérica de todo o capítulo. Identifique explicações complementares como tais, sem atribuí-las ao que foi dito ao vivo. Complementos devem aprofundar o recorte ou explicar pré-requisitos, não ampliá-lo indiscriminadamente.
+
+Registre a função de cada fonte (principal ou complementar) e o tipo de aula (ao vivo ou conceitual). Ausência ou ilegibilidade da fonte principal impede concluir aquele tipo de estudo: não substitua silenciosamente livro por aula, nem registro de aula ao vivo por slides. Divergências não são resolvidas automaticamente pela prioridade; devem ser conferidas e explicitadas com evidência.
 
 Crie um dossiê em `.opencode/trabalhos/<slug>/`, com slug único, contendo:
 
-1. `escopo.md`: pedido, arquivos autorizados, objetivo, público, relação com aula original, slug e situação inicial do Git.
-2. `evidencias.md`: inventário, IDs como E001, afirmações sustentadas, arquivo, página/slide/trecho e limitações.
+1. `escopo.md`: pedido, matéria, assunto, tipo de estudo, capítulo/unidade/aula quando aplicável, fonte principal, complementos autorizados, objetivo, público, vínculos com posts existentes, slug e situação inicial do Git.
+2. `evidencias.md`: inventário com papel e tipo de cada fonte, IDs como E001, afirmações sustentadas, correspondência entre assuntos e trechos do livro/aulas, arquivo, página/slide/trecho e limitações.
 3. `plano.md`: título, progressão didática, seções, evidências por seção, exercícios e plano visual.
 4. `post.md`: texto integral com referências às evidências durante o trabalho.
 5. `revisao.md`: achados, correções e resultado da revisão factual/editorial e final.
@@ -41,7 +54,7 @@ Guarde os arquivos finais em `public/assets/<slug>/`. Use caminhos `/assets/<slu
 
 ## Integração e revisão
 
-Crie uma página nova com slug descritivo e sem colisão. Aprofundamentos devem apontar para a aula original quando existente; não invente links. Reutilize BaseLayout, SiteHeader e os padrões atuais de estilos, navegação, ampliação de imagens e atividades quando pertinentes. Examine scripts antes de reutilizá-los: seletores e chaves de armazenamento devem funcionar e não misturar respostas de aulas diferentes.
+Crie uma página nova com slug descritivo e sem colisão. Identifique visivelmente o tipo como “Estudo dirigido do livro” ou “Aula ao vivo” no post e no cartão da matéria, distinguindo unidade/capítulo de número de aula. Nas referências, separe fonte principal e complementos. Aprofundamentos devem apontar para o post de origem quando existente; estudos do livro não exigem vínculo com uma aula. Não invente links. Reutilize BaseLayout, SiteHeader e os padrões atuais de estilos, navegação, ampliação de imagens e atividades quando pertinentes. Examine scripts antes de reutilizá-los: seletores e chaves de armazenamento devem funcionar e não misturar respostas de posts diferentes.
 
 Atualize página da matéria, catálogo, contagens e ligações necessárias. Para nova matéria, crie sua página e cartão. Preserve a experiência de impressão, leitura móvel e navegação por âncoras. Não refatore o site inteiro para publicar um post.
 

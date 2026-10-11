@@ -17,7 +17,9 @@ Use `editor-do-blog` para coordenar pesquisador, planejador-editorial, redator, 
 
 Escreva em português brasileiro, com voz de tutor didático e profundidade sustentada pelas fontes. Não use a internet nem conhecimento do modelo para preencher lacunas factuais. Exemplos fictícios e exercícios são permitidos quando identificados e derivados dos conceitos documentados.
 
-Cada aprofundamento gera um novo post vinculado à aula. Preserve páginas existentes, salvo ajustes de navegação e catálogo. Atualize cartões e contagens ao adicionar posts.
+Identifique primeiro matéria, assunto e tipo de estudo. No estudo dirigido de assunto, capítulo ou unidade, o livro é a base e slides, aulas conceituais e aulas ao vivo são complementos. Para aula ao vivo, os assuntos efetivamente tratados na aula orientam o post, com livro e slides como complemento. Diferencie os tipos no escopo, texto, referências e cartões. Não exija aula para um estudo do livro nem substitua silenciosamente uma fonte principal ausente.
+
+Cada aprofundamento gera um novo post vinculado ao post de origem quando existente, seja estudo do livro ou aula ao vivo. Preserve páginas existentes, salvo ajustes de navegação e catálogo. Atualize cartões e contagens ao adicionar posts.
 
 ## Publicação e Git
 
