@@ -1,0 +1,736 @@
+O que é extensão universitária? A partir de 2023, o MEC exige que estudantes do ensino superior completem atividades de
+0:3232 segundosextensão. A resolução prevê a dedicação de no mínimo, 10% do total da carga horária curricular para a extensão
+0:3939 segundosuniversitária. Por exemplo, se seu curso tem 3.400 horas, você precisa completar no mínimo 340 horas em atividades de
+0:4848 segundosextensão. Caso contrário, mesmo se aprovado em todas as disciplinas, você não receberá seu diploma. Como participar dos projetos? Nossa
+0:5757 segundosUniversidade oferece diversos projetos de extensão no estúdio. Acesse o menu lateral extensão e inscreva-se. Você
+1:041 minuto e 4 segundostambém pode contribuir com novos projetos. Acesse a aba Faça parte e clique em Quero Participar para enviar sua sugestão. Para mais informações
+1:131 minuto e 13 segundossobre a exigência de extensão universitária, acesse nosso site dedicado a esclarecer todas as suas dúvidas.
+1:231 minuto e 23 segundosOlá, pessoal. Boa noite. Boa noite, professor. Seja bem-vindo. Olá. Muito boa noite, professor Emerson. Boa noite à turma.
+1:311 minuto e 31 segundosBoa noite, pessoal. Ivan, Douglas, Kildar, Patrícia, Juliano. Pessoal, sejam todos bem-vindos, tá? Meus futuros
+1:401 minuto e 40 segundoscolegas engenheiros de software. Nossa segunda aula, tecnologias emergentes em
+1:471 minuto e 47 segundosengenharia de software, como meu professor R. Nossa, é uma honra, né, professor? Poxa, [risadas]
+1:571 minuto e 57 segundospara mim é uma honra dobrada, né? Porque poxa, né?
+2:012 minutos e 1 segundoEscrevi o livro e o o meu diretor do filme tá impressionante. [risadas]
+2:092 minutos e 9 segundosPessoal, antes da gente eh passar pro professor Romo, vou passar alguns recados rapidamente.
+2:182 minutos e 18 segundosEntão, pessoal, TCS Codiva, né? tá aí com a novamente.
+2:252 minutos e 25 segundosVamos aproveitar, eh, vamos participar.
+2:292 minutos e 29 segundosEssas são eh oportunidades, gente, que a gente não perde pra gente fazer o nosso nome. Então, o pessoal que é bom aí de
+2:382 minutos e 38 segundoscodificação, aproveite.
+2:432 minutos e 43 segundosOutra coisa, né, tá as inscrições abertas até o dia 25 do programa de AI da Fellowship.
+2:512 minutos e 51 segundosEntão também é outro programa excelente, não dá para perder.
+2:582 minutos e 58 segundosAlém disso, nós teremos o a live de premiação do Ratum. Então, pessoal, dia
+3:043 minutos e 4 segundos14, né, convidar vocês, não percam, vai ser muito legal, né, eh, participar, né,
+3:123 minutos e 12 segundose ver os nossos colegas, né, às vezes tem alguém daí que eu nem sei, né, da nossa turma para ganhar um prêmio lá.
+3:203 minutos e 20 segundosEntão, muito bom.
+3:243 minutos e 24 segundosE é só isso. Deixar aqui o professor que eu já tô falando demais, né, professor?
+3:293 minutos e 29 segundos[risadas] Caramba, pessoal, qualquer coisa eu tô nos bastidores, só chamar. Com licença,
+3:413 minutos e 41 segundospessoal. Muito boa noite, tá? Eu espero que não tenha saído aí, né, no áudio, mas tenho aqui um amigão ao lado que tá com a moto fazendo uma barulheira, né?
+3:523 minutos e 52 segundosEu coloquei aqui o supressor, o redutor de ruídos, né? Espero que o barulhão não alcance tanto vocês aí. Tá, galerinha?
+4:004 minutosChegamos aí à segunda aula da nossa disciplina que o nome gigantesco, né?
+4:034 minutos e 3 segundostecnologias emergentes em engenharia de software. E nessa aula iremos discutir
+4:104 minutos e 10 segundosuma quantidade muito boa de assuntos, tá? Então vamos avançar lá nos modelos que a gente viu na aula
+4:184 minutos e 18 segundospassada, eh nos modelos organizacionais que são utilizados dentro do contexto de fábrica de software. Vamos detalhar um
+4:244 minutos e 24 segundospouco mais esses modelos, tá? E a ideia é que vocês saiam daqui entendendo que uma organização de desenvolvimento, ela
+4:344 minutos e 34 segundospode estruturar, né, o seu trabalho de maneira diferente, dependendo do tipo de
+4:414 minutos e 41 segundosdemanda, dependendo do produto, dependendo do nível de especialização,
+4:484 minutos e 48 segundosdependendo da equipe, né, dependendo dos objetivos do negócio. Então ela pode, né, lançar mão aí de algumas
+4:554 minutos e 55 segundosestratégias, tá? Considerando o caso concreto.
+4:594 minutos e 59 segundosBeleza? Obrigado aí, Patrícia. Tá, mas assim, o cara assim, e é difícil aqui em Brasília acontecer essas coisas, hein?
+5:065 minutos e 6 segundosSei lá, essa época de eleição aí tá tudo meio estranho, né? O cara com a moto aqui, um barulhão, né? E cantando e enfim, vamos lá, vida que segue, né?
+5:155 minutos e 15 segundosVamos analisar, pessoal, quatro formas principais de organização em forma em grau mais detalhado, né, que é a
+5:225 minutos e 22 segundosorientação a processos, a orientação a produtos, a orientação a projetos e a orientação a programas, né? PP, né?
+5:315 minutos e 31 segundosProcesso, produto, projeto, programa, tá? Em uma estrutura orientada a processos, tá? O foco ele está na
+5:405 minutos e 40 segundospadronização das etapas processo etapas do desenvolvimento, buscando ali pessoal
+5:475 minutos e 47 segundoseficiência, repetibilidade e controle.
+5:525 minutos e 52 segundosJá em uma estrutura que é orientada a produtos, a equipe ela tende a permanecer
+6:006 minutosresponsável por uma solução ao longo do tempo, né, acompanhando a sua evolução, sua manutenção, a geração de valor
+6:066 minutos e 6 segundosdaquele produto e por aí vai. na organização orientada a projetos, né, o trabalho é
+6:156 minutos e 15 segundosestruturado em torno de uma entrega específica, né, projeto início, enfim, que tem prazo, que tem escopo, que tem
+6:226 minutos e 22 segundosobjetivo, tá? Tudo isso bem definidos, tá? Já a orientação por programas, tá?
+6:306 minutos e 30 segundosQue é um conjunto de projetos, vamos colocar assim, ela coordena ali vários projetos que são relacionados, né? Não basta ter um monte de projetos. É um
+6:386 minutos e 38 segundosprograma é um projeto que se conecta com outro projeto. Se for dois projetos isolado, ele não é um programa, tá?
+6:446 minutos e 44 segundosBuscando ali resultados estratégicos mais amplos para a organização. Um ponto importante, pessoal, é perceber que esses modelos eles não necessariamente
+6:526 minutos e 52 segundossão excludentes, né? Ah, vou usar um, não uso o outro. Não, não, não, não, não. Tá? Muitas organizações adotam
+6:596 minutos e 59 segundosestruturas híbridas, né? por exemplo, eu eh pode manter equipes permanentes que são responsáveis por produtos, tá? E
+7:077 minutos e 7 segundosutilizar processos padronizados para garantir qualidade híbrido. Ao mesmo tempo, né, o cara pode organizar
+7:147 minutos e 14 segundosdeterminadas iniciativas por meio de projetos, tá? Essa escolha, pessoal, ela afeta diretamente a gestão das equipes e
+7:237 minutos e 23 segundosdos papéis, tá? Em um modelo orientado a processos, podemos ter maior especialidade funcional, tá? Com equipes
+7:317 minutos e 31 segundosespecíficas de requisitos, de desenvolvimento, de testes, tá? Em um modelo orientado a produto, tá?
+7:407 minutos e 40 segundosNormalmente buscamos o quê? Equipes mais multidisciplinares, né? Que aquelas equipes que tm mais autonomia, tá?
+7:477 minutos e 47 segundosTambém precisamos relacionar, pessoal, esses modelos ao ciclo de desenvolvimento, né? Uma fábrica, ela pode trabalhar com abordagens preditivas, com abordagens ágeis, com
+7:567 minutos e 56 segundosabordagens híbridas, tá? Eh, tecnologias como integração contínuo, integra, entrega, cara, é, é trava a língua, né?
+8:058 minutos e 5 segundosIntegração contínua e entrega contínua, tá? Se a e melhor, tá? Eh, automação dos
+8:128 minutos e 12 segundostestes, gestão de backlog, observabilidade, tudo isso ajuda a sustentar esses diferentes modelos.
+8:198 minutos e 19 segundosBeleza? Vamos lá, saindo do sumário, vamos partir para conteúdo, né? Vamos lá. O Dougra, né? Projeto é composto por vários processos.
+8:288 minutos e 28 segundosÉ, não, assim, não, não é que é composto, tá? Vamos lá, vamos separar as coisas. Vamos lá. Eh, durante o
+8:358 minutos e 35 segundosgerenciamento de um projeto, você pode ter boas práticas e nessas boas práticas eu ter processos para melhorar a gestão
+8:438 minutos e 43 segundosde um projeto. Mas assim, um projeto, cara, é algo eh duradouro. Eu vou desenvolver um sistema, então tem início
+8:518 minutos e 51 segundosmeio e fim. Um processo é algo mais permanente, né? Eu vou contra assim, sei lá, eu tenho eu tenho tarefas de
+8:598 minutos e 59 segundoscontratação de pessoas, toda hora a empresa tá contratando nova gente, entendeu? Então, o processo é algo mais duradouro, enquanto que o projeto é algo
+9:079 minutos e 7 segundostemporário, tá? Só que durante um projeto eu posso ter processos para alcançar o objetivo. Legal? Então, é
+9:149 minutos e 14 segundoscomum ter isso aí. Beleza? Eh, agora sim, quando a gente fala em programas, aí não tem para onde não, tá? Programas
+9:239 minutos e 23 segundosele é constituído, né? Pensa aí numa teoria de conjuntos, né? Dentro de um programa, eu tenho vários projetos e
+9:319 minutos e 31 segundosesses projetos eles têm que ser alinhados. Não apenas isso, eles têm que gerar resultados estratégicos maiores, porque senão eu faço só um projeto, né?
+9:399 minutos e 39 segundosNão faz sentido eu ter vários projetos e um programa, a não ser que esses vários projetos contendo dentro de um programa, ele tragam resultados mais estratégicos
+9:489 minutos e 48 segundosparaa organização. Legal? Para entender um pouquinho ali a diferença desses dois conceitos. Beleza, galera? Tá? Vamos lá.
+9:579 minutos e 57 segundosEh, modelos organizacionais em fábrica de software, né? Então, um ponto importante, pessoal, é que muitos problemas eh em fábrica de software, ele
+10:0710 minutos e 7 segundosnão surgem necessariamente por falta de uma ferramenta, não é por falta de uma metodologia o problema, muitas vezes,
+10:1410 minutos e 14 segundostá? Às vezes, galera, o problema ele está no próprio modelo organizacional,
+10:2110 minutos e 21 segundosque muitas vezes ele não está adequado ao modelo da empresa. Então, a empresa funciona de um jeito e o modelo ele
+10:2910 minutos e 29 segundosfunciona de outro. Então, para que a gente entenda isso, vamos relembrar, então vamos destacar, pessoal, quatro modelos principais. Modelo orientado a processos. Vamos entender, tá?
+10:4110 minutos e 41 segundosComo eu tenho modelo orientado para processos em uma fábrica de software, o que é que eu tô buscando? O foco,
+10:4810 minutos e 48 segundospessoal, é padronização, processo, é controle, qualidade, previsibilidade,
+10:5610 minutos e 56 segundosprocesso. Pensa que fosse, sei lá, cara, uma linha de produção. Legal, padronização, controle, qualidade, previsibilidade, né? processo. Esse
+11:0511 minutos e 5 segundosmodelo ele é comum, pessoal, em ambiente que existe forte governança, em ambientes que assim, cara, rastreabilidade é muito banco, ag
+11:1311 minutos e 13 segundosbancária, alta rastreabilidade, eh, muita conformidade, modelo baseado em processos. Legal,
+11:2111 minutos e 21 segundosRômulo. E o modelo orientado a produtos, tá?
+11:2611 minutos e 26 segundosLembre que não são excludente, tá? não são infludentes. Então, modelo orientado a produtos, a preocupação principal é a
+11:3511 minutos e 35 segundosevolução contínua de um produto. E dentro do contexto da nossa aula, a evolução contínua de um software, né?
+11:4111 minutos e 41 segundosEstamos falando de modelos para, entendeu? Eh, para software.
+11:4811 minutos e 48 segundosA equipe eh acompanha o produto durante todo ali o seu ciclo de vida. Nasc produtos e
+11:5511 minutos e 55 segundosmorre. É brincadeira, tá? Ou seja, a equipe, ela vai realizando melhorias naquele produto, vai realizando correções,
+12:0412 minutos e 4 segundosvai eh inserindo novas funcionalidades de forma permanente, tá?
+12:1212 minutos e 12 segundosAqui, pessoal, o foco está muito relacionado ao quê? Eu quero ter uma geração contínua de valor para o
+12:2012 minutos e 20 segundosusuário. Então, enquanto primeiro padronizar, controlar qualidade e previsibilidade, não, eu quero agregar valor constantemente para o usuário em cima desse produto.
+12:3012 minutos e 30 segundosAh, e o modelo é orientado a projetos.
+12:3412 minutos e 34 segundosO trabalho ele é estruturado em torno de um objetivo específico daquele projeto, como por exemplo, o escopo, prazo, orçamento, as entregas e por aí vai.
+12:4612 minutos e 46 segundosQuando esse objetivo ele é alcançado, o projeto ele é encerrado e a equipe ela pode ser realocada de volta. Então
+12:5412 minutos e 54 segundosperceba que esse aqui é mais temporário, tá? E por fim, pessoal, temos um modelo orientado a programas, tá?
+13:0213 minutos e 2 segundosNo qual vários projetos, várias iniciativas, elas são
+13:0913 minutos e 9 segundosrelacionadas, são coordenadas de forma conjunta.
+13:1413 minutos e 14 segundosE o objetivo agora é obter benefícios estratégicos, senão eu tinha um único projeto, né, que
+13:2313 minutos e 23 segundosdificilmente seriam alcançados se você tivesse apenas um único projeto isolado. Beleza?
+13:3113 minutos e 31 segundosTranquilo, tranquilo, tranquilo.
+13:3413 minutos e 34 segundosVamos lá. É claro, né, pessoal, que a gente vai detalhar, não é isso? Sair daqui sabendo faixa preta nisso aqui. Legal. Vamos lá.
+13:4213 minutos e 42 segundosfábrica de software orientada a processos, tá? Qual que é a principal característica aqui, pessoal? Eh, nesse modelo, tá, nessa forma de trabalho, o
+13:5213 minutos e 52 segundosimportante é a existência de fluxos de trabalhos padronizados. Lembra lá da linha de montagem?
+14:0014 minutosIsso significa que cada tipo de demanda ela segue um caminho previamente definido, tá? Quero criar um relatório,
+14:0914 minutos e 9 segundosquero criar uma busca, eu quero gerar um dashboard, eu quero sim, ele tem um
+14:1614 minutos e 16 segundosfluxo previamente definido porque ele é orientado a processos, tá? Ele vai ter as entradas, ele vai ter quais são as
+14:2314 minutos e 23 segundosatividades daquele fluxo, quais são os critérios de validação e quais são os resultados que se espera em cada etapa
+14:3014 minutos e 30 segundosbem definida, tá? E o objetivo, pessoal, dessa metodologia de se trabalhar, ele é
+14:3814 minutos e 38 segundosaumentar a previsibilidade. Eu sei exatamente o que que vai sair daquilo.
+14:4214 minutos e 42 segundosEu quero rastrear, saber exatamente onde errou, parou e o porquê. E eu quero ter qualidade das minhas entregas, tá?
+14:5214 minutos e 52 segundosEsse tipo de organização, né? As forças armadas trabalham muito com isso, tá, pessoal? Depois o
+14:5914 minutos e 59 segundosprofessor Emmas dá um, tem áreas que dependendo da inovação, elas utilizam outros paradigmas. Mas assim, de uma forma geral, vamos colocar assim, né?
+15:0715 minutos e 7 segundosEsse tipo de organização funciona bem quando existe ali eh alto volume de demandas repetidas, né? Aliás, vamos
+15:1515 minutos e 15 segundosrecolocar dentro de ambientes que possuem alto volume de tarefas repetidas, cara, você coloca a linha
+15:2215 minutos e 22 segundoslinha de produção, né? Se a organização, ela recebe frequentemente solicitações semelhantes, tá? Então, toda hora o cara fala assim: "Preciso criar uma API".
+15:3215 minutos e 32 segundosCara, você já tá faixa preta nisso cara, já sabe quais são requisitos, entrada, isso, aquilo, piriri, parará, gerenciamento por processo, tá? Ou seja,
+15:4015 minutos e 40 segundosa toda hora o cara tá pedindo que sejam ajustad telas, uma demanda bem repetitiva ou eh tem muitas correções de incidente. Legal.
+15:5115 minutos e 51 segundosBaseado nisso, faz sentido estabelecer um processo padrão para cada tipo de demanda que é solicitada, tá? Também,
+16:0016 minutospessoal, é adequado nesse cenário utilizar acordos de nível de serviço, SLA, né? Lembra da previsibilidade, tá?
+16:1216 minutos e 12 segundosAuditorias, exigências de conformidade, tá? Nesses casos, pessoal, não basta entregar, é
+16:2016 minutos e 20 segundosnecessário que você demonstre como a entrega foi realizada. E esse modelo, ele é muito apto para esse tipo de cenário. Quais são as etapas que foram
+16:2716 minutos e 27 segundoscumpridas? Ele tem uma linha de montagem, quais evidências foram produzidas dentro de cada etapa. Beleza?
+16:3416 minutos e 34 segundosObserve, pessoal, o os exemplos ali que são apresentados no próprio slide, tá?
+16:3916 minutos e 39 segundosEntão eu tenho ali uma nova PI lá embaixo, tá? Então lá na parte de baixo do slide, tá? Lá abaixo. Exemplos, tá? tem três ali. Eu tenho uma nova PI.
+16:4816 minutos e 48 segundosEh, podemos definir que a demanda ela entra eh com um contrato inicial
+16:5516 minutos e 55 segundose só é considerada concluída quando os testes de contrato eles forem aprovados e a documentação estiver
+17:0217 minutos e 2 segundostotalmente publicada. Beleza? Ou seja, existe uma condição clara de entrada, existe uma condição clara de saída, tá?
+17:1317 minutos e 13 segundosVamos lá.
+17:1417 minutos e 14 segundosNova demanda, uma tela, evolução da tela, cara, quer dar melhoria, melhorar o o layout e a carinha ali. O processo
+17:2117 minutos e 21 segundoscomeça o quê? Com protótipos, com critérios de aceite definido, né? uma tela boa é uma tela que tá o critério de
+17:2817 minutos e 28 segundosaceite. A entrega ela só é encerrada depois da execução dos testes da publicação dos dos release notes. Isso
+17:3817 minutos e 38 segundosevita, pessoal, que cada equipe ela trate uma alteração de forma completamente diferente. Aí eu tenho ali uma correção P1, tá? De um defeito, né?
+17:4917 minutos e 49 segundosProblema ali, eh, um um problema crítico, vamos colocar, né? P1.
+17:5617 minutos e 56 segundosEntão eu tenho ali a necessidade de fazer uma correção e um problema crítico. Então assim, tem muitas demandas de necessidade de problema crítico, né? Eu trabalho com sistema que
+18:0518 minutos e 5 segundosé assim legado antigo, tal, estruturei lá um processo muito bem definido, então consigo ah atender o
+18:1218 minutos e 12 segundoscara de uma forma relativamente rápida e com boa previsibilidade.
+18:1618 minutos e 16 segundosEh, o fluxo ele tende a ser rigoroso porque trata-se aqui de um problema crítico, tá? É necessário você registrar a evidência do
+18:2418 minutos e 24 segundosdefeito. Legal, implementar e validar um hotfix, correção. Testar também o procedimento de rollback e se der
+18:3318 minutos e 33 segundosproblema, volta ao que era antes. E tudo isso, pessoal. Caramba, cara. Agora não, o motoqueiro tá,
+18:4118 minutos e 41 segundosespero que você não estejam ouvindo, cara. Motoqueiro tá endiabrado, tá?
+18:4618 minutos e 46 segundosIsso, pessoal, é importante porque uma correção emergencial ela pode introduzir, eu acho que é um show, alguma coisa, cara, tá? Tá tendo até
+18:5318 minutos e 53 segundosaseditaria e não é em comum aqui em Brasília, tá? Eh, uma correção emergencial, ela pode
+19:0019 minutosintroduzir novos problemas caso não exista ali um controle adequado. Beleza, pessoal? Tranquilo, tranquilo, tranquilo. Vamos lá. Próximo.
+19:1119 minutos e 11 segundosFábrica de software orientada a processos, tá?
+19:1619 minutos e 16 segundosVamos para um exemplo prático aqui, tá pessoal, de como funciona aí uma fábrica de software orientada a processo.
+19:2219 minutos e 22 segundosObserve lá na imagem, tá? Lá no fluxo. O fluxo ele começa com gestão, tá? Eh, aí eu tenho ali um backlog de serviços, tá?
+19:3119 minutos e 31 segundosNa minha parte de gestão. E esse backlog, pessoal, essa lista aí, ela reúne as demandas que precisam ser tratadas, beleza?
+19:4019 minutos e 40 segundosprecisam ser priorizadas e precisa ser encaminhadas para execução.
+19:4419 minutos e 44 segundosA partir daí, entramos na etapa de engenharia com o planejamento da interação e com o planejamento da implementação. Beleza?
+19:5719 minutos e 57 segundosDepois aparece ali os gates, tá?
+20:0120 minutos e 1 segundoAh, e os pontos de controle, tá? Eles funcionam, pessoal, como se fosse critérios obrigatórios.
+20:1020 minutos e 10 segundosantes que a demanda avance para a próxima etapa. Então, só passa para a etapa dois se você cumprir essa etapa um, os pontos de controle.
+20:2020 minutos e 20 segundosNão basta terminar a toda a parte de programação. É necessário você verificar se determinados requisitos de qualidade e os requisitos de segurança, por
+20:2820 minutos e 28 segundosexemplo, eles foram atendidos, tá? E é essa observação.
+20:3320 minutos e 33 segundosLá na etapa de qualidade entram os testes unitários, os testes de integração e às vezes testes de sistemas, tá?
+20:4420 minutos e 44 segundosDepois temos ali o processo de homologação e finalmente ali a publicação deploy, né? Ou seja, a a entrega, né? Ela percorre um fluxo
+20:5220 minutos e 52 segundosconhecido e controlado até chegar a produção.
+20:5720 minutos e 57 segundosEsse tipo de modelo, pessoal, processo, tá? Esse tipo de modelo, ele facilita muito a medição do processo. Vocês concordam comigo ou não?
+21:0721 minutos e 7 segundosPodemos acompanhar, por exemplo, ali um lead time, né, que é, por exemplo, ali o tempo total desde a entrada, né, da
+21:1421 minutos e 14 segundosdemanda, né, até, por exemplo, a sua entrega, o deploy. Podemos eh medir ali um truput, né? Tinha, não, não vou, não vou contar essa história não. Vamos lá.
+21:2521 minutos e 25 segundostem um truput que indica ali quantas demandas são concluídas em determinado período. Legal, vazão.
+21:3321 minutos e 33 segundosTemos ali o percentual de comprimento do SLA do acordo de nível serviço, né, que é ali a quantidade
+21:4021 minutos e 40 segundosde defeitos que tem, né, o indicador de SLA, eh, a taxa de de reabertura de
+21:4721 minutos e 47 segundoschamados, outro SLA e por aí vai. E essas métricas, pessoal, ajudam a identificar os gargalos, tá? Se o
+21:5421 minutos e 54 segundosdesenvolvimento ele termina rapidamente, mas as demandas elas ficam muito tempo aguardando uma homologação, cara, o
+22:0322 minutos e 3 segundosproblema provavelmente não tá na codificação, né? Mas naquele ponto específico ali do fluxo, testes por aí vai. E um cuidado importante, pessoal, é
+22:1222 minutos e 12 segundosevitar o chamado eh teatro de processo, né? O que que é teatro de processo? Isso acontece quando criamos etapas,
+22:2122 minutos e 21 segundosdocumentos ou aprovações apenas porque o processo manda, sem que essa atividade ela reduza risco,
+22:3122 minutos e 31 segundosaumente qualidade ou traga valor. Aí vira um teatro, né? E é por isso, pessoal, que processos também precisam
+22:3922 minutos e 39 segundosser revisitados, né? Olha o processo ali para ver o que que pode melhorar, tá?
+22:4922 minutos e 49 segundosSe um gate, né, ele não evita uma falha, se um gate ele não melhora a qualidade
+22:5722 minutos e 57 segundose apenas ele aumenta o tempo na entrega, cara, esse cara ele tem que ser questionado e removido, né? Então ele
+23:0723 minutos e 7 segundosnão tá agregando muito valor. Beleza, pessoal? Vamos lá, vamos avançar, tá?
+23:1423 minutos e 14 segundosFábrica de software orientada a produtos. É uma organização que não desenvolve cada solução de forma totalmente independente, tá?
+23:2423 minutos e 24 segundosAqui a fábrica busca criar como se fosse uma base comum
+23:3123 minutos e 31 segundoscom eu tenho arquitetura de referência, eu tenho um conjunto de componentes reutilizáveis,
+23:3923 minutos e 39 segundoseu tenho padrões, eu tenho contratos muito bem definidos, tá? Rômulo, isso reduz o quê? Retrabalho, né?
+23:5123 minutos e 51 segundosevita o o o melhora ali a consistência entre diferentes produtos, tá, pessoal?
+24:0024 minutosObserve no exemplo ali que temos uma arquitetura de referência, tá? E nessa arquitetura de referência eu tenho ali
+24:0724 minutos e 7 segundosvários, tá? componentes que são compartilhados, como, por exemplo, a eh a o
+24:1524 minutos e 15 segundosautenticação, né, o outálogo, pagamento e notificação, tá? Esses
+24:2424 minutos e 24 segundoscomponentes eles podem ser reutilizáveis por diversos produtos, tá? Dessa forma, em vez de cada equipe implementar
+24:3224 minutos e 32 segundosnovamente o módulo de autentificação, tá? eh, ela vai utilizar um serviço que já foi validado, um produto já validado,
+24:4024 minutos e 40 segundosjá versionado, já mantido com o produto interno aceito pela organização, tá?
+24:4624 minutos e 46 segundosEntão, perceba uma diferença aí paradigmática aí, tá?
+24:5024 minutos e 50 segundosHm. Eu posso combinar as coisas sim, então eles não são excludentes, tá?
+24:5524 minutos e 55 segundosOutro conceito importante, pessoal, é o kit de produto, tá? Cara, isso aí é uma mão na roda, tá galera? Eu eu eu trabalho, tá, cara? Hoje tem algumas
+25:0425 minutos e 4 segundospadronizações que a gente faz de produto que assim, cara, já tem kits, cara. O cara já vai lá e pega lá um ele já
+25:1125 minutos e 11 segundosassim, ó, um um sistema, ele já nasce com uma série de coisas, um conjunto de componentes que é utilizados, tá? Vamos lá. Esse kit de produto, ele reúne o
+25:2025 minutos e 20 segundosquê? Visão, diretriz de arquitetura, catálogo de componentes, templates, módulos e por aí vai. E esse kit ajuda,
+25:2725 minutos e 27 segundospessoal, a equipe a trabalhar com maior autonomia, mas sem perder ali a padronização, tá? Temos também ali um aspecto de governança leve. Falei isso
+25:3625 minutos e 36 segundosaí na primeira aula, né? Acho que foi meio impação, a gente vai trabalhar bastante aí, né? Eh, isso significa, pessoal, que o objetivo não é criar, digamos assim, excessos de aprovação.
+25:4625 minutos e 46 segundosPor isso que a governança é leve, né?
+25:4925 minutos e 49 segundosMas assim, estabelecer eh regras mínimas, vamos colocar assim, mínimas para a evolução tecnológica, para a depreciação de uma versão e para a migração, governância leve.
+26:0026 minutosSe um componente de autenticação na versão um ele estivesse sendo substituído pela versão 2.0, por
+26:0826 minutos e 8 segundosexemplo, a organização ela precisa definir quando a versão antiga será descontinuada e como que os produtos deverão realizar essa migração. Beleza?
+26:2026 minutos e 20 segundosAí tem ali os KPIs, né, os indicadores chaves, né, de de produto, né?
+26:2926 minutos e 29 segundosE eles também mudam, tá? Os indicadores.
+26:3226 minutos e 32 segundosPodemos acompanhar indicadores, pessoal, como, por exemplo, a adoção de componentes, a quantidade de defeitos, já falei, né?
+26:3926 minutos e 39 segundosÃ, o o cycle time, tá? Ã,
+26:4626 minutos e 46 segundoso le time, né? E o objetivo, pessoal, é medir não apenas a produtividade, tá?
+26:5326 minutos e 53 segundosmas também você medir a capacidade de evolução, tá? A reutilização do desse
+27:0027 minutosecossistema de software, tá? Outro ponto importante, pessoal, está ali na nos contratos de API e de eventos, né?
+27:1127 minutos e 11 segundosQuando esses contratos são claros, versionados e testáveis, as equipes conseguem integrar integrar produtos com menor risco, tá?
+27:2127 minutos e 21 segundosÉ como se fosse um Lego, tá? Testes de contrato, documentação automática e os change logs, eles ajudam a controlar essas dependências. Beleza?
+27:3227 minutos e 32 segundosVamos lá, vamos avançar, né? Fábrica de software orientada a projetos, tá?
+27:3927 minutos e 39 segundosNa fábrica de software orientada a projetos, galera, o trabalho é organizado em torno de uma entrega específica, que é um projeto. Legal. E
+27:4827 minutos e 48 segundoscomo que é um projeto, ela vai ter o quê? um escopo, ela vai ter um prazo, ela vai ter um orçamento, ela vai ter
+27:5527 minutos e 55 segundosmarcos e por aí vai. Esse modelo ele é muito adequado, pessoal, para iniciativas
+28:0228 minutos e 2 segundosque possuem começos, enfim, claros, como, por exemplo, vamos lá, vamos montar um projeto para migração de um gate projeto.
+28:1228 minutos e 12 segundosVamos montar um projeto para uma adequação regulatória que vai impactar nos sistemas. projeto.
+28:2128 minutos e 21 segundosVamos criar um projeto para a implantação de um novo sistema. Projeto tá nessendo
+28:2728 minutos e 27 segundosde um eh wat, né, para diferentes regiões,
+28:3428 minutos e 34 segundosprojeto, né? Observe, pessoal, no slide que apresenta ali eh uma estrutura
+28:4128 minutos e 41 segundosanalítica de projeto, uma EAP, né, que ela é mais enxuta ali, tá?
+28:4628 minutos e 46 segundosuma a a um EAP, mas na parte inferior do slide, eu tenho um EP, mas estuda que é
+28:5328 minutos e 53 segundosassociada ali apenas a marcos de controle, né? Isso significa, pessoal, que o projeto ele não necessariamente
+29:0129 minutos e 1 segundoprecisa ser excessivamente burocrático, tá? Mas ele precisa ter as entregas claras, tá? Ele precisa ter critérios de
+29:0929 minutos e 9 segundosaceite e ele precisa ter pontos de eh verificação que são objetivos, tá? Outro aspecto importante, pessoal, é a
+29:1729 minutos e 17 segundosintegração com uma esteira comum. Aí aqui entra o conceito de CA e CD, né?
+29:2329 minutos e 23 segundosIntegra contínua e entrega contínua. Integração entrega contínua, tá? Ah, mesmo sendo um projeto temporário, tá?
+29:3629 minutos e 36 segundosEle pode utilizar uma infraestrutura padronizada que tem ali o build, testes, homologação, deploy por aí vai. Isso aumenta, pessoal, a consistência e
+29:4529 minutos e 45 segundostambém reduz os riscos operacionais. O cronograma apresentado, ele mostra ali uma lógica importante, tá? Em vez de esperar até o final para fazer uma
+29:5529 minutos e 55 segundosgrande entrega, perceba aí a metodologia, né, adotada, o projeto pode trabalhar com janelas de liberação e entregas incrementais, tá?
+30:0630 minutos e 6 segundosJanela de liberação, entregas incrementais. Essa abordagem, pessoal, ela reduz o o risco do famoso big bang,
+30:1430 minutos e 14 segundostá? Em que tudo é implantado de uma única vez, né? Durante o fluxo existe ali gates, né? Portais de validação,
+30:2330 minutos e 23 segundospontos [roncando] de checagem ali, eh, passando por etapas como eu tenho ali um gate no build, eu tenho um gate no
+30:3130 minutos e 31 segundosteste, eu tenho um gate, não tem qualidade, né? Na homologação, não tem segurança também, né? A a minha esteira é mais completa que essa aí, tá? Não tem
+30:3830 minutos e 38 segundosum gate de aprovação, não tem um gate de release, tá? Antes de entrar em produção, a gente verifica, né, se todas as condições críticas, como por exemplo,
+30:4730 minutos e 47 segundoscontratos, como métricas, com procedimento de Robeg, tudo está bem testado para que possa passar pra
+30:5530 minutos e 55 segundospróxima fase. E esse é um ponto muito importante, tá pessoal? Em um projeto de software, não basta saber colocar uma nova versão em produção.
+31:0331 minutos e 3 segundosPrecisamos saber também eh como voltar para uma versão anterior caso algo dê errado, né? E é raro, mas acontece bastante, né? Né? Os indicadores chaves de de processo ali, eh, do projeto, tá?
+31:1631 minutos e 16 segundosEles refletem essa lógica, tá? Podemos acompanhar cumprimento de marcos, né? o desvio de um prazo, um indicador, o
+31:2531 minutos e 25 segundosdesvio de um custo, outro indicador, a quantidade de defeitos por cada etapa, outro indicador e por aí vai. E aí ele vai te indicando ali para que você volte ali a ao seu rumo. Beleza?
+31:3831 minutos e 38 segundosVamos lá. Temos ainda, pessoal, uma fábrica de software que é orientada a programas, tá? Então, vamos prestar atenção para distinguir a diferença de
+31:4731 minutos e 47 segundoseh orientação a projetos com orientação a programas, tá? O foco não está, pessoal, em uma única entrega, né? Se
+31:5431 minutos e 54 segundosfosse uma única entrega, falar no projeto, tá? Mas pessoal, o foco muitas vezes está na coordenação de várias
+32:0232 minutos e 2 segundosiniciativas interdependentes, interdependentes, né, que precisam caminhar de forma alinhada.
+32:0932 minutos e 9 segundosUm programa ele reúne, pessoal, vários projetos. Ele pode reunir vários produtos, ele pode reunir várias frentes de trabalho, também é um programa, tá?
+32:2132 minutos e 21 segundosque são relacionados ao mesmo nível ou ao mesmo objetivo, vamos colocar assim, estratégico.
+32:2832 minutos e 28 segundosPodemos pensar, pessoal, por exemplo, em um programa de transformação digital.
+32:3232 minutos e 32 segundosEntão, quero fazer um programa de transformação digital, no qual, pessoal, coexistam aí iniciativas de identidade digital, é um projeto, integração de
+32:4132 minutos e 41 segundossistema, é outro projeto, aplicativos móveis é outro projeto, interoperabilidade de dados é outro
+32:4932 minutos e 49 segundosprojeto, modernização da infraestrutura é outro projeto, tá? O ponto central, pessoal, desse modelo aí, programa é o gerenciamento das dependências entre
+32:5832 minutos e 58 segundoscada um desses projetos. Observe no quadro ali que temos iniciativa A, B e C. Legal.
+33:0633 minutos e 6 segundosA, B e C. A1, B1, B2, tá?
+33:1033 minutos e 10 segundosElas possuem entregas próprias, tá? Mas algumas dessas entregas, elas dependem de resultados que são produzidos por
+33:1833 minutos e 18 segundosoutra frente, né? Perceba a ligação. Se a iniciativa A atrasar uma entrega necessária para a atividade B, o impacto
+33:2833 minutos e 28 segundosdeixa de ser local e passa a afetar o programa como um todo. E é por isso, pessoal, que a governança utiliza aí
+33:3533 minutos e 35 segundosutiliza, nesse caso, rituais de sincronização que podem ocorrer de forma quinzenal,
+33:4233 minutos e 42 segundossemanal, tá? Ah, essas reuniões, vamos colocar assim, não deveria servir apenas
+33:4933 minutos e 49 segundospara eh que se identificasse o status, né? O objetivo principal é é discutir o
+33:5633 minutos e 56 segundosbloqueio, né? Ah, tratar aquela dependência, né? Tomar decisões e prioridades para contornar o problema.
+34:0434 minutos e 4 segundosOutro elemento importante, pessoal, é o mapa de dependências, tá?
+34:0934 minutos e 9 segundosE o o mapa de riscos, né? A organização, ela precisa identificar quais são as relações entre as iniciativas que podem
+34:1734 minutos e 17 segundosvir a comprometer o resultado global e os planos de contingência, que são
+34:2434 minutos e 24 segundossituações, né, para reduzir esse impacto, tá?
+34:3034 minutos e 30 segundosPriorização também pode mudar, tá? Em vez de olhar apenas para o prazo de cada projeto, a gestão, nesse caso, ela
+34:3934 minutos e 39 segundoscomeça a considerar o valor estratégico, né? Ah, às vezes uma iniciativa aparentemente menor, ela precisa receber
+34:4634 minutos e 46 segundosuma prioridade eh maior, porque ela vai desbloquear várias outras entregas que estão dependente delas, tá? Aí, mais uma
+34:5334 minutos e 53 segundosvez, ali temos indicadores chaves, né, de programa, né, eh, são muito mais amplos quando considerados aí aos
+35:0035 minutosindicadores de processos de projetos, perdão. Eh, podemos acompanhar o truputo de portfólio, né, grupo de projetos, a quantidade de dependências resolvidas
+35:0935 minutos e 9 segundospor ciclo, o cumprimento aí de, sei lá, grandes entregas agora e, principalmente, pessoal, o alinhamento
+35:1635 minutos e 16 segundosdas iniciativas a aos projetos estratégicos. Isso é importantíssimo, né? alinhamento das iniciativas ao algo maior, um projeto estratégico, né, que dá a razão de ser de um programa.
+35:2935 minutos e 29 segundosObservem, pessoal, eh, também as linhas verticais de release, né, no ali no quadro, tá? Eh,
+35:3835 minutos e 38 segundosessas linhas, elas mostram a necessidade de sincronizar diferentes frentes para que determinado tipo de entrega ocorra
+35:4535 minutos e 45 segundosde maneira coordenada, tá? Não adianta uma equipe estar pronta, tá? Se outra dependência importante, ela ainda não
+35:5435 minutos e 54 segundosfoi concluída. Beleza? Vamos lá. Para que a gente entenda tudo isso melhor.
+35:5935 minutos e 59 segundosDeixa eu olhar pro meu tempo. Não, ainda sem começarmos. Vamos lá. Vamos, vamos trazer o primeiro case aí, tá, pessoal?
+36:0536 minutos e 5 segundosDiscutir um pouquinho cada uma dessas dessas iniciativas, beleza?
+36:1036 minutos e 10 segundosNesse estudo de caso, olha o tamanho da criança, tá, pessoal? Dá dá uma moral pro professor, não fica só em sala de aula, não. Depois em casa, né? Sei lá,
+36:1936 minutos e 19 segundosvai ter um feriado aí. pega um dia, cara, dá uma olhada nesse case com carinho, né? E passa etapa por etapa ali, entendeu? Você vai desenvolver
+36:2636 minutos e 26 segundosmuito, né, a sua, o domínio em cima da da disciplina, tá? Nesse estudo de caso,
+36:3436 minutos e 34 segundosnós conseguimos visualizar de uma forma integrada os quatro modelos organizacionais que a gente discutiu. Modelo de processos,
+36:4236 minutos e 42 segundosmodelo de produtos, modelo de projetos e modelo de programas, tá? O ponto principal é perceber que uma mesma
+36:5036 minutos e 50 segundosorganização ela pode utilizar todos esses programas ao mesmo tempo, tá?
+36:5436 minutos e 54 segundosEnfim, deu deu uma exagerada, mas mas é possível, é, táé? É claro, desde que pessoal cada um desses modelos ele seja
+37:0337 minutos e 3 segundosaplicado ao tipo de trabalho adequado, tá? Então, vamos lá. Lá no bloco de processos, né, o primeirinho ali, número
+37:1037 minutos e 10 segundosum, tá? Temos serviços digitais recorrentes. Olha a demanda. serviços digitais recorrentes. Nesse caso, faz
+37:2037 minutos e 20 segundossentido utilizar o quê? Eu vou ter um catálogo de serviços. Legal. Cada tipo de serviço vai ter um fluxo padronizado,
+37:2937 minutos e 29 segundosvai ter um teste que é adequado àquele tipo de serviço, vai ter um processo de homologação e um processo de publicação, tá? O objetivo é aumentar a
+37:3837 minutos e 38 segundosprevisibilidade, a rastreabilidade, o cumprimento de um acordo de nível de serviço.
+37:4637 minutos e 46 segundosIsso funciona bem, pessoal, para demandas que são frequentes, para demandas que são repetitivas, tá? Hômul
+37:5337 minutos e 53 segundosé algo novo, não dá para fazer por por processo, aí você vai fazer por projeto,
+38:0038 minutostá? Entendam, tá? Romo. E lá no bloco de produtos o foco muda, tá? Agora o que eu
+38:0838 minutos e 8 segundostô buscando, pessoal, é uma, olha só, é uma evolução contínua. O cara começou,
+38:1538 minutos e 15 segundoscomeçou criança, engateando, andando, evoluiu e evolução é diferente de um
+38:2238 minutos e 22 segundosprocesso, tá? Temos aqui, pessoal, uma arquitetura de referência e temos o quê?
+38:2938 minutos e 29 segundosum conjunto de componentes que pode vir a ser reutilizáveis, como componente de autenticação,
+38:3638 minutos e 36 segundosum catálogo, eh o componente que faz pagamento, um componente que envia notificações, por exemplo, tá? A ideia é evitar que cada
+38:4538 minutos e 45 segundosequipe ele reconstrua as mesmas funcionalidades. Isso reduz trabalho, isso melhora a qualidade, isso encurta
+38:5238 minutos e 52 segundosuma mé uma métrica chamada de leitad time das entregas. Legal.
+38:5938 minutos e 59 segundosJá no bloco dos projetos aparecem iniciativas com prazo, com escopo e com marcos bem definidos.
+39:1039 minutos e 10 segundosUm exemplo seria uma adequação regulatória. Sai uma lei nova, vai ter que mudar o sistema, que é um projeto, né, cara? Aqui o importante é o quê?
+39:1939 minutos e 19 segundosVocê controlar o cronograma, tá? As integras podem ser incrementais, a homologação, né? o go live, né? O momento que ele vai entrar em produção.
+39:3339 minutos e 33 segundosO uso de uma mesma esteira CA e CD, ela ajuda a reduzir o risco de implantação,
+39:3939 minutos e 39 segundosné? Evita a estratégias de, lembra lá do Big Bang, colocar tudo ao mesmo tempo.
+39:4739 minutos e 47 segundosLá no bloco de programas temos o quê? Várias iniciativas, né?
+39:5139 minutos e 51 segundosinterdependentes. Olha a palavra várias interdependentes que se relacionam, conversam, se comunicam, né, que
+39:5839 minutos e 58 segundosprecisam convergir para o mesmo objetivo estratégico, tá? Por isso que é um programa. Nesse caso, a gestão precisa
+40:0640 minutos e 6 segundosenxergar as dependências entre essas várias frentes maiores, né? Sincronizar eh releases e priorizar decisões com
+40:1340 minutos e 13 segundosbase em valor e com base em risco, tá? O elemento pessoal que une todos esses modelos, né? Quer dizer, qual que é a
+40:2140 minutos e 21 segundosliga, tá? Eu vou pedir pro professor me dar uma shiftada ali, né? Que eu fiquei em cima do, né? Me coloca no canto ali, professor. Só ih, obrigado. O elemento
+40:3140 minutos e 31 segundoslá, lá na parte quase embaixo ali, ó, o elemento que como o que que une aí processo, produto, projeto, programa. Tá vendo aí embaixo? Uma esteira comum que
+40:3940 minutos e 39 segundosé a esteira C e CD, tá? Observe que código, análise estática, build, teste unitário, teste de contrato, teste de
+40:4840 minutos e 48 segundosartefato, deploy, pode ter mais coisas ou menos, tá? Eh, verificação pós e deploy, né? Todos eles seguem ali uma
+40:5540 minutos e 55 segundosbase compartilhada. Isso é muito importante, tá, pessoal? Porque cria, digamos assim, um padrão técnico comum,
+41:0341 minutos e 3 segundosmesmo quando você tem modelos organizacionais diferentes, tem o mesmo padrão técnico, beleza? Né? Tô usando
+41:1141 minutos e 11 segundosprocessos, tá ali a esteira. Tô usando programas lá na ponta, esteira como elemento comum. Belezinha, pessoal? O
+41:2041 minutos e 20 segundosproblema muitas vezes, pessoal, não está relacionado ao modelo, tá? Mas assim, às vezes no desequilíbrio. Como assim? Tá,
+41:2841 minutos e 28 segundosvamos lá. Excesso de processo pode gerar burocracia. Desequilíbrio não é o modelo o problema. Eh, eu tenho um produto, mas não tenho governança. O que é que vai gerar? volatilidade.
+41:3941 minutos e 39 segundosEu tenho um projeto que é isolado, ele pode, sei lá, causar fragmentação de isolões.
+41:4641 minutos e 46 segundosEu tenho um programa, mas esse programa não tem foco no aí ele pode aumentar a complexidade. Legal. Às vezes o problema
+41:5441 minutos e 54 segundosnão tá no modelo, mas no desequilíbrio, né? No uso adequado. Vamos colocar assim. Beleza? Vamos lá. Vamos avançar aí, pessoal. Surge uma pergunta aí, tá?
+42:0642 minutos e 6 segundosEntão eu vou fazer a pergunta, beber uma água enquanto vocês pensam aí. Como escolher e como como escolher e como combinar esses modelos?
+42:2042 minutos e 20 segundosVai pensando aí como escolher, como escolher. Eu já dei algumas pintas, né?
+42:2442 minutos e 24 segundosE como combinar, tá? Primeiro ponto, pessoal, é que a escolha ela não deve ser feita, sei lá,
+42:3142 minutos e 31 segundospor modinha, né? Por prefer. Eu gosto mais de processo, não, né? Ou simplesmente porque determinada
+42:3942 minutos e 39 segundosmetodologia está em evidência, tá? O critério principal deve ser o quê? O tipo de trabalho que precisa ser
+42:4642 minutos e 46 segundosrealizada para aquele caso, né? Quando temos atividades repetitivas, a eh atividades que são padronizáveis e auditáveis, que que eu vou escolher?
+42:5642 minutos e 56 segundosModelo entrada processo, né? Tende a ser aí o mais adequado, tá? ele vai favorecer eh critérios como previsibilidade, controle,
+43:0443 minutos e 4 segundosrastabilidade, comprimento de padrões e por aí vai. Quando a organização ela trabalha com soluções que precisam de
+43:1143 minutos e 11 segundosevolução contínua, tá? Com plataformas, aplicativos, serviços digitais, eh, aí
+43:2043 minutos e 20 segundoseu vou lançar a mão dos modelos orientados a produtos, né? Eles costumam funcionar melhor, tá? Nesse caso, pensamos aí em roadmap, né?
+43:3043 minutos e 30 segundosevolutivo, ciclo de vida, produto, reutilização de componente, produto, geração contínua de valor, produtos, tá?
+43:4143 minutos e 41 segundosJá o modelo oriental da projetos, tá? Ele é mais adequado quando, pessoal?
+43:4643 minutos e 46 segundosQuando existe um objetivo específico, tá? Eu tenho algo que tem um prazo, tem um escorpo, tem um custo, tem um marco, tá? Um exemplo seria o quê? A
+43:5443 minutos e 54 segundosimplantação de um novo sistema, n? Tem que ser feito até a data XPTO. legal, né? Ah, vou fazer uma adequação
+44:0244 minutos e 2 segundosregulatória, tá? E por fim, temos o modelo orientado a programas, né, que é indicado quando existe várias
+44:1044 minutos e 10 segundosiniciativas interdependentes que precisam ser coordenadas em torno de o mesmo objetivo estratégico, tá? Mais
+44:1944 minutos e 19 segundosimportante, pessoal, perceber que esses modelos não são o quê? não são excludentes. Ah, R, selecionei processos, não posso selecionar
+44:2744 minutos e 27 segundosprodutos. Não, não, não, não. Uma mesma organização, ela pode utilizar inclusive os quatro modo simultâneo. Vimos ali um
+44:3544 minutos e 35 segundoscase, né? Eh, podemos, por exemplo, ter um produto digital permanente, tá? Eu posso desenvolver uma grande evolução
+44:4244 minutos e 42 segundospor meio de um projeto. Eu posso operar demandas recorrentes utilizando processos na impeditivo. Ah, e eu posso
+44:4944 minutos e 49 segundoscoordenar várias dessas iniciativas dentro de um programa, né, de transformação digital, algo do gênero. Beleza?
+44:5844 minutos e 58 segundosVamos lá, vamos evoluir. Vamos lá.
+45:0845 minutos e 8 segundosA primeira situação, pessoal, aí tem a pergunta mais uma vez, tá? Como escolher combinar modelos? O Douglas são modelos de gerenciamento
+45:1645 minutos e 16 segundosque isso são modelos de gerenciamento que a empresa pode utilizar. Agora sim, estou linkando. Ah, beleza, tá? Se preocupa não, tá, né? Você, eu e
+45:2545 minutos e 25 segundosqualquer um que estuda isso, né? São assunto. É por isso que eu repito, coloco o exemplo, tá? Eh, é comum, tá, Douglas e os demais alunos que às vezes
+45:3245 minutos e 32 segundosvocê não entenda bem na primeira. Então, eh, não são assuntos assim, cara, essa matéria não é aquela matéria tão trivial, né? Por isso que tecnologias
+45:4045 minutos e 40 segundosemergentes, enfim, tá? Uma tecnologia, eu acredito que vocês já estejam no nível, né? Poxa, e eu eu se eu se eu não
+45:4745 minutos e 47 segundosperguntei, perdão, tá? Mas eu acredito que pelo menos vocês estejam, sei lá, no no terceiro ano aí, no terceiro pro
+45:5545 minutos e 55 segundosquarto ano. Depois confirma para mim aí, pessoal. Só dar um joinha aí, confirma para mim aí, tá?
+46:0646 minutos e 6 segundosAí eu vou mudando minha régua aqui, tá?
+46:0946 minutos e 9 segundosComo escolher e como combinar eh modelos, tá? A primeira situação, pessoal, quarto ano. Ah, pô, aí sim. Aí
+46:1746 minutos e 17 segundosjá tô falando com com com quase faixa preta, tá? Tá certíssimo, né? Matéria totalmente adequada ao nível de pancada
+46:2646 minutos e 26 segundosque vocês aguentam que vocês aguentam suportar, tá? fosse aluno no último ano.
+46:3346 minutos e 33 segundosBeleza, já tão aí, ão, já tão já tão fera. Tá, tá certíssimo, tá? Excepcional coordenador aí que colocou a matéria na
+46:4246 minutos e 42 segundosna posição certa, tá? Fosse aluno iniciante ia boiar para caramba nessa disciplina, tá? A primeira situação, pessoal, é quando existe aí alto volume.
+46:5146 minutos e 51 segundosAqui a gente já falou um pouco, né?
+46:5346 minutos e 53 segundosEntão essa parte aqui tá um pouco repetitiva, né? Então, né? Enfim, tá tá um pouquinho, ficou um slide, um pouquinho repetitivo. Legal. Então aqui vamos vamos andar, tá pessoal? Tá.
+47:0547 minutos e 5 segundosÃ ah, é aqui é legal aqui tem algumas coisas que a gente pode evoluir, tá,
+47:1447 minutos e 14 segundospessoal? Vamos lá. Me me ajuda a responder essa pergunta. O modelo organizacional ele é permanente?
+47:2247 minutos e 22 segundosEscolheu o modelo e e parou por aí ou ele não precisa ser permanente?
+47:3247 minutos e 32 segundosO modelo organizacional, pessoal, ele deve acompanhar a natureza do trabalho, tá? Ele deve acompanhar a natureza de um
+47:4147 minutos e 41 segundosproblema, né? E às vezes o trabalho muda, o problema muda, tá? Por exemplo, né? Se percebermos aí,
+47:4947 minutos e 49 segundostá? Isso mesmo, tá? Ele pode se ajustar, tá? Se percebemos aí eh le time estável,
+47:5647 minutos e 56 segundosfilas desorganizadas, baixa previsibilidade, tá? Isso indica o quê?
+48:0348 minutos e 3 segundosQue pode ser necessário fortalecer eh através de uma abordagem orientada a processos, né? Vamos colocar um processo
+48:0948 minutos e 9 segundosali para melhorar aquela fila, para melhorar um pouquinho a o o a previsibilidade, né? Utilizando aí
+48:1748 minutos e 17 segundospadrões mais claros, né? Como, por exemplo, limite de trabalho em andamento, né? os chamados wip limits, né? Eh, limites de trabalhos, né?
+48:2648 minutos e 26 segundosLimite de trabalho em andamento, né? Eh, o SLA, né? Que é acordo de nível serviço, tá? Se o problema for retrabalho, né? Se o problema for
+48:3548 minutos e 35 segundosduplicação de soluções, tá, pô, não tem para onde ir, tá? Eh, se for um problema que tenha equipes construindo as mesmas
+48:4348 minutos e 43 segundoscapacidades várias vezes, cara, você precisa apontar para uma visão mais
+48:5048 minutos e 50 segundosforte em produto, tá? Nesse caso, a organização, ela pode criar uma plataforma, tá? Um um repositório ali,
+49:0049 minutosné? Aonde eu vou ter serviços compartilhados e componentes que possam ser reutilizados para não ter ali, sei lá, duas pessoas construindo a mesma solução, tá?
+49:1149 minutos e 11 segundosQuando eu tenho um prazo crítico, quando eu tenho um marco obrigatório, quando eu tenho uma exigência ou um risco, a iniciativa precisa ser tratada com maior
+49:1949 minutos e 19 segundosdisciplina na parte de projeto, tá? Isso envolve cronograma, baseline, acompanhamento, gestão de riscos, [roncando] controle formal de mudanças e
+49:2849 minutos e 28 segundospor aí vai. Já quando os principais problemas eles vêm da dependas entre projetos, projeto que tem depende
+49:3649 minutos e 36 segundoscorrelaciona com outro, tá? Ah, sei lá, uma equipe bloqueia a outra, né? O nível de coordenação precisa subir para que o
+49:4349 minutos e 43 segundosnegócio flua. Nesse caso, faz sentido você estruturar através de um programa, tá, com roadm e integrado, né, com
+49:5149 minutos e 51 segundosgestão explícita ali das interdependências, tá? O ponto central, pessoal, é que esses sinais, tá, eles ajudam a diagnosticar.
+50:0050 minutosQuando a estrutura atual deixou de ser suficiente, tá? A organização, ela deve observar o problema, ela deve se adaptar.
+50:0850 minutos e 8 segundosTá? Gostei ali do Douglas, como falou evolutivo, se adaptar seu modelo, né? Em vez de insistir em uma única forma de
+50:1550 minutos e 15 segundostrabalhar. Beleza? E na prática, pessoal, a combinação é bastante comum, tá? Uma organização, ela pode operar com serviços recorrentes utilizando
+50:2350 minutos e 23 segundosprocessos, ao mesmo tempo em que ela quer evoluir algo utilizando a plataforma como produto, ao mesmo tempo em que ela quer executar uma migração
+50:3250 minutos e 32 segundosregulatória e pode lançar mão de um projeto, ao mesmo tempo em que ela pode coordenar toda uma transformação digital de vários projetos, né, por meio de um programa. Beleza? Tá?
+50:4450 minutos e 44 segundosVamos lá. Vamos trazer um case aqui, pessoal, pra gente trabalhar isso aí, essas combinações. Estou entendendo aos poucos. Beleza. Tá.
+50:5250 minutos e 52 segundosEssa é aí, tá? Eu [risadas] vou vai entender, tá? Eu vou forçar até você entender.
+50:5750 minutos e 57 segundosVamos lá. Estudo de caso aqui para entender mais ainda, tá? Nesse estudo de caso, meu amigo Márcio Bitencu,
+51:0551 minutos e 5 segundoseh vamos nós veremos aqui de forma bastante clara, né, como que os processos, os produtos, os projetos e os
+51:1451 minutos e 14 segundosprogramas ele pode coexistir, tá, dentro da mesma organização.
+51:2051 minutos e 20 segundosVamos lá. O cenário que estamos lidando aqui, pessoal, é uma instituição de ensino que ela precisa, ao mesmo tempo
+51:2751 minutos e 27 segundosmanter os seus serviços digitais recorrentes.
+51:3151 minutos e 31 segundosPrecisa manter serviços recorrentes, recorrentes, tá? Várias palavras. Ela precisa evoluir continuamente uma
+51:3951 minutos e 39 segundosplataforma acadêmica, evolução contínua.
+51:4551 minutos e 45 segundosEla [risadas] precisa cumprir prazo regulatório, né,
+51:5151 minutos e 51 segundospara o novo portal de matrícula e ela precisa coordenar várias inativas de transformação digital.
+51:5851 minutos e 58 segundosPercebemos, pessoal, que são problemas que são diferentes, né? E por isso não faz sentido para o problema diferente,
+52:0552 minutos e 5 segundosné? Você, né, tudo ser martelo e prédio, né? tratá-los todos com o mesmo modelo organizacional
+52:1352 minutos e 13 segundospara serviços recorrentes, né, como sei lá, os serviços de suporte, correções conhecidas e solicitações de rotina. Qual que é a melhor abordagem?
+52:2452 minutos e 24 segundosOrientação a processos. Aqui, pessoal, a gente tá buscando uma padronização, uma previsibilidade e um controle. práticas
+52:3252 minutos e 32 segundoscomo catálogo de serviços, como SLA, como limites de IP, como fluxo padronizado. Tudo isso ajuda reduzir
+52:4052 minutos e 40 segundosessa variabilidade, né? Estabilizar ali o le time, né? O tempo da demanda até o tempo da entrega. Legal.
+52:4952 minutos e 49 segundosTempo gasto, vamos colocar assim, né? Já a plataforma acadêmica, ela deve ser tratada, né? Lá na plataforma acadêmica, ele quer fazer uma evolução. Legal. Aí,
+52:5852 minutos e 58 segundosnesse caso aqui, ela deve ser tratada como um produto, né?
+53:0153 minutos e 1 segundoPorque ela não termina em uma única entrega. Então dou primeiro giro, subir de nível, né? Faixa branca para faixa
+53:0953 minutos e 9 segundosazul, dê mais um nível. De azul para roxa, mais um nível. De roxa para marrom mais um nível. Marrom para preta, tá?
+53:1653 minutos e 16 segundosEntão assim, produto, tá? Porque ela não termina em única entrega, ela precisa evoluir de forma contínua, tá? Nesse
+53:2453 minutos e 24 segundoscaso entram práticas como roadmap, como productship, como arquitetura de referência, como
+53:3253 minutos e 32 segundosversionamento, tá? O resultado esperado é o quê, pessoal? Uma maior reutilização, menos retrabalho e evolução mais consistente.
+53:4253 minutos e 42 segundosQuando aparece um portal de matrícula que tem um prazo, né, porque mudou a legislação e esse prazo tem que ser definido, você vai lançar a mão de quê?
+53:5153 minutos e 51 segundosTodo o contexto mudou. Tá? Aí temos aí uma data que precisa ser cumprida.
+53:5753 minutos e 57 segundosEu tenho um escopo relativamente definido e eu tenho critérios de aceite que são muito claros, tá? Faz todo sentido você tratar isso aí como uma
+54:0654 minutos e 6 segundosiniciativa de projeto, tá? Utilizando cronograma, utilizando marcos, utilizando linhas bases, gestão de risco, controle de mudança e por aí vai.
+54:1554 minutos e 15 segundosE para finalizar a brincadeira, pessoal, quando a instituição ela precisa coordenar várias frentes, como secretaria, financeiro, biblioteca, UTI,
+54:2554 minutos e 25 segundosné? Temos um cenário para a criação de um programa, tá? O desafio deixa de ser
+54:3154 minutos e 31 segundosapenas entregar uma solução, né, apenas à biblioteca e passa a ser sincronizar várias iniciativas, né, secretaria, com financeiro, com biblioteca também, com
+54:4054 minutos e 40 segundosTI, tá? em torno de um objetivo estratégico maior e comum, tá? Nesse caso são importantes o quê, pessoal?
+54:4754 minutos e 47 segundosRoadmap integrado dos projetos, legal?
+54:5154 minutos e 51 segundosGovernança leve, né? Gestão das dependências entre as equipes e outras coisas mais, tá? Ó lá, o Juliano,
+54:5954 minutos e 59 segundosprofessor, nos tá, nós como estamos quase sendo formados, seríamos um profissional que não apenas desenvolve o sistema.
+55:0755 minutos e 7 segundosExatamente. Sim.
+55:1055 minutos e 10 segundosEh, mas também explora, aplica, valida novas tendências tecnológicas para você decidir como é que as coisas, dependendo
+55:1855 minutos e 18 segundosdos cenários, né, que você vai atuar, né? O que que se espera de engenheiro de sistema, tá? Vamos lá, cara. Assim, e é
+55:2655 minutos e 26 segundosincrível, né, que que assim, muitas vezes, cara, o cara quer ser um excepcional codificador.
+55:3255 minutos e 32 segundosLegal, ótimo, nenhum problema, tá? Mas assim, eh, se espera mais, tá, de engenheiro do sistema. às vezes é o cara
+55:4055 minutos e 40 segundosque vai eh que vai definir como que é uma fábrica, tá, ela vai funcionar para atender
+55:4955 minutos e 49 segundosdeterminadas demandas de uma organização. Vai muito além, tá, pessoal? Muito além. Então, nesse cenário, você vai olhar e vai enxergar o
+55:5755 minutos e 57 segundosquê? Vários módulos, vários times, contratação, aquisição, suporte, tempo maior, projetos, cara.
+56:0756 minutos e 7 segundosEntão assim, é comum que você espere algo a mais e vocês tá beleza, né?
+56:1956 minutos e 19 segundosValorização também é bem maior, tá, pessoal? Vamos lá, vamos avançar aqui, né?
+56:2556 minutos e 25 segundosEh, vamos observar, pessoal, como o modelo organizacional, como o modelo organizacional escolhido,
+56:3456 minutos e 34 segundosele vai afetar diretamente a forma como as equipes trabalham. Beleza? Isso
+56:4156 minutos e 41 segundosenvolve o quê, pessoal? Distribuição de responsabilidades que mudam de acordo com o modelo. A autonomia muda de acordo
+56:4956 minutos e 49 segundoscom o modelo. Pontos de passagem equipo que mudam também. né, chamados ali, eh, handoffice, né, e até mesmo a carga
+56:5856 minutos e 58 segundoscognitiva dos profissionais, tá? Vamos lá. Enquanto uma estrutura orientada a processos,
+57:0557 minutos e 5 segundosela precisa de papéis mais ligado à padronização, a um controle de fluxo bem definido.
+57:1457 minutos e 14 segundosIsso inclui o quê, pessoal?
+57:1557 minutos e 15 segundosResponsabilidades por definição do catálogo dos serviços, é o que se espera. Definições ali dos dos portais.
+57:2457 minutos e 24 segundosné?
+57:2557 minutos e 25 segundosDefinição de etapas de acompanhamento de SLA, métricas, né, como Lime, como Tru, tá? O
+57:3657 minutos e 36 segundosrisco aqui é criar muitas passagens de responsabilidades e aumentar a burocracia, tá? O que você
+57:4457 minutos e 44 segundosquer é algo mais rápido, você quer que o seu fluxo seja mais fluido, tá? O fluxo ele precisa ser simples, pessoal, e
+57:5257 minutos e 52 segundosprecisa ser bem desenhado, tá? Lá no modelo orientado a produtos, ganha destaque a funções como o PO, né,
+58:0158 minutos e 1 segundoproductware, né, ou o product manager.
+58:0658 minutos e 6 segundosEh, eu vou ter uma arquitetura definida, aliás, uma arquitetura de referência, perdão. Eu vou ter equipes multidisciplinares, tô trabalhando com
+58:1458 minutos e 14 segundosprodutos e essas equipes elas vão ter mais autonomias, tá? A equipe, ela não pensa apenas, pessoal, em concluir uma tarefa, isso é coisa do processo, tá?
+58:2458 minutos e 24 segundosMas em assim evoluir, como que eu vou evoluir continuamente esse produto? Isso exige, pessoal, um conhecimento mais
+58:3158 minutos e 31 segundosamplo do negócio, do usuário e muitas vezes das tecnologias, tá? Enquanto um é meio que repetitivo, o outro é mais, sei
+58:3958 minutos e 39 segundoslá, mais inspiracional, vamos colocar assim. Legal. Vamos lá. Ô, Cláudio, eh, o, o projeto do sistema também seja mais importante do que do que codar.
+58:5058 minutos e 50 segundosÉ, o o código é parte do desenvolvimento de um sistema, tá? No sentido de que a fase de código precisa seguir, não
+58:5858 minutos e 58 segundosprecisa seguir projeto, eh, projeto e processos também, tá? Boas práticas, tá?
+59:0459 minutos e 4 segundosTambém, entendeu? Assim como outras outras outras etapas, tá? Né? uma análise mal, uma análise de requisitos
+59:1159 minutos e 11 segundosmal definida é tão ruim quanto uma codificação mal definida, enquanto que um teste mal definido, entendeu? O
+59:1959 minutos e 19 segundosimportante, pessoal, é entender que assim, eh, que um um sistema ele é constituído por diversas mãos, né?
+59:2959 minutos e 29 segundosembora, sei lá, eh, talvez o profissional mais visto seja o o o desenvolvedor, ele não é ele é parte do processo.
+59:3959 minutos e 39 segundosLegal. Ele é parte parte mesmo.
+59:4459 minutos e 44 segundosEh, eu a gente tinha parado em produtos, né, em estruturas que são orientadas a projetos, tá? A preocupação maior vai
+59:5359 minutos e 53 segundosser o quê? Vai ser no controle do escopo, do prazo, dos riscos, dos marcos.
+59:5759 minutos e 57 segundos[limpando a garganta]
+1:00:011 hora e 1 segundoEh, os papéis aqui em projeto, eles tendem a ser organizados em torno da entrega, tá? A coordenação, ela precisa
+1:00:111 hora e 11 segundosgarantir que as responsabilidades estejam claras e que os desvios sejam rapidamente identificados. Cara, e galera, eu gosto muito de trabalhar com
+1:00:191 hora e 19 segundosprojetos, tá? Porque projetos assim sempre dá um ar de cara, o projeto pela a característica de ser algo temporário,
+1:00:271 hora e 27 segundosé meio que a cada momento você tá sendo desafiado em tá entregando algo novo. Tem tem algo de de muita inovação, né?
+1:00:341 hora e 34 segundosQuando se trabalha com projeto, tá?
+1:00:371 hora e 37 segundosEh, diferente de produtos que você tá ali o mesmo produto sendo evoluído.
+1:00:411 hora e 41 segundosEnfim, eh eh gostos, né? Gostos. Ah, já em programas, pessoal, o desafio ele
+1:00:481 hora e 48 segundoscresce. Porque precisamos coordenar várias equipes ou várias iniciativas independentes, tá?
+1:00:551 hora e 55 segundosNesse caso, torna-se importante alguém, né, que tem aquela visão mais ampla das dependências, tá, das prioridades, dos objetivos maiores estratégicos, tá?
+1:01:051 hora, 1 minuto e 5 segundosevitando que cada equipe ela vá otimizar apenas o seu próprio trabalho. Então, pô, fiz o meu perfeito, mas o perfeito não tá no meu, tá no conjunto dos
+1:01:121 hora, 1 minuto e 12 segundosvários, né, para que se consiga algo, né, maior. Outro ponto importante é o conceito de eh handoff, tá? Toda vez que
+1:01:211 hora, 1 minuto e 21 segundosuma atividade ela passa de um equilíbrio para outra, né, passagem de bastão, existe ali potencial
+1:01:281 hora, 1 minuto e 28 segundoseh para espera, para perda de contexto e para algum tipo de retrabalho.
+1:01:341 hora, 1 minuto e 34 segundosQuanto maior o número de handoffs, maior tende a ser o risco de lentidão do fluxo, tá? A passagem de bastão não tá sendo muito fluida.
+1:01:451 hora, 1 minuto e 45 segundosE é por isso que assim, equipes multidisciplinares, equipes que possuam maior automação, elas ajudam a reduzir, digamos assim, essa essa esse gargalo nessa transição.
+1:01:561 hora, 1 minuto e 56 segundosTambém precisamos considerar, pessoal, a carga cognitiva.
+1:02:001 hora e 2 minutosCaramba, o tempo como passa rápido. Se um profissional precisa dominar muitas ferramentas, muitos processos e muitos sistemas de responsabilidades, ao mesmo
+1:02:081 hora, 2 minutos e 8 segundostempo, cara, não [limpando a garganta] tem conta. A produtividade, ela tende a cair, né? o faz tudo e o resto, tá? Uma boa estrutura organizacional, pessoal,
+1:02:171 hora, 2 minutos e 17 segundosela vai distribuir. É o que eu brinco com o pessoal, tá? Se todo mundo pegar um pouquinho, ninguém ninguém sofre, né?
+1:02:221 hora, 2 minutos e 22 segundosVai distribuir responsabilidade de forma equilibrada, né? Vai fornecer plataformas e padrões que simplificam o trabalho. Legal, né? Isso aí mantém
+1:02:291 hora, 2 minutos e 29 segundosinclusive até a saúde mental dos integrantes. Não adianta, pessoal, se você começar e e é comum, tá, pessoal?
+1:02:361 hora, 2 minutos e 36 segundosVocê tá gerenciando o projeto aí, você sabe ali, deixa eu pegar ali o Cláudio.
+1:02:391 hora, 2 minutos e 39 segundosVocê sabe que o Cláudio, pô, mandou para ele a bola, ele mata no peito e faz o gol. Então assim, toda vez tem um problema você, Cláudio, Cláudio,
+1:02:481 hora, 2 minutos e 48 segundosCláudio, que que vai acontecer? Vai chegar um um momento que que não vai demorar muito, você vai perder o Cláudio. Então assim, né, se cada um pegar um pouquinho, ninguém sofre, tá?
+1:02:571 hora, 2 minutos e 57 segundosEh, interdependência do modelo adotado.
+1:03:011 hora, 3 minutos e 1 segundoO ideal, pessoal, é buscar uma governança que seja leve, né, que seja baseado em evidências, tá? Em vez de você ter relatórios manuais extensos,
+1:03:091 hora, 3 minutos e 9 segundosné, podemos utilizar, sei lá, dashboards, métricas que são automatizadas.
+1:03:141 hora, 3 minutos e 14 segundosÃ, vez você chega numa empresa tem tá o cara lá, cara, montou um um relatório gigantesco que nem ele vê o que que ele
+1:03:211 hora, 3 minutos e 21 segundosfez, cara. Às vezes, cara, um dashboard ali causa mais impacto, né? Gera mais valor, tá? Beleza?
+1:03:311 hora, 3 minutos e 31 segundosVamos lá, vamos evoluir aqui. Ciclo de desenvolvimento e ferramentas, tá, pessoal? Vamos relacionar aí os ciclos
+1:03:381 hora, 3 minutos e 38 segundosde desenvolvimento com diversos modelos organizacionais de uma fábrica de software, tá? O ponto principal aqui é
+1:03:451 hora, 3 minutos e 45 segundosentender que não existe um modelo eh eh único ciclo ideal para toda a organização, né? A forma de desenvolver
+1:03:541 hora, 3 minutos e 54 segundosdeve acompanhar o tipo de trabalho executado, tá? Quando a fábrica está orientada a processos, normalmente temos ciclos o quê? Curtos. Processo é curto,
+1:04:021 hora, 4 minutos e 2 segundosciclos repetitivos, ciclos, sei lá, quase que contínuos, tá? É o caso de uma correção, de uma pequena evolução, de uma solicitação que é padronizada, né?
+1:04:141 hora, 4 minutos e 14 segundosQue entra e que sai de um fluxo operacional, tá? Em uma estrutura pessoal orientada a produtos, tá? Agora
+1:04:201 hora, 4 minutos e 20 segundosestão falando dos ciclos, tá? O trabalho eh costuma evoluir por meio de roadmaps, né? Cada roadmap tem uma evolução de
+1:04:281 hora, 4 minutos e 28 segundosépicas, de funcionalidades, de integras incrementais, conceito bastante comum, tá? A solução, ela não tem uma data de
+1:04:361 hora, 4 minutos e 36 segundostérmino rígida, assim como tem num projeto, tá? A ideia é que ela continue evoluindo conforme a necessidade dos usuários, a necessidade do negócio.
+1:04:461 hora, 4 minutos e 46 segundosLegal? Lá no projeto normalmente existe o quê?
+1:04:501 hora, 4 minutos e 50 segundosum marco, um prazo, um objetivo totalmente claro, tá? Mesmo assim é recomendável eh evitar eh uma única
+1:05:001 hora e 5 minutosentrega lá no final, tá? Dividir o desenvolvimento em incrementos, pessoal, reduz riscos e permite com que você
+1:05:071 hora, 5 minutos e 7 segundosconsiga validar aos pouquinhos ali o resultado ao longo de todo o caminho.
+1:05:111 hora, 5 minutos e 11 segundosLá em programas, o desafio é sincronizar várias equipes com várias iniciativas, tá? E é por isso que é necessário pontos
+1:05:191 hora, 5 minutos e 19 segundosperiódicos de alinhamento, né, para que você consiga coordenar as dependências, as releases, as decisões entre as
+1:05:271 hora, 5 minutos e 27 segundosdiferentes frentes que estão ocorrendo muitas vezes simultaneamente.
+1:05:311 hora, 5 minutos e 31 segundosOutro ponto importante, pessoal, é que essas estruturas elas podem utilizar vários tipos de abordagem,
+1:05:371 hora, 5 minutos e 37 segundoscascata, ágil, hívda. E a escolha depende de quê? Depende do contexto, né?
+1:05:441 hora, 5 minutos e 44 segundosAh, sei lá, um produto regulatório pode exigir um planejamento mais preditivo, enquanto que um produto digital ele pode
+1:05:521 hora, 5 minutos e 52 segundostrabalhar com ciclos e incrementados, tá? Independente da abordagem, a automação de da engenharia de software,
+1:06:021 hora, 6 minutos e 2 segundosela é fundamental, tá? E novamente aqui, né, vou repetir entre sendo ali a esteira, tá?
+1:06:111 hora, 6 minutos e 11 segundosObserve ali, pessoal, no fluxo, né, que a gente apresentou lá embaixo lá agora, tá? Temos aí o link, né, que vai
+1:06:181 hora, 6 minutos e 18 segundosverificar os padrões e os problemas básicos do código, né? Depois vem ali a fase de build, né, que vai gerar o artefato executável. Em seguida, temos
+1:06:271 hora, 6 minutos e 27 segundosali os testes unitários, né, que vai validar, né, partes isoladas do sistema, né, seguido ali pelos testes de contrato, né, que vai verificar se a
+1:06:351 hora, 6 minutos e 35 segundosintegração entre a PI continua respeitando ali os acordos definidos, por exemplo, tá? Depois de tudo isso, ocorre o quê? A publicação, né, dos
+1:06:421 hora, 6 minutos e 42 segundosartefatos, beleza? seguida ali por um deploy, né, no num ambiente alvo, homologação ou produção. E por fim,
+1:06:511 hora, 6 minutos e 51 segundosrealizamos ali a verificação pós deploy, confirmando aí que a aplicação realmente está funcionando, né, corretamente, né, após impontada, ventino e piriri parará.
+1:07:011 hora, 7 minutos e 1 segundoA esteira ela funciona como se fosse uma base técnica comum, já falamos disso, né? Independente do tipo de organização, se a organização trabalhar com processo,
+1:07:091 hora, 7 minutos e 9 segundosproduto, projeto ou programa, esteira aí, né, como sei lá, como ponto de interseção, né, o que reduz, pessoal,
+1:07:161 hora, 7 minutos e 16 segundostrabalho manual, aumenta a produtividade, melhora a qualidade e permite entregas que sejam mais frequentes e mais seguras. Beleza,
+1:07:241 hora, 7 minutos e 24 segundospessoal? Já já estão chegando aí a sei lá, cara, o pessoal tá começando a sentir o cheirinho do final de semana, né? bem feriado, né, pessoal cansado. É
+1:07:341 hora, 7 minutos e 34 segundosquinta-feira. [risadas] Vamos lá, pessoal. Vamos trazer um case para acordar, né? Vamos acordar, né?
+1:07:401 hora, 7 minutos e 40 segundosVamos lá. Caso aí do setor público, né?
+1:07:441 hora, 7 minutos e 44 segundosEh, pessoal, alguém, alguém trabalha aqui no setor público?
+1:07:481 hora, 7 minutos e 48 segundosAlguém trabalha, né, servidor? Dá, confirma para mim, por favor, aí se alguém trabalha no setor público, tá?
+1:07:551 hora, 7 minutos e 55 segundosEntão, nesse estudo de caso, pessoal, nós temos aí uma aplicação bastante clara do modelo de fábrica de software orientado a processos, né, processos
+1:08:051 hora, 8 minutos e 5 segundosdentro do setor público, né, órgão de governo. Por exemplo, o cenário aqui, pessoal, é uma Secretaria Estadual de
+1:08:131 hora, 8 minutos e 13 segundosSaúde que ela recebe demandas digitais de formas diferentes, sem critérios
+1:08:211 hora, 8 minutos e 21 segundospadronizados de priorização, entrada e acompanhamento, tá? Isso gera o quê, pessoal? Se não tem um critério de
+1:08:291 hora, 8 minutos e 29 segundospriorização de entrada e de acompanhamento, vai gerar retrabalho, baixa previsibilidade e dificuldade de
+1:08:361 hora, 8 minutos e 36 segundosauditoria. E a solução adotada foi o quê? Vamos organizar a nossa fábrica de software com base em processos
+1:08:431 hora, 8 minutos e 43 segundospadronizados, tá? Primeiro elemento foi o quê? A criação de um catálogo de serviço para começar a padronizar, né?
+1:08:511 hora, 8 minutos e 51 segundosDefinindo com artigos de eh demandas poderiam ser solicitadas.
+1:08:551 hora, 8 minutos e 55 segundosBeleza, escola pública ali. Sou professora. Pô, beleza, Patrícia.
+1:09:001 hora e 9 minutosJoia. Muito bom, né? conhecer um outro professor e, enfim, compartilhar as dores e alegrias dessa profissão, tá?
+1:09:101 hora, 9 minutos e 10 segundosVamos lá. Catálogo de serviço, né, definindo quais são os tipos de demanda, né, poderiam ser solicitados e quais informações eh deveriam estar presentes
+1:09:191 hora, 9 minutos e 19 segundosao longo da ao longo aí da na na na entrada, vamos colocar assim, tá?
+1:09:271 hora, 9 minutos e 27 segundosIsso vai evitar, pessoal, o quê? Pedidos vagos, pedidos que são incompletos.
+1:09:331 hora, 9 minutos e 33 segundosDepois, eh, foi estabelecida uma esteira única de atendimento. Olha a padronização, passando por backlog, por
+1:09:401 hora, 9 minutos e 40 segundosplanejamento, por implementação, por testes, por homção, né, por publicação, tá? E e toda essa padronização, ela
+1:09:481 hora, 9 minutos e 48 segundosajuda a reduzir variações desnecessárias e assim, e a ideia, pessoal, é tornar o fluxo mais previsível, tá?
+1:09:551 hora, 9 minutos e 55 segundosOutro ponto importante ali foi os skates, né, de qualidade que foram colocados, tá? esses pontos de controle,
+1:10:021 hora, 10 minutos e 2 segundosesses checkpoints, né, eles verificam se determinado critério mínimo, né, ele foi avançado antes de você liberar para que
+1:10:121 hora, 10 minutos e 12 segundosele possa passar para a próxima fase avançar. O objetivo, pessoal, não é criar burocracia por burocracia, ela não é, né, mas evitar que o problema seja
+1:10:211 hora, 10 minutos e 21 segundosempurrado paraas próximas fases. Então, conseguiu atingir sim, se não, corrige para passar pro próximo. Legal. Não é
+1:10:281 hora, 10 minutos e 28 segundosburocracia por burocracia. é é de fato, né, checkpoint, né, pontos de checagem.
+1:10:341 hora, 10 minutos e 34 segundosTambém nesse case foram eh implantados acordos de nível de serviço e métricas
+1:10:411 hora, 10 minutos e 41 segundosde fluxo, tá? permitindo agora ter um acompanhamento do desempenho, ah, o acompanhamento do tempo de atendimento,
+1:10:491 hora, 10 minutos e 49 segundoslead time. Além de tudo isso, pessoal, a geração automática de evidências facilitou auditorias, reduziu ali o
+1:10:571 hora, 10 minutos e 57 segundosesforço manual de você ter que documentar as coisas e por aí vai. Qual o resultado ali apresentado? Tá, pessoal, fic e fico, né? Só para que às
+1:11:061 hora, 11 minutos e 6 segundosvezes entendem, você foi lá, fez auditoria, conseguiu implantar, né, um modelo de baseado a processos, tá? Os
+1:11:141 hora, 11 minutos e 14 segundosresultados foram o quê? Uma melhoria no atendimento do SCLA, que passou, antes era 62% e passou a ser 89, deu uma boa
+1:11:221 hora, 11 minutos e 22 segundosmelhoria, né, um salto de qualidade muito bom, né? Houve maior previsibilidade, houve uma melhor rastreabilidade e houve uma redução de
+1:11:311 hora, 11 minutos e 31 segundosretrabalho. Você foi lá e deu um tapa ali. Trabalho com suporte, um sistema de licitação. Jesus, Marco, eu já
+1:11:381 hora, 11 minutos e 38 segundostrabalhei, tá, Márcio com Já trabalhei, já trabalhei assim, uma época da minha vida, eu trabalhei com a parte de,
+1:11:451 hora, 11 minutos e 45 segundosenfim, de licitações, contratos, eh, almostarifado, né, controle de estoque.
+1:11:501 hora, 11 minutos e 50 segundosÉ o interessante, Márcio, eu espero que você seja mais feliz do que eu que eu fui.
+1:11:561 hora, 11 minutos e 56 segundosÉ que eu recebia na época, cara, elogios, cara. Cara, o pessoal me adorava o que eu fazia, né? Mas eu não gostava do que eu fazia, entendeu, cara?
+1:12:091 hora, 12 minutos e 9 segundosAssim, eu eu entendi a jogada na época lá, entendi, né? A fazer direitinho os trabalhos, o pessoal lá fazer as as eh
+1:12:171 hora, 12 minutos e 17 segundosinspeções, né? E poxa, cara, me alogiava, gostava todo mundo e mas assim, não era algo que fazia o meu
+1:12:261 hora, 12 minutos e 26 segundoscoração sentir feliz, tá? Mas foi foi uma experiência da boa da minha vida, tá? Eh, me fez melhorar, né, em alguns
+1:12:341 hora, 12 minutos e 34 segundosaspectos, tá, né? E e era e era bem pesado que era que era a parte de aquisição, a gente fazia os precios
+1:12:421 hora, 12 minutos e 42 segundoseletrônicos, né? Fazia toda a parte ali de empenho, né? Não sei se você trabalha com isso, né? mexia ali com aquele
+1:12:491 hora, 12 minutos e 49 segundossistema tela preta na época do SF era era sabe o que era eh natureza despesa, não sei era era bem [risadas]
+1:12:581 hora, 12 minutos e 58 segundosfaz um tempão, né? Mas era era foi bem complexo, tá? Foi bem desafiador, né? Eu consegui me adaptar, né? Eh, tinha parte
+1:13:061 hora, 13 minutos e 6 segundosdo estoque, era terrível, cara. Chegava o material, chegava o material, tinha que que ir lá pro estoque, recalcular,
+1:13:141 hora, 13 minutos e 14 segundosas coisas eram meio manuais. Na época era ficha, né? Você tinha que atualizar na ficha.
+1:13:181 hora, 13 minutos e 18 segundosPô, chegava cedinho e saia bem tarde do trabalho. Foi foi um trabalho que me enrolou, tá? Então assim, tem um eh hoje
+1:13:261 hora, 13 minutos e 26 segundosdou risada, mas na época foi bem
+1:13:281 hora, 13 minutos e 28 segundos[risadas]
+1:13:291 hora, 13 minutos e 29 segundosralei um pouquinho para isso aí. Legal. Ainda tem um tempinho, né, pessoal?
+1:13:331 hora, 13 minutos e 33 segundosVamos andar, vamos apresentar mais um case, né, agora de uma de uma fintec aí.
+1:13:401 hora, 13 minutos e 40 segundosVamos lá. Eh, nesse estudo de caso, pessoal, temos aí uma situação muito comum em bancos digitais. né? Ou Fintex,
+1:13:491 hora, 13 minutos e 49 segundosné? Ou seja, o que que um banco digital, uma Fintec quer? Ele quer evoluir, continuar assim, se liguem nas palavras,
+1:13:581 hora, 13 minutos e 58 segundosele quer evoluir. Esquece que você é, cara, esquece. Então, você tem um cenário onde você precisa implantar o
+1:14:081 hora, 14 minutos e 8 segundosmodelo de uma fábrica agora, né? E o cara tá com e o cara te contratou como consultor, tá? Aí eu tô contando para você, olha, cara, eu quero evoluir
+1:14:161 hora, 14 minutos e 16 segundoscontinuamente a minha plataforma, tá? Eu tô querendo aí eh aumentar o reuso daquilo que eu tenho, né, para evitar
+1:14:241 hora, 14 minutos e 24 segundosretrabalho entre as equipes, né? Eu quero também cumprir exigências regulatórias com prazos bem definidos.
+1:14:301 hora, 14 minutos e 30 segundosLegal? Aí vamos lá. O primeiro problema identificado é o quê? É a duplicação de
+1:14:361 hora, 14 minutos e 36 segundosesforço, tá? Ou seja, eh, eu tinha um cenário em que tinha soluções semelhantes sendo desenvolvidas em
+1:14:451 hora, 14 minutos e 45 segundosparalelos. Então, tinha a equipe montando uma autenticação e outra equipe de software montando um um um mesmo módulo de autenticação de pagamento, de
+1:14:541 hora, 14 minutos e 54 segundoscatálogo e para aí vai. Isso gera, pessoal, retrabalho, isso aumenta a chance de inconsistência, isso dificulta a manutenção.
+1:15:021 hora, 15 minutos e 2 segundosPara resolver esse problema, a organização adotou o quê? uma orientação baseada em produtos, né, criando aí
+1:15:111 hora, 15 minutos e 11 segundoscomponentes que fossem reutilizáveis, né, ali o portfólio, né, você vai olhar o portfólio primeiro antes de sair rachando no desenvolvimento, né,
+1:15:201 hora, 15 minutos e 20 segundoscomponentes que são versionados, né, que são apoiados por uma, digamos assim, uma arquitetura de referência comum para todos os sistemas. Negócio bonito, organizado, governança. Legal.
+1:15:331 hora, 15 minutos e 33 segundosNesse modelo, esses componentes passam a ser tratados como se fosse
+1:15:391 hora, 15 minutos e 39 segundos[risadas]
+1:15:401 hora, 15 minutos e 40 segundosalgo provisório. Beleza, Márcio? Estuda forte aí, tá, Márcio? Entendeu? Eh, eu eu não tenho dúvida, tá, Márcio, que o caminho que você tá escolhendo é um
+1:15:481 hora, 15 minutos e 48 segundoscaminho que vai eh te dar um melhor reconhecimento financeiro de cara, né?
+1:15:531 hora, 15 minutos e 53 segundosEspero que dê também o melhor reconhecimento profissional e que, enfim, faça seu coração bater mais forte, como eu bati hoje. Então, hoje trabalho com software, hoje meu coração
+1:16:001 hora e 16 minutosbate mais forte, apesar de queer já tá na hora de desacelerar um pouquinho, tá cara? Hoje hoje eu eu em dois projetos
+1:16:081 hora, 16 minutos e 8 segundosgrandes que eu gerencio, o pessoal deles tem 39. Eu não sei, esse número 39 me incomoda porque em um em um uma área que
+1:16:151 hora, 16 minutos e 15 segundos[limpando a garganta] eu trabalho são 39 sistemas que eu gerencio, né, em suporte ao comandante, né, da da da força, eh,
+1:16:221 hora, 16 minutos e 22 segundosprojetos de alto nível, decisórios, aí todo uma preocupação com, enfim, muitas preocupações com segurança, com e eu
+1:16:301 hora, 16 minutos e 30 segundostenho um segundo projeto que eu trabalho como bolsista, tá? É um projeto mais voltado para uma pegada aí de projeto
+1:16:371 hora, 16 minutos e 37 segundosmesmo, projeto, né? E esse primeiro tem muito processo, muita coisa repetitiva, mas tem também ao mesmo tempo componentes de inovação de produto. E o
+1:16:461 hora, 16 minutos e 46 segundossegundo é mais voltado paraa parte de projetos, né, que é um trabalho que que eu sou bolsista, né, do Instituto Brasileiro de Inovação, Ciência e
+1:16:541 hora, 16 minutos e 54 segundosTecnologia. Então tô gerenciando um projeto lá, cara. São mais de 50 pessoas ali, deve ter uns 20
+1:17:041 hora, 17 minutos e 4 segundosdoutores e projeto grandão, né? Um projeto bom. E assim, [risadas] e pro meu azado também são 39 sistemas.
+1:17:111 hora, 17 minutos e 11 segundosEntão assim, caramba, cara. Aí hoje eu recebi uma uma proposta lá, né? Um ex-aluno lá fez uma proposta lá para dar uma costória para ele lá em Ribeirão
+1:17:191 hora, 17 minutos e 19 segundosPreto. Um um outro entrou em contato comigo lá para trabalhar com o pessoal lá no Espírito Santo. E amanhã eu fui, eu recebi um um convite para um para um
+1:17:291 hora, 17 minutos e 29 segundoscafé da manhã tem negócio. Olha que bacana, cara. Então, amanhã eu vou dar dar uma moral para um para um cara aí que tem umas propostas boas de trabalho.
+1:17:361 hora, 17 minutos e 36 segundosEntão, perceba, pessoal. Olha só. Ah, quem trabalha com isso, galera, chega um ponto na sua existência
+1:17:441 hora, 17 minutos e 44 segundosque que o pessoal começa aí atrás de você, tá? Começa atrás de você. Isso implica o quê, pessoal? Muita coisa, tá?
+1:17:521 hora, 17 minutos e 52 segundosValorização profissional, pessoal, oportunidade de trabalho, vínculo, network, evolução. Poxa, cara, é muito bacana, tá? Então
+1:18:011 hora, 18 minutos e 1 segundovocês escolheram uma profissão muito boa, em que ao longo aí de algumas décadas vocês vão vão tá muito bem.
+1:18:081 hora, 18 minutos e 8 segundosObrigado. Beleza? Vamos lá. Vamos voltar paraa nossa fintec, né? Então, nesse modelo aqui, esses componentes aí eles passam a ser tratados como se fosse
+1:18:171 hora, 18 minutos e 17 segundosativos internos da organização. Deixa olhar o tempo. Vamos lá. Eh, em vez de cada equipe implementar novamente uma solução de autenticação, por exemplo,
+1:18:241 hora, 18 minutos e 24 segundosné? Estamos tratando aí no paradigma de produtos, tá? Eh, ele vai utilizar um componente que já foi testado, que já foi documentado, que já foi versionado.
+1:18:321 hora, 18 minutos e 32 segundosIsso aumenta características de reuso, né? Reduz a defeitos, acelera as entregas e por aí vai. Outro ponto
+1:18:401 hora, 18 minutos e 40 segundosimportante, pessoal, é o versionamento semântico, né? E o uso dos change log, né? Isso permite que as equipes elas saibam exatamente o que é que mudou.
+1:18:491 hora, 18 minutos e 49 segundosEntão hoje, cara, o meu projeto, cara, você consegue voltar assim, eu tenho toda toda a história. Entra lá no meu team de log, o que é que foi feito aqui?
+1:18:571 hora, 18 minutos e 57 segundosQual foi o comite? Quem fez, quando fez, por que fez, vinculado a qual tarefa?
+1:19:011 hora, 19 minutos e 1 segundoToda ali a o sabe, cara, todo o controle, tá? Nisso aí eu sou bem chaope, bem bem chato, tá? Ao mesmo
+1:19:091 hora, 19 minutos e 9 segundostempo, pessoal, a organização ela precisa atender a uma outra exigência, né, que é uma exigência regulatória. E
+1:19:151 hora, 19 minutos e 15 segundosagora um aqui, pessoal, eh somente a lógica de produto não vai ser suficiente, né? Porque ela tem agora um
+1:19:231 hora, 19 minutos e 23 segundosprazo obrigatório, então ela tem marcos, tem critérios de conformidade. E é por isso que essa demanda aí é tratada como se fosse um projeto com opero, um
+1:19:311 hora, 19 minutos e 31 segundosproduto projeto ao mesmo tempo. Sim, duas necessidades, né? abordagem híbrida, legal, com planejamento, com cronograma, com entregas e por aí vai.
+1:19:411 hora, 19 minutos e 41 segundosObserve, pessoal, que a execução é dividida em etapas, tá? Eu tenho ali planejamento, desenvolvimento, teste, homologação, go life, né, que é entrar
+1:19:501 hora, 19 minutos e 50 segundosem produção. E toda essa abordagem incremental, ela vai reduzir o risco de uma grande implantação por vez, né, que
+1:19:571 hora, 19 minutos e 57 segundosé o chamado ali, lembra lá, o big ben, né, tudo de uma única vez. Cara, isso aí dá o hoje eu eu eu admiro muito, né, os
+1:20:071 hora, 20 minutos e 7 segundosprofissionais que fazem aquelas grande entregar, cara.
+1:20:121 hora, 20 minutos e 12 segundosCara, a possibilidade de dar uma uma caca é tão grande, cara. Cara, se puder di de vida para conquistar, pessoal, é
+1:20:211 hora, 20 minutos e 21 segundosmelhor, tá? na lá na eh eu eu tenho graduação em análise do sistema, acho que eu falei para vocês, e tenho graduação em ciências e dados lá no
+1:20:281 hora, 20 minutos e 28 segundoscurso de análise do sistema da Universidade Federal do Mato Grosso do Sul tinha uma frase muito bacana que eu trago comigo até hoje, tá? Então analista sistema na época assim, hoje
+1:20:371 hora, 20 minutos e 37 segundosmudou, tá? Então antigamente o curso de análise de sistema era um curso que ele tinha 4 anos, era bem hoje hoje ficou como se fosse um tecnólogo, né, menor,
+1:20:441 hora, 20 minutos e 44 segundosné? Enfim, aí surgiram os cursos de engenharias, né? Antigamente era análise têm 4 anos, é um curso completão, servia
+1:20:521 hora, 20 minutos e 52 segundosmuito, né, cara, pô, eh, linguagem de programação 2, 3 e 4. Então tinha, né, pô, aprendi, aprendi, aprendi delf,
+1:21:001 hora e 21 minutosaprendi ser mais, aprendi Java na faculdade. Então, assim, o trol era era
+1:21:071 hora, 21 minutos e 7 segundospancadaria, tá? Então tinha uma frase que era legal, que era assim: "O analista ele organiza e ele domina a complexidade". Então assim, vocês como
+1:21:151 hora, 21 minutos e 15 segundosengenheiro, pessoal, vão ter que organizar e vão ter que dominar a complexidade. Beleza? Vamos lá. Eh, pra gente finalizar, pessoal,
+1:21:221 hora, 21 minutos e 22 segundosné? Eu tinha mais o que aqui? Ã, vamos lá. Resultado, né? Qual que é o resultado ali? A organização, ela
+1:21:291 hora, 21 minutos e 29 segundosconsegue obter mais reuso, né? ela vai eh ter menos retrabalho, ela vai ter eh um um menos defeitos por release, né?
+1:21:381 hora, 21 minutos e 38 segundosPorque ela tá fazendo reúo de algo já foi testado, ela tem maior previsibilidade, ela tem melhor risco regulatório porque ela agora tá lidando com com projetos, tá? E nesse caso aí
+1:21:471 hora, 21 minutos e 47 segundosele teve uma combinação de produto com projeto, né? Eh, perceba que eles não são modelos concorrentes, tá? Eles podem ser completados. Então, para para esse
+1:21:551 hora, 21 minutos e 55 segundoscase aí foi essa a solução, né? Então vocês têm uma caixa de ferramenta e usem de acordo com não que for necessário, tá? Produto para aquilo que evolui
+1:22:031 hora, 22 minutos e 3 segundoscontinuamente e projeto para aquilo que precisa cumprir uma entrega específica, né, dentro de prazo, dentro de condições que são bem definidas. Beleza? Vamos lá.
+1:22:131 hora, 22 minutos e 13 segundosE pra gente finalizar aqui a brincadeira, pessoal, trouxe mais um case, né, para acordar vocês. Tá todo mundo dormindo, babando em cima do teclado. Vamos lá, pessoal. Nesse último
+1:22:221 hora, 22 minutos e 22 segundosestudo de caso, nós vamos analisar uma empresa s eh software como um serviço,
+1:22:321 hora, 22 minutos e 32 segundospoderoso site, né? Eu ministro também a disciplina de cloud computer, tá? Então tem gás, paz e size, né? Quem assistiu
+1:22:391 hora, 22 minutos e 39 segundosvai lembrar dessa brincadeira que eu faço, né? Uma empresa de software como serviço, né? Que precisa conciliar, pessoal, duas necessidades, né? Se liga
+1:22:471 hora, 22 minutos e 47 segundosno problema. Primeira, ela tem que continuar evoluindo. Ficou fácil, não ficou?
+1:22:521 hora, 22 minutos e 52 segundosné? O produto melhorou ainda, né, de forma rápida, ao mesmo tempo em que ela vai organizar melhores demandas
+1:23:001 hora e 23 minutosrecorrentes de suporte, correções e pequenas melhorias, tá cara? O senar comum empresas que crescem rapidamente,
+1:23:081 hora, 23 minutos e 8 segundosné? A medida que a base de clientes ela começa a aumentar, cresce também o volume de chamados, tá? Os ajustes, eh as as
+1:23:171 hora, 23 minutos e 17 segundoschamadas solicitações operacionais. Se tudo for tratado da mesma forma, [limpando a garganta] o backlog ele fica desorganizado,
+1:23:261 hora, 23 minutos e 26 segundoso retrabalho aumenta e a equipe ela perde previsibilidade. E é por isso, pessoal, que a organização ela eh também combinou aqui produtos e processos, tá?
+1:23:381 hora, 23 minutos e 38 segundosA outra foi projeto, né? Ela combinou agora produtos e processos. Aqui a orientação por produto,
+1:23:461 hora, 23 minutos e 46 segundosela sustenta o conceito de evolução contínua da plataforma com roadmap, épicas,
+1:23:541 hora, 23 minutos e 54 segundosnovas funcionalidades, releases, né, de melhorias e por aí vai. Já a orientação por processo, né, o cara quer organizar
+1:24:011 hora, 24 minutos e 1 segundodemanda ali que são repetitivas, né, que são catalogadas, né, que tem critérios de entrada, priorização, SLA e médicas
+1:24:091 hora, 24 minutos e 9 segundosde fluxo, tá? Deixa eu ver ali o Márcio ali. Professor, é possível um trabalho utilizar todos os tipos de modelo? Pode, né? Pode, teria algum problema, não.
+1:24:191 hora, 24 minutos e 19 segundosPelo contrário, né? O que que eu quero que você entenda, Márcia, é o seguinte.
+1:24:221 hora, 24 minutos e 22 segundosO mais importante de tudo é o seguinte, é que você entenda que existe várias eh várias abordagens, modelos que você pode utilizar. Esses modelos, eles são
+1:24:291 hora, 24 minutos e 29 segundosempregados não naquilo que você gosta, mas sim na necessidade da empresa, no nível de maturidade, no tipo de problema, entendeu? Inclusive, a empresa
+1:24:371 hora, 24 minutos e 37 segundospode ter mais de um tipo de problema e em cima disso você pode vir a ter que eh utilizar coisas híbridas para atender aos vários problemas que a empresa pode
+1:24:461 hora, 24 minutos e 46 segundosapresentar, tá? Então assim, perceba que eu quero que somente abra no sentido de que assim, ó, eh eh vamos lá. Antes eu sabia apenas metodologia, né? Ou fazia
+1:24:541 hora, 24 minutos e 54 segundosalgo preditivo ou fazia algo ágil. Não, agora não. Agora eu percebo que assim, a organização da forma pelo qual não o
+1:25:041 hora, 25 minutos e 4 segundostime, mas a fábrica de software da sua empresa, que pode ter ali vários times, elas podem ser organizadas baseadas no
+1:25:121 hora, 25 minutos e 12 segundosproblema que a empresa apresenta para mim, né? em cima desse problema, eu posso ter eh tarefas repetitivas com maior previbilidade, processos, eu posso
+1:25:201 hora, 25 minutos e 20 segundoster evolução contínua, produto, eu posso ter algo que o cara queira assim, ó, Rômulo, se vira, me dá o resultado até o final do ano, um projeto curtinho, né? E
+1:25:291 hora, 25 minutos e 29 segundoseu posso ter algo maior, né? Que olha, daqui a 5 anos eu quero implantar aqui um programa de inovação e governança e
+1:25:371 hora, 25 minutos e 37 segundossabe segurança na minha empresa que vai ter vários projetos coordenados. Beleza?
+1:25:411 hora, 25 minutos e 41 segundosEntendeu? Vamos lá. Essa matéria parece eh continuar da ênfase da camada de gerenciamento de qualidade, bel envolve,
+1:25:491 hora, 25 minutos e 49 segundostá? É baseada em e modelo de maturidade, né? O MPBS trabalhei com isso aí, tá, galera? Sim. Envolve tem os modelos ali,
+1:25:581 hora, 25 minutos e 58 segundoscara. Ela ela faz interseções, tá? Faz interseções, né? Existe nuances aí de uma para outra, tá? Mas ela faz interseções. Legal.
+1:26:071 hora, 26 minutos e 7 segundosBeleza. Maturidade, gerenciamento. OK.
+1:26:091 hora, 26 minutos e 9 segundosDeixa eu olhar pro tempo. Vamos lá. 4 minutos, cara. Deixa eu acabar, galera.
+1:26:141 hora, 26 minutos e 14 segundosacelerar agora. Legal. Modo turbo, pessoal. Vamos lá. Por isso, pessoal, a organização, ela fez o quê? Combinou produto e processo, né? Orientação ao
+1:26:211 hora, 26 minutos e 21 segundosproduto para sustentar a evolução contínua, ah, processo para organizar as demandas que são repetitivas, tá? Ali no
+1:26:301 hora, 26 minutos e 30 segundosno slide tem um exemplo muito importante que é o quê? Eh, o componente reutilizável de autenticação. Olha lá, em vez de cada módulo implementar sua
+1:26:381 hora, 26 minutos e 38 segundosprópria autentificação, a empresa ela mantém um componente comum, alt, bacana, tal, legal, versionado, documentado, né, sei lá, com múltiplos fator de
+1:26:461 hora, 26 minutos e 46 segundosautenticação e por aí vai. Isso vai aumentar o quê, pessoal? O reuso, vai reduzir inconsistência, vai facilitar a manutenção e por aí vai, né?
+1:26:531 hora, 26 minutos e 53 segundosPersonamente importante é quando a nova versão do componente ela for publicada, né? Saiu uma nova release, as equipes precisam saber o que é que mudou. né?
+1:27:021 hora, 27 minutos e 2 segundosQuais são as funcionalidades que foram adicionadas nessa mudança, se existe alguma incompatibilidade com aquilo que eu tenho. E é por isso que a documentação e o change log ele passa a fazer parte do meu processo, tá?
+1:27:151 hora, 27 minutos e 15 segundosObserve, pessoal também que existe ali dois fluxos principais, tá? Primeiro fluxo ali é evolução do produto, né?
+1:27:221 hora, 27 minutos e 22 segundosroadmaps, épicas, implementação, release. O segundo é o fluxo de serviços recorrente, catálogo, priorização,
+1:27:301 hora, 27 minutos e 30 segundoscorreção, ajuste, publicação, tá? Esses dois fluxos compartiram uma base técnica comum que a esteira deve ser, né, C e
+1:27:391 hora, 27 minutos e 39 segundosCD, né, que automatiza testes, integração, publicação, qualidade,
+1:27:451 hora, 27 minutos e 45 segundossegurança, deploy. Ou seja, o uso de eh filag também permite liberar ali funcionalidade de forma controlada,
+1:27:531 hora, 27 minutos e 53 segundosreduzindo o risco, né, de colocar aquela mudança ali para todo mundo de uma única vez. Beleza? Deixa eu olhar pro tempo. 2
+1:28:001 hora e 28 minutosminutos só. P p P p pam p. Vamos lá. Eh, os resultados, pessoal, pra gente finalizar, eles mostram o quê?
+1:28:071 hora, 28 minutos e 7 segundosBenefícios dessa combinação. Eu vou ter o quê com isso? Menos defeito por release. Eu vou ter o menor lead time, né, da demanda até a entrega. Eu vou ter
+1:28:161 hora, 28 minutos e 16 segundosuma maior previsibilidade. Sei exatamente o que é que vai acontecer no atendimento de uma demanda. Eu vou ter a continuidade da evolução do produto. Ele vai lançar reles cada vez melhor,
+1:28:251 hora, 28 minutos e 25 segundosevoluindo o produto, né? E eu vou ter ali padronização, eu vou ter, enfim, tá?
+1:28:331 hora, 28 minutos e 33 segundosEh, quando produto e processo, pessoal, coexistem de forma equilibrada, a empresa ela consegue escalar, consegue
+1:28:401 hora, 28 minutos e 40 segundosoperar reduzindo falhas, continuando, evoluindo o software de maneira, digamos assim, contínua, tá,
+1:28:491 hora, 28 minutos e 49 segundosgalera? Com isso eu vou finalizar aqui a nossa discussão, né? Faltando um minutinho, né? chamar ali o professor Emerson para que a gente faça aí os times, né?
+1:28:591 hora, 28 minutos e 59 segundosIsso aí, professor. Aviso, né? Aviso que passou de percebido, né?
+1:29:041 hora, 29 minutos e 4 segundosIsso aí, pessoal, né? Gostaria de agradecer, né, professor? Eh, antes da gente terminar,
+1:29:121 hora, 29 minutos e 12 segundospessoal, caramba, chuva forte tá em Maringal, ó. É, não, eu tô precisando de chuva. Tô precisando de chuva porque aqui em Brasília tá um calor.
+1:29:231 hora, 29 minutos e 23 segundosProfessor, como posso começar praticar a fábrica de software? O que você recomenda para que eu comece, deseje desenvolver o primeiro
+1:29:321 hora, 29 minutos e 32 segundosprojeto? Cara, o ponto de partida é o seguinte, cara. Vamos lá. Do ponto de vista evolutivo, cara, dá uma olhada no livro. O livro muito bem escrito, com muitos conceitos, né? Vai permitir com
+1:29:401 hora, 29 minutos e 40 segundosque você consiga abrir a cabeça, entendeu? E e a prática assim, cara, assim, a gente não tem um software que a gente consiga simular, né, o uso, né? A
+1:29:481 hora, 29 minutos e 48 segundosprática é o seguinte, cara, é tentar entrar no num no num no num num num num time de desenvolvimento, seja através de estádio, seja, enfim, n através de um
+1:29:561 hora, 29 minutos e 56 segundostrabalho real para que você consiga, né, compreender as nuances, acrescentar sugestões de melhorias e você evoluir, né, em cima de situações concretas, tá?
+1:30:051 hora, 30 minutos e 5 segundosÉ ruim, né? É, é diferente de um software de rede, né, que você consegue simular, cara, assim, eu vou procurar,
+1:30:131 hora, 30 minutos e 13 segundosmas eu não sei se existe simulador de fato, não sei. Eu acho que não, tá? Eu não conheço.
+1:30:171 hora, 30 minutos e 17 segundosSim, tem sim, tem sim, tem simulador de fou pouco complexo, mas eh eu acho que no nível deles já já dá
+1:30:241 hora, 30 minutos e 24 segundospra gente utilizar. Depois eu vou eu vou buscar lá e coloco lá para vocês compartilhar, beleza? Compartilhe aí que eu quero saber também. É assim, ele é
+1:30:321 hora, 30 minutos e 32 segundosmuito interessante, ele é complexo, mas é assim, nada substitui a prática na indústria, tá pessoal? Então assim, tem muitos programas de treinê, né?
+1:30:431 hora, 30 minutos e 43 segundos[roncando] A, por exemplo, a Embraer tem um programa de treinê muito bom para pra engenharia de software que você tem
+1:30:511 hora, 30 minutos e 51 segundosalguém aí que falou sobre engenharia de sistemas, né, pessoal? Então assim, eh, por exemplo, na na minha área, a engenharia aeronáutica,
+1:31:001 hora e 31 minutosela trabalha muito com sistemas. Então, o engenheiro de sofa, quando vai trabalhar, ele tem que entender de sistemas. Então você quando entra, né,
+1:31:081 hora, 31 minutos e 8 segundosclaro, tem um treinamento, né, você chega na Embraeba, você tem um treinamento, nesse treinamento você ganha, né, aptidões sobre aeronáutica, sobre hidráulica, sobre mecânica.
+1:31:211 hora, 31 minutos e 21 segundosIsso aí vai te ajudar a você desenvolver o problema. Esse aqui é a o engenheiro
+1:31:281 hora, 31 minutos e 28 segundosde software, gente, ele é o cara que desenvolve problema. Então, você quer treinar, você quer treinar bem a desenvolver problema de software, é
+1:31:361 hora, 31 minutos e 36 segundosfazer pergunta de prompt. Quanto melhor sua pergunta, melhor a Iá vai te trazer respostas. Então, treina com a IA, né?
+1:31:441 hora, 31 minutos e 44 segundos[roncando] Treina a fazer perguntas com a IA. Eh, você vai ver como é que você vai evoluir.
+1:31:511 hora, 31 minutos e 51 segundosAntes de terminar, professor, só um minutinho, né? Hoje nós perdemos a uma um ícone, né, da engenharia do software,
+1:32:001 hora e 32 minutosa Margarete Hamilton, quem não conhece, era uma menininha de 24 anos quando entrou pro projeto da da Apolo 11 na
+1:32:091 hora, 32 minutos e 9 segundosNASA. Então, ela ela que eh, como é que eu vou dizer? Ela que inventou o termo engenharia de software, tá bem?
+1:32:191 hora, 32 minutos e 19 segundosTodo mundo passava na sala dela e falava: "Pô, eu sou da engenharia da computação, eu sou da engenharia hidráulica, eu sou da engenharia aeronáutica. Vocês são da onde? Para
+1:32:281 hora, 32 minutos e 28 segundosela: "Sou da engenharia de software,
+1:32:311 hora, 32 minutos e 31 segundos[risadas]
+1:32:321 hora, 32 minutos e 32 segundosentendeu?
+1:32:331 hora, 32 minutos e 33 segundosEntão assim, é um marco, né? eh o surgimento dela na indústria aeronáutica e na indústria
+1:32:421 hora, 32 minutos e 42 segundosde software. Além disso, essa semana, pessoal, nós eh a Ibra eh voou o
+1:32:491 hora, 32 minutos e 49 segundosprimeiro caça de quarta 4,5 geração, o gripping fabricado totalmente no Brasil.
+1:32:571 hora, 32 minutos e 57 segundosEh, o que que eu quero dizer com isso? O que que tem a ver com a nossa área? Ele é uma das aeron das primeiras aeronaves
+1:33:041 hora, 33 minutos e 4 segundosfeita em torno do software. O software foi desenvolvido antes da aeronave.
+1:33:101 hora, 33 minutos e 10 segundosEntão isso é que vocês têm que colocar em mente, pessoal. Hoje, a maioria dos produtos, né, produtos críticos
+1:33:171 hora, 33 minutos e 17 segundoscomplexos, que a gente usa, esse tipo de fábrica de software que a gente tá conversando,
+1:33:231 hora, 33 minutos e 23 segundosele ele é totalmente eh orientado a software.
+1:33:301 hora, 33 minutos e 30 segundosEntão, pensem bem nisso. Vocês não estão fazendo software para padaria, tá certo?
+1:33:361 hora, 33 minutos e 36 segundosNão tô desmerecendo, mas o engenheiro de software é para realmente resolver problemas grandes.
+1:33:441 hora, 33 minutos e 44 segundosEntão não esqueçam de saber codificar, mas podem ir esquecendo. No futuro
+1:33:521 hora, 33 minutos e 52 segundoscodificação é já é coisa de, né? Você tem que entender o que que ele tá fazendo, não deixar ele fazer besteira.
+1:34:021 hora, 34 minutos e 2 segundosMas é isso. Exato.
+1:34:031 hora, 34 minutos e 3 segundosIsso aí, professor. Tô meio tempo demais, né? O pessoal já tá cansado, trabalhou o dia inteiro.
+1:34:101 hora, 34 minutos e 10 segundosQualquer coisa, né, gente? Ó, conversa com a gente, fale com o mediador.
+1:34:161 hora, 34 minutos e 16 segundosProfessor Rom aí é um, cara, eu fico até assustado. [risadas] Combinado. Então,
+1:34:231 hora, 34 minutos e 23 segundoscomeça a falar do projeto, aí eu fico nossa
+1:34:271 hora, 34 minutos e 27 segundos[suspirando]
+1:34:281 hora, 34 minutos e 28 segundospessoal, deixa eu desejar o pessoal aí.
+1:34:311 hora, 34 minutos e 31 segundosDeixa eu desejar o pessoal aí um bom final de semana, um bom feriado, né?
+1:34:351 hora, 34 minutos e 35 segundosUtiliza esse feriado para descansar um pouquinho, mas utiliza também parte desse fato para recuperar ali as matérias que estão pendente, né? Vai lá,
+1:34:441 hora, 34 minutos e 44 segundosfaz os as tarefas, assegura ali a aprovação na disciplina, entendeu?
+1:34:491 hora, 34 minutos e 49 segundosColoca o estúdio em dia, né? Para que a vida acadêmica de vocês elas consigam fluir de uma forma cada vez mais
+1:34:561 hora, 34 minutos e 56 segundostranquila, tá? Agradeço aí a participação e a interação de todas, né?
+1:35:011 hora, 35 minutos e 1 segundoDesejo mais uma vez uma maravilhosa semana e semana que vem estaremos aqui no dia do professor, né, pra gente bater um papo aí bacana sobre, né, outros
+1:35:111 hora, 35 minutos e 11 segundosassuntos que vai complementar essa disciplina.
+1:35:131 hora, 35 minutos e 13 segundosCom certeza, [risadas] professor. Muito obrigado. Valeu, meu amigo. Até a próxima, pessoal.

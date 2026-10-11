@@ -1,0 +1,226 @@
+Páginas físicas: 20
+
+=== Página física 1 ===
+A o n d e v o c ê q u e r Vai com a
+c h e g a r ?
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 2 ===
+Tecnologias Emergentes
+em Engenharia de
+Software
+Aula 1
+Prof. Rômulo Santos
+PhD Computação. MSc Engenharia Elétrica. MSc Ciência da Informação.
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 3 ===
+Sumário
+• Panorama histórico e consolidação do paradigma.
+• Do artesanal à fábrica: por que padronizar?
+• Processos repetíveis: como a fábrica opera.
+• Fábrica ≠ Metodologia.
+• Alinhando o vocabulário: ALM e rastreabilidade.
+• Modelos de fábrica.
+• Combinar modelos com governança leve.
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 4 ===
+Panorama histórico e
+consolidação do
+paradigma:
+A engenharia de software percorreu um
+arco que vai dos métodos artesanais (anos
+1950-1960) ao desenvolvimento estruturado
+(1970-1980), passando por normas e
+modelos de processo nos anos 1990
+(ISO/IEC 12207, ISO 9001, CMMI).
+A partir dos anos 2000, a automação e os
+processos repetíveis prepararam o terreno
+para abordagens ágeis e, na década de
+2010, para DevOps/SRE, com CI/ CD,
+observabilidade e confiabilidade como
+metas de produto.
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 5 ===
+Do artesanal à fábrica:
+por que padronizar?
+No modelo artesanal, as decisões tornam-
+se tácitas, a qualidade depende de
+indivíduos e a escalabilidade é limitada. A
+fábrica de software propõe uma plataforma
+operacional: catálogo de serviços, critérios
+de entrada/saída, esteiras automatizadas e
+métricas de fluxo.
+Tal plataforma reduz a variação, aumenta a
+previsibilidade, facilita a melhoria contínua.
+Em ambientes brasileiros, governamentais
+e bancários, a adoção trouxe transparência
+(evidências em gates) e rastreabilidade para
+auditorias; em empresas digitais, viabilizou
+escala com segurança.
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 6 ===
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 7 ===
+Processos repetíveis:
+como a fábrica opera
+Uma fábrica organiza o trabalho em esteiras
+com quality gates que realmente reduzem
+risco.
+Exemplo de fluxo: Requisitos (entrada
+mínima e DoR) → Análise e Projeto (impact
+analysis, contratos de API/eventos) →
+Implementação (pequenos PR, lint, build e
+testes unitários) → Testes
+(contratos/integração; poucos E2E para
+jornadas críticas) → Implantação (CI/CD
+com feature flags, rollbacks e verificação
+pós-deploy) → Suporte/Operação (SLI/SLO,
+post-mortem sem culpa).
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 8 ===
+Processos repetíveis: como a fábrica opera
+A Fábrica de Software organiza o trabalho por meio de uma linguagem comum entre quem solicita e
+quem desenvolve. O ponto de partida é o catálogo de serviços, que transforma demandas genéricas
+em tipos claros de trabalho, como nova API, evolução de tela, correção crítica, integração externa ou
+migração de versão.
+Cada serviço deve possuir:
+- DoR: critérios mínimos para iniciar o trabalho;
+- DoD: evidências necessárias para considerar a entrega concluída;
+- SLA de ciclo: expectativa de prazo para cada tipo de serviço;
+- Pontos de inspeção: verificações objetivas durante o fluxo;
+- Limites de WIP: controle da quantidade de trabalho simultâneo.
+A qualidade deve estar incorporada à própria esteira, com testes automatizados, análise estática,
+security scanning, testes de contrato e validação por Pull Request.
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 9 ===
+Processos repetíveis: como a fábrica opera
+Uma Fábrica de Software madura utiliza dados e automação para acompanhar desempenho,
+qualidade e confiabilidade do processo.
+Principais práticas:
+- Lead Time: mede quanto tempo uma demanda leva da solicitação até a produção;
+- SLA: verifica se os prazos acordados estão sendo cumpridos;
+- Taxa de reabertura: indica problemas de qualidade e retrabalho;
+- CI/CD e testes automatizados: reduzem erros e aceleram entregas;
+- SLI/SLO: acompanham indicadores como latência, disponibilidade e taxa de erro;
+- Orçamento de erro: ajuda a equilibrar velocidade de inovação e estabilidade;
+- Reuso e modularidade: componentes versionados evitam “copiar e colar” soluções;
+- Segurança e conformidade: LGPD, interoperabilidade e controles automáticos passam a integrar o
+fluxo.
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 10 ===
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 11 ===
+Fábrica ≠ Metodologia:
+É importante diferenciar metodologia de desenvolvimento de Fábrica de Software.
+Metodologias como Scrum, Kanban ou Cascata organizam a forma como a equipe trabalha no dia a
+dia, definindo papéis, cadências, artefatos e formas de coordenação.
+A Fábrica de Software, por outro lado, atua em uma camada mais ampla da operação. Ela define:
+- O que pode ser solicitado: catálogo de serviços;
+- Como a demanda entra: critérios de prontidão - DoR;
+- Como o trabalho flui: esteiras, automações e integrações;
+- O que significa concluir: Definition of Done - DoD;
+- Como a qualidade é verificada: quality gates;
+- Como o desempenho é acompanhado: SLA e métricas de fluxo.
+Assim, é perfeitamente possível utilizar Scrum dentro de uma Fábrica de Software.
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 12 ===
+Fábrica ≠ Metodologia:
+O catálogo de serviços transforma solicitações genéricas em tipos de serviço bem definidos, como:
+(1) Evolução de tela; (2) Nova API; (3) Correção crítica; (4) Integração externa; (5) Migração de
+versão.
+Cada serviço deve possuir entradas mínimas, critérios de aceite, SLA e evidências de conclusão. Isso
+reduz ambiguidades, retrabalho e discussões baseadas apenas em percepção.
+A qualidade é incorporada diretamente à esteira por meio de:
+(1) Integração e entrega contínuas - CI/CD; (2) Análise estática de código; (3) Testes unitários e de
+contrato; (4) Testes E2E quando necessários; (5) Verificações automáticas de segurança; (6) Testes de
+compatibilidade; (7) Quality gates proporcionais ao risco.
+As decisões passam a ser apoiadas por indicadores como:
+(1) Lead Time por tipo de serviço; (2) Percentual de cumprimento de SLA; (3) SLI/SLO; (4) Taxa de
+falhas após mudanças; (5) Evidências automáticas da entrega.
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 13 ===
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 14 ===
+Alinhando o vocabulário: ALM e rastreabilidade
+O Application Lifecycle Management (ALM) integra práticas, processos e ferramentas ao longo de
+todo o ciclo de vida do software, conectando planejamento, desenvolvimento, testes, entrega e
+operação.
+Seu principal elemento é a rastreabilidade, que permite acompanhar uma demanda desde sua
+origem até seus efeitos em produção.
+Com essa visão ponta a ponta, a equipe consegue responder com clareza:
+- Por que a mudança foi realizada?
+- O que exatamente foi alterado?
+- Quem participou da mudança?
+- Quais testes e verificações foram executados?
+- Qual foi o impacto observado em produção?
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 15 ===
+Modelos de fábrica:
+Fábrica de Serviços
+(1) Adequada para grande volume de solicitações semelhantes; (2) Organiza o trabalho por
+tipos de serviço padronizados; (3) Define requisitos mínimos de entrada e critérios
+verificáveis de saída; (4) Utiliza SLA, lead time e taxa de reabertura; (5) Favorece
+previsibilidade, auditoria e comparação entre áreas.
+Exemplos: correções, evoluções de tela, novas APIs e integrações recorrentes.
+Fábrica orientada a Produto
+(1) Indicada quando há maior incerteza e evolução contínua; (2) Utiliza times estáveis e
+multidisciplinares; (3) Trabalha com backlog de produto, discovery e delivery; (4) Valoriza
+componentização, versionamento e contratos de API/eventos; (5) Usa SLI/SLO, CFR, MTTR e
+métricas de adoção ou conversão.
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 16 ===
+Modelos de fábrica:
+Modelo orientado a Projeto
+(1) Adequado quando existe prazo fixo, escopo definido ou obrigação regulatória; (2) Trabalha com
+orçamento, cronograma e baseline; (3) Deve evitar grandes entregas únicas; (4) Utiliza marcos
+incrementais e critérios de aceite observáveis; (5) Pode adotar feature toggles, rollback e liberações
+por ondas.
+Indicadores comuns:
+(1) Cumprimento de marcos; (2) Desvio de escopo; (3) Defeitos por etapa; (4) SLO associados ao
+impacto no usuário.
+Modelo de Programa/Portfólio
+(1) Utilizado quando várias iniciativas possuem dependências entre si; (2) O foco passa a ser
+coordenação e priorização; (3) Torna visíveis dependências entre projetos; (4) Sincroniza janelas de
+liberação; (5) Distribui capacidade segundo valor, risco e prioridade; (6) Pode utilizar release trains e
+quadros de dependências.
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 17 ===
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 18 ===
+Combinar modelos com governança leve:
+Combinar modelos com governança leve significa utilizar uma porta de entrada única para
+todas as demandas e encaminhar cada solicitação ao fluxo mais adequado, sem criar
+excesso de aprovações ou estruturas paralelas.
+A triagem pode partir de três perguntas:
+A demanda é rotineira e repetível?
+→ segue para o Catálogo de Serviços, com entrada mínima e DoD claros.
+A demanda envolve descoberta, hipóteses ou evolução contínua?
+→ segue para o fluxo de Produto, com roadmap, épicas e backlog.
+Existe data inegociável, obrigação legal ou marco regulatório?
+→ segue como Projeto, com marcos incrementais e cronograma definido.
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 19 ===
+w w w . u n i c e s u m a r . e d u . b r |
+
+=== Página física 20 ===
+Bons estudos!
+Siga em frente com a
+w w w . u n i c e s u m a r . e d u . b r
+w w w . u n i c e s u m a r . e d u . b r |
