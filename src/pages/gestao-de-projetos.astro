@@ -1,0 +1,43 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import SiteHeader from "../components/SiteHeader.astro";
+---
+<BaseLayout title="Gestão de Projetos Tecnológicos · Posts" extraStyles>
+<SiteHeader technology label="GESTÃO DE PROJETOS" />
+<main class="home">
+<section class="hero">
+<div class="breadcrumb">
+<a href="/">Matérias</a>
+<span aria-hidden="true"> / </span>
+<span>Gestão de Projetos Tecnológicos</span>
+</div>
+<span class="eyebrow">MATÉRIA / 2 POSTS</span>
+<h1>Gestão de Projetos<br>
+<em>Tecnológicos.</em>
+</h1>
+<p class="lead">Explore os posts desta matéria. Comece pelos fundamentos e avance para a gestão de pessoas e o controle do projeto.</p>
+</section>
+<h2 class="catalog-title">Posts da matéria</h2>
+<div class="lesson-grid">
+<a class="lesson-card" href="/aula-01/">
+<span class="eyebrow">AULA 01 / FUNDAMENTOS</span>
+<h2>Da ideia à entrega</h2>
+<p>O que é projeto, por que planejar, como equilibrar restrições e acompanhar o ciclo de vida.</p>
+<img src="/assets/slide-01.jpg" alt="Material da Aula 01">
+<strong>Estudar a Aula 01 →</strong>
+</a>
+<a class="lesson-card" href="/aula-02/">
+<span class="eyebrow">AULA 02 / PESSOAS E CONTROLE</span>
+<h2>Conduzir o projeto</h2>
+<p>Competências, liderança, comunicação, estimativas, riscos, mudanças e ações corretivas.</p>
+<img src="/assets/aula-02/slide-05.jpg" alt="Gestão do projeto e liderança de pessoas">
+<strong>Estudar a Aula 02 →</strong>
+</a>
+</div>
+<div class="callout">
+<h3>Como aproveitar este caderno</h3>
+<p>Comece pela síntese, acompanhe os exemplos e faça o questionário sem consultar. Use os slides ampliados para retomar o material e registre suas respostas práticas. As aulas podem ser impressas ou salvas como PDF pelo navegador.</p>
+</div>
+<footer>Gestão de Projetos Tecnológicos · Caderno pessoal de estudo<br>Caderno pessoal de estudo · Leitura e prática.</footer>
+</main>
+</BaseLayout>

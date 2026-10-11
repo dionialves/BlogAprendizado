@@ -1,0 +1,699 @@
+Olá, pessoal. Boa noite. Sejam bem-vindos à nossa segunda aula da disciplina de gestão de projetos tecnológicos. Boa noite, professor Rogério. Tudo bem?
+0:3131 segundosBoa noite, professor Éber. Tudo ótimo. Melhor agora.
+0:3636 segundosAh, que bom, professor. Boa noite, Rodrigo. Nós já estamos iniciando. Chama o pessoal aí.
+0:4343 segundosAntes da gente passar a bola de vez aqui, professor, quero dar três recadinhos para vocês. Hoje é bem tranquilo, tá? Mas são coisas interessantes e boas aí para vocês, OK?
+0:5353 segundosVocês já receberam lá no moral de aviso, né?
+0:5656 segundosMas no dia 14 agora a gente vai ter uma live da premiação do Rakatum, OK? Vocês
+1:021 minuto e 2 segundosreceberam lá no começo as fases, se inscrever nas equipes, participar. Então aqui no dia 14 é a live da premiação.
+1:121 minuto e 12 segundosEntão marca aí na agenda para você entrar lá na live, prestigiar esse momento lá, OK? Se você montou a equipe,
+1:191 minuto e 19 segundosparticipou, fica atento lá, quem sabe, ok?
+1:241 minuto e 24 segundosSegundo recado aqui que eu tenho para vocês é de um programa, programa da Tata Consulting, OK? Uma empresa indiana, OK?
+1:341 minuto e 34 segundosAqui na que atua tem um mercado grande aqui no Brasil tem uma filial aqui na cidade que eu moro. E
+1:421 minuto e 42 segundosaqui é um um programa, você se cadastra, participa ali das etapas, OK? E lá no final você pode ter uma premiação.
+1:521 minuto e 52 segundosEntão, uma dica importante ali para vocês, só que entra lá, se inscreve e participa do programa. E o último recado
+2:002 minutosaqui, que é um programa que a gente já tem algum tempo, todos a cada semestre a gente tem esse programa do Compaswall,
+2:072 minutos e 7 segundosprograma de estágio, primeira primeira fase do bootcamp, segundo estágio, 100% remoto. Agora, esse ano a gente tem
+2:152 minutos e 15 segundosessas três trilhas, OK? uma na uma no período da manhã, duas na tarde, aí dependendo de que caminho que você quer
+2:222 minutos e 22 segundosseguir e lá no final pode ser efetivado dentro da empresa. Então ainda dá para
+2:312 minutos e 31 segundosse inscrever, temos ainda 17 dias, vai até o dia 25. Escanei o QR code, acessa o link lá que está no ambiente para
+2:392 minutos e 39 segundosvocês. OK? Professor tá com a palavra.
+2:442 minutos e 44 segundosObrigado, professor. Boa noite mais uma vez.
+2:472 minutos e 47 segundosE boa noite aos alunos, né, que já estão aqui conosco, já estão apostos aí pro nosso segundo encontro
+2:552 minutos e 55 segundosfalando sobre
+2:582 minutos e 58 segundos[limpando a garganta]
+2:592 minutos e 59 segundoseh gerência de projetos tecnológicos, né? Interessante é que o professor falou da empresa Tata. É uma grande empresa
+3:093 minutos e 9 segundose conheci já algumas pessoas, alguns amigos até trabalhando lá na Tata.
+3:143 minutos e 14 segundoseh uma empresa que tem eh abrangência praticamente do mundo inteiro. Muito boa. Quem tiver a chance
+3:233 minutos e 23 segundosde fazer esse participar aí desse evento é uma boa.
+3:293 minutos e 29 segundosMas falando sobre o nosso encontro de hoje, né? Eu vou aqui trazer os slides, a gente vai pra nossa segunda aula, né?
+3:393 minutos e 39 segundosFechando aí a unidade um, eh, sobre gestão de projetos e hoje a gente vai falar sobre pessoas, sobre
+3:493 minutos e 49 segundoscontrole, falar um pouco sobre o gerente de projetos e
+3:563 minutos e 56 segundosfalar um pouco do perfil das habilidades, das dificuldades,
+4:034 minutos e 3 segundoseh dos desafios, né, que o gerente de projeto ele tem no momento em que ele ele passa a gerenciar, que ele passa a
+4:134 minutos e 13 segundoscuidar eh de um de um empreendimento como um projeto. A gente vai ver algumas pelo menos algumas dimensões antes de se aprofundar em alguns modelos.
+4:254 minutos e 25 segundosEh, então a gente perceber que tipo de atividade, que tipo de habilidade ele precisa desenvolver.
+4:364 minutos e 36 segundosE é sempre importante a gente eh lembrar que, apesar de que muita gente considera
+4:454 minutos e 45 segundosuma atividade eh ah, que não faz nada, aquele cara que fica só perguntando,
+4:544 minutos e 54 segundosnão é bem assim, né? a capacidade de um bom gerente de projetos eh pode fazer sim a diferença, pode não
+5:035 minutos e 3 segundosfaz a diferença entre o sucesso e o fracasso de um projeto, né? Então a gente vai conversar sobre sobre essas coisas.
+5:145 minutos e 14 segundosEntão, ao final do nosso encontro, eu espero que a gente seja aí capaz de compreender o papel de um gerente de
+5:215 minutos e 21 segundosprojetos, compreender o que que compõe a competência ou melhores competências,
+5:285 minutos e 28 segundosné, de um bom gerente de projetos. Quais são essas competências? pelo menos as principais,
+5:355 minutos e 35 segundosidentificar as principais habilidades, né, de um bom gerente. A gente falar um pouco sobre competência, habilidade e as atividades que ele desempenha, né?
+5:475 minutos e 47 segundosEntão é importante a gente aí falar um pouco do profissional.
+5:525 minutos e 52 segundosProfissional que eu acredito alguns ou pelo menos, não sei se alguns ou muitos de vocês irão seguir na carreira, né?
+6:026 minutos e 2 segundosA carreira de TI, ela é uma carreira interessante.
+6:066 minutos e 6 segundosNormalmente ela começa como uma carreira técnica, né, onde aí a os alunos assim que se
+6:156 minutos e 15 segundosformam ou mesmo já na faculdade eh trabalhando e aí normalmente
+6:226 minutos e 22 segundostrabalham ou estagiam como desenvolvedores, programadores, testadores, né, e vão evoluindo aí na na
+6:336 minutos e 33 segundoscarreira, passando ando aí para a fase de analista, projetista
+6:406 minutos e 40 segundose ao mesmo tempo existe também a possibilidade de
+6:486 minutos e 48 segundosseguir numa carreira mais voltada para a gerência, a coordenação,
+6:546 minutos e 54 segundosseja de equipes, seja de projetos. Isso é muito comum na nossa área. E em determinado momento a gente precisa
+7:027 minutos e 2 segundosescolher, né, se eu vou continuar na carreira técnica e aí vou me especializar, [limpando a garganta] vou buscar certificações
+7:107 minutos e 10 segundosde mercado que são importantes, seja no desenvolvimento como arquiteto, né, ou se eu vou seguir, a gente chama
+7:207 minutos e 20 segundoscarreira em Y, né, ou se eu vou seguir uma uma linha mais técnica ou se eu vou seguir uma linha mais ligada à gestão.
+7:307 minutos e 30 segundosE aí a gente estaria falando sobre a parte de coordenação de equipes, coordenação de projetos, gerência de
+7:377 minutos e 37 segundosprojetos, eh até você chegar, por exemplo, a CEO, CIO de uma de uma organização.
+7:487 minutos e 48 segundosEntão, eh, apenas relembrando um pouquinho do que nós vimos na aula passada, né, nós falamos
+7:577 minutos e 57 segundossobre o que que configura um projeto, o que que significa eh um projeto, as suas características,
+8:068 minutos e 6 segundosné, as três características, ser contínuo, ter um tempo eh definido,
+8:128 minutos e 12 segundosser, perdão, ser contínuo, não, ser único, ter um tempo definido, né, com início, meio e fim.
+8:218 minutos e 21 segundosEh, e são empreendimentos que são focados em atingir um objetivo, uma meta,
+8:298 minutos e 29 segundos[limpando a garganta] concluir ou entregar um produto, enfim, você tem algo eh
+8:378 minutos e 37 segundosque você entrega no final, ainda que você possa fazer também entregas parciais, ao passo que o processo
+8:468 minutos e 46 segundosque origina, na verdade, as eh operações tem a característica principal de ser
+8:538 minutos e 53 segundoscontínua, né? Então, a temporalidade é algo que diferencia basicamente um
+9:009 minutosprocesso de um projeto. falamos sobre exemplos de projetos, falamos das
+9:079 minutos e 7 segundosprincipais fases e aí [limpando a garganta] nós iremos voltar a esse tema eh quando apresentarmos
+9:169 minutos e 16 segundosalguns modelos de gestão de projeto, tanto os modelos clássicos como os modelos que a gente
+9:249 minutos e 24 segundosutiliza hoje, os modelos ágeis, bem como os híbridos, né, que é uma mistura de um pouco de ágil, um pouco pouco dos modelos clássicos.
+9:369 minutos e 36 segundosEntão, a gente vai ter muita coisa para conversar.
+9:419 minutos e 41 segundosE hoje, especificamente, eu queria trazer aqui para vocês a figura do gerente de projetos.
+9:489 minutos e 48 segundosSe aqui no grupo, se aqui na na turma aí tiver alguém que atua
+9:569 minutos e 56 segundoseh como gerente de projetos, eu queria ouvir um pouco de vocês, a experiência que vocês têm, que tipo de gerenciamento vocês estão utilizando.
+10:0910 minutos e 9 segundosEh, ou se alguém quiser falar sobre um eventual gerente de projetos que tenha
+10:1610 minutos e 16 segundosou que já teve algumas características, algumas eh
+10:2210 minutos e 22 segundosatividades, né, que tipo de experiência vocês tiveram enquanto [limpando a garganta] pessoas que foram
+10:3110 minutos e 31 segundosgerenciadas por alguém, tá? só pra gente enriquecer o nosso diálogo, o nosso, o nosso
+10:3810 minutos e 38 segundosencontro de hoje. Então, o gerente de projetos, ele tem a capacidade, ou melhor, a responsabilidade.
+10:4810 minutos e 48 segundosCapacidade ele tem, ele precisa adquirir, mas ele tem a responsabilidade de conduzir
+10:5510 minutos e 55 segundoso projeto ao longo do tempo, né? Nós vimos que um empreendimento do tipo
+11:0311 minutos e 3 segundosprojeto, ele tem diversas dimensões que precisam ser conciliadas,
+11:0911 minutos e 9 segundosné? a gente falou da dimensão eh da qualidade,
+11:1611 minutos e 16 segundostem o tempo que esse projeto vai durar ou pode durar, tem um custo, um orçamento
+11:2511 minutos e 25 segundosque é destinado paraa execução desse projeto.
+11:3011 minutos e 30 segundosele tem, ao mesmo tempo, uma eh diversidade
+11:3511 minutos e 35 segundosde recursos que ele precisa também eh organizar, conduzir,
+11:4411 minutos e 44 segundosné, recursos humanos, recursos materiais, recursos financeiros,
+11:5311 minutos e 53 segundosuma série de de eh aquisições que precisa precisam ser
+12:0012 minutosfeitas durante o projeto, riscos, né, que precisam ser mapeados,
+12:0912 minutos e 9 segundosprecisam ser eh gerenciados,
+12:1612 minutos e 16 segundosprecisam ser mitigados algumas vezes, eh,
+12:2512 minutos e 25 segundostratados, negociados. Então, existe uma série de de atividades
+12:3112 minutos e 31 segundosque a gente eh aprende tecnicamente como fazer, né? Existem
+12:3912 minutos e 39 segundostécnicas, existem eh modelos, existem metodologias que nos ajudam a fazer isso.
+12:4812 minutos e 48 segundosE tem uma parte interessante que é a parte ligada às pessoas, né? Da
+12:5612 minutos e 56 segundosmesma forma que eu preciso gerir esse esse conjunto de atividades, esse
+13:0213 minutos e 2 segundosconjunto de dimensões em várias fases do meu projeto, eu tenho um desafio eh a
+13:1213 minutos e 12 segundosmais que é quando a gente lida com pessoas.
+13:1713 minutos e 17 segundosE obviamente existem projetos que têm uma características, uma característica
+13:2613 minutos e 26 segundosmais ou menos eh que integra mais ou menos pessoas
+13:3513 minutos e 35 segundosa tecnologias, né? Isso eu quero dizer o quê? Existem projetos que são extremamente
+13:4213 minutos e 42 segundostécnicos, extremamente tecnológicos, em que eu vou lidar com questões muito
+13:4913 minutos e 49 segundostécnicas, mas em todos os projetos, eu diria, a gente tem um componente pessoa.
+13:5713 minutos e 57 segundosA gente lida, a gente lidera, a gente gerencia,
+14:0414 minutos e 4 segundosa gente coordena pessoas, né? E aí vai eh exigir habilidades de comunicar,
+14:1414 minutos e 14 segundosde integrar, de motivar pessoas, né? ao passo que quando eu
+14:2114 minutos e 21 segundostenho questões técnicas, eu não eu não preciso motivar, por exemplo, um servidor para que funcionar,
+14:2914 minutos e 29 segundoseu tenho que simplesmente ligar esse servidor, instalar um software e customizar e pronto.
+14:3614 minutos e 36 segundosEu não preciso eh negociar ou comunicar a um compilador que ele
+14:4314 minutos e 43 segundosprecisa compilar o programa, né? são são aspectos que eu diria que são mais simples de lidar, são os aspectos
+14:5214 minutos e 52 segundoslógicos. E na liderança a gente tem uma série de desafios
+14:5914 minutos e 59 segundosque o aspecto humano é simplesmente imprevisível,
+15:0615 minutos e 6 segundosné? Passo que a gente tem uma certa previsibilidade com questões técnicas,
+15:1415 minutos e 14 segundosquando a gente lida com o humano, a gente tem total imprevisibilidade.
+15:2215 minutos e 22 segundosEu não sei como meu pessoal vai acordar amanhã, se vai acordar de bom humor, de mau humor, se ele brigou com o filho, se ele
+15:3015 minutos e 30 segundosbrigou com a esposa, se ele tem dívidas e isso tá deixando ele eh
+15:3915 minutos e 39 segundosnervoso, preocupado e isso ele leva pro trabalho, né? Eu preciso, isso vai reverberar no time, na
+15:4815 minutos e 48 segundosequipe. Então o o gerente precisa olhar
+15:5415 minutos e 54 segundostudo isso, né? Negociar com tudo isso para obter os resultados esperados.
+16:0316 minutos e 3 segundosEntão vocês vejam que não é uma atividade, né? aquela brincadeira que eu acho que realmente só
+16:1216 minutos e 12 segundospode ser uma brincadeira que muitos fazem, que o gerente de projeto simplesmente eh é aquele cara que simplesmente pergunta se a atividade já
+16:2216 minutos e 22 segundosconcluída e quando ou quando vai ser concluída, efetivamente não corresponde à realidade.
+16:3116 minutos e 31 segundosEntão, a gente eh percebe que um
+16:3716 minutos e 37 segundosbom projeto ele é reflexo ou um projeto de sucesso, ele vai ser
+16:4516 minutos e 45 segundosreflexo direto das competências que esse gerente vai ter.
+16:5316 minutos e 53 segundosObviamente que quando a gente fala de gerente, do gestor, existem diferentes estilos de gestão.
+17:0417 minutos e 4 segundosE quando a gente traz aqui a ideia de um bom gestor, de um bom gerente, a gente tá falando daquilo que hoje se entende
+17:1417 minutos e 14 segundoscomo técnicas, como habilidades, né, eh, mais adequadas a uma forma de
+17:2217 minutos e 22 segundosgestão que seja equilibrada, que seja focada naquilo que é importante, que respeite
+17:3117 minutos e 31 segundoso ambiente de trabalho, que possa ser colaborativo, né? Se a gente conseguir então trazer o
+17:4117 minutos e 41 segundosaspecto da inovação para esse ambiente é importante. Então,
+17:4717 minutos e 47 segundostudo isso a gente eh pode considerar como ideias
+17:5717 minutos e 57 segundoseh que devam estar presentes no arcabolso, né?
+18:0418 minutos e 4 segundosno na estrutura que um bom arquiteto, perdão, que um bom gerente de projetos
+18:1318 minutos e 13 segundosdeve desenvolver. Então aqui como competência a gente traz a necessidade dele ter
+18:2118 minutos e 21 segundosconhecimento, né, para que ele tenha com uma uma competência de um bom gestor de
+18:2818 minutos e 28 segundosprojetos. é necessário que ele tenha conhecimento, é necessário que ele eh tenha a
+18:3718 minutos e 37 segundoscapacidade de desempenhar como um gestor, né, de atuar realmente
+18:4418 minutos e 44 segundoscomo um gestor e de lidar com pessoas.
+18:4918 minutos e 49 segundosE aí vai [limpando a garganta] o meu o meu entendimento, né, a minha percepção.
+18:5618 minutos e 56 segundosCertamente esse essa dimensão pessoal que envolve aí a liderança, né, e obviamente o seu estilo de
+19:0519 minutos e 5 segundosliderança, gestão de conflitos, a capacidade de de você negociar, a
+19:1319 minutos e 13 segundoscapacidade de você entender o outro e aí passa por uma série de habilidades,
+19:2019 minutos e 20 segundoscomo por exemplo, a empatia, né, a habilidade para negociar,
+19:2819 minutos e 28 segundosa habilidade para você comunicar-se bem. E é preciso que existem técnicas de
+19:3719 minutos e 37 segundoscomunicação que ajudam o as pessoas, né, os gestores principalmente a lidarem em situações de conflito.
+19:4719 minutos e 47 segundosA resiliência, né, que que é isso? a capacidade de você eh perseverar,
+19:5519 minutos e 55 segundosde você insistir, de você resistir, de você eh ainda que você tenha dificuldades, obstáculos, que você tenha
+20:0520 minutos e 5 segundosa força de vontade, o desejo e a capacidade de superar-se e resolver tais
+20:1320 minutos e 13 segundosobstáculos, né? Então, a competência ela precisa ser estruturada no conhecimento,
+20:2220 minutos e 22 segundosné, no desempenho, na atuação, no caso é a condução adequada e essa
+20:2920 minutos e 29 segundoscapacidade de lidar com pessoas. Então isso faz, isso faz um [limpando a garganta] gestor competente.
+20:3920 minutos e 39 segundosE aí quando a gente fala do da dimensão conhecimento, ela abre, ela
+20:4620 minutos e 46 segundoseh, digamos assim, ela se detalha em pelo menos eh quatro subdimensões.
+20:5720 minutos e 57 segundosE aqui a gente tá falando de um gestor de novo, hein? a gente tá falando de uma característica do gestor moderno. Então,
+21:0521 minutos e 5 segundoso primeiro [limpando a garganta] tipo de conhecimento que ele precisa ter é o conhecimento técnico e estratégico.
+21:1321 minutos e 13 segundosQue conhecimento é esse? É o conhecimento do negócio, né? é o conhecimento eh do que que ele
+21:2221 minutos e 22 segundosestá tratando, do que que ele está, com o que ele está lidando.
+21:2921 minutos e 29 segundosé o domínio eh sobre eh o tipo de dificuldades ele pode ter,
+21:3821 minutos e 38 segundosque tipo de obstáculos aquele, um exemplo aqui, aquela aquele determinado indústria de negócio que tem, isso ajuda
+21:4621 minutos e 46 segundose muito o gestor na hora de tomar decisão.
+21:5221 minutos e 52 segundosEu posso ser um gerente de projetos que simplesmente aplica as técnicas de gerenciamento de projetos em um determinado business. Posso.
+22:0422 minutos e 4 segundosE eu posso ter sucesso, posso, né? né? O que eu quero dizer, eu não sou formado,
+22:1122 minutos e 11 segundosum exemplo, eu não sou Pronto, eu não sou engenheiro civil,
+22:1922 minutos e 19 segundosmas eu vou, mas eu tenho conhecimento de gestão de projetos e vou gerir um
+22:2722 minutos e 27 segundosprojeto de uma construção de uma casa ou de um condomínio, sei lá, eu posso aplicar as técnicas, seja de um
+22:3622 minutos e 36 segundosgerenciamento clássico, seja até mesmo um modelo ágil
+22:4322 minutos e 43 segundospara gerir esse meu projeto. Ah, se eu tenho [limpando a garganta] um conhecimento que é um o dois, né, eu
+22:5122 minutos e 51 segundosposso ter sucesso. se eu tenho o conhecimento específico do negócio, a visão, né, os gargalos que eu posso
+23:0123 minutos e 1 segundoencontrar, a percepção de como é que
+23:0823 minutos e 8 segundoso segmento de construção civil eh atua ou como as pessoas atuam nesse
+23:1623 minutos e 16 segundossegmento, né, que tipo de obstáculos são comuns, por exemplo, numa
+23:2323 minutos e 23 segundosconstrução de casas, eu vou ter a probabilidade de sucesso muito maior,
+23:2923 minutos e 29 segundostá? Então, se a gente quer eh ter um bom desempenho em um determinado nicho, eu
+23:3823 minutos e 38 segundosrecomendo que você desenvolva esses conhecimentos, que você adquira,
+23:4423 minutos e 44 segundosadquira e, eh, desenvolva esse conhecimento técnico e estratégico
+23:5223 minutos e 52 segundospensando no negócio, pensando num domínio técnico e uma certa visão estratégica do negócio.
+24:0324 minutos e 3 segundosUm segundo aspecto que eu já comecei a falar é o conhecimento sobre aí especificamente
+24:1124 minutos e 11 segundosgerenciamento de projetos, né? Como eu disse, existem algumas eh metodologias,
+24:2024 minutos e 20 segundosalguns modelos, alguns processos bem estruturados, práticas que auxiliam
+24:2724 minutos e 27 segundose que dão um cabedal de conhecimento muito interessante
+24:3424 minutos e 34 segundospara pessoas que querem e precisam gerenciar projetos.
+24:4124 minutos e 41 segundosE aí a gente vai destacar aqui, se a gente fosse eh detalhar ainda mais,
+24:4924 minutos e 49 segundosa gente diria que a gente tem duas abordagens principais. Duas, não, três, né? Porque tem a abordagem clássica,
+24:5824 minutos e 58 segundostem a abordagem ágil e tem uma abordagem que a gente pode chamar de híbrida,
+25:0525 minutos e 5 segundosné? Então, a gente tem essas essas três formas de você eh estrategicamente
+25:1525 minutos e 15 segundosabordar um projeto nas questões de processos, práticas, atividades, técnicas, etc,
+25:2425 minutos e 24 segundosetc. Então, esse é um segundo, um segundo grupo de conhecimentos que um bom gerente precisa ter.
+25:3325 minutos e 33 segundosO terceiro seria associado a a esse conhecimento sobre
+25:4025 minutos e 40 segundosmetodologias e ferramentas, né? Então é preciso
+25:4525 minutos e 45 segundos[limpando a garganta]
+25:4625 minutos e 46 segundosum bom gestor precisa sim ter conhecimentos específicos e ferramentas, né? Para que você tenha um desempenho,
+25:5425 minutos e 54 segundosque você possa atuar, ó, a gente fala aqui de desempenho, né? Que você possa atuar isso aí. Então, o conhecimento vai
+26:0426 minutos e 4 segundoslhe dar o subsídio ou suporte ou a base para você atuar e ter um bom desempenho.
+26:1226 minutos e 12 segundosE aí a questão da comunicação, eu entendo como também uma
+26:2226 minutos e 22 segundosdimensão do conhecimento que merece destaque, porque comunicar-se é muito difícil.
+26:3126 minutos e 31 segundosComunicar-se bem, na verdade é muito difícil comunicar-se adequadamente
+26:3826 minutos e 38 segundosno tempo certo, com o timing adequado, levando em consideração
+26:4626 minutos e 46 segundosuma série de questões que podem ocorrer com problemas, defeitos,
+26:5526 minutos e 55 segundoseh conflitos entre partes. você comunicar-se
+27:0227 minutos e 2 segundosé muito pode ser muito difícil. Então, você conhecer boas técnicas de comunicação
+27:1127 minutos e 11 segundosé muito importante, né? como escrever, como se posicionar,
+27:1827 minutos e 18 segundosidentificar adequadamente o público para qual você tá falando, qual a melhor estratégia, [limpando a garganta] temporalidade
+27:2727 minutos e 27 segundosde eh comunicar, né, periodicidade que essa comunicação deve ter. Então,
+27:3327 minutos e 33 segundostudo isso eh é levado em consideração no caso de uma de um bom gestor e a
+27:4027 minutos e 40 segundosquestão dos idiomas eh consequência desse mundo moderno.
+27:4627 minutos e 46 segundosE aqui o recado direto é: inglês
+27:5427 minutos e 54 segundosno mundo da TI, o inglês é ainda é o idioma eh número um. Tem muita gente tá
+28:0228 minutos e 2 segundosestudando mandarim, obviamente, por perceber, né, que a China ela tem um tem tido um papel eh
+28:1228 minutos e 12 segundosprotagonista também nesse mundo. Então, muita gente tem desenvolvido
+28:2028 minutos e 20 segundoseh essa capacidade e essa habilidade de conhecer e falar o mandarim. Mas eu
+28:2728 minutos e 27 segundosdiria que o inglês, gente, é indispensável. Indispensável.
+28:3628 minutos e 36 segundosE aí a gente pensa, né, nessa aquisição de conhecimentos,
+28:4328 minutos e 43 segundosa gente precisa desenvolver algumas habilidades. E aqui são apenas algumas habilidades essenciais.
+28:5328 minutos e 53 segundosA gente tá falando de habilidades que não estamos falando de habilidades especiais para algum tipo de projeto
+29:0029 minutosespecial. A gente tá falando de um bom gestor no geral, precisa saber trabalhar
+29:0829 minutos e 8 segundosem equipe, precisa saber negociar, precisa saber comunicar-se.
+29:1729 minutos e 17 segundosE aí é saber ouvir, saber argumentar.
+29:2229 minutos e 22 segundossaber motivar, diminuir tensões e conflitos, né? Saber o momento de ouvir e o momento
+29:3229 minutos e 32 segundoscerto de falar, usar as palavras adequadamente.
+29:3929 minutos e 39 segundosOutra habilidade, liderar.
+29:4329 minutos e 43 segundosLiderar não é simplesmente você achar que você tem o poder de mandar nos outros.
+29:5029 minutos e 50 segundosIsso não é liderar.
+29:5329 minutos e 53 segundosliderar. É preciso que o outro reconheça a liderança em você.
+30:0330 minutos e 3 segundosIsso é que é importante.
+30:0530 minutos e 5 segundosEntão, a gente pode liderar através do exemplo, a gente pode liderar através da força,
+30:1230 minutos e 12 segundospode, mas não é, no meu entendimento, uma boa estratégia, porque isso gera o tempo todo tensões e conflitos.
+30:2230 minutos e 22 segundosEntão, liderar através da motivação, liderar através do exemplo,
+30:3030 minutos e 30 segundosliderar através do da criação de um ambiente onde cada um possa trazer o que
+30:3830 minutos e 38 segundostem de melhor, trazer aquilo que tem de de mais eh
+30:4530 minutos e 45 segundosrelevante e você ser capaz de conciliar tudo isso.
+30:5130 minutos e 51 segundose extrair de cada um o que ele tem de mais forte e aquilo que ele tem que
+31:0031 minutosainda não é tão forte, você ser capaz de auxiliá-lo para reforçar,
+31:0731 minutos e 7 segundospara melhorar, né, para diminuir esse gap que exista.
+31:1431 minutos e 14 segundosIsso é liderança, gestão de crises, né?
+31:1931 minutos e 19 segundosÉ. Muito comum a gente passar por crises em projetos.
+31:2531 minutos e 25 segundosComo eu disse, lembra que a gente vai tá coordenando, integrando
+31:3331 minutos e 33 segundosuma série de de restrições, uma série de eh
+31:4231 minutos e 42 segundospodemos ter ideias conflitantes, requisitos, não é, que precisam ser priorizados.
+31:5031 minutos e 50 segundosE a gente precisa negociar isso. Então, essas habilidades, essas eh
+31:5731 minutos e 57 segundoscaracterísticas precisam estar presentes em um bom gestor. Então, eu preciso desenvolver isso, né? Ninguém nasce
+32:0532 minutos e 5 segundossabendo liderar, ninguém nasce sabendo negociar, você aprende, né? Existem técnicas, existe também,
+32:1432 minutos e 14 segundosobviamente, a predisposição de cada um de querer fazer isso, de
+32:2032 minutos e 20 segundosbuscar fazer isso, querer mudar, querer adaptar-se, querer evoluir. Então isso também faz
+32:2932 minutos e 29 segundosparte do cabedal de habilidades de um gestor, de
+32:3632 minutos e 36 segundosum gerente, né? O querer, é preciso querer me tornar um bom gestor e não
+32:4432 minutos e 44 segundossimplesmente ocupar um cargo e achar que o cargo, a, digamos, a liturgia do cargo vai me dar esse poder.
+32:5332 minutos e 53 segundosNão vai. Pode até dar durante um tempo por questões hierárquicas, mas a gente precisa também perceber que
+33:0133 minutos e 1 segundocada vez mais a gente tem organizações matriciais.
+33:0833 minutos e 8 segundose não tão hierarquizadas como já [limpando a garganta] tivemos isso mais no passado. Então, hoje a
+33:1533 minutos e 15 segundosgente tem muito mais organizações colaborativas, né? Claro que a gente tem hierarquia
+33:2333 minutos e 23 segundosnuma sequência diretor, um gerente, subordinados, etc. Sim, mas cada vez mais esse esses níveis estão sendo
+33:3233 minutos e 32 segundosachatados e a gente tá tendo uma uma eh organização mais horizontal e menos vertical.
+33:4233 minutos e 42 segundosE o papel do gestor é de saber ler tudo isso e procurar eh adquirir as
+33:5233 minutos e 52 segundoshabilidades eh mais adequadas, né, mais interessantes para o seu trabalho.
+34:0134 minutos e 1 segundoOutra coisa que precisa eh ele precisa conciliar, né, a experiência com as atitudes.
+34:1034 minutos e 10 segundosE aí isso é fundamental para aquele bom desempenho que a gente colocou no slide anterior.
+34:1934 minutos e 19 segundosA experiência dele é importante. É importante, né? Existem gestores, bons gestores,
+34:2934 minutos e 29 segundosque às vezes não tem um conhecimento formal, né? E aí eu tô dizendo sobre as técnicas, as metodologias.
+34:4134 minutos e 41 segundoseh os modelos, até mesmo as ferramentas de gestão.
+34:5034 minutos e 50 segundosele precisa ter o básico, mas às vezes ele não tem tanta profundidade, mas ele tem uma experiência,
+34:5934 minutos e 59 segundosuma vivência e em determinados tipos de gestão de
+35:0535 minutos e 5 segundosprojetos que pode ser um diferencial para que ele conduza isso. Então, o ideal, qual é o ideal?
+35:1735 minutos e 17 segundosé que você tenha uma boa experiência, né, agregada,
+35:2435 minutos e 24 segundosadicionada, integrada a esses conhecimentos que nós eh falamos
+35:3235 minutos e 32 segundospara que seja mais fácil você desenvolver as habilidades que você tem
+35:3935 minutos e 39 segundosdentro do seu portfólio, dentro do seu eh do seu programa de projeto.
+35:4735 minutos e 47 segundosné? E aqui quando a gente fala de experiência, a gente fala seja a experiência em organizações,
+35:5535 minutos e 55 segundosem indústrias diferentes, né? A sua experiência profissional agregada
+36:0336 minutos e 3 segundosa aquilo que você que a gente chama de experiência cultural, os seus valores, né?
+36:1036 minutos e 10 segundosaquilo que você acredita, aquilo que você preza, enquanto
+36:1736 minutos e 17 segundosvalores, enquanto [limpando a garganta] questões importantes para você. Vou dar um exemplo.
+36:2736 minutos e 27 segundosA ética, a ética é uma questão cultural.
+36:3636 minutos e 36 segundosA ética, ninguém bebe um copo de ética. Você adquire isso,
+36:4436 minutos e 44 segundosvocê vivencia isso, você experiencia isso e você pode ou não dar valor a essa questão.
+36:5536 minutos e 55 segundosEntão isso faz de você um profissional com mais ou menos ética
+37:0337 minutos e 3 segundosou respeito, né?
+37:0837 minutos e 8 segundosExistem gestores que são extremamente impositivos e que não abrem muito espaço, por exemplo, para a participação, a
+37:1637 minutos e 16 segundoscolaboração, né, o ouvir o outro.
+37:2237 minutos e 22 segundosTem gestores que têm essa habilidade mais aguçada.
+37:2737 minutos e 27 segundosE eu gosto muito de comparar um bom gestor de projeto, sabe com quê?
+37:3637 minutos e 36 segundoscom o técnico de futebol, porque a gente tem um técnico de [limpando a garganta] futebol, um bom técnico de futebol, é aquele que ele
+37:4537 minutos e 45 segundosconsegue eh com o que ele tem nas mãos tirar o máximo.
+37:5337 minutos e 53 segundosE vocês percebem que cada jogador ele vai ter características diferentes, funções diferentes, né? ele vai
+38:0238 minutos e 2 segundosdesempenhar atividades diferentes e você pode fazer com que isso
+38:1138 minutos e 11 segundoseh seja eh integrado, seja coordenado de forma tal que às vezes um que corre
+38:2138 minutos e 21 segundosmenos, mas tem, sei lá, uma habilidade muito grande de fazer o gol, por exemplo, ele vai marcar menos.
+38:3338 minutos e 33 segundosenquanto o outro que tem a capacidade de correr mais, de marcar, de, né, ele vai desempenhar isso com mais intensidade.
+38:4038 minutos e 40 segundosEntão, uma coisa você vai compensando a outra, você vai extraindo de cada recurso que você tem o máximo
+38:5038 minutos e 50 segundosdentro de um determinado tempo, né, com um determinado objetivo. É, ou não é parecido com o projeto.
+39:0139 minutos e 1 segundoEntão a gente no fundo é como se nós fôssemos técnicos de futebol
+39:0839 minutos e 8 segundose ou de algum esporte coletivo, eh coordenando, né, todos esses aspectos. Claro que ali
+39:1839 minutos e 18 segundosno esporte você tá coordenando basicamente recursos de uma natureza, né, que são recursos humanos. Mas, por exemplo,
+39:2839 minutos e 28 segundospercebam se não existe um momento em que o time ataca mais, o time é mais agressivo ou menos agressivo. Isso é ou
+39:3639 minutos e 36 segundosnão é uma certa eh controle que se tem sobre o tempo
+39:4339 minutos e 43 segundosdaquele empreendimento que é uma partida de futebol?
+39:4939 minutos e 49 segundosEntão você passa a ter alguns recursos, o tempo, os jogadores,
+39:5639 minutos e 56 segundosa estratégia, a tática para juntar tudo isso com o objetivo.
+40:0340 minutos e 3 segundosEntão o gerente de de de projetos, ele vai utilizar também a sua experiência, né, bem como as suas atitudes.
+40:1640 minutos e 16 segundosE aí a gente tá falando as atitudes que são interessantes, adequadas a um bom gerenciamento.
+40:2540 minutos e 25 segundosA proatividade, a motivação, o feedback, né? A gente tá falando aqui de feedback,
+40:3340 minutos e 33 segundosa gente tá falando de comunicação, motivação, a gente tá falando de incentivo,
+40:3940 minutos e 39 segundosde você permitir e estimular que cada recurso seu tenha o máximo de desempenho
+40:4840 minutos e 48 segundose você propiciar isso.
+40:5440 minutos e 54 segundosNo meu entendimento, gente, um gestor de projetos, um um gerente de projetos, ele é muito mais um servidor
+41:0441 minutos e 4 segundospro seu time do que um cobrador de resultados.
+41:0941 minutos e 9 segundosAvalize não avalize se você quando você consegue
+41:1841 minutos e 18 segundosisso, quando você consegue eh proporcionar paraa sua equipe
+41:2641 minutos e 26 segundosum ambiente onde cada um consegue fazer o seu máximo, você não precisa cobrar,
+41:3441 minutos e 34 segundosporque ele naturalmente, o resultado naturalmente vem a proatividade.
+41:3941 minutos e 39 segundosacontece porque cada um sabe, está fazendo o que sabe fazer de melhor e tá sendo estimulado para fazer isso.
+41:5341 minutos e 53 segundosIsso é o mundo ideal, né? Isso é o mundo ideal.
+41:5841 minutos e 58 segundosA gente sabe que muitas vezes os projetos sofrem uma série de restrições, uma série de desafios, uma série de riscos.
+42:0942 minutos e 9 segundosque acontecem, que podem e acontecem, que acabam por pressionar
+42:1742 minutos e 17 segundosde várias maneiras o a execução de um projeto. Então, muitas vezes, eh, essas
+42:2542 minutos e 25 segundospressões de alguma forma são repassadas, por exemplo, paraa equipe de execução,
+42:3342 minutos e 33 segundosseja construindo uma casa, seja desenvolvendo um software, seja implantando uma rede, seja fazendo uma
+42:4242 minutos e 42 segundostransformação digital, uma organização, né, qualquer tipo de projeto, incluir, inclusive e principalmente ente projetos
+42:5242 minutos e 52 segundostecnológicos, né? Ainda mais quando a gente tá falando de tecnologias novas que não tem tanta
+43:0043 minutoseh tanto conhecimento, por exemplo. Então, e desdobrando aqui a nossa fala do
+43:0843 minutos e 8 segundosgerente de de projet de de projetos, a figura do
+43:1643 minutos e 16 segundosfacilitador, tá aqui, né? líder aqui no centro, líder e facilitador,
+43:2543 minutos e 25 segundosné? O líder ele precisa saber para onde ele quer ir e ele precisa saber, ele
+43:3243 minutos e 32 segundosprecisa passar isso muito claramente pro seu time.
+43:3743 minutos e 37 segundosCada um precisa saber o qual o seu papel ali, qual a importância de cada um dentro da equipe.
+43:4843 minutos e 48 segundosE mais interessante chamar isso de equipe, porque muitas vezes são um bando de
+43:5643 minutos e 56 segundospessoas e um bando de pessoas não necessariamente se forma um time, uma equipe
+44:0544 minutos e 5 segundosque colabora, que auxilia, que dá resultados, né? Para isso, você precisa ter um
+44:1344 minutos e 13 segundosgestor auxiliando essa equipe, precisa ter um gestor eh coordenando
+44:2144 minutos e 21 segundosque esses recursos produzam o máximo, sem necessariamente pressioná-los,
+44:2944 minutos e 29 segundossem necessariamente eh diminuí-los ou agredi-los,
+44:3844 minutos e 38 segundosné, como muitas vezes a gente já ouviu, tá? Não tem que ser a base do chicote, tem que ser na base da pressão. O
+44:4644 minutos e 46 segundosresultado só vem quando a gente pressiona. E isso não é necessariamente verdade,
+44:5444 minutos e 54 segundosné? Então, o gerente precisa ter uma relação com a sua equipe de motivação, de comprometimento.
+45:0445 minutos e 4 segundosAfinal de contas, todos estão no mesmo barco, ou pelo menos deveriam estar, ou pelo menos o pensamento
+45:1245 minutos e 12 segundosé que seja esse comprometimento.
+45:1845 minutos e 18 segundosO que eu faço influencia e desrespeito ao que os outros fazem e vice-versa,
+45:2745 minutos e 27 segundosmotivar, gestão de conflitos, né?
+45:3545 minutos e 35 segundosExiste, como a gente fala aqui, existe o imponderável.
+45:3945 minutos e 39 segundosOs conflitos aparecem, as dificuldades aparecem. O ser humano ele é imprevisível. A gente não sabe eh quando
+45:4845 minutos e 48 segundosele tá passando por uma pressão, por um problema. E isso acontece o tempo todo,
+45:5645 minutos e 56 segundosné, com várias pessoas, podem acontecer com várias pessoas na equipe que o gerente precisa estar atento para isso,
+46:0646 minutos e 6 segundospara orientar, para ouvir, né? às vezes é um uma falta de de alguém para ouvir.
+46:1646 minutos e 16 segundosE quando você faz isso, você acaba tirando um, sei lá, um peso
+46:2346 minutos e 23 segundosde alguém e você às vezes ganha um um aliado, né, ou
+46:3146 minutos e 31 segundosuma motivação extra simplesmente porque você ouviu, entendeu, foi empático com alguém no seu time.
+46:4246 minutos e 42 segundosAo invés de você simplesmente dizer: "Poxa, fulano não tá entregando o que precisava, eu vou lá dar uma bronca,
+46:5146 minutos e 51 segundoseu vou lá apertar, vou lá botar uma pressão.
+46:5546 minutos e 55 segundosPera aí, comunica-se, ouve, interage, conversa,
+47:0547 minutos e 5 segundosné? Então tudo isso são técnicas e habilidades que precisam.
+47:1047 minutos e 10 segundosO Ivan taper falando para o planejamento de cronograma, quais as ferramentas podemos utilizar? O Microsoft Project é uma, por exemplo, o Gira. gira. Na
+47:1947 minutos e 19 segundosverdade, você tem existe também, ó, o project, existem algumas ferramentas, smart sheet, pode ser utilizado, Trello, pode ser utilizado.
+47:3047 minutos e 30 segundosO Gira é uma ferramenta, ela é voltada para o controle de das atividades,
+47:3847 minutos e 38 segundosmas não como um cronograma, tá? é mais os tickets que você cria
+47:4547 minutos e 45 segundose principalmente quando você utiliza eh abordagens ágis, o Scrum, por exemplo, é
+47:5447 minutos e 54 segundosque você traz o uma quantidade de atividades, vou chamar de atividades por enquanto, mas são user stories.
+48:0448 minutos e 4 segundosAs atividades são trazidas do backlog, né, que é do, digamos assim, do pacotão.
+48:1248 minutos e 12 segundosE você vai trazendo pro para sprint.
+48:1548 minutos e 15 segundosE aí você agrupa essa sprint e você cria esses tickets, né, esses essa user
+48:2348 minutos e 23 segundosstories num numa ferramenta como gira e você consegue saber eh o status dela, porque ela vai vai migrando num quadro
+48:3348 minutos e 33 segundosde tá aguardando, tá em desenvolvimento, foi testada, foi aprovada, por exemplo, um fluxo básico desse.
+48:4348 minutos e 43 segundosEntão você consegue gerir dessa forma, tá, os tickets, os os
+48:5048 minutos e 50 segundosas atividades nesse sentido. Mas o cronograma, e aí quando a gente fala das atividades, apenas o detalhamento dela,
+48:5948 minutos e 59 segundosdata de início, data final, é mais fácil você tê-las e por exemplo numa ferramenta como project, Microsoft
+49:0849 minutos e 8 segundosProject. E existem algumas ferramentas similares ao project. Tá, você também pode usar o Trelo, por exemplo. Eu já
+49:1649 minutos e 16 segundosusei essas duas, Trel Smart Sheet e usava muito, muito Microsoft Project.
+49:2649 minutos e 26 segundosrespondeu, né? Me diz aí se respondeu.
+49:3049 minutos e 30 segundosEntão vamos seguir aqui, né? E aí, gente, uma habilidade ou uma grande habilidade,
+49:3949 minutos e 39 segundoscomo a gente falou ali que é a gestão das pessoas. os chamados stakeholders.
+49:4649 minutos e 46 segundosStakeholders no jargão aí de projeto são as partes interessadas
+49:5249 minutos e 52 segundose que, entre aspas, patrocinam o projeto, né? são aquelas pessoas que
+50:0150 minutos e 1 segundoeh querem que o projeto saia, aquela parte que vai ser beneficiada com aquele resultado, é aquele cara que vai eh
+50:1150 minutos e 11 segundosparticipar definindo coisas do projeto. Então imagine um sistema,
+50:2050 minutos e 20 segundospensando aqui no gesto num projeto tecnológico, o desenvolvimento de um, sei lá,
+50:2750 minutos e 27 segundosde um sistema de cobrança dentro de uma organização. Então, por exemplo, vai ter
+50:3350 minutos e 33 segundosuma área de cobrança. Certamente o gestor dessa área de cobrança é um stakeholder, é alguém interessado.
+50:4450 minutos e 44 segundosgerente eh, que faz o processo de cobrança também é um stakeholder. Então, o
+50:5150 minutos e 51 segundosdiretor é um stakeholder, o gerente é um stakeholder, o analista que faz lá o papel técnico, o analista
+50:5950 minutos e 59 segundostécnico que faz a cobrança em si, sei lá, também pode ser um stakeholders,
+51:0651 minutos e 6 segundosporque ele vai, por exemplo, falar do processo que ele desempenha e por aí vai, né? Então, existem
+51:1551 minutos e 15 segundosuma série de de pessoas que participam de alguma forma, tem algum interesse naquele projeto.
+51:2651 minutos e 26 segundosOs os usuários, vamos chamar assim, né?
+51:3051 minutos e 30 segundossão certamente stakeholders, mas você tem, por exemplo,
+51:3651 minutos e 36 segundosa equipe de qualidade da sua empresa que vai verificar a saída do seu
+51:4351 minutos e 43 segundosprojeto, são stakeholders, a área financeira que está patrocinando
+51:5151 minutos e 51 segundosesse projeto, né, que está financiando esse projeto, tá gastando com esse projeto.
+52:0052 minutospode ser um stakeholder e você tem que, entre aspas, prestar contas a ele, percebe?
+52:0852 minutos e 8 segundosEntão, stakeholders são as partes interessadas e no projeto participam de alguma forma,
+52:1652 minutos e 16 segundosseja na definição, seja na validação, eh seja na [limpando a garganta] no teste,
+52:2552 minutos e 25 segundosné, do seu projeto, daquilo que vai ser entregue. Eles contribuem para as entregas, né?
+52:3452 minutos e 34 segundosEntão, todo mundo que valida de alguma forma, que contribui, que participa
+52:4252 minutos e 42 segundosdesse projeto e que influencia. Então você tem uma série de diferentes pessoas, diferentes
+52:5252 minutos e 52 segundosstakeholders participando, influenciando, trabalhando,
+52:5952 minutos e 59 segundoseh contribuindo paraa execução do seu projeto
+53:0753 minutos e 7 segundose comunicar com essa galera toda com esses diferentes níveis, diferentes tipos. né?
+53:1653 minutos e 16 segundosVocê conversar com o diretor geral financeiro de uma organização,
+53:2653 minutos e 26 segundosé diferente de você conversar com, sei lá, o atendente da loja que executa a
+53:3453 minutos e 34 segundosvenda de um produto, né? Então são stakeholders diferentes,
+53:4153 minutos e 41 segundossão pessoas diferentes, são públicos diferentes e muitas vezes você tem que comunicar com essas pessoas.
+53:5153 minutos e 51 segundosE quando a comunicação é problemática, quando ela não é clara,
+53:5853 minutos e 58 segundosquando ela não é assertiva, quando existe alguma falha, ela pode gerar uma série de
+54:0754 minutos e 7 segundosquestões, né, eu diria, de problemas no seu projeto.
+54:1254 minutos e 12 segundosVocê pode ter o desalinhamento de expectativas entre equipe, cliente, stakeholders, fornecedores.
+54:2354 minutos e 23 segundosAh, mas eu pensei que o que você quis dizer era isso.
+54:2954 minutos e 29 segundosAh, mas eu entendi que era, vocês já ouviram essas frases? Isso são o quê?
+54:3754 minutos e 37 segundosDesalinhamentos, né? falhas na comunicação e que isso pode gerar expectativas falsas,
+54:4554 minutos e 45 segundosexpectativas desalinhadas com a realidade.
+54:4954 minutos e 49 segundosAlém disso, falhas na comunicação podem gerar erros e retrabalhos
+54:5754 minutos e 57 segundosdevido a informações incompletas, incorretas, né? Talvez eu não tenha esclarecido exatamente o que eu queria.
+55:0855 minutos e 8 segundosE aí produto feio pela metade e ele tá fazendo algo de uma forma equivocada
+55:1655 minutos e 16 segundosporque eu esqueci de como fazer um detalhezinho lá que fazia uma diferença enorme.
+55:2455 minutos e 24 segundosIsso tudo pode gerar atrasos no cronograma, retrabalho com certeza, né? atrasos no cronograma, aumento de
+55:3255 minutos e 32 segundoscustos do meu projeto. Se eu tô atrasando, o pessoal ia gastar 40 horas, agora vai
+55:4055 minutos e 40 segundosgastar mais 20 para corrigir alguma coisa ou refazer algo,
+55:4655 minutos e 46 segundosporque o requisito foi entendido errado,
+55:5255 minutos e 52 segundosfoi comunicado equivocadamente com falhas, com gaps,
+56:0156 minutos e 1 segundoconflitos na equipe. Pode ocasionar conflitos na equipe, né? uma fala mal colocada, uma frase
+56:0856 minutos e 8 segundosmeio torta, acaba por gerar conflito da equipe, desconfiança, né?
+56:1956 minutos e 19 segundosUma certa rebeldia e falta de colaboração,
+56:2656 minutos e 26 segundospode gerar decisões equivocadas. Eu não eu não fiz por maldade, mas eu fiz por desconhecimento de algo que a comunicação falhou.
+56:3856 minutos e 38 segundosE aí eu tomei uma decisão que era importantíssima, mas eu não tinha todo o
+56:4556 minutos e 45 segundoso a comunicação, não tinha todo o aquilo que eu precisava. Tomei uma decisão errada
+56:5356 minutos e 53 segundose por aí vai. Problemas de qualidade, né? Acabei de falar sobre a questão dos requisitos.
+56:5956 minutos e 59 segundoseh que não são bem compreendidos, bem esclarecidos e isso pode gerar até o fracasso um
+57:0757 minutos e 7 segundosprojeto. Então, comunicação é algo muito importante na gestão de um projeto.
+57:1557 minutos e 15 segundosAqui a gente fala do da importância ainda dos stakeholders, né? E a comunicação com eles é fundamental.
+57:2557 minutos e 25 segundosa gente sabe que eles vão ter uma influência principalmente no início do projeto,
+57:3257 minutos e 32 segundosné? Mas quando o projeto deslancha, quando o projeto toma cor,
+57:3957 minutos e 39 segundosa influência ela acaba diminuindo, né? E o que que pesa?
+57:4657 minutos e 46 segundoso dinheiro, o custo. Então, cada vez mais os custos
+57:5457 minutos e 54 segundosreferentes a mudanças é que vão fazer diferença. Então, gente,
+58:0158 minutos e 1 segundoé muito importante que exista uma comunicação muito fluida,
+58:0858 minutos e 8 segundosuma comunicação muito adequada, muito preparada, muito bem pensada
+58:1758 minutos e 17 segundose clara, sabe? comunicação clara com os stakeholders,
+58:2658 minutos e 26 segundosporque tudo aquilo que você faz e comunica bem e todo mundo tem ciência,
+58:3358 minutos e 33 segundosa probabilidade de você descobrir problemas que estão escondidos é bem menor.
+58:4458 minutos e 44 segundosSe você deixa tudo as claras, né, você como gestor do projeto, você, por exemplo, tem conflitos que podem ter e é normal que tenham.
+58:5858 minutos e 58 segundosSe o gerente tiver stakeholders com experiências e de confiança, facilita a entrega total, total,
+59:0759 minutos e 7 segundosné? Então assim, a gente sabe muitas vezes que existem projetos que vão,
+59:1459 minutos e 14 segundosdigamos assim, mexer com o status de algumas pessoas,
+59:2259 minutos e 22 segundosné? Eu eu, por exemplo, tenho uma experiência em em banco e a gente sabia que alguns processos,
+59:3159 minutos e 31 segundosprincipalmente processos de empréstimos, isso há muito tempo, não vou dizer muito tempo para não para não revelar aqui minha idade, mas na década de 90.
+59:4359 minutos e 43 segundosE esses processos meio que ficava na mão de diretores,
+59:5159 minutos e 51 segundosné, de de gestores, gestor geral. E esses caras é que entre
+59:5759 minutos e 57 segundosaspas detinham o poder de avaliar, balizar determinados empréstimos. Isso
+1:00:051 hora e 5 segundosdava um poder muito grande às pessoas, né, pros amigos.
+1:00:131 hora e 13 segundostudo para quem ele não gostava ou para quem então ficava algo muito pessoal.
+1:00:191 hora e 19 segundosIsso paraa empresa não é bom porque a empresa vive a questão de
+1:00:251 hora e 25 segundosriscos, né? Ele poderia, por exemplo, por amizade, liberar um empréstimo
+1:00:341 hora e 34 segundoscom grande risco, mas era um amigo dele, e negar um empréstimo para uma pessoa, um pagador excelente,
+1:00:431 hora e 43 segundosmas que ele, por exemplo, não tinha, não gostou, não tinha confiança. Percebe? apenas um exemplo.
+1:00:511 hora e 51 segundosE a gente, eu, eu percebi, por exemplo, num determinado projeto que nós fizemos que esse poder ia diminuir bastante,
+1:00:591 hora e 59 segundosporque a gente ia automatizar uma série de regras, o processo não ia ficar tão manual, ia ficar muito mais
+1:01:081 hora, 1 minuto e 8 segundosautomatizado, isso tirava o poder dele.
+1:01:131 hora, 1 minuto e 13 segundosEntão, o que que ele fazia? ele de alguma forma tentava meio que atrasar o projeto, sabotar o projeto, né? Um
+1:01:221 hora, 1 minuto e 22 segundosstakeholders, um stakeholder importante que era o cara que era o diretor do processo de empréstimo, no caso da época era empréstimos para microempresas.
+1:01:351 hora, 1 minuto e 35 segundosEntão ele tinha essa influência quando a gente mapeou tudo e começamos a deixar tudo visível.
+1:01:451 hora, 1 minuto e 45 segundose, por exemplo, publicar atas em que ele, por exemplo, negava determinadas situações, ele começou a
+1:01:541 hora, 1 minuto e 54 segundosver que, epa, pera aí, o que eu tô falando aqui tá sendo exposto.
+1:01:591 hora, 1 minuto e 59 segundosEle aí começou a voltar atrás, começou a ser mais colaborativo, sabe? Mudou totalmente a postura. Por quê?
+1:02:071 hora, 2 minutos e 7 segundosvisibilidade.
+1:02:091 hora, 2 minutos e 9 segundosNós demos visibilidade através da comunicação daquilo que estava acontecendo.
+1:02:151 hora, 2 minutos e 15 segundosA gente começou a fazer reporte do projeto, ó, tá faltando isso, isso e isso porque
+1:02:221 hora, 2 minutos e 22 segundosE aí sempre botava no colo dele o problema, porque ele tava segurando as coisas. Aí quando isso começar a ter visibilidade,
+1:02:301 hora, 2 minutos e 30 segundoseu quero dizer: "Pera aí, os diretores estão querendo, não vai ser esse gerente lá que vai." Então ele começou a ser
+1:02:381 hora, 2 minutos e 38 segundosmais colaborativo, mas daquele jeito, né?
+1:02:431 hora, 2 minutos e 43 segundosE a gente precisava, ó, negociar com tudo isso para que o projeto saísse. Então, é bem
+1:02:501 hora, 2 minutos e 50 segundoscomplexo. Gestão de projetos envolve uma série de nuances que a gente precisa ler direitinho.
+1:03:001 hora e 3 minutosE aqui algumas coisas que a gente precisa, né, o gestor, um bom gestor de projetos precisa ter em mente, planejar,
+1:03:081 hora, 3 minutos e 8 segundosplanejar, planejar, né? Então, quanto mais
+1:03:151 hora, 3 minutos e 15 segundosefetivo, quanto mais detalhado é o seu planejamento, em tese,
+1:03:211 hora, 3 minutos e 21 segundosmais sucesso ou probabilidade de sucesso você vai ter. Então, a gente busca
+1:03:281 hora, 3 minutos e 28 segundossempre trazer estimativas mais realistas, trazer algo mais próximo daquilo que a gente eh espera encontrar.
+1:03:411 hora, 3 minutos e 41 segundosné? Prazos, custos.
+1:03:441 hora, 3 minutos e 44 segundosEntão não adianta querer agradar a ABC dizer: "Não, o projeto vai ser barato,
+1:03:521 hora, 3 minutos e 52 segundosse ele realmente vai custar algo mais caro, ele tem que espelhar isso.
+1:03:581 hora, 3 minutos e 58 segundosSe o prazo realmente é de 6 meses, tecnicamente você fazendo isso, né,
+1:04:061 hora, 4 minutos e 6 segundosexplicando, justificando os porquês, não adianta você botar de três meses para querer agradar o presidente da empresa,
+1:04:151 hora, 4 minutos e 15 segundosse efetivamente ele vai, ele vai demorar 6 meses e isso é preciso ser bancado.
+1:04:221 hora, 4 minutos e 22 segundosDaí é preciso que você tenha estofo, né?
+1:04:261 hora, 4 minutos e 26 segundospreciso que você tenha conhecimento, é preciso que você tenha justificativas, tudo aquilo que a gente falou, né?
+1:04:351 hora, 4 minutos e 35 segundosCapacidade, habilidade para você defender e justificar os seus projetos, o seu planejamento.
+1:04:441 hora, 4 minutos e 44 segundosTransparência, ó, tô acabando de falar, né? A transparência fundamental, principalmente nas comunicações que a gente tá tá gerando.
+1:04:561 hora, 4 minutos e 56 segundosRecursos humanos.
+1:04:581 hora, 4 minutos e 58 segundosPreciso que a gente planeje muito bem a equipe, as competências dessa equipe,
+1:05:051 hora, 5 minutos e 5 segundosné? Pensar, por exemplo, será que eu preciso capacitar o meu pessoal?
+1:05:131 hora, 5 minutos e 13 segundosSerá que as pessoas que estão designadas para aquela para aquele projeto tem a
+1:05:221 hora, 5 minutos e 22 segundoscapacidade para realizar as atividades que elas estão que elas estão aguardando?
+1:05:301 hora, 5 minutos e 30 segundosEntão, é importante a gente planejar essa questão de recursos humanos. Muito bem.
+1:05:381 hora, 5 minutos e 38 segundosPlanejamento dos recursos materiais.
+1:05:411 hora, 5 minutos e 41 segundosQual a infraestrutura que eu preciso, equipamentos que eu vou ter? No caso da gente, que a gente tá falando de
+1:05:501 hora, 5 minutos e 50 segundosprojetos tecnológicos, desenvolvimento de software, quais licenças de software eu vou ter, vou necessitar?
+1:05:591 hora, 5 minutos e 59 segundosQuais equipamentos eu preciso adquirir? Algum equipamento específico para alguma fase do meu
+1:06:081 hora, 6 minutos e 8 segundosprojeto? Eu vou comprar ou eu vou alugar.
+1:06:141 hora, 6 minutos e 14 segundosEntão são decisões que um bom planejamento vai dizer.
+1:06:191 hora, 6 minutos e 19 segundosé uma análise antes de eu executar, porque na hora que eu fui executar, eu já tenho isso pensado, eu já tenho isso planejado.
+1:06:301 hora, 6 minutos e 30 segundosEntão, não vou perder tempo nem correr o risco de tomar uma decisão mal pensada, porque eu já fiz um planejamento.
+1:06:411 hora, 6 minutos e 41 segundosEntão, planejar é importantíssimo.
+1:06:441 hora, 6 minutos e 44 segundosPlanejar e estimar é importantíssimo na gestão de projetos.
+1:06:511 hora, 6 minutos e 51 segundosA antecipação de riscos. Planejamento precisa levar em consideração
+1:06:581 hora, 6 minutos e 58 segundosquais os riscos em potencial podem atingir esse projeto,
+1:07:051 hora, 7 minutos e 5 segundosné? e identificar riscos é uma necessidade,
+1:07:121 hora, 7 minutos e 12 segundosprincipalmente quando você tem eh projetos de iniciativas
+1:07:201 hora, 7 minutos e 20 segundosmeio desconhecidas, tecnologias novas, né? Quando eu não sei exatamente onde eu
+1:07:271 hora, 7 minutos e 27 segundosestou pisando, existem aqueles projetos que estão meio exploratórios, né? vou desenvolver algo aqui que eu não sei exatamente o que que vai ser.
+1:07:401 hora, 7 minutos e 40 segundosEu tenho uma série de riscos que envolvem isso. Então, se eu tenho essa
+1:07:461 hora, 7 minutos e 46 segundoscapacidade de identificar esses riscos avaliando o quê? A probabilidade
+1:07:541 hora, 7 minutos e 54 segundosde dele acontecer e o impacto disso.
+1:08:021 hora, 8 minutos e 2 segundosOK? Eu tenho um projeto que eu vou trabalhar com 100 pessoas.
+1:08:071 hora, 8 minutos e 7 segundosEu tenho um risco de perder duas, duas pessoas num contingente de 100, eu
+1:08:151 hora, 8 minutos e 15 segundosconsigo superar isso. Vou criar um eu vou trabalhar com um projeto de cinco
+1:08:221 hora, 8 minutos e 22 segundospessoas e eu tenho um risco muito grande de duas delas irem embora. É um risco grande, é um impacto grande. Percebem?
+1:08:321 hora, 8 minutos e 32 segundosEntão, esse determinado recurso, que é o recurso humano, eu tenho um risco. Como é que eu vou fazer?
+1:08:411 hora, 8 minutos e 41 segundosEu já tenho que ter pensado aqui, eu tenho que estar monitorando isso o tempo todo, né? Eu tenho que tentar antecipar
+1:08:511 hora, 8 minutos e 51 segundosa minha análise para poder dentro desse espectro aqui, ó, a de análise e
+1:09:001 hora e 9 minutospriorização, atuar adequadamente, né, gerar um plano de contingência
+1:09:091 hora, 9 minutos e 9 segundosde atividades para resolver mitigar aquele risco.
+1:09:171 hora, 9 minutos e 17 segundosTá? Quanto mais cedo eu tenho essa visão, quanto mais e isso aqui eu preciso,
+1:09:241 hora, 9 minutos e 24 segundosgente, monitorar o tempo todo, aquela ideia de que isso aqui é vivo, isso aqui começa lá no planejamento, mas
+1:09:331 hora, 9 minutos e 33 segundospercorre todas as fases do meu projeto até eu encerrá-lo, né?
+1:09:401 hora, 9 minutos e 40 segundosAntecipação de riscos. uma das questões importantíssimas que um bom gestor precisa realizar.
+1:09:521 hora, 9 minutos e 52 segundosMudança de escopo. Aqui eu diria que é o calo, é o calo da gestão de projetos.
+1:10:021 hora, 10 minutos e 2 segundosSe tem uma verdade que eu aprendi nessa minha esses 30 anos de experiência na área de TI,
+1:10:101 hora, 10 minutos e 10 segundos20, pelo menos 20 delas como gestor de TI, é que mudança vai acontecer o tempo todo.
+1:10:201 hora, 10 minutos e 20 segundos[roncando] Seja uma mudança do requisito, seja uma mudança de prioridade, seja uma mudança da regra
+1:10:281 hora, 10 minutos e 28 segundosde governo, seja uma mudança na estratégia da empresa,
+1:10:341 hora, 10 minutos e 34 segundosseja uma mudança no na competitividade, na concorrência, enfim.
+1:10:411 hora, 10 minutos e 41 segundosEntão, mudanças elas vão ocorrer e elas vão impactar o seu projeto. E você
+1:10:481 hora, 10 minutos e 48 segundosprecisa ter um processo, um fluxo mínimo, mínimo para lidar com essas mudanças.
+1:10:591 hora, 10 minutos e 59 segundosNão adianta a gente querer negar mudanças. Um bom gestor é capaz de
+1:11:051 hora, 11 minutos e 5 segundosabsolver as mudanças, dimensionar o escop dessas mudanças,
+1:11:131 hora, 11 minutos e 13 segundosavaliar os impactos, propor alternativas e aí sim avaliar a melhor decisão, tomar
+1:11:221 hora, 11 minutos e 22 segundosa maior melhor decisão, sempre com o foco no seu objetivo do projeto,
+1:11:311 hora, 11 minutos e 31 segundossempre mudanças no negócio vão acontecer.
+1:11:351 hora, 11 minutos e 35 segundosEntão, é preciso que eu avalie o impacto.
+1:11:391 hora, 11 minutos e 39 segundosEu vou precisar refazer atividades. Isso vai gerar novos riscos.
+1:11:491 hora, 11 minutos e 49 segundosIsso vai aumentar o meu tempo de execução do projeto, essa mudança
+1:11:561 hora, 11 minutos e 56 segundosque pode ser uma mudança que eu nem comecei a fazer e eu vou fazer lá na frente, então não tem grandes impactos, mas pode ser uma mudança estrutural.
+1:12:091 hora, 12 minutos e 9 segundosPode ser que eu tenha construído já eh uma base
+1:12:171 hora, 12 minutos e 17 segundose agora eu precisa reforçar essa base ou refazer ou ampliar essa base para daí
+1:12:251 hora, 12 minutos e 25 segundoscontinuar. Percebem? Então, é importante que exista uma um fluxo de atividades de
+1:12:331 hora, 12 minutos e 33 segundosprocesso que o gestor avalie a mudança, avalie os impactos,
+1:12:411 hora, 12 minutos e 41 segundoselabore quais são as alternativas, né? Proponha as alternativas e, principalmente
+1:12:501 hora, 12 minutos e 50 segundosadquira ou consiga a validação ou OK.
+1:12:581 hora, 12 minutos e 58 segundospara a implementação daquela mudança.
+1:13:011 hora, 13 minutos e 1 segundoIsso é fundamental. Então, todo gestor precisa fazer isso e comunicar claramente
+1:13:081 hora, 13 minutos e 8 segundostudo isso, conseguindo o as aprovações que são necessárias.
+1:13:161 hora, 13 minutos e 16 segundosEntão, isso eh essa capacidade de você lidar com mudanças é fundamental.
+1:13:241 hora, 13 minutos e 24 segundosA grande maioria não quer mexer.
+1:13:271 hora, 13 minutos e 27 segundosA grande maioria não quer que mude sendo feito ou que já foi feito. Só que muitas
+1:13:331 hora, 13 minutos e 33 segundosvezes é necessário e a gente precisa ter ciência disso, né? E a muitas vezes essas mudanças
+1:13:421 hora, 13 minutos e 42 segundostrazem consigo uma série de conflitos e aí vai puxar sua capacidade de
+1:13:501 hora, 13 minutos e 50 segundosnegociação e a depender do conflito que você consiga gerir a crise gerada por aquele conflito.
+1:14:021 hora, 14 minutos e 2 segundosEntão isso são habilidades de um bom gestor.
+1:14:081 hora, 14 minutos e 8 segundosmudança de escopa, gerenciamento de escopa e mudanças.
+1:14:131 hora, 14 minutos e 13 segundosO monitoramento, a gente falou aqui, né, é uma necessidade
+1:14:211 hora, 14 minutos e 21 segundosdo tempo todo e de todos os todos os aspectos, né? Eu preciso monitorar o meu
+1:14:271 hora, 14 minutos e 27 segundospessoal, eu preciso monitorar o meu orçamento, eu preciso monitorar os meus
+1:14:341 hora, 14 minutos e 34 segundosprazos, eu preciso monitorar os meus riscos. Eu preciso estar atento à qualidade do que
+1:14:431 hora, 14 minutos e 43 segundoseu estou entregando. Olhe quanta coisa, gente. O gestor precisa se preocupar.
+1:14:501 hora, 14 minutos e 50 segundosEle precisa verificar o progresso para comunicar esse progresso e quando tiver atraso, justificar esse atraso.
+1:15:011 hora, 15 minutos e 1 segundoE se ele tiver de pedir mais orçamento, mais dindim,
+1:15:071 hora, 15 minutos e 7 segundosporque determinado atividade extrapolou o custo estimado. E agora para concluir eu preciso de um reforço no orçamento.
+1:15:201 hora, 15 minutos e 20 segundosEntão eu preciso estar monitorando isso no dia a dia. O dia a dia é maneira de falar, não é?
+1:15:261 hora, 15 minutos e 26 segundosPode ser diário, sim, pode ser semanal, né? E comunicar.
+1:15:361 hora, 15 minutos e 36 segundosÉ importante a gente estar sempre preparado para comunicar ser mesmo aquelas aquelas
+1:15:431 hora, 15 minutos e 43 segundosaqueles desvios, né? Aquelas aqueles problemas que ninguém quer
+1:15:501 hora, 15 minutos e 50 segundosser o portador. Mas um gestor sério, um gestor competente
+1:15:571 hora, 15 minutos e 57 segundosprecisa manter seus seus stakeholders muito bem informados.
+1:16:051 hora, 16 minutos e 5 segundosné? Seja com notícias boas de progresso dentro do esperado, antecipação, porque tem a parte boa também, eu
+1:16:141 hora, 16 minutos e 14 segundosconseguir antecipar uma antig, né? É complicado.
+1:16:201 hora, 16 minutos e 20 segundosQuando você antecipa muito determinada coisa, pode ser que você tenha estimado errado.
+1:16:281 hora, 16 minutos e 28 segundosOlha que outra preocupação a gente precisa ter. Você estimou que uma atividade ia demorar
+1:16:351 hora, 16 minutos e 35 segundos40 dias, a equipe fez em 10. Significa o quê?
+1:16:411 hora, 16 minutos e 41 segundosAh, minha equipe [limpando a garganta] é maravilhosa. Será?
+1:16:471 hora, 16 minutos e 47 segundosSerá que você não errou na estimativa de 40?
+1:16:531 hora, 16 minutos e 53 segundosAlguma coisa é muito discrepante, né? Até isso, esses desvios mesmo que a
+1:17:001 hora e 17 minutosgente só pensa quando atrasa, né? Mas quando a gente antecipa muito alguma coisa, a gente precisa
+1:17:081 hora, 17 minutos e 8 segundosreverso planejamento, a gente precisa rever as estimativas.
+1:17:151 hora, 17 minutos e 15 segundosEntão, a gente eh [limpando a garganta] ao monitorar a gente tá buscando sempre melhorar,
+1:17:251 hora, 17 minutos e 25 segundosné? O monitoramento ele serve para que a gente possa evoluir, melhorar cada vez mais os
+1:17:331 hora, 17 minutos e 33 segundosnossos processos, nossas estimativas, né? Que a gente possa adequar cada vez mais aquilo que a gente pensou.
+1:17:451 hora, 17 minutos e 45 segundosaquilo que a gente planejou, aquilo que a gente estimou, trazendo para um melhor alinhamento, né?
+1:17:531 hora, 17 minutos e 53 segundosA gente fala, ó, trazendo pros trilhos novamente. Então, para que eu possa trazer para o trilho, eu preciso
+1:18:021 hora, 18 minutos e 2 segundosmonitorar se em algum momento está saindo dos trilhos.
+1:18:061 hora, 18 minutos e 6 segundosEntão essa fase de monitoramento e essa habilidade disso é muito importante. Obviamente que
+1:18:141 hora, 18 minutos e 14 segundosaqui a gente vai precisar de uma série de ferramentas, né, uma série de de
+1:18:231 hora, 18 minutos e 23 segundoseh técnicas também pra gente avaliar eh execução de atividades,
+1:18:311 hora, 18 minutos e 31 segundoso custo do realizado, do previsto, ferramentas que a gente consiga eh
+1:18:391 hora, 18 minutos e 39 segundosmostrar o que já foi realizado facilmente.
+1:18:431 hora, 18 minutos e 43 segundosné, atividades que sejam eh combinadas
+1:18:501 hora, 18 minutos e 50 segundoseh entre as equipes e que são visivelmente eh notadas para que a gente possa colocar isso em relatórios, etc, etc.
+1:19:031 hora, 19 minutos e 3 segundosE aí a segunda parte, né, a gente monitora exatamente para quê? para corrigir, para evoluir, para melhorar controle e ações
+1:19:121 hora, 19 minutos e 12 segundoscorretivas, né? Então, quando eu controlo, quando eu monitoro, eu tenho uma visibilidade.
+1:19:191 hora, 19 minutos e 19 segundosQuando eu controlo, eu vou agir perante os problemas, né? E aí eu posso fazer isso preventivamente, que seria o
+1:19:291 hora, 19 minutos e 29 segundosideal. Eu estou percebendo que os meus custos estão eh aumentando por determinada situação.
+1:19:411 hora, 19 minutos e 41 segundosEntão, antes de eu esperar que o meu custo chegue no nível elevadíssimo, eu vou estabelecer uma ação corretiva
+1:19:501 hora, 19 minutos e 50 segundospara, entre aspas, estancar aquele sangramento, né? Eu vou gerar um
+1:19:581 hora, 19 minutos e 58 segundosplano, seja um plano de ação, seja um, talvez eu precise de uma aquisição de algo,
+1:20:061 hora, 20 minutos e 6 segundostalvez seja um remanejamento de recursos, enfim, eu vou ajustar,
+1:20:141 hora, 20 minutos e 14 segundoscorrigir a rota para prever ou prevenir, melhor dizendo, prevenir que eh custos
+1:20:241 hora, 20 minutos e 24 segundosmais elevados acabem eh atingindo ainda mais o o projeto. É um exemplo.
+1:20:341 hora, 20 minutos e 34 segundosEntão, essa atividade de controlar e agir corretivamente também acontece
+1:20:431 hora, 20 minutos e 43 segundosquando são projetos mais eh curtos.
+1:20:491 hora, 20 minutos e 49 segundosEsse tipo de atividade, ela precisa ter uma uma periodicidade também mais curta.
+1:20:551 hora, 20 minutos e 55 segundosné? Eu posso ter um projeto estimado em um ano, como eu posso ter um projeto estimado em um mês de execução, por exemplo.
+1:21:061 hora, 21 minutos e 6 segundosObviamente que o monitoramento de um ano é diferente de eu fazer o monitoramento para algo de um porque vai durar um mês.
+1:21:141 hora, 21 minutos e 14 segundosEu preciso estar ali muito mais atento. Por quê?
+1:21:171 hora, 21 minutos e 17 segundos2 dias, 3 dias, eh, dentro de um projeto que dura um
+1:21:251 hora, 21 minutos e 25 segundosmês, tem um peso, né? Dois dias, três dias num projeto que dura um ano tem
+1:21:331 hora, 21 minutos e 33 segundosoutro peso, né? a possibilidade de correção de recuperação no projeto de um ano é muito
+1:21:411 hora, 21 minutos e 41 segundosmaior, considerando 2 tr dias dentro do meu prazo. Percebem? Então, tudo isso
+1:21:481 hora, 21 minutos e 48 segundostambém precisa ser adequado ao contexto, as características de cada projeto.
+1:21:571 hora, 21 minutos e 57 segundosQuem faz isso? O gerente de projetos. Eu vi aqui que ninguém colocou aqui um exemplo, ninguém falou se é gerente de
+1:22:061 hora, 22 minutos e 6 segundosprojeto, ninguém colocou nenhuma atividade ou atividade,
+1:22:131 hora, 22 minutos e 13 segundosalguma [limpando a garganta] eh ocorrência, alguma algum caso que tenha
+1:22:201 hora, 22 minutos e 20 segundosvivido. Gostaria de contar aqui pra turma alguma experiência interessante que vocês viveram no âmbito
+1:22:291 hora, 22 minutos e 29 segundosaí da gestão de projetos. seja gerenciando um projeto, seja como parte gerenciada desse projeto.
+1:22:401 hora, 22 minutos e 40 segundosTraga aí, traga aí algumas questões interessantes pra gente colocar aqui e falar.
+1:22:491 hora, 22 minutos e 49 segundosE aí eu diria como síntese desse nosso desse nosso dia de hoje, né?
+1:22:591 hora, 22 minutos e 59 segundosÉ aí a tônica do do gestor, planejar, organizar,
+1:23:081 hora, 23 minutos e 8 segundosdirigir ou executar, né, como queiram, monitorar e controlar.
+1:23:181 hora, 23 minutos e 18 segundosEntão, tudo isso atuando com habilidades de liderança
+1:23:271 hora, 23 minutos e 27 segundosjunto à sua equipe, utilizando conhecimentos
+1:23:341 hora, 23 minutos e 34 segundostécnicos, conhecimentos de gestão, conhecimentos de boa comunicação,
+1:23:441 hora, 23 minutos e 44 segundoslidando com diferentes tipos e perfis de stakeholders, respeitando a todos
+1:23:541 hora, 23 minutos e 54 segundoseles, levando em consideração a priorização que cada um deles faz, né,
+1:24:031 hora, 24 minutos e 3 segundostendo o discernimento de focar sempre no resultado que você precisa entregar,
+1:24:121 hora, 24 minutos e 12 segundosno resultado com qualidade do que vocês precisam entregar.
+1:24:191 hora, 24 minutos e 19 segundosEntão, é uma missão difícil, é uma missão complexa
+1:24:271 hora, 24 minutos e 27 segundose é uma carreira maravilhosa que eu
+1:24:331 hora, 24 minutos e 33 segundosjá sigo aí há alguns anos e acho que exige
+1:24:411 hora, 24 minutos e 41 segundoscapacitação técnica, como eu disse, né, e conhecimento, mas eu diria que hoje Hoje
+1:24:491 hora, 24 minutos e 49 segundoseu posso afirmar de carteirinha que a questão da gestão das pessoas,
+1:24:561 hora, 24 minutos e 56 segundosdas emoções, da do ambiente colaborativo,
+1:25:051 hora, 25 minutos e 5 segundosda comunicação e do feedback, proativos, isso tudo faz muito mais diferença.
+1:25:151 hora, 25 minutos e 15 segundosa gente ter a empatia, a gente ter o respeito, a gente ter o cuidado.
+1:25:221 hora, 25 minutos e 22 segundosE eu diria que a, eu vou chamar, vou dizer uma palavra aqui, talvez seja a humildade
+1:25:301 hora, 25 minutos e 30 segundosde se entender muito mais um facilitador, muito mais um servidor
+1:25:391 hora, 25 minutos e 39 segundosdo seu time do que um alguém que cobra, que exige,
+1:25:471 hora, 25 minutos e 47 segundossabe? que eh empurra o time,
+1:25:531 hora, 25 minutos e 53 segundoseu diria que é mais é muito mais sobre incentivar,
+1:26:011 hora, 26 minutos e 1 segundoé muito mais sobre motivar do que exigir e cobrar.
+1:26:081 hora, 26 minutos e 8 segundosEh, é a visão que eu tenho sobre liderança, é a visão que eu tenho que acho que todo gestor de projetos
+1:26:171 hora, 26 minutos e 17 segundosele deveria cumprir, né, eles eles saber lidar com esse aspecto
+1:26:251 hora, 26 minutos e 25 segundoscom as pessoas, né, principalmente quando estiver comunicando, conversando, dirimindo dúvidas, negociando.
+1:26:381 hora, 26 minutos e 38 segundosgerindo crises e conflitos.
+1:26:421 hora, 26 minutos e 42 segundosComunicação assertiva clara é super importante.
+1:26:491 hora, 26 minutos e 49 segundosE aqui três reflexões, né? Eu acabei meio que respondendo aqui a minha opinião da reflexão um, né?
+1:27:021 hora, 27 minutos e 2 segundosO Juliano tá dizendo que trabalha com a parte de gestão de não conformidades e controle de documentos, sistema SGQ, né,
+1:27:101 hora, 27 minutos e 10 segundossistema de gestão de qualidade, auditorias internas de qualidade. Eu já trabalhei interagindo muito com pessoas
+1:27:181 hora, 27 minutos e 18 segundosde SGQ e eh Juliano e é um trabalho bem interessante, né? Um trabalho de que prima
+1:27:271 hora, 27 minutos e 27 segundospela [limpando a garganta] qualidade daquilo que está sendo gerado, os processos, as atividades,
+1:27:341 hora, 27 minutos e 34 segundosas [limpando a garganta] fugiu aqui o nome, mas as evidências, né? Se você tiver trabalhando, falando
+1:27:411 hora, 27 minutos e 41 segundosde ISO, por exemplo, né? a série de evidências que qualquer sistema de gestão de qualidade
+1:27:481 hora, 27 minutos e 48 segundosexige, a necessidade de manter isso sempre atualizado, sempre
+1:27:551 hora, 27 minutos e 55 segundoseh bem documentado e que todos estejam praticando.
+1:28:001 hora e 28 minutos[risadas]
+1:28:011 hora, 28 minutos e 1 segundoEu sei que é uma missão difícil também, viu, Juliano? Parabéns a você.
+1:28:071 hora, 28 minutos e 7 segundosIsso, né? Pois é, eu já trabalhei com processos, a gente lá desenvolvia metodologias, aí a gente utilizava a
+1:28:151 hora, 28 minutos e 15 segundosISO, alguns modelos de processo como CMMI, o MPSBR,
+1:28:241 hora, 28 minutos e 24 segundosque mais? É, alguns sistemas de gestão de qualidade. E obviamente dependendo do processo, tinha tudo isso misturado
+1:28:321 hora, 28 minutos e 32 segundose que a metodologia tinha que atender a todos esses modelos, pelo menos esses três modelos.
+1:28:381 hora, 28 minutos e 38 segundosAí 9001, o MBSBR nível 5,
+1:28:451 hora, 28 minutos e 45 segundosperdão, o CMMI nível 5 e o MPSBR nível H, que era o máximo. Não é difícil, eu sei do que você tá falando.
+1:28:581 hora, 28 minutos e 58 segundosAh, então, gestão de projetos combina a gestão técnica e a gestão de pessoas. O que que é mais complexo? Eu dei aqui a
+1:29:051 hora, 29 minutos e 5 segundosminha opinião, queria ir ouvir a de alguém também.
+1:29:111 hora, 29 minutos e 11 segundosProjetos exigem negociar, comunicar objetivos, planejar,
+1:29:201 hora, 29 minutos e 20 segundosacompanhar e encerramento. Então, a gente precisa estar atento a tudo isso.
+1:29:281 hora, 29 minutos e 28 segundosE aí são habilidades que a gente precisa desenvolver, negociação, comunicação,
+1:29:371 hora, 29 minutos e 37 segundosplanejamento, acompanhamento, né, ou monitoramento e controle e encerramento.
+1:29:481 hora, 29 minutos e 48 segundosÉ muita coisa.
+1:29:531 hora, 29 minutos e 53 segundosO gerente deve manter foco no cliente e no resultado. A gente precisa ter foco no resultados.
+1:30:011 hora, 30 minutos e 1 segundoClaro, são organizações que dependem de resultados, mas o foco no cliente tá ligado diretamente à qualidade do que você faz.
+1:30:121 hora, 30 minutos e 12 segundosE aí eu pergunto, quais habilidades esse gerente precisa desenvolver para conciliar o resultado da minha empresa?
+1:30:211 hora, 30 minutos e 21 segundosné, com o que aquilo que eu entrego ao cliente, que isso pode ser conflitante, né? Eu posso gastar muito para manter a
+1:30:311 hora, 30 minutos e 31 segundosqualidade. Se eu tô gastando muito, eu tô indo de encontro ao custo.
+1:30:381 hora, 30 minutos e 38 segundosEntão, preciso conciliar essas coisas. Preciso saber equilibrar gastos para manter qualidade e garantir qualidade.
+1:30:501 hora, 30 minutos e 50 segundosPorque eu preciso pensar no meu cliente, mas eu também preciso pensar no resultado financeiro da minha
+1:30:571 hora, 30 minutos e 57 segundosorganização. Isso de certa forma é quanto mais eu economizar melhor. Olha aí o conflito estabelecido.
+1:31:061 hora, 31 minutos e 6 segundosInteressante não é? A gente precisa conciliar isso.
+1:31:101 hora, 31 minutos e 10 segundosEquilíbrio, adaptação são habilidades super interessantes que
+1:31:181 hora, 31 minutos e 18 segundosa gente precisa reconhecer e desenvolver num bom gestor de projetos.
+1:31:251 hora, 31 minutos e 25 segundosCheguei ao final do nosso encontro, né?
+1:31:281 hora, 31 minutos e 28 segundosAcho que consegui passar aquilo que eu que eu tinha planejado.
+1:31:331 hora, 31 minutos e 33 segundosEu espero que se alguém aqui tinha a visão de que um gerente de projetos, aquele cara que enche o saco, só fica
+1:31:411 hora, 31 minutos e 41 segundospedindo eh informação se a atividade acabou. Eu espero que vocês mudem um pouquinho a
+1:31:491 hora, 31 minutos e 49 segundosvisão, porque é são muitas habilidades necessárias, são muitas atividades desenvolvidas
+1:31:591 hora, 31 minutos e 59 segundose são muitos os aspectos e dimensões que precisam ser planejados,
+1:32:051 hora, 32 minutos e 5 segundos[limpando a garganta]
+1:32:061 hora, 32 minutos e 6 segundosexecutados, monitorados, controlados e por último encerrados. Tá bom?
+1:32:151 hora, 32 minutos e 15 segundosQuero agradecer aqui mais uma vez a presença de cada um de vocês, a participação de todos e que a gente
+1:32:231 hora, 32 minutos e 23 segundospossa se encontrar aí mais paraa frente falando aí de alguns modelos
+1:32:291 hora, 32 minutos e 29 segundosde gestão de de projetos. Vamos começar com modelo clássico e depois a gente parte para modelos
+1:32:381 hora, 32 minutos e 38 segundoságeis. E eu espero que a gente possa trilhar essa jornada juntos aí, tá bom?
+1:32:441 hora, 32 minutos e 44 segundosProfessor Éber, devolvo aí pro senhor. Isso aí, professor. Muito obrigado.
+1:32:511 hora, 32 minutos e 51 segundosObrigado participação de todos e a gente se vê na semana que vem, né, professor?
+1:32:581 hora, 32 minutos e 58 segundosCom fé em Deus. Isso aí. Até lá. Forte abraço a todos. Ciao. Ciao.

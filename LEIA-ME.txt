@@ -1,0 +1,5 @@
+CADERNO DE ESTUDO — ASTRO
+
+O projeto foi migrado para Astro. Consulte README.md para executar, editar e gerar o site.
+
+As fontes e os conteúdos das aulas foram preservados. As respostas das atividades continuam guardadas somente no navegador. Use “Baixar minhas respostas” para guardar uma cópia.

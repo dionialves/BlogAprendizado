@@ -1,0 +1,480 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import SiteHeader from "../components/SiteHeader.astro";
+---
+<BaseLayout title="Aula 02 · Pessoas e Controle" description="Guia da Aula 02: competências do gerente, liderança, comunicação, riscos, mudanças e controle." extraStyles>
+<div id="progress" aria-hidden="true">
+</div>
+<SiteHeader lesson />
+<div class="layout">
+<aside>
+<p class="breadcrumb">
+<a href="/">Todas as matérias</a>
+<br>
+<a href="/gestao-de-projetos/">Gestão de Projetos</a>
+</p>
+<span class="eyebrow">NESTA AULA</span>
+<nav>
+<a href="#papel">01 · Papel do gerente</a>
+<a href="#competencias">02 · Competências</a>
+<a href="#equipe">03 · Liderança e equipe</a>
+<a href="#comunicacao">04 · Comunicação</a>
+<a href="#planejamento">05 · Estimativas e riscos</a>
+<a href="#mudancas">06 · Mudanças de escopo</a>
+<a href="#controle">07 · Monitoramento e controle</a>
+<a href="#pratica">08 · Aplicação e revisão</a>
+<a href="#revisao">09 · Questionário</a>
+<a href="#slides">10 · Slides</a>
+</nav>
+<p>
+<a href="/gestao-de-projetos/">← Posts desta matéria</a>
+<br>
+<a href="/aula-01/">Revisitar a Aula 01</a>
+</p>
+</aside>
+<main>
+<section class="hero">
+<span class="eyebrow">AULA 02 / GUIA DE ESTUDO</span>
+<h1>Pessoas e controle:<br>
+<em>a prática de conduzir um projeto.</em>
+</h1>
+<p class="lead">Conhecer ferramentas é parte do caminho. Um bom gerente também conecta pessoas, negocia decisões e transforma o acompanhamento em ação.</p>
+<div class="meta">Prof. Dr. Rogério Lacerda · Unidade 1, Aula 2<br>Síntese da transcrição, dos slides e do livro da disciplina · Leitura + prática + revisão</div>
+<div class="hero-map">
+<span>CONHECER</span>
+<b>→</b>
+<span>LIDERAR</span>
+<b>→</b>
+<span>ACOMPANHAR</span>
+<b>→</b>
+<span>AGIR</span>
+</div>
+</section>
+<div class="takeaway">
+<strong>A ideia central</strong>
+<p>Gerenciar é integrar técnica e relações humanas para entregar valor. Planejamento realista, comunicação clara e controle contínuo ajudam a transformar objetivos em resultados.</p>
+</div>
+<section id="papel">
+<span class="eyebrow">01 / AULA 02</span>
+<h2>O gerente conecta a técnica às pessoas.</h2>
+<p>Um projeto tecnológico exige coordenar escopo, prazo, custos, qualidade, recursos e riscos. O gerente integra essas decisões e cria condições para que a equipe entregue o resultado esperado. Isso envolve planejar, organizar, orientar, acompanhar e agir sobre desvios.</p>
+<p>A dimensão técnica oferece ferramentas e critérios. A dimensão humana exige escuta, negociação, motivação e gestão de conflitos. O professor destaca o gerente como <strong>líder e facilitador</strong>: alguém que esclarece objetivos, remove obstáculos e ajuda cada pessoa a contribuir.</p>
+<div class="case">
+<h3>Um exemplo para acompanhar a leitura</h3>
+<p>
+<strong>Exemplo didático:</strong> uma empresa quer implantar um sistema de cobrança em oito semanas. O objetivo é reduzir o trabalho manual sem gerar cobranças incorretas. O gerente precisa alinhar as regras com a área de cobrança, organizar desenvolvedores e testes, negociar prioridades e obter validação dos usuários.</p>
+</div>
+<p class="note">Carreira em Y: a aula apresenta a possibilidade de seguir uma especialização técnica ou uma trajetória de gestão. A experiência técnica ajuda, mas assumir a gestão exige desenvolver competências próprias.</p>
+<figure>
+<button class="image-button" data-image="/assets/aula-02/slide-05.jpg" aria-label="Ampliar slide 5">
+<img src="/assets/aula-02/slide-05.jpg" loading="lazy" alt="Gestão do projeto e liderança de pessoas atuam juntas para produzir resultados.">
+</button>
+<figcaption>Slide 5 da Aula 02 · Gestão do projeto e liderança de pessoas atuam juntas para produzir resultados. Clique para ampliar.</figcaption>
+</figure>
+</section>
+<section id="competencias">
+<span class="eyebrow">02 / AULA 02</span>
+<h2>Competência é saber, aplicar e lidar com pessoas.</h2>
+<div class="cards">
+<div>
+<b>Conhecimento</b>
+<p>Entender gestão de projetos, o contexto técnico, o negócio, métodos, ferramentas e comunicação.</p>
+</div>
+<div>
+<b>Desempenho</b>
+<p>Transformar esse conhecimento em decisões, coordenação do trabalho e resultados no tempo necessário.</p>
+</div>
+<div>
+<b>Pessoal</b>
+<p>Usar liderança, resiliência, empatia e gestão de conflitos para conduzir as relações.</p>
+</div>
+</div>
+<p>O livro apresenta essas três dimensões na página 20. Nas páginas 28–29, detalha outro olhar, complementar: <strong>conhecimentos, habilidades, experiências e atitudes</strong>. Experiência amplia o repertório; atitudes mostram como a pessoa age com esse repertório.</p>
+<figure>
+<button class="image-button" data-image="/assets/aula-02/slide-06.jpg" aria-label="Ampliar slide 6">
+<img src="/assets/aula-02/slide-06.jpg" loading="lazy" alt="As três dimensões de competência: conhecimento, desempenho e pessoal.">
+</button>
+<figcaption>Slide 6 da Aula 02 · As três dimensões de competência: conhecimento, desempenho e pessoal. Clique para ampliar.</figcaption>
+</figure>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Elemento</th>
+<th>O que desenvolver</th>
+<th>No sistema de cobrança</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Conhecimentos</td>
+<td>Visão técnica e estratégica, gerenciamento, métodos, ferramentas, comunicação e idiomas.</td>
+<td>Entender regras de cobrança e dependências da integração.</td>
+</tr>
+<tr>
+<td>Habilidades</td>
+<td>Trabalho em equipe, negociação, liderança, flexibilidade e gestão de crises.</td>
+<td>Negociar uma entrega viável quando o cliente pede uma nova função.</td>
+</tr>
+<tr>
+<td>Experiências</td>
+<td>Vivências profissionais e culturais; aprendizado com projetos e pessoas.</td>
+<td>Usar lições de uma migração anterior para melhorar os testes.</td>
+</tr>
+<tr>
+<td>Atitudes</td>
+<td>Proatividade, motivação e feedback.</td>
+<td>Sinalizar um bloqueio cedo e ajudar a encontrar uma solução.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="note">Entender o domínio ajuda a decidir, mas o gerente não precisa executar sozinho todas as especialidades. Também não deve tratar uma ferramenta, um método e uma instituição como conceitos equivalentes: conhecer o uso e os limites de cada recurso faz parte da competência.</p>
+</section>
+<section id="equipe">
+<span class="eyebrow">03 / AULA 02</span>
+<h2>Liderar é criar condições para o time trabalhar.</h2>
+<p>Selecionar pessoas com competências complementares é o primeiro passo. Depois, é preciso combinar papéis, desenvolver comprometimento, reconhecer contribuições, oferecer orientação e resolver conflitos. Um grupo de pessoas se torna equipe quando compartilha objetivos e coordena seu trabalho.</p>
+<div class="callout">
+<h3>Da cobrança à facilitação</h3>
+<ol>
+<li>
+<strong>Ouça:</strong> descubra o que está impedindo a entrega antes de atribuir culpa.</li>
+<li>
+<strong>Esclareça:</strong> confirme o objetivo, o papel de cada pessoa e o resultado esperado.</li>
+<li>
+<strong>Negocie:</strong> discuta prioridades e restrições com argumentos e respeito.</li>
+<li>
+<strong>Apoie:</strong> remova bloqueios, providencie recursos ou capacitação.</li>
+<li>
+<strong>Acompanhe:</strong> combine o próximo passo e dê feedback baseado em fatos.</li>
+</ol>
+</div>
+<p>Na analogia do professor, o gestor se parece com um técnico de esporte coletivo: integra capacidades diferentes em torno de uma estratégia. Liderar pelo exemplo, motivar e ouvir favorecem a colaboração. Ainda assim, é necessário acompanhar compromissos e resultados.</p>
+<p>
+<strong>Feedback didático:</strong> “A validação das regras ficou pendente e bloqueou os testes. O que falta para concluir? Vamos combinar um responsável e uma data.” A mensagem descreve um fato, seu efeito e um próximo passo.</p>
+<figure>
+<button class="image-button" data-image="/assets/aula-02/slide-08.jpg" aria-label="Ampliar slide 8">
+<img src="/assets/aula-02/slide-08.jpg" loading="lazy" alt="Trabalho em equipe, negociação, gestão de crises e liderança são habilidades essenciais.">
+</button>
+<figcaption>Slide 8 da Aula 02 · Trabalho em equipe, negociação, gestão de crises e liderança são habilidades essenciais. Clique para ampliar.</figcaption>
+</figure>
+</section>
+<section id="comunicacao">
+<span class="eyebrow">04 / AULA 02</span>
+<h2>Comunicar bem evita entregar o problema errado.</h2>
+<p>
+<strong>Stakeholders</strong> são as partes interessadas: pessoas ou grupos que participam, influenciam ou são afetados pelo projeto. Cliente, usuários, patrocinador, equipe, fornecedores e qualidade podem ter interesses distintos. O patrocinador é uma parte interessada, não um sinônimo de todas elas.</p>
+<p>Falhas de comunicação provocam expectativas desalinhadas, erros, retrabalho, atrasos, custos adicionais, conflitos e decisões sem informação suficiente. O livro ilustra esse problema com diferentes interpretações do pedido do cliente (p. 25).</p>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Público</th>
+<th>Informação necessária</th>
+<th>Forma combinada · exemplo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Usuários da cobrança</td>
+<td>Regras, comportamento esperado e critérios de aceite.</td>
+<td>Demonstração e registro de validação a cada entrega.</td>
+</tr>
+<tr>
+<td>Equipe técnica</td>
+<td>Prioridades, dependências, requisitos e bloqueios.</td>
+<td>Quadro de trabalho e alinhamento frequente.</td>
+</tr>
+<tr>
+<td>Patrocinador</td>
+<td>Progresso, previsão de prazo e custo, riscos e decisões necessárias.</td>
+<td>Relatório semanal e aviso imediato de impacto relevante.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="interactive">
+<h3>Transforme uma frase vaga em critério verificável</h3>
+<p>Pedido: “Quero um sistema de cobrança fácil de usar.” O que perguntar antes de desenvolver?</p>
+<details>
+<summary>Ver uma resposta possível</summary>
+<p>Quem usará? Qual tarefa deve ficar mais simples? Que dados são necessários? Como o usuário saberá se a cobrança foi enviada? Combine exemplos e critérios de aceite, valide com o cliente e registre as decisões. “Fácil” precisa ganhar significado no contexto.</p>
+</details>
+</div>
+<p class="note">Uma mensagem enviada não garante entendimento. Peça que a outra parte confirme o que compreendeu. Registre responsáveis, decisões e pendências; dê visibilidade aos obstáculos com fatos e respeito.</p>
+</section>
+<section id="planejamento">
+<span class="eyebrow">05 / AULA 02</span>
+<h2>Estimativas honestas e riscos visíveis.</h2>
+<p>Estimar é prever com base em informações e premissas. Prazo, custo, insumos, escopo, pessoas e materiais precisam ser avaliados em conjunto. Prometer três meses para agradar, quando a análise indica seis, apenas adia a negociação e compromete a confiança.</p>
+<p>Planeje competências da equipe, necessidade de capacitação, equipamentos, licenças e contratações. Explicite as premissas, dependências e incertezas da estimativa e revise-as com novas evidências.</p>
+<h3>Risco é uma incerteza; problema é uma ocorrência.</h3>
+<p>A aula enfatiza ameaças e contingências. Identifique o que pode acontecer, estime probabilidade e impacto no contexto, defina uma resposta e acompanhe sinais de ocorrência. Um risco com grande impacto merece atenção mesmo quando não é o mais provável.</p>
+<div class="case">
+<h3>Duas pessoas podem sair da equipe</h3>
+<p>No exemplo da aula, a saída de duas pessoas em um time de cinco pode ter impacto maior do que em um time de cem. As competências e dependências também importam: perder um especialista único pode comprometer até uma equipe grande.</p>
+<p>
+<strong>Aplicação didática:</strong> documentar regras e compartilhar conhecimento reduz a dependência. Se a saída acontecer, um plano de contingência pode prever substituição, transição e replanejamento.</p>
+</div>
+<p class="note">Probabilidade × impacto ajuda a priorizar, mas não substitui análise. O registro de riscos deve evoluir ao longo do projeto, com responsáveis e respostas atualizados. Livro, p. 30; aula, aproximadamente 1h06–1h09.</p>
+</section>
+<section id="mudancas">
+<span class="eyebrow">06 / AULA 02</span>
+<h2>Mudar exige avaliar, negociar e decidir.</h2>
+<p>Negócios, requisitos e prioridades mudam. O gerente precisa compreender a necessidade, avaliar impactos em trabalho, prazo, custo, qualidade e riscos, propor alternativas e obter a decisão de quem tem autoridade. Depois, comunica e atualiza os planos e registros.</p>
+<figure>
+<button class="image-button" data-image="/assets/aula-02/slide-13.jpg" aria-label="Ampliar slide 13">
+<img src="/assets/aula-02/slide-13.jpg" loading="lazy" alt="Tendência conceitual: a influência é maior no início e o custo de mudanças pode crescer com o avanço do projeto.">
+</button>
+<figcaption>Slide 13 da Aula 02 · Tendência conceitual: a influência é maior no início e o custo de mudanças pode crescer com o avanço do projeto. Clique para ampliar.</figcaption>
+</figure>
+<p class="note">O gráfico é uma tendência conceitual, não uma previsão numérica. Mudanças tardias podem exigir mais retrabalho, mas o custo depende da solução e do contexto. As partes interessadas continuam relevantes até o encerramento.</p>
+<div class="hero-map flow">
+<span>REGISTRAR</span>
+<b>→</b>
+<span>ANALISAR</span>
+<b>→</b>
+<span>DECIDIR</span>
+<b>→</b>
+<span>ATUALIZAR</span>
+</div>
+<div class="interactive">
+<span class="eyebrow">DECISÃO EM CONTEXTO</span>
+<h3>O cliente pede um novo canal de cobrança.</h3>
+<p>Exemplo didático: o plano atual prevê oito semanas. A nova função exige integração e testes adicionais. Explore alternativas antes de negociar.</p>
+<div class="choice-buttons">
+<button data-choice="0" aria-pressed="true">Manter a data</button>
+<button data-choice="1" aria-pressed="false">Ampliar a entrega</button>
+<button data-choice="2" aria-pressed="false">Entregar em etapas</button>
+</div>
+<p id="choice-result" aria-live="polite">
+</p>
+<small>São alternativas para análise. A viabilidade precisa ser confirmada pela equipe e pelos responsáveis pela decisão.</small>
+</div>
+<p>
+<strong>Proatividade não significa aumentar o escopo por conta própria.</strong> Ao perceber uma necessidade, o gestor deve encaminhá-la, analisar e buscar decisão. Flexibilidade e controle de mudanças precisam atuar juntos.</p>
+</section>
+<section id="controle">
+<span class="eyebrow">07 / AULA 02</span>
+<h2>Monitorar mostra o desvio; controlar orienta a resposta.</h2>
+<div class="cards two">
+<div>
+<b>Monitoramento</b>
+<p>Observar o trabalho, coletar dados, comparar realizado e planejado e comunicar o desempenho.</p>
+</div>
+<div>
+<b>Controle</b>
+<p>Analisar causas e impactos, decidir ações, acompanhar sua execução e verificar se o ajuste funcionou.</p>
+</div>
+</div>
+<p>Acompanhe prazos, custos, recursos, qualidade, escopo e riscos. A periodicidade deve corresponder à duração e à criticidade do projeto: dois dias têm peso diferente em um projeto de um mês e em um de um ano.</p>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Registro</th>
+<th>No exemplo didático</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Planejado × realizado</td>
+<td>Validação prevista para sexta; ainda há duas regras sem definição.</td>
+</tr>
+<tr>
+<td>Causa e impacto</td>
+<td>Responsável indisponível; testes podem atrasar.</td>
+</tr>
+<tr>
+<td>Ação, responsável e prazo</td>
+<td>Gerente agenda validação com substituto autorizado até segunda.</td>
+</tr>
+<tr>
+<td>Verificação</td>
+<td>Confirmar regras aprovadas e recalcular previsão dos testes.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Preventiva, corretiva e contingência</h3>
+<p>
+<strong>Preventiva:</strong> agir antes do desvio, por exemplo, capacitar outra pessoa para reduzir dependência. <strong>Corretiva:</strong> ajustar um desvio identificado, como reorganizar atividades após um atraso. <strong>Contingência:</strong> executar uma resposta previamente preparada quando o evento previsto ocorre.</p>
+<p>Antecipações grandes também merecem análise. Na aula, uma atividade estimada em 40 dias e concluída em 10 pode revelar erro de estimativa, além de melhoria de execução. Verifique o escopo e a qualidade antes de concluir que o desempenho foi extraordinário.</p>
+<div class="takeaway">
+<strong>O ciclo gerencial</strong>
+<p>Planejar → Organizar → Dirigir → Monitorar → Controlar. Ao longo desse ciclo, o gestor lidera, negocia e comunica; no encerramento, confirma aceite e registra aprendizados.</p>
+</div>
+</section>
+<section id="pratica">
+<span class="eyebrow">08 / AULA 02</span>
+<h2>Aplique antes de memorizar.</h2>
+<p>Use o sistema de cobrança ou um projeto seu. Escreva respostas curtas e específicas. O rascunho é salvo neste navegador quando o armazenamento está disponível.</p>
+<div id="worksheet">
+<label>1. Objetivo e evidência de sucesso<textarea data-note="objetivo" rows="3" placeholder="Que benefício o cliente espera e como será validado?">
+</textarea>
+</label>
+<label>2. Pessoas e comunicação<textarea data-note="pessoas" rows="3" placeholder="Quem decide, quem usa, quem entrega? Como confirmar o entendimento?">
+</textarea>
+</label>
+<label>3. Risco e resposta<textarea data-note="risco" rows="3" placeholder="Evento incerto, probabilidade, impacto, responsável e contingência.">
+</textarea>
+</label>
+<label>4. Mudança e controle<textarea data-note="mudanca" rows="3" placeholder="Qual mudança surgiu? Quais impactos, alternativas e aprovação? O que acompanhar?">
+</textarea>
+</label>
+</div>
+<div class="actions">
+<button id="export">Baixar minhas respostas</button>
+<span id="save-status" role="status">
+</span>
+</div>
+<h3>Revisão ativa</h3>
+<details>
+<summary>Quais são as três dimensões de competência?</summary>
+<p>Conhecimento, desempenho e pessoal. Saber gestão, aplicar o saber e lidar com pessoas são dimensões complementares.</p>
+</details>
+<details>
+<summary>Por que comunicação também é controle?</summary>
+<p>Ela dá visibilidade a progresso, bloqueios, decisões e responsabilidades. Sem informação adequada, os envolvidos não conseguem validar nem corrigir a rota.</p>
+</details>
+<details>
+<summary>O que fazer diante de uma mudança de escopo?</summary>
+<p>Registrar a necessidade, analisar impactos, propor alternativas, negociar, obter decisão e atualizar os planos antes de implementar o que foi aprovado.</p>
+</details>
+<details>
+<summary>O que você precisa desenvolver como gestor?</summary>
+<p>Escolha uma competência, descreva uma situação real em que ela falta e combine uma ação prática: pedir feedback, praticar escuta, estudar estimativas ou conduzir um alinhamento.</p>
+</details>
+</section>
+<section id="revisao">
+<span class="eyebrow">09 / AULA 02</span>
+<h2>Teste seu entendimento.</h2>
+<p>Responda sem consultar o texto. Depois, veja a explicação de cada resposta.</p>
+<form id="quiz">
+</form>
+<div class="actions">
+<button id="check">Conferir respostas</button>
+<button id="reset-quiz" class="secondary">Tentar novamente</button>
+</div>
+<p id="score" role="status">
+</p>
+</section>
+<section id="slides">
+<span class="eyebrow">10 / AULA 02</span>
+<h2>Reveja o material original.</h2>
+<p>As 21 páginas do PDF da Aula 02 estão disponíveis abaixo. Clique em uma imagem para ampliar.</p>
+<div class="gallery">
+<button class="slide-card" data-image="/assets/aula-02/slide-01.jpg" aria-label="Ampliar slide 1">
+<img loading="lazy" src="/assets/aula-02/slide-01.jpg" alt="Página 1 do material da Aula 02">
+<span>SLIDE 01</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-02.jpg" aria-label="Ampliar slide 2">
+<img loading="lazy" src="/assets/aula-02/slide-02.jpg" alt="Página 2 do material da Aula 02">
+<span>SLIDE 02</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-03.jpg" aria-label="Ampliar slide 3">
+<img loading="lazy" src="/assets/aula-02/slide-03.jpg" alt="Página 3 do material da Aula 02">
+<span>SLIDE 03</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-04.jpg" aria-label="Ampliar slide 4">
+<img loading="lazy" src="/assets/aula-02/slide-04.jpg" alt="Página 4 do material da Aula 02">
+<span>SLIDE 04</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-05.jpg" aria-label="Ampliar slide 5">
+<img loading="lazy" src="/assets/aula-02/slide-05.jpg" alt="Página 5 do material da Aula 02">
+<span>SLIDE 05</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-06.jpg" aria-label="Ampliar slide 6">
+<img loading="lazy" src="/assets/aula-02/slide-06.jpg" alt="Página 6 do material da Aula 02">
+<span>SLIDE 06</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-07.jpg" aria-label="Ampliar slide 7">
+<img loading="lazy" src="/assets/aula-02/slide-07.jpg" alt="Página 7 do material da Aula 02">
+<span>SLIDE 07</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-08.jpg" aria-label="Ampliar slide 8">
+<img loading="lazy" src="/assets/aula-02/slide-08.jpg" alt="Página 8 do material da Aula 02">
+<span>SLIDE 08</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-09.jpg" aria-label="Ampliar slide 9">
+<img loading="lazy" src="/assets/aula-02/slide-09.jpg" alt="Página 9 do material da Aula 02">
+<span>SLIDE 09</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-10.jpg" aria-label="Ampliar slide 10">
+<img loading="lazy" src="/assets/aula-02/slide-10.jpg" alt="Página 10 do material da Aula 02">
+<span>SLIDE 10</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-11.jpg" aria-label="Ampliar slide 11">
+<img loading="lazy" src="/assets/aula-02/slide-11.jpg" alt="Página 11 do material da Aula 02">
+<span>SLIDE 11</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-12.jpg" aria-label="Ampliar slide 12">
+<img loading="lazy" src="/assets/aula-02/slide-12.jpg" alt="Página 12 do material da Aula 02">
+<span>SLIDE 12</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-13.jpg" aria-label="Ampliar slide 13">
+<img loading="lazy" src="/assets/aula-02/slide-13.jpg" alt="Página 13 do material da Aula 02">
+<span>SLIDE 13</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-14.jpg" aria-label="Ampliar slide 14">
+<img loading="lazy" src="/assets/aula-02/slide-14.jpg" alt="Página 14 do material da Aula 02">
+<span>SLIDE 14</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-15.jpg" aria-label="Ampliar slide 15">
+<img loading="lazy" src="/assets/aula-02/slide-15.jpg" alt="Página 15 do material da Aula 02">
+<span>SLIDE 15</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-16.jpg" aria-label="Ampliar slide 16">
+<img loading="lazy" src="/assets/aula-02/slide-16.jpg" alt="Página 16 do material da Aula 02">
+<span>SLIDE 16</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-17.jpg" aria-label="Ampliar slide 17">
+<img loading="lazy" src="/assets/aula-02/slide-17.jpg" alt="Página 17 do material da Aula 02">
+<span>SLIDE 17</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-18.jpg" aria-label="Ampliar slide 18">
+<img loading="lazy" src="/assets/aula-02/slide-18.jpg" alt="Página 18 do material da Aula 02">
+<span>SLIDE 18</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-19.jpg" aria-label="Ampliar slide 19">
+<img loading="lazy" src="/assets/aula-02/slide-19.jpg" alt="Página 19 do material da Aula 02">
+<span>SLIDE 19</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-20.jpg" aria-label="Ampliar slide 20">
+<img loading="lazy" src="/assets/aula-02/slide-20.jpg" alt="Página 20 do material da Aula 02">
+<span>SLIDE 20</span>
+</button>
+<button class="slide-card" data-image="/assets/aula-02/slide-21.jpg" aria-label="Ampliar slide 21">
+<img loading="lazy" src="/assets/aula-02/slide-21.jpg" alt="Página 21 do material da Aula 02">
+<span>SLIDE 21</span>
+</button>
+</div>
+</section>
+<footer>
+<h3>Fontes e roteiro de leitura</h3>
+<p>Este artigo é uma síntese para estudo, em linguagem própria. Exemplos de aplicação e alternativas de decisão estão identificados como didáticos.</p>
+<ul>
+<li>
+<strong>Aula 02, Prof. Dr. Rogério Lacerda:</strong> transcrição fornecida; competências e liderança (aprox. 10–46 min), stakeholders e comunicação (49 min–1h02), planejamento, riscos e mudanças (1h03–1h14), monitoramento e controle (1h14–1h26).</li>
+<li>
+<strong>Slides da Unidade 1 — Aula 2:</strong> “Gestão do Projeto: Pessoas e Controle”, 21 páginas. Imagens reproduzidas do PDF fornecido.</li>
+<li>
+<strong>Carmo, Antonio Marcio Mendonça do; Ravaneda, Hemerson. Gestão de Projetos Tecnológicos. UniCesumar.</strong> Unidade 1: p. 20 (competências), p. 25–26 (comunicação, stakeholders e mudanças), p. 28–29 (perfil do gerente), p. 30–31 (estimativas, riscos, escopo e funções). A numeração impressa coincide com a página do PDF nesses trechos.</li>
+</ul>
+<p>Os materiais originais apresentam referências históricas. O guia preserva os conceitos da aula sem tratar estatísticas antigas como dados atuais.</p>
+<div class="actions">
+<a href="/aula-01/">← Aula 01</a>
+<a href="/gestao-de-projetos/">Posts desta matéria →</a>
+</div>
+</footer>
+</main>
+</div>
+<dialog id="lightbox" aria-label="Slide ampliado">
+<button id="close-dialog">Fechar imagem</button>
+<img id="lightbox-image" alt="">
+</dialog>
+</BaseLayout>
+<script>
+  import "../scripts/aula-02.js";
+</script>

@@ -1,0 +1,14 @@
+---
+interface Props {
+  lesson?: boolean;
+  technology?: boolean;
+  label?: string;
+}
+const { lesson = false, technology = false, label = "MATÉRIAS" } = Astro.props;
+---
+<header>
+  <a href={lesson ? "/gestao-de-projetos/" : "/"} class="brand">
+    CADERNO DE ESTUDO <span>/ {lesson || technology ? "TECNOLOGIA" : "APRENDER E PRATICAR"}</span>
+  </a>
+  {lesson ? <button id="print">Imprimir / salvar PDF</button> : <span class="eyebrow">{label}</span>}
+</header>

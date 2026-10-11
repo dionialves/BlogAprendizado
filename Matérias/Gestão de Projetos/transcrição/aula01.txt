@@ -1,0 +1,706 @@
+Olá, pessoal. Boa noite. Sejam bem-vindos à nossa primeira aula ao vivo, aula ao vivo 01 da disciplina Gestão de Projetos Tecnológicos.
+0:2929 segundosProfessor Dr. Rogério, boa noite, professor Rogério. Tudo bem? Boa noite, professor Éber, tudo ótimo.
+0:3535 segundosBoa noite aí à turma, aos alunos que já estão aí conosco.
+0:4040 segundosIsso aí, pessoal. Antes de passar a bola de vez aqui, professor, eu quero confirmar alguma algumas informações para vocês, OK? Vamos lá. Nossos recadinhos que vocês já estão
+0:4848 segundosacostumados. Então, acessando o ambiente de vocês lá, nós já vamos ter duas atividades liberadas, OK? Atividade MAP,
+0:5656 segundosatividade um. Então fica atento ao prazo lá para não deixar em cima da hora para responder, ok? Segundo aviso importante
+1:051 minuto e 5 segundosaqui em relação ao programa de estágio, a gente já, para vocês que já estão há algum tempo aqui, todos os módulos a
+1:131 minuto e 13 segundosgente tem um programa aqui junto a com Paswall e a UNCUMAR, né? Então é um
+1:191 minuto e 19 segundosprograma estágio, você cadastra, eh participa de dos itens ali, né? Tá?
+1:261 minuto e 26 segundosFase um, tem um bootcamp, depois fase dois estágio. É um modelo 100% remoto, pode concorrer a uma bolsa e lá no
+1:341 minuto e 34 segundosfinalzinho desse programa de estágio pode ser que você tenha uma efetivação ali dentro do casual, OK? Então, estamos
+1:421 minuto e 42 segundostorcendo por vocês lá. Então, se inscreva e participe. Outro recado importante aqui é em relação ao programa ampliar. Já estão, já foi dado o start
+1:511 minuto e 51 segundosali das monitorias. Então você entra lá, se inscreve, participa da monitoria feita por alunos para os alunos. Então
+1:591 minuto e 59 segundosvocê entra lá monitoria ao vivo, pode estar na dúvida. É bem legal esse momento. O pessoal traz bastante
+2:062 minutos e 6 segundosconteúdo enriquecedor para vocês ali, agrega bastante conhecimento, ok? E o último recado aqui para vocês é uma
+2:142 minutos e 14 segundosmentoria de gestão ágil, ok? É uma mentoria prática, ok? Então nós temos vagas limitadas, as inscrições se
+2:222 minutos e 22 segundosiniciaram dia 28 e vai até o dia 8, é semana que vem. Então escanei o Qcode, se inscreve lá e são três semanas de
+2:302 minutos e 30 segundosmonitoria, então a gente vai ter lá três encontros, 4, 8, 25 de novembro, OK?
+2:352 minutos e 35 segundosEntão fique atento, se inscreve e participe, OK?
+2:402 minutos e 40 segundosProfessor, seriam esses recados hoje. Tá com a palavra.
+2:452 minutos e 45 segundosObrigado, professor Éber. Boa noite, [limpando a garganta] turma. Mais uma vez boa noite a todos.
+2:522 minutos e 52 segundosEh, eu sou professor Rogério e a gente vai trabalhar a disciplina gestão de projetos tecnológicos aí
+3:003 minutosdurante nove encontros online e mais um estudo de caso que a gente
+3:083 minutos e 8 segundospreparou aí para vocês poderem eh ter um uma experiência diferente, né,
+3:173 minutos e 17 segundostrabalhando um estudo de caso, percebendo uma uma
+3:253 minutos e 25 segundosatividade muito mais próxima da prática, né, daquilo que da gente que vocês devem encontrar e que a gente encontra, na
+3:313 minutos e 31 segundosverdade, na no mundo do das empresas, né? E a ideia é que a gente possa fazer esse essa disciplina com essa pegada.
+3:433 minutos e 43 segundosEh, eu gosto muito de perguntar aos alunos, perguntar a vocês eh sobre as
+3:503 minutos e 50 segundosexperiências de vocês, a vivência que vocês têm na área e que a gente possa fazer uma troca
+3:583 minutos e 58 segundosde vivências, né, de opiniões, de ideias e que o conhecimento ele seja construído
+4:074 minutos e 7 segundosdessa forma, né, numa mão dupla. e não apenas eu aqui passando ou repassando
+4:134 minutos e 13 segundosinformação. Muito chato. Então, convite que fica aqui a todos é que a gente possa trocar experiências, informações,
+4:234 minutos e 23 segundosvivências, enfim, aprender juntos, tá bom?
+4:274 minutos e 27 segundosE para começar, né, nessa primeiro encontro, a gente vai falar sobre
+4:354 minutos e 35 segundosprojetos, começar a trazer alguns conceitos de de projetos,
+4:414 minutos e 41 segundoseh as dimensões, o que que é um projeto, diferenciar um pouco o projeto de operação ou de processos,
+4:514 minutos e 51 segundostrazer aí algumas das fases que a gente encontra nos projetos, aquecendo aí as
+4:574 minutos e 57 segundosas turbinas, né, do nosso do nosso voo durante essas esses nove encontros.
+5:035 minutos e 3 segundosEntão, a ideia é que a gente faça a introdução à gestão de projetos tecnológicos, né? que a gente possa, ao
+5:125 minutos e 12 segundosfinal do encontro, eh, fazer algumas reflexões sobre o que nós discutimos
+5:185 minutos e 18 segundosdurante essa hora e meia, 1 hora 40 que a gente tem aqui no nosso na nossa aula
+5:255 minutos e 25 segundosonline. Fiquem muito à vontade para participar, perguntar, trazer a opinião, a visão de vocês.
+5:355 minutos e 35 segundosEu tenho alguma experiência na área de projetos, são mais de 20 anos eh gerenciando equipes de desenvolvimento
+5:445 minutos e 44 segundosde software principalmente, eh, mas também, eh, projetos de outro outro tipo outros tipos de projeto, tá?
+5:535 minutos e 53 segundosEntão, a gente dá pra gente fazer uma mesca bem legal, bem interessante aqui no nosso encontro.
+6:006 minutosEntão, para começar, né, pra gente começar o o bate-papo, o nosso debate aqui, o que que caracteriza
+6:096 minutos e 9 segundosum projeto? Quando a gente fala em projeto, o que que vem em mente, né? Eu queria que vocês forem fossem
+6:166 minutos e 16 segundosparticipando aí, fossem trazendo a a a visão de vocês, né?
+6:216 minutos e 21 segundosPrimeira coisa que a gente espera que um projeto tenha é um objetivo, é uma meta
+6:286 minutos e 28 segundosa ser atingida, né, ou um objetivo a ser conquistado.
+6:346 minutos e 34 segundosEsse essa é uma primeira ideia que a gente espera. Além disso,
+6:406 minutos e 40 segundostodo projeto, por característica, precisa ter um prazo definido.
+6:486 minutos e 48 segundosEle é um empreendimento temporário, ele tem início, meio e fim. Isso configura um projeto.
+6:576 minutos e 57 segundosAlém disso, mundo atual, mundo real, a gente tá falando de recursos, né? Então, um
+7:067 minutos e 6 segundosprojeto eh é um empreendimento, é uma empreitada que demanda
+7:127 minutos e 12 segundoso uso de um conjunto de recursos. E aí recursos esses das mais diversas formas e tipos, né? Recursos
+7:207 minutos e 20 segundosfinanceiros, recursos humanos, recursos tecnológicos, recursos
+7:287 minutos e 28 segundosah que mais? legais, enfim, uma série de recursos que nós vamos unir, vamos
+7:367 minutos e 36 segundosagregar, vamos interligar exatamente nesse tempo definido, nesse
+7:447 minutos e 44 segundosprazo estabelecido, para atingir aquele objetivo que foi estabelecido, aquela meta que foi estipulada. Então essa é a
+7:537 minutos e 53 segundosideia e que o que caracteriza um projeto. Além disso, esse projeto ele
+8:018 minutos e 1 segundosupõe o desenvolvimento de algumas atividades, né? Atividades que são coordenadas e são
+8:118 minutos e 11 segundosexecutadas e que podem manter entre si ideias de paralelismo, né? Ou seja, atividades que
+8:208 minutos e 20 segundospodem ser executadas ao mesmo tempo, eh atividades que sejam dependentes
+8:288 minutos e 28 segundosumas das outras, né? Ou seja, eu só posso começar uma determinada atividade caso uma atividade
+8:378 minutos e 37 segundosX tenha sido concluída eh anteriormente.
+8:428 minutos e 42 segundosEntão, é preciso que isso seja coordenado, né?
+8:468 minutos e 46 segundosde novo, o resultado único, né, casando ou combinando com esse objetivo definido
+8:558 minutos e 55 segundose intercorrências, né, se espera, é esperado
+9:029 minutos e 2 segundosno âmbito de projetos que ocorram algumas intercorrências que nós chamamos
+9:089 minutos e 8 segundosriscos, né, algumas coisas que podem eh é interessante que os os riscos eles
+9:159 minutos e 15 segundospodem potencializar, como eles podem atrapalhar a execução do meu projeto.
+9:239 minutos e 23 segundosEntão, isso são riscos recorrências que muitas vezes a gente só pensa naquilo que é negativo, naquilo que é contrário
+9:319 minutos e 31 segundosou que pode prejudicar a execução, mas a gente sabe também que existem riscos que podem potencializar a execução do nosso eh projeto.
+9:429 minutos e 42 segundose a gente falar de projeto, quando a gente fala de projeto, eh, normalmente a
+9:489 minutos e 48 segundosgente traz na mesma frase gestão, né?
+9:559 minutos e 55 segundosA gestão significa a atividade de coordenar, de gerir, gerenciar tudo isso.
+10:0610 minutos e 6 segundosE aí a gente se pergunta, né, se nesse nessa gestão,
+10:1310 minutos e 13 segundosnesse desenrolar do projeto, cabe eh você desenvolver uma solução,
+10:2110 minutos e 21 segundosdesenvolver um produto, eh desenvolver uma uma atividade
+10:2910 minutos e 29 segundosou atividades sem um planejamento prévio.
+10:3610 minutos e 36 segundosMuitas vezes isso acontece, né? Quem nunca recebeu aí uma encomenda,
+10:4510 minutos e 45 segundosuma tarefa, uma uma ordem, né, ou um convite
+10:5210 minutos e 52 segundospara desenvolver algo, para fazer algo, não é? Isso significaria esse objetivo, essa meta a ser atingida. E simplesmente
+11:0011 minutosnão foi logo, como a gente fala no português, claro, metendo a mão na massa. Quem nunca, né?
+11:1111 minutos e 11 segundosE muitas vezes esse meter a mão na massa pode trazer
+11:1911 minutos e 19 segundosproblemas, pode trazer eh situações que a gente não gostaria que acontecessem ou
+11:2711 minutos e 27 segundosnão esperava que acontecesse, exatamente por haver uma o quê? falta de planejamento.
+11:3711 minutos e 37 segundosEntão, é possível desenvolver uma solução tecnológica sem planejamento? É,
+11:4311 minutos e 43 segundosaté é possível. Agora, certamente, certamente
+11:5011 minutos e 50 segundosisso já, isso a própria bibliografia que a gente estuda, que a gente lê acerca de
+11:5711 minutos e 57 segundosgestão de projetos, diz que os resultados eles serão
+12:0512 minutos e 5 segundosmais demorados, mais custosos, mais problemáticos, não é? Por quê?
+12:1312 minutos e 13 segundossimplesmente porque a fase ou a atividade [limpando a garganta] de planejamento,
+12:2212 minutos e 22 segundosela traz uma série de benefícios, ainda, olhe lá, hein, que muita gente
+12:3112 minutos e 31 segundosache ou tenha uma impressão de que isso está atrasando o início do do das atividades, né? Tem
+12:4012 minutos e 40 segundosmuita gente que diz: "Não, a gente precisa botar a mão na massa, a gente precisa começar a fazer
+12:4812 minutos e 48 segundose esquece ou negligencia o planejamento.
+12:5312 minutos e 53 segundosEntão você corre um risco muito grande de ter retrabalho,
+13:0013 minutosde ter atrasos, de desperdiçar recursos que podem ser
+13:0813 minutos e 8 segundoscustos ou significativos dentro do seu projeto, dentro da sua empreitada. [roncando] Você pode atingir
+13:1713 minutos e 17 segundosuma qualidade inadequada, né? Isso significar, por exemplo, uma
+13:2413 minutos e 24 segundosinsatisfação do seu cliente ou até mesmo uma negativa
+13:3113 minutos e 31 segundosdo seu cliente, né? aquilo que você se prepara, aquilo que você eh diz que vai
+13:3813 minutos e 38 segundosfazer e quando você entrega, sem que haja, por exemplo, um planejamento adequado, pode sim correr o risco de ter
+13:4613 minutos e 46 segundosuma qualidade a quem do que foi estabelecido e daquilo que era desejado.
+13:5313 minutos e 53 segundosEntão, espera-se que quando você tenha um projeto e faça o planejamento,
+14:0014 minutosvocê tenha uma clareza maior sobre o que você vai desenvolver.
+14:0714 minutos e 7 segundosvocê pode otimizar o uso dos seus recursos, [roncando] né,
+14:1514 minutos e 15 segundose isso ser mais eficiente na sua execução.
+14:1914 minutos e 19 segundosVocê pode programar e, como eu disse, coordenar atividades para que elas convejam e você possa
+14:2714 minutos e 27 segundosfazer entregas mais assertivas e você possa ter os chamados entregáveis
+14:3514 minutos e 35 segundosno momento certo, com a qualidade adequada.
+14:4014 minutos e 40 segundosE tudo isso vai agregar, vai trazer mais valor ao seu negócio, ao seu produto, ao
+14:4814 minutos e 48 segundosseu serviço. Então, é importante que a gente quando pense nessa empreitada de
+14:5514 minutos e 55 segundostempo limitado, de recursos limitados, de objetivo estabelecido, de riscos que podem acontecer,
+15:0415 minutos e 4 segundosde atividades que precisam ser coordenadas, que a gente sempre pensa nessa etapa de planejar, não é?
+15:1415 minutos e 14 segundosE outro assunto que normalmente vem à tona diz respeito ao quê? Aos objetivos.
+15:2515 minutos e 25 segundosQuando eu falei um objetivo claro e e definido, isso é o que a gente espera.
+15:3115 minutos e 31 segundosIsso é o que a gente busca obter no momento em que a gente inicia um projeto, no momento em que a gente
+15:3915 minutos e 39 segundosinicia essa empreitada. Mas isso é uma realidade. Pergunta aqui para vocês.
+15:4615 minutos e 46 segundosNa visão de vocês, na experiência de vocês, eu queria fazer duas perguntas.
+15:5415 minutos e 54 segundosQuem aqui já teve a experiência de começar projetos sem um planejamento adequado?
+16:0316 minutos e 3 segundosE qual foi a consequência disso?
+16:0616 minutos e 6 segundosE quem aqui eh já começou também projeto sem que os
+16:1416 minutos e 14 segundosobjetivos e e os prazos, né, que a gente chama de restrições, não estavam muito claras qual foi a consequência disso também.
+16:2716 minutos e 27 segundosO Ivan já tá trazendo, né, que sem planejamento, provavelmente o projeto já começa atrasado.
+16:3316 minutos e 33 segundosÉ, Ivan, isso isso é uma realidade, né?
+16:3716 minutos e 37 segundosE o problema é que quando a gente fala em planejar, principalmente quem tá esperando aquilo,
+16:4416 minutos e 44 segundosaquele resultado final, já fica se coçando, porque e muitas, muitas vezes entende a fase de planejamento como algo que atrasa mesmo.
+16:5516 minutos e 55 segundosE eu acho que assim, cada minuto que você, isso é meu pensamento, tá?
+17:0117 minutos e 1 segundoCada minuto que você, eu não vou dizer gasta, mas que você investe planejando o seu projeto, você ganha
+17:1117 minutos e 11 segundosinúmeros minutos na execução adequada do seu projeto.
+17:1617 minutos e 16 segundosEntão, começar projeto sem planejamento para mim é uma temeridade. também a gente tem situações
+17:2417 minutos e 24 segundose nós somos levados e as condições nos levam a, por exemplo,
+17:3117 minutos e 31 segundoseh, começar projeto sem ter clareza dos objetivos, sem ter clareza dos prazos.
+17:3917 minutos e 39 segundosE isso é do mundo real, gente. Isso é do mundo real, principalmente
+17:4617 minutos e 46 segundosse nós estamos falando de software, principalmente se a gente tá falando de software, projetos de construção de de
+17:5517 minutos e 55 segundosde software, projetos tecnológicos, né? E a gente pode sim correr em escopo
+18:0218 minutos e 2 segundosdesalinhado, atrasos nas entregas, custos não controlados,
+18:1018 minutos e 10 segundossatisfação baixa nas entregas, riscos não identificados e que podem
+18:1918 minutos e 19 segundoslevar esses atrasos, a esses aumento de custo, ao retrabalho, ao desperdício.
+18:2618 minutos e 26 segundosComo é que a gente lida com isso?
+18:3118 minutos e 31 segundospergunta, como é que a gente lida com isso? Quem aqui já não foi impelido,
+18:3718 minutos e 37 segundoscompelido, na verdade a iniciar um projeto? Não, a gente precisa começar. O cliente tá esperando. Ah, mas a gente
+18:4618 minutos e 46 segundosnão fez aquela fase X lá de levantamento, etc e tal. As coisas não estão clar, mas a gente precisa começar.
+18:5318 minutos e 53 segundosE muitas vezes se começa, isso é o mundo real.
+18:5918 minutos e 59 segundosNão estou aqui defendendo bandeira nenhuma, mas é o mundo real, né? E assim a gente precisa ter técnicas, ter
+19:0619 minutos e 6 segundosideias, ter alternativas para resolver essas questões, né? E a gente vai ver que
+19:1419 minutos e 14 segundosexistem metodologias, existem métodos, existem abordagens
+19:2119 minutos e 21 segundosque buscam exatamente sistematizar, organizar, ajudar nós pobres gerentes de
+19:2919 minutos e 29 segundosprojeto, que para muita gente não faz absolutamente nada, a não ser cobrar dos
+19:3719 minutos e 37 segundospobres desenvolvedores que entreguem o código deles, né? né?
+19:4319 minutos e 43 segundosMuitas vezes é isso que as pessoas acham, muita gente acha isso. Gero, não faz nada, passa o dia cobrando
+19:5119 minutos e 51 segundosatividade e fazendo relatório, né? E a gente vai ver que tem é muito mais do que isso.
+19:5919 minutos e 59 segundosE a gente percebe, né, que no cotidiano a gente tem inúmeros projetos.
+20:0620 minutos e 6 segundosQuem aqui já fez uma viagem pro exterior, me fale aí quem já fez uma viagem pro
+20:1320 minutos e 13 segundosexterior, passou aí, sei lá, duas, três semanas viajando pro exterior.
+20:2120 minutos e 21 segundosE como é que foi essa experiência? Planejou?
+20:2720 minutos e 27 segundosIsso pode ser um projeto?
+20:3020 minutos e 30 segundosQue que vocês acham na viagem para, sei lá, aqui a gente já
+20:3820 minutos e 38 segundostá falando de quarto, é quarto semestre ou quarto ano? A maioria aqui acho que já é o quarto ano, né? Já estão
+20:4520 minutos e 45 segundosformando. Então a gente já tá falando de engenheiros de software.
+20:5020 minutos e 50 segundosUma viagem para um congresso bacana lá nos Estados Unidos para falar sobre
+20:5820 minutos e 58 segundoscloud. lá na Google, projetos para desenvolver sistemas,
+21:0821 minutos e 8 segundosprojeto para desenvolver um BI para uma determinada organização, um segmento X
+21:1621 minutos e 16 segundosda empresa que precisa ter um dashboard para poder extrair informações e
+21:2421 minutos e 24 segundoster decisões estratégicas mais assertivas.
+21:2821 minutos e 28 segundosum projeto para instalar uma rede numa organização,
+21:3521 minutos e 35 segundosné? Um projeto para construir um carro, desenvolver, construir, não, que construir é mais uma
+21:4421 minutos e 44 segundosoperação, né? Quando a gente pensa numa fábrica, a gente pensa numa operação.
+21:4821 minutos e 48 segundosAh, já tô falando a diferença de projetos para operação. Olha, mas o projeto de o design, o desenho de um
+21:5721 minutos e 57 segundosnovo carro, a gente vai desenhar esse novo carro.
+22:0122 minutos e 1 segundoEntão, existem eh a sorte de projetos inúmeras no nosso nosso dia a dia. Às vezes a
+22:1022 minutos e 10 segundosgente não se dá conta que estamos executando um projeto. Às vezes a gente precisa eh parar um pouquinho
+22:2022 minutos e 20 segundospara ao invés de simplesmente meter mão na massa e sair fazendo, às vezes a gente precisa olhar para aquilo que a
+22:2922 minutos e 29 segundosgente tá eh tem à frente para que a gente possa se reposicionar, seja através de um planejamento, seja através
+22:3822 minutos e 38 segundosde uma consideração de riscos, etc, etc, né? Então, lembrar que todo projeto
+22:4522 minutos e 45 segundosprecisa ter um tempo definido, um horizonte de tempo. Eu preciso ter uma ideia
+22:5322 minutos e 53 segundosque pode ser [limpando a garganta] mais ou menos precisa de finitude de término desse projeto,
+23:0123 minutos e 1 segundobem como o objetivo. Qual é o objetivo desse meu projeto? Eu quero construir uma casa. O objetivo é ter uma casa construída em, sei lá, 6 meses. Opa.
+23:1323 minutos e 13 segundosjá começa a ter um projeto, como é que vai ser essa casa? Aí já começam vir as
+23:2023 minutos e 20 segundosquestões e as restrições que a grande maioria do dos projetos tem. E aí a gente chega naquela pergunta
+23:2923 minutos e 29 segundosque eu fiz, né? A diferença entre projetos e processos.
+23:3623 minutos e 36 segundosA grande diferença está no time, no tempo, está na durabilidade, na
+23:4323 minutos e 43 segundosduração de cada um deles. Projetos são ã
+23:5023 minutos e 50 segundosiniciativas são empreitadas temporárias, processos são contínuos, processo de fabricação.
+24:0224 minutos e 2 segundosespera que aquela fábrica continue produzindo, gerando aquele produto continuamente. Isso é um processo.
+24:1424 minutos e 14 segundosProcesso de fabricar, processo de instalar, perdão, o projeto
+24:2024 minutos e 20 segundosde instalar uma fábrica, olha a diferença, em um determinado local.
+24:2824 minutos e 28 segundosEntão você espera que durante um tempo aquilo se conclua para que aquela fábrica se torne operacional.
+24:4024 minutos e 40 segundosPercebem? Então, processo conjunto de atividades que vão se desdobrar em uma operação contínua.
+24:4924 minutos e 49 segundosProjeto processo único com um emaranhado de atividades coordenadas e controladas que têm
+24:5824 minutos e 58 segundosinício, meio e fim bem definidos ou devem ter.
+25:0425 minutos e 4 segundosTempo definido, projeto. Tempo contínuo, processo.
+25:1025 minutos e 10 segundosProcesso, foco na eficiência e na consistência. projeto foco no resultado.
+25:1825 minutos e 18 segundosTempo todo monitorando o tripé, escorpo, prazo e recursos, principalmente custos. Esse é o tripé
+25:2725 minutos e 27 segundosque a grande maioria dos gerentes de projeto se preocupa. Escopo, prazo e custo. Esse é o tripé. E esse tripé está
+25:3725 minutos e 37 segundosintimamente ligado com a qualidade do seu projeto.
+25:4225 minutos e 42 segundosSe você aumenta o seu custo, indefinidamente, você vai ter problemas seríssimos de de concluir o seu projeto.
+25:5325 minutos e 53 segundosVocê corre o risco de nem concluir.
+25:5725 minutos e 57 segundosSe você atrasa, normalmente seus custos aumentam e tudo isso impacta na qualidade. você
+26:0526 minutos e 5 segundosatrasa, muitas vezes você desenvolve e a parte de testes, que é a qualidade é comprometida.
+26:1426 minutos e 14 segundosPercebe como são variáveis que eh se interligam
+26:2226 minutos e 22 segundose que acabam influenciando umas à outras. E é importante que vocês percebam, eh, que a ideia do projeto com
+26:3326 minutos e 33 segundosas inúmeras dimensões, que a gente vai trabalhar isso sob algumas, algumas perspectivas, eh, precisam ser bem geridas.
+26:4526 minutos e 45 segundosAí a gente já começa, e a gente vai falar isso na aula dois, né? a gente já começa a perceber que a atividade de
+26:5226 minutos e 52 segundosgerente de projeto não é somente tá perguntando se já acabou a atividade, quando é que você conclui e fazendo
+27:0127 minutos e 1 segundorelatório que ninguém lê. Tem muita coisa por trás disso.
+27:0627 minutos e 6 segundosPerguntem, gente, perguntem aí pra gente ir discutindo. Tragam a a experiência de vocês, tá?
+27:1727 minutos e 17 segundosE falando em gerenciamento de projetos, né?
+27:2127 minutos e 21 segundosAh, o que que é esse gerenciamento de projetos? na verdade é habilidade ou habilidades
+27:2927 minutos e 29 segundosde pessoas, né, que se formam, que se preparam
+27:3827 minutos e 38 segundospara coordenar, para gerir esses projetos, aplicando conhecimentos, habilidades,
+27:4627 minutos e 46 segundosferramentas e técnicas, né, às atividades do projeto para atender as demandas.
+27:5627 minutos e 56 segundosEntão, o bom gerente de projeto, ele vai ser capaz de integrar conhecimento,
+28:0528 minutos e 5 segundosferramentas, né, habilidade,
+28:1328 minutos e 13 segundosvai conseguir, vai poder integrar tudo isso de maneira que aquela empreitada
+28:2028 minutos e 20 segundosque acontece em inúmeras dimensões ocorra da melhor forma possível dentro do planejado.
+28:3028 minutos e 30 segundosÓ, o planejamento falando dentro do planejado, com os custos adequados dentro daquilo
+28:3928 minutos e 39 segundosque foi orçado nos prazos definidos,
+28:4628 minutos e 46 segundosatingindo a qualidade estabelecida e que vai ser percebida,
+28:5328 minutos e 53 segundosprecisa, né, ser percebida pelo meu cliente final.
+28:5828 minutos e 58 segundosE aí esse trabalho, essa capacidade
+29:0629 minutos e 6 segundosde aplicar e integrar conhecimento, habilidades, ferramentas,
+29:1229 minutos e 12 segundoseh técnicas, ela se desdobra
+29:1929 minutos e 19 segundosem algumas dimensões, né? Seja no escopo.
+29:2529 minutos e 25 segundosQuando a gente fala de escopo, a gente tá falando de quê? Daquilo que se vai fazer, daquilo que faz parte do meu
+29:3529 minutos e 35 segundostrabalho, daquilo que faz parte do que vai ser entregue, do que vai ser desenvolvido.
+29:4329 minutos e 43 segundosEntão, quando eu falo de escopo, eu estabeleço o limite do que eu vou fazer,
+29:5029 minutos e 50 segundosdo que eu vou entregar. escopo, a gente tá falando de limite, se desdobra também na questão do prazo.
+30:0130 minutos e 1 segundoEu tenho um conjunto de atividades que vão estar eh entrelaçadas.
+30:0830 minutos e 8 segundosComo eu disse, podem ser eh atividades em paralelo, pode ser atividades dependentes, e aí
+30:1730 minutos e 17 segundosessas atividades são consequentes ou consequentes, que precisam estar dentro dessa
+30:2630 minutos e 26 segundosorganização voltada para atingir aqueles prazos estabelecidos dentro dos custos que eu tenho.
+30:3830 minutos e 38 segundoseh çsado para realizar essas atividades, né? Lembrem-se que eu vou ter o quê? Uma
+30:4530 minutos e 45 segundossérie de recursos. Eu vou consumir esses recursos, vou utilizar esses recursos
+30:5330 minutos e 53 segundose essa utilização, isso demanda custos.
+30:5930 minutos e 59 segundosOu seja, se alguém trabalha, por exemplo, para realizar uma atividade, eu preciso pagar por esse trabalho. Se eu
+31:0831 minutos e 8 segundospreciso, para desenvolver uma determinada atividade comprar um ativo qualquer, uma máquina ou sei lá, preciso
+31:1831 minutos e 18 segundostreinar o meu pessoal, eu tô falando de recursos para compra, aquisições, treinamento. Isso tem custos envolvidos.
+31:3031 minutos e 30 segundosVocês percebem que as dimensões elas estão integradas.
+31:3531 minutos e 35 segundosQualidade eu preciso primar pela qualidade que é estabelecida.
+31:4331 minutos e 43 segundosE quando eu digo isso, o que que é qualidade? Qualidade tem a ver com percepção.
+31:5231 minutos e 52 segundosAlgo para mim pode ter uma qualidade adequada.
+31:5831 minutos e 58 segundosmas que para outra pessoa não percebe que ela tem uma uma Então o que
+32:0532 minutos e 5 segundosque a gente busca fazer? a gente busca estabelecer parâmetros de qualidade.
+32:1332 minutos e 13 segundosA gente busca estabelecer condições eh que a gente possa medir, métricas de
+32:2032 minutos e 20 segundosqualidade e isso pode ser aplicado tanto ao meu processo quanto aos meus entregáveis, aos meus
+32:2832 minutos e 28 segundosprodutos, as minhas atividades quanto as meus entregáveis, chamados deliverables.
+32:3632 minutos e 36 segundosjá deve ter ouvido esse esse termo, né? Riscos. Lembra das intercorrências?
+32:4432 minutos e 44 segundosQue que a gente precisa fazer? A grande maioria deles a gente precisa mitigar, a gente precisa eliminar ou não deixar acontecer.
+32:5632 minutos e 56 segundosAlguns deles a gente pode potencializar.
+32:5932 minutos e 59 segundos[roncando]
+33:0033 minutostem o risco de, sei lá, vou dar aqui um exemplo de um projeto,
+33:0833 minutos e 8 segundosum projeto de de construção de uma ponte, tá?
+33:1733 minutos e 17 segundostem o risco de haver uma porte de dinheiro na metade da construção ou é algo positivo.
+33:2833 minutos e 28 segundosEntão eu vou tentar potencializar se eu puder fazer isso.
+33:3333 minutos e 33 segundosMas tem um risco de acabar o cimento no terceiro,
+33:4033 minutos e 40 segundosno sei lá, no terceiro quadrimestre desse ano. Eu vou tentar o quê? Mitigar esse risco.
+33:4933 minutos e 49 segundosEu espero que isso não aconteça.
+33:5233 minutos e 52 segundosPercebem? Então, gestão de riscos tem a ver com isso, mitigar, potencializar,
+34:0134 minutos e 1 segundoresponder ao risco e ao impacto que esse risco traz eh sobre o meu projeto.
+34:0934 minutos e 9 segundosRecursos, já falei um pouquinho, comunicação.
+34:1234 minutos e 12 segundosNossa, para mim uma das disciplinas mais difíceis que um gerente de projeto precisa dominar é a comunicação, saber comunicar-se.
+34:2334 minutos e 23 segundosA gente tá comunicando o tempo todo.
+34:2734 minutos e 27 segundosSaber se comunicar na equipe, saber se comunicar com os chamados stakeholders ou patrocinadores do
+34:3534 minutos e 35 segundosprojeto, saber se comunicar com, pode ser o cliente, pode ser um fornecedor,
+34:4334 minutos e 43 segundospode ser a equipe de segurança, a equipe de testes, a equipe de que mais de operações.
+34:5234 minutos e 52 segundosSão públicos diferentes e o gerente, um bom gerente de projetos, precisa ter
+34:5934 minutos e 59 segundosa habilidade de saber se comunicar e com técnicas e ferramentas diferentes para cada público.
+35:1135 minutos e 11 segundosEu não posso falar de bug, não vou falar de loop, vou falar de variável, vou falar de instância, vou falar de classe com meu presidente.
+35:2235 minutos e 22 segundosSerá que ele vai entender? Ah, ah, presidente, é, o problema é que a classe não foi bem instanciada e o objeto para ele não vai entender nada.
+35:3535 minutos e 35 segundosEntão, cada público demanda uma mensagem diferente, uma forma de passar
+35:4535 minutos e 45 segundosdiferente, canais muitas vezes diferentes, né?
+35:5035 minutos e 50 segundosEntão, a gestão da comunicação é algo muito importante, é uma habilidade a ser desenvolvida muito
+35:5935 minutos e 59 segundosimportante e delicada de um gerente de projeto.
+36:0436 minutos e 4 segundosAqui a gente já falou um pouco, né, as características do projeto, ser temporário, progressivo e único, né, ter
+36:1236 minutos e 12 segundosinício, meio e fim, avançar em etapas e atingir uma meta, um resultado única.
+36:2236 minutos e 22 segundosE aqui algumas, a pergunta aqui do Juliano, como o equilíbrio entre escopo, prazo e custo influencer diretamente a qualidade de um projeto?
+36:3136 minutos e 31 segundosEntão, aquilo que eu falei, né, você tem eh um equilíbrio muito tênue e você busca eh atingir a qualidade.
+36:4436 minutos e 44 segundosNormalmente, normalmente quando você tem um desequilíbrio nessas três dimensões,
+36:5236 minutos e 52 segundosseja no custo, seja no prazo, foi custo, prazo e o outro que você colocou é custo, prazo e escopo.
+37:0537 minutos e 5 segundosa qualidade ela vai ser ela vai ser afetada, porque quando eu aumento o meu custo,
+37:1437 minutos e 14 segundoseu tenho um custo eh inesperado, a primeira a primeira coisa que se pensa
+37:2237 minutos e 22 segundosé eliminar alguma atividade, porque se eu seguir fazendo todas as atividades,
+37:3037 minutos e 30 segundoseu vou ter aquele custo inesperado, que eu não tenho como pagar. E aí, então isso acaba fazendo o quê?
+37:4037 minutos e 40 segundosNormalmente isso, quem entre aspas paga o pato, é o time ou a equipe de controle de qualidade.
+37:5237 minutos e 52 segundosQuando você tem um o seu prazo está estourando, você não estoura o prazo no desenvolvimento, você estoura o prazo lá na frente, no teste da integração.
+38:0438 minutos e 4 segundosEntão você acaba encurtando, por exemplo, eh o seu prazo de teste seria de um mês, você encurta para 20 dias.
+38:1438 minutos e 14 segundosCertamente você tá impactando na quantidade de erros que você iria descobrir e corrigir. Isso acaba indo
+38:2238 minutos e 22 segundospra produção. A qualidade cai, o cliente percebe.
+38:2838 minutos e 28 segundosEntão, normalmente, quando você tem um escorregão nessas variáveis, você acaba
+38:3538 minutos e 35 segundosimpactando a qualidade dessa forma. Ou você, quando você estica o prazo de uma atividade, você vai ter que compensar na
+38:4238 minutos e 42 segundosoutra. Então, aquela atividade que tinha uma programação de tantas horas, você vai ter que fazer mais rápido. Por
+38:5138 minutos e 51 segundosexemplo, se você faz mais rápido, você corre um risco ou de não fazê-la toda e
+38:5838 minutos e 58 segundosvocê vai impactar na qualidade, ou de fazer apressadamente, que também vai impactar na qualidade. Percebe? Você faz
+39:0639 minutos e 6 segundosmais rápido, você faz eh sem tanta
+39:1339 minutos e 13 segundoseh atenção, porque você não tem tempo para testar tudo.
+39:2039 minutos e 20 segundosVocê faz em menos dias porque você não pode pagar por aquelas horas a mais, percebe?
+39:2739 minutos e 27 segundosEntão, essas dimensões acabam eh refletindo na qualidade dessa forma.
+39:3539 minutos e 35 segundosrespondi então, eh, projetos tecnológicos, que é
+39:4339 minutos e 43 segundoso cerne do nosso, a gente tá falando de de projetos em geral, né? Quando a gente pensa em projetos tecnológicos, a gente
+39:5039 minutos e 50 segundostem uma infinidade também de de possibilidades, como eu falei, né?
+39:5439 minutos e 54 segundosDesenvolvimento de software, integração de sistemas, migração de sistemas de dados,
+40:0240 minutos e 2 segundosinfraestrutura, construção de dashbuds. Acabei de falar sobre essa possibilidade.
+40:1040 minutos e 10 segundosEntão, tudo isso são exemplos que podem eh ser originados, por exemplo, como uma demanda de mercado,
+40:1940 minutos e 19 segundoscomo uma oportunidade estratégica, né? Eu não sei se aqui na turma
+40:2440 minutos e 24 segundos[limpando a garganta]
+40:2540 minutos e 25 segundosa gente tem alguns empreendedores. Temos empreendedores aqui.
+40:3040 minutos e 30 segundosSe tiver algum empreendedor aqui, alguém que tá abrindo o seu negócio, desenvolvendo o seu app, desenvolvendo a
+40:3740 minutos e 37 segundossua, o seu, eh, sistema, seu site, tem alguém aqui? Eu queria trocar uma ideia
+40:4440 minutos e 44 segundoscom vocês aqui, fazer algumas perguntas, fazer algumas coisas. Queria que vocês pudessem participar.
+40:5240 minutos e 52 segundosPodem ser solicitações do cliente, pode ser avanço tecnológico, né? Eu tô, eu preciso fazer uma melhoria, eu preciso fazer um improvement no meu sistema.
+41:0441 minutos e 4 segundosPode ser um requisito legal, né? Quem aqui já trabalhou em sistemas de RH?
+41:1041 minutos e 10 segundosQuantas vezes virou noite aí? Lembra na época que talvez vocês não sejam dessa época não, que vocês são sortudos. Eu
+41:1841 minutos e 18 segundostrabalhava em banco, Banco do Estado da Bahia, quando vinham aqueles famosos cortes dos heros. Lembra quando o Brasil trocava de moeda cada ano?
+41:2941 minutos e 29 segundosReal, plano cruzado, cruzado novo, real novo, nossa. E corta zero e faz isso e
+41:3741 minutos e 37 segundosadapta demandas legais, requisitos legais. E aí você tinha que ter o quê?
+41:4241 minutos e 42 segundosprojetos, porque tudo tinha que ter um tempo para terminar, para ajustar os
+41:4941 minutos e 49 segundosseus sistemas, para evoluir os seus sistemas, eh, respondendo aquela aquele
+41:5641 minutos e 56 segundosrequisito legal, né? Hoje a gente tem inúmeras tecnologias emergentes.
+42:0542 minutos e 5 segundosAí a gente tem cloud computing, a gente tem ed computer, a gente tem.
+42:1242 minutos e 12 segundosQuem hoje já não tá pensando em desenvolver um agente aí para [limpando a garganta] atender alguma demanda de algum segmento, empreendedorismo, né? Certamente vai
+42:2142 minutos e 21 segundosfazer um projeto para desenvolver um agente eh autônomo aí.
+42:2842 minutos e 28 segundospara resolver aí, sei lá, um assistente administrativo, um assistente financeiro,
+42:3542 minutos e 35 segundosquem sabe, né? Tem muitas muitas muitas e muitas possibilidades aí. Então, projetos tecnológicos podem vir, podem
+42:4442 minutos e 44 segundosser originados de inúmeras demandas e a gente tem, né, se preocupar,
+42:5242 minutos e 52 segundosobviamente com todas essas dimensões que a gente eh falou, né, escopo, tempo,
+42:5942 minutos e 59 segundoscustos, recursos. um que apareceu aqui que eu não tinha falado, né?
+43:0443 minutos e 4 segundosExpectativas daquelas pessoas que estão envolvidas, que são as chamados os chamados
+43:1043 minutos e 10 segundosstakeholders do meu projeto, são os patrocinadores.
+43:1843 minutos e 18 segundosComo é que você gerencia, por exemplo, expectativas que são contrárias?
+43:2443 minutos e 24 segundosVocê tem uma, por exemplo, um um conjunto de requisitos levantados, né, detalhados,
+43:3343 minutos e 33 segundosescritos ali, todo analisados, tudo bonitinho.
+43:3843 minutos e 38 segundosMais um diretor financeiro quer um de um jeito, o diretor eh administrativo quer de outro jeito.
+43:4743 minutos e 47 segundosE aí conciliar isso é uma habilidade negociação,
+43:5543 minutos e 55 segundoshabilidade que o gestor, que o gerente de projeto precisa ter. Obviamente isso demanda também algo que a gente chama de
+44:0444 minutos e 4 segundosgovernança e que a empresa precisa ter, né? Mas em
+44:1144 minutos e 11 segundosúltima instância, o gerente de projetos precisa ter essa habilidade de conduzir eh o projeto
+44:2044 minutos e 20 segundosdentro dessas inúmeras necessidades, expectativas, prioridades
+44:2744 minutos e 27 segundosque se precisam ser estabelecidas e negociadas de forma que ele surfe essa onda, né, de
+44:3544 minutos e 35 segundosuma maneira mais tranquila, porque senão ser cai em águas turbulentas Ele pode ser muito questionado,
+44:4444 minutos e 44 segundosné? Normalmente, se dá algum probleminha no projeto, é igual técnico de futebol.
+44:5144 minutos e 51 segundosProblema é do gerente, a culpa é do gerente. Sempre assim.
+44:5844 minutos e 58 segundosEntão, é uma atividade muito prazerosa, é uma atividade muito legal, mas que demanda sim uma habilidade ou uma não,
+45:0745 minutos e 7 segundosalgumas habilidades que você precisa desenvolver para você ter uma boa desenvoltura.
+45:1445 minutos e 14 segundosTécnicas, conhecimento, habilidades, eh ferramentas que você possa utilizar.
+45:2045 minutos e 20 segundosE agora ainda mais com a IA, que você possa saber utilizar todos esses
+45:2745 minutos e 27 segundosrecursos que estão aí à disposição para fazer o seu melhor trabalho.
+45:3445 minutos e 34 segundosE isso tudo explica o porqu planejar, né? Essa organização
+45:4345 minutos e 43 segundosantes da execução, a identificação dos riscos, a o tratamento.
+45:5445 minutos e 54 segundosE se isso acontecer? Opa, eu já estou antecipando, né? Caso o cimento aqui no Brasil
+46:0346 minutos e 3 segundosacabe, que que eu vou ter que fazer? Ah, eu vou ter que importar lá da Argentina. Opa, é um tratamento que eu vou fazer.
+46:0946 minutos e 9 segundosJá começa inclusive a fazer uma cotação para ter ideia de quanto a diferença do valor, etc, etc.
+46:1946 minutos e 19 segundosidentificação de riscos, planejamento de mitigar, de responder a esse risco,
+46:2746 minutos e 27 segundosorganizar a sequência das atividades que precisam ser eh executadas,
+46:3746 minutos e 37 segundosentender e projetar as interdependências dessas atividades.
+46:4746 minutos e 47 segundosIsso é fundamental para que isso aconteça dentro de uma normalidade, né? A estimativa de prazos e recursos.
+46:5946 minutos e 59 segundosEu preciso conhecer minha equipe. Será que eu preciso treinar a equipe? Eu preciso comprar algum software,
+47:0947 minutos e 9 segundoseu preciso comprar licença de alguma coisa? Eu vou construir uma casa. Que que eu vou precisar comprar?
+47:1847 minutos e 18 segundosEssa casa vai ter laje, não vai ter laje, vai ter uma piscina, não vai ter piscina? Qual é o a metragem?
+47:2647 minutos e 26 segundosEntão tudo isso faz parte do planejamento. Preciso identificar tudo isso, né,
+47:3347 minutos e 33 segundosIvan, referente aos riscos, um plano de contingência quando considerar um projeto, uma vez que sistemas redundantes geralmente ficam mais caros,
+47:4247 minutos e 42 segundosprecisam definir isso com o cliente como um requisito. Então, uma coisa, uma
+47:4847 minutos e 48 segundoscoisa, eh, Ivan, é o projeto, tá? a gente pensando como o projeto, vamos
+47:5647 minutos e 56 segundospensar assim no projeto de desenvolvimento do sistema, tá? O projeto, não o sistema em si.
+48:0648 minutos e 6 segundosNo projeto de desenvolvimento podem ter riscos. Vou dar um exemplo.
+48:1448 minutos e 14 segundosA equipe de desenvolvimento tem 10 pessoas. Pode ser que duas delas peçam
+48:2048 minutos e 20 segundosdemissão. É um risco. É um risco. E se dois programadores, três programadores pedirem para sair, que que eu faço?
+48:3148 minutos e 31 segundosCerto? Isso é um plano de gestão de riscos.
+48:3748 minutos e 37 segundosVou vou dar outro um exemplo de outro risco. Eh, sei lá,
+48:4448 minutos e 44 segundoso eu tô desenvolvendo utilizando eh uma licença
+48:5348 minutos e 53 segundosde de software XPTO e essa licença vai vencer.
+48:5948 minutos e 59 segundosSerá que eu vou ter dinheiro para para renovar essa licença?
+49:0649 minutos e 6 segundosIsso pode ser um risco, pode não ser um risco. OK, beleza? Isso é do projeto.
+49:1549 minutos e 15 segundosPensando no sistema, aí você vai ter esse sistema, ele vai ter inúmeros requisitos, não é isso?
+49:2449 minutos e 24 segundosInúmeras necessidades que precisam ser atendidas.
+49:2949 minutos e 29 segundosE aí a questão é, eu preciso ter um plano de contingência
+49:3749 minutos e 37 segundoscaso esse sistema fale, que tipo de contingência eu posso ter?
+49:4449 minutos e 44 segundosAí já está falando sobre o requisito do sistema.
+49:5249 minutos e 52 segundosPercebe? Aí é o risco que o sistema pode ter, já que ele, o sistema tem, sei lá, uma interface que
+50:0150 minutos e 1 segundodá de entrada de de dados, que é o cor do o cor do meu sistema. É isso
+50:0850 minutos e 8 segundosaí. Opa. Então, provavelmente eu vou criar alguma redundância
+50:1550 minutos e 15 segundosno meu sistema como requisito para atender isso. Isso faz parte do
+50:2250 minutos e 22 segundossistema. O projeto, que é o que a gente tá tratando aqui, é outra coisa. Ficou claro?
+50:3250 minutos e 32 segundosMas você tá certo quando diz que isso seria tratado como requisito. Sua pergunta tem tem fundamento.
+50:4150 minutos e 41 segundosE aqui eu trago só pra gente ter uma uma ideia, a gente vai ver isso com com mais calma em outros outros slides, outras
+50:4950 minutos e 49 segundosoutras aulas. O isso aqui é uma média, né? Você quer tirar de uma média de um tempo de ciclo de vida de um projeto.
+51:0051 minutosEntão ele vai começando devagarinho, vai esquentando, vai subindo, chega no
+51:0751 minutos e 7 segundosauge, né, da sua execução, começa a diminuir e termina,
+51:1451 minutos e 14 segundosné, dentro de uma curva mais ou menos assim, né? E essa curva
+51:2251 minutos e 22 segundosela eh acontece em função das fases desse meu projeto, né?
+51:3051 minutos e 30 segundosuma fase de início, uma fase de organização, de preparação, de planejamento,
+51:3851 minutos e 38 segundosuma fase de execução e uma fase de encerramento. Lembra que precisa ter início, meio e fim?
+51:5051 minutos e 50 segundosNão é uma curva linear, não é uma reta. eh o comportamento,
+51:5851 minutos e 58 segundosporque as atividades aqui a gente tá falando em termos de custos e de atividades, tá? Então, os
+52:0652 minutos e 6 segundoscustos do meu do meu projeto, ele vai começando, vai aumentando, chega no máximo e depois decai, bem como as
+52:1652 minutos e 16 segundosatividades que as pessoas desenvolvem, tá? Então é só só uma uma interessante
+52:2352 minutos e 23 segundosaqui pra gente poder ter ideia de como que isso isso acontece, tá? E essas
+52:3152 minutos e 31 segundosfases, eu vou trazer aqui algumas dessas fases. A gente vai falar um pouquinho da importância dessas fases.
+52:3952 minutos e 39 segundosSegundo, eh, as metodologias em geral, elas falam de maneira geral com pequenas variações dessas fases, né?
+52:5052 minutos e 50 segundosA fase de iniciação de um projeto, ela precisa acontecer,
+52:5752 minutos e 57 segundosmuita gente chama de kickof. Você já devem ter ouvido essa essa ah expressão o kickof do projeto, não é?
+53:0853 minutos e 8 segundosÉ o quê? É algo que precisa alinhar as expectativas. Lembra que a gente falou de expectativas?
+53:1853 minutos e 18 segundosEntão o diretor, olha, nós vamos desenvolver uma nova aplicação.
+53:2553 minutos e 25 segundosPronto, eu vou dar um exemplo real. Foi o último projeto que eu trabalhei lá no Canadá. Eu era o gerente desse projeto, desenvolvimento desse projeto.
+53:3553 minutos e 35 segundosEu era gerente do projeto e gerente da equipe de desenvolvimento.
+53:4053 minutos e 40 segundos[roncando]
+53:4053 minutos e 40 segundosE a gente ia desenvolver uma nova eh aplicação para um novo negócio na empresa. era uma
+53:4953 minutos e 49 segundosempresa de telecomunicações que comercializava eh telefonia fixa,
+53:5753 minutos e 57 segundosTV a cabo e internet, TV acabo, internet e telefonia fixa. E
+54:0654 minutos e 6 segundospassaria a comercializar também eh mobile, eh telefonia móvel, planos de celular, certo?
+54:1854 minutos e 18 segundosNós, ninguém na empresa sabia nada, todo mundo, a equipe toda foi contratada, equipe de projeto, equipe de processo,
+54:2654 minutos e 26 segundostudo, [roncando] mais de 30 pessoas.
+54:3154 minutos e 31 segundosE a gente foi trabalhar, né, pensando, imaginando, fazendo pesquisas
+54:3854 minutos e 38 segundoseh em outras empresas similares, etc, etc. E havia não uma, mas várias ou
+54:4654 minutos e 46 segundoshouveram várias reuniões de alinhamento desse projeto.
+54:5254 minutos e 52 segundosAh, esse projeto vai entregar o quê? Vai fazer como vai ser aí? Entende? Você alinhava as expectativas de todos os
+55:0055 minutosenvolvidos, do diretor de operações, do diretor administrativo, do diretor financeiro, do diretor de tecnologia,
+55:1055 minutos e 10 segundospercebe? E aí dizia: "Dá para fazer assim?" Não, não dá para fazer assim, tem que fazer assado. Ah, mas isso aqui a gente precisa comprar. Olha, vai ter
+55:1755 minutos e 17 segundosque comprar isso, vai ter que comprar aquilo, vai ter que investir nisso, percebe? foi um uma série de
+55:2455 minutos e 24 segundosalinhamentos, de discussões para que se chegasse no objetivo
+55:3055 minutos e 30 segundosfinal desse desse eh desse projeto. Então, as atividades,
+55:3955 minutos e 39 segundosidentificação do problema ou de problemas, a necessidade,
+55:4655 minutos e 46 segundosos stakeholders envolvidos. Olha, a gente precisa ter eh uma empresa que vai fazer a parte de roaming.
+55:5655 minutos e 56 segundosA gente não fazia, era novo, era um business novo na empresa. Ah, a gente precisa utilizar a rede, e é quando fala
+56:0456 minutos e 4 segundosrede, é falar rede infraestrutura mesmo da empresa XPTO. Se precisamos contactar
+56:1056 minutos e 10 segundoseles, percebe? Então, foram várias pessoas que foram mapeadas. Definir os objetivos e o escopo inicial.
+56:1956 minutos e 19 segundosIsso macro. Escopo macro. Prazo. Isso vai demorar o quê? Ah, isso vai demorar uns 2 anos. Vamos faziar isso. Vamos
+56:2756 minutos e 27 segundosfazer o roadmap desse projeto. Primeiro se meses a gente entrega isso. Depois mais 4 meses entrega aquilo. Percebem? A
+56:3756 minutos e 37 segundosgente faz esse tipo de de coisa. Existem projetos que são menores. Talvez você não precise ter
+56:4556 minutos e 45 segundostudo isso, mas a fase de iniciação precisa identificar o o problema, a necessidade,
+56:5356 minutos e 53 segundosquem é que vai tocar, quem é que vai aprovar as coisas, né? Quem vai definir
+57:0257 minutos e 2 segundosregras, etc, etc. Então, os stakeholders precisam ser mapeados e a gente normalmente faz isso mapeando para
+57:1057 minutos e 10 segundosdepois no planejamento, que é a etapa seguinte, colocar uma série de coisas bem definidas e detalhadas.
+57:1957 minutos e 19 segundosEntão, essas atividades elas são executadas, né? Estimativa de prazos e recursos iniciais,
+57:2857 minutos e 28 segundosriscos preliminares, né? E aí diz: "OK, dá para fazer, dá para fazer". Então, de
+57:3557 minutos e 35 segundosuma maneira geral, geral, a gente sai com uma espécie de termo de
+57:4257 minutos e 42 segundosabertura do projeto, onde todo mundo se compromete em eh dentro daquele business
+57:5157 minutos e 51 segundoscase, né? Desse aqui, dentro daquele negócio, caso de negócio, no caso da gente, era o
+57:5757 minutos e 57 segundosquê? uma aplicação, uma plataforma para comercializar planos de celulares.
+58:0858 minutos e 8 segundosManeira geral, todo mundo se comprometia com aquele com aquele projeto.
+58:1458 minutos e 14 segundosAí tinha um escopo inicial. Ah, por exemplo, vou dar uma ideia aqui do que como começou. Nós não vamos não vamos abrir isso para todos os clientes.
+58:2958 minutos e 29 segundosA gente vai fazer isso segmentado com um grupo específico de clientes. Percebe? Isso é fazer parte do escopo.
+58:3858 minutos e 38 segundosA gente não vai ofertar para todas as cidades do Canadá, vão ser apenas as cidades da região X.
+58:4758 minutos e 47 segundosPercebem? Isso faz parte do escopo, da definição do tamanho, dos limites do meu projeto. Isso tudo documentado.
+58:5958 minutos e 59 segundosIsso sai um documento, uma espécie de ata, uma espécie de registro daquilo que foi discutido, daquilo que foi negociado.
+59:0959 minutos e 9 segundosRegistro de stakeholders.
+59:1159 minutos e 11 segundosAh, Ivan é o diretor responsável por isso, isso e isso e isso. Eh, Rogério
+59:1859 minutos e 18 segundosvai ser responsável por aquilo e mais aquilo outro.
+59:2359 minutos e 23 segundosEh, então todo mundo se conhecia, todo mundo passa a conhecer de maneira geral,
+59:3159 minutos e 31 segundosmaior, é aquilo que é macro, aquilo que é responsabilidade macro do de cada um
+59:3859 minutos e 38 segundosdos stakeholders. e uma matriz inicial, se se já for possível, se já for o caso de
+59:4659 minutos e 46 segundosriscos iniciais, né? Então é a base, você está estabelecendo a base do seu
+59:5459 minutos e 54 segundosprojeto. Isso aqui, gente, muito, mas muita gente não faz. Muita gente não
+1:00:001 horafaz. E lá na frente fica perdido. Venha cá, quem é que vai aprovar a compra disso?
+1:00:081 hora e 8 segundosQuem é que vai aprovar o requisito que foi implementado agora? Que diretor é A ou B?
+1:00:171 hora e 17 segundosAh, mas isso, mas o requisito envolve duas, três diretorias. Vão ser os três diretores, vai ser um só. Sabe, as
+1:00:261 hora e 26 segundosregras do jogo precisam ser entendidas primeiro antes de se jogar o jogo.
+1:00:351 hora e 35 segundosFase de iniciação.
+1:00:381 hora e 38 segundosAí o existe um momento, vou dar aqui um termo também que se usa
+1:00:461 hora e 46 segundosmuito, que é o go, vai ou não vai.
+1:00:521 hora e 52 segundosAí faz a iniciação, termo de abertura, business case, escopo inicial, prá.
+1:01:001 hora e 1 minutoO time dá o gol, os diretores, os stakeholders que decidem dar o gol. Joia. Vamos em
+1:01:081 hora, 1 minuto e 8 segundosfrente. Depois que você tem esse início, vamos planejar o projeto.
+1:01:181 hora, 1 minuto e 18 segundosAí [limpando a garganta] a gente precisa estabelecer as atividades que vão gerar um plano de projeto,
+1:01:261 hora, 1 minuto e 26 segundosdefinir esse escopo no detalhe, os recursos que vão ser necessários, os prazos e os e os custos, me desculpem.
+1:01:371 hora, 1 minuto e 37 segundosAqui a gente já tá buscando previsibilidade, a gente já tá buscando o quê? alinhamento com aquilo que foi iniciado na fase anterior.
+1:01:501 hora, 1 minuto e 50 segundosEntão, eu vou, ó, coletar e analisar os requisitos pro meu projeto.
+1:01:581 hora, 1 minuto e 58 segundosEu vou definir no detalhe o escopo e a estratégia que eu vou executar isso e vou elaborar um cronograma.
+1:02:121 hora, 2 minutos e 12 segundosQue que é o cronograma?
+1:02:141 hora, 2 minutos e 14 segundossão as minhas atividades encadeadas em sequência, com recursos definidos, com prazos
+1:02:231 hora, 2 minutos e 23 segundosdefinidos, né, com custos estimados.
+1:02:291 hora, 2 minutos e 29 segundosTudo isso é um cronograma e existem ferramentas que me auxiliam nessa elaboração.
+1:02:381 hora, 2 minutos e 38 segundosEntão eu vou estimar custos, recursos, vou fazer uma análise dos riscos.
+1:02:461 hora, 2 minutos e 46 segundosAqui eu já preciso planejar mesmo. É, pera aí, nós vamos fazer então quais são os riscos que a gente já consegue estabelecer desde já.
+1:02:551 hora, 2 minutos e 55 segundosE aí vai se demandar um tempo analisando isso. Então, gente, essa fase
+1:03:021 hora, 3 minutos e 2 segundosé muito importante, muito importante paraa execução, para execução, não, não
+1:03:101 hora, 3 minutos e 10 segundossó execução, para o sucesso do seu projeto. Então, muitas vezes, vou repetir aqui, muitas, não são poucas,
+1:03:191 hora, 3 minutos e 19 segundosmuitas vezes existem pressões, seja lá de quem for, dos stakeholders,
+1:03:271 hora, 3 minutos e 27 segundosdos patrocinadores, dos donos do negócio, de clientes, enfim, de usuários
+1:03:351 hora, 3 minutos e 35 segundosque querem ver algo pronto, que estão ávidos, querendo uma solução.
+1:03:441 hora, 3 minutos e 44 segundose que forçam ou que pressionam.
+1:03:501 hora, 3 minutos e 50 segundosE essa fase muitas vezes ela é negligenciada,
+1:03:561 hora, 3 minutos e 56 segundosela é substituída por algo mais ela é mais eh feita rapidamente e sem os cuidados.
+1:04:091 hora, 4 minutos e 9 segundosOlhe quantas atividades a gente tá falando aqui, né?
+1:04:161 hora, 4 minutos e 16 segundosPlanejar a comunicação e o engajamento. Que que é isso?
+1:04:221 hora, 4 minutos e 22 segundosPlanejar o engajamento. É, sabe por quê?
+1:04:261 hora, 4 minutos e 26 segundosPorque você desenvolve umas, eu vou dar um exemplo claro aqui, ó. Você desenvolve uma determinada função de um
+1:04:351 hora, 4 minutos e 35 segundossistema, testa, homologa, tá tudo bonito. E aí você fala: "Ó, você
+1:04:411 hora, 4 minutos e 41 segundosusuário, stakeholder, diretor, precisa validar e me dar um feedback
+1:04:501 hora, 4 minutos e 50 segundosdizendo se tá tudo OK e você tem, sei lá, duas semanas para fazer isso."
+1:04:561 hora, 4 minutos e 56 segundosO cara leva 40 dias porque ele não tá envolvido, não está
+1:05:051 hora, 5 minutos e 5 segundosengajado com aquele projeto. Que que acontece?
+1:05:111 hora, 5 minutos e 11 segundosEstica o prazo, atraso. Que que vai acontecer?
+1:05:191 hora, 5 minutos e 19 segundosProvavelmente na próxima vez ele não vai ter mais as duas semanas.
+1:05:251 hora, 5 minutos e 25 segundospara testar de novo. Só vai ter uma, a qualidade vai ser vai ter uma implicação na qualidade, vai
+1:05:341 hora, 5 minutos e 34 segundosser afetada essa qualidade. Percebem como é que as coisas acontecem?
+1:05:391 hora, 5 minutos e 39 segundosEntão, essas atividades elas vão produzir alguns artefatos e que esses artefatos precisam ser estar
+1:05:491 hora, 5 minutos e 49 segundosvivos durante o a execução, durante a o ciclo de vida do meu projeto.
+1:05:571 hora, 5 minutos e 57 segundosQue que é estar vivo? Eu preciso ir atualizando quando necessário.
+1:06:041 hora, 6 minutos e 4 segundosEu vou gerar um plano de gerenciamento do projeto. Como é que eu vou gerenciar isso aqui?
+1:06:101 hora, 6 minutos e 10 segundoso escopo, né? A matriz de escopo, muitas vezes, eh, se constrói uma estrutura chamado
+1:06:191 hora, 6 minutos e 19 segundosEAP. Só lembrando aqui que vocês têm um livro base da disciplina que é maravilhoso, tá? Muito legal, viu?
+1:06:261 hora, 6 minutos e 26 segundosEntão, dá uma olhadinha também no livro, não fiquem presos apenas a esses encontros da gente, aos slides. Aqui é um resumão e algumas coisas que eu trago
+1:06:351 hora, 6 minutos e 35 segundosaqui complementando e trazendo um pouco da experiência. Eu tô trazendo muita coisa de experiência, de vivência mesmo,
+1:06:431 hora, 6 minutos e 43 segundosde mercado, a chamada EAP, estrutura analítica do projeto, tá? é uma estrutura hierárquica, onde
+1:06:521 hora, 6 minutos e 52 segundosvocê tem as fases, você tem a em grandes blocos e no final nas folhas, digamos
+1:07:001 hora e 7 minutosassim, na parte mais baixa, aquilo que vai ser entregue chamados delables, tá? Então é muito comum se construir
+1:07:081 hora, 7 minutos e 8 segundosessa estrutura EAP, cronograma, já falei, né? as atividades encadeadas,
+1:07:171 hora, 7 minutos e 17 segundosinterdependências, condição em paralelo, os [limpando a garganta] recursos, quem vai desenvolver em que prazo, em horas,
+1:07:261 hora, 7 minutos e 26 segundosdias, o custo, você pode associar o custo, tem inúmeras ferramentas, Microsoft, tem várias ferramentas, tem
+1:07:341 hora, 7 minutos e 34 segundosum project, tem algumas ferramentas free, você tem planilhas, smart sheet que você
+1:07:421 hora, 7 minutos e 42 segundospode ajudar a a construir cronogramas, etc.
+1:07:491 hora, 7 minutos e 49 segundosPlano de custos e recursos, matriz de riscos. Qual é o risco? A
+1:07:571 hora, 7 minutos e 57 segundosprobabilidade desse risco acontecer é baixo? É, é médio, é alto? O impacto,
+1:08:041 hora, 8 minutos e 4 segundoslembra lá do cimento na construção da ponte?
+1:08:081 hora, 8 minutos e 8 segundosAh, a probabilidade era baixa, mas o impacto é alto. Imagine falta cimento na construção de uma ponte.
+1:08:171 hora, 8 minutos e 17 segundosAltíssimo o impacto, né? Então, eu tenho que ter uma resposta à altura, eu tenho que ter um plano B muito bem
+1:08:251 hora, 8 minutos e 25 segundosdesenvolvido para mitigar ou responder aquele risco escassez de cimento no Brasil.
+1:08:351 hora, 8 minutos e 35 segundosplano de comunicação.
+1:08:381 hora, 8 minutos e 38 segundosComo é que eu vou, por exemplo, comunicar o andamento do meu projeto para quem?
+1:08:441 hora, 8 minutos e 44 segundosEu vou mandar esse relatório para quem? Como?
+1:08:501 hora, 8 minutos e 50 segundosQue formato, que periodicidade.
+1:08:551 hora, 8 minutos e 55 segundosEntão eu preciso me comunicar com o meu público, meus públicos, né? stakeholders diferentes.
+1:09:041 hora, 9 minutos e 4 segundosEu posso ter, por exemplo, um rep. Eu costumava fazer um reporte pra equipe, que era um reporte mais técnico, semanal,
+1:09:131 hora, 9 minutos e 13 segundose fazia um reporte gerencial quinzenal, atualizando um dashboard que a gente
+1:09:201 hora, 9 minutos e 20 segundosutilizava duas ferramentas, um era o gira e o outro era o confluence, que é a
+1:09:281 hora, 9 minutos e 28 segundosespécie de portal, uma ferramenta wik, que você vai construindo eh alguns gráficos e vai atualizando.
+1:09:361 hora, 9 minutos e 36 segundosEntão, a gente mostrava, no caso, só fazendo um parêntese aqui, a gente utilizava uma metodologia híbrida
+1:09:461 hora, 9 minutos e 46 segundosmesclando gestão clássica, isso que a gente tá vendo, com o scrum, que é uma
+1:09:531 hora, 9 minutos e 53 segundosuma abordagem ágil, que a gente vai ver mais para frente, tá? E aí a gente fazia esse plano de comunicação utilizando de maneira híbrida.
+1:10:061 hora, 10 minutos e 6 segundosregistro das partes interessadas, né, os stakeholders. Então, tudo isso aqui é resultado fruto do meu processo de planejamento.
+1:10:191 hora, 10 minutos e 19 segundosPlanejamento, a frase aqui, né, que tá lá no PMBO, planejamento é a ponte entre o presente e o futuro do projeto.
+1:10:281 hora, 10 minutos e 28 segundosPlanejamento é a alma. Planejamento é a alma do projeto.
+1:10:341 hora, 10 minutos e 34 segundosAí você iniciou, planejou, vai executar.
+1:10:421 hora, 10 minutos e 42 segundosAí é o quê?
+1:10:441 hora, 10 minutos e 44 segundosÉ basicamente seguir aquilo que você planejou,
+1:10:511 hora, 10 minutos e 51 segundosé pegar o seu cronograma de atividades, começar a executar aquele cronograma de atividades,
+1:11:001 hora e 11 minutosné? Desenvolver, seja desenvolvimento de software, você vai começar a programar aquelas funcionalidades que você colocou no seu cronograma.
+1:11:121 hora, 11 minutos e 12 segundosvocê vai começar a gerenciar os seus recursos.
+1:11:171 hora, 11 minutos e 17 segundosLembra que você que eu falei que você vai, a gente consome os recursos?
+1:11:231 hora, 11 minutos e 23 segundosEntão você vai começar a ter o quê? Eu tinha lá 1 milhão no meu orçamento. Beleza?
+1:11:321 hora, 11 minutos e 32 segundosPrimeira semana, segunda semana, lá no Canadá o pagamento era quinzenal.
+1:11:391 hora, 11 minutos e 39 segundosNa primeira quinzena se paga a equipe, então 1 milhão já tira
+1:11:461 hora, 11 minutos e 46 segundoslá 50.000 para pagar a equipe. Então eu vou coordenando aqui, ó. Já gastou 50.000 na equipe. Ah, teve que comprar uma licença X lá de de um software.
+1:11:591 hora, 11 minutos e 59 segundosGastou mais 10.000. Opa, mais 10.000. Eu tô começando o quê?
+1:12:041 hora, 12 minutos e 4 segundoscontrolar também, gerenciar e consumir os recursos.
+1:12:121 hora, 12 minutos e 12 segundosEstou executando o meu projeto. Chegou numa semana,
+1:12:181 hora, 12 minutos e 18 segundoslembra que eu fazia o relatório eh técnico paraa equipe semanal? Ora,
+1:12:251 hora, 12 minutos e 25 segundoschegou sexta-feira, vou preparar o relatório para encaminhar paraa equipe.
+1:12:321 hora, 12 minutos e 32 segundosNa outra quinzena, na outra semana, o relatório gerencial.
+1:12:371 hora, 12 minutos e 37 segundosVou prepar, estou executando, percebe?
+1:12:411 hora, 12 minutos e 41 segundosEntão, eu tô fazendo a roda girar. Com isso, eu tô gerando o quê?
+1:12:501 hora, 12 minutos e 50 segundosrelatórios de progresso, a a depender do meu projeto, do que que é o meu projeto.
+1:13:011 hora, 13 minutos e 1 segundoVamos imaginar que seja um projeto de construção, de desenvolvimento de um sistema. Eu tô gerando código,
+1:13:111 hora, 13 minutos e 11 segundoseu tô gerando uma série de classes, tô gerando documentação, eu tô tendo reuniões,
+1:13:201 hora, 13 minutos e 20 segundosné? Se eu tô executando, eu tenho, eu tive um uma questão lá que a gente precisou se reunir. Eu vou gerar um registro dessa reunião, uma ata de reunião.
+1:13:311 hora, 13 minutos e 31 segundosEm determinado momento, eu vou chegar numa fase de testes.
+1:13:361 hora, 13 minutos e 36 segundosEntão, eu vou gerar documentos ou registros desses testes. Percebem? Então, estou
+1:13:441 hora, 13 minutos e 44 segundosexecutando o meu projeto, tô executando o meu projeto.
+1:13:531 hora, 13 minutos e 53 segundosNessa execução, pode ser que aconteça um risco, lembra
+1:14:001 hora e 14 minutoslá no risco que que eh eu previ ou até um que eu não previ acontece.
+1:14:101 hora, 14 minutos e 10 segundosE aí eu preciso, por exemplo, pôr em prática se eu não tinha, eu preciso desenvolver um plano para
+1:14:191 hora, 14 minutos e 19 segundosaquele contingência daquele risco. Se eu tinha eh colocar em prática o plano que eu desenvolvi para aquele risco,
+1:14:291 hora, 14 minutos e 29 segundosestou executando a minha eh o meu projeto. Eu posso, por exemplo, descobrir um novo risco.
+1:14:401 hora, 14 minutos e 40 segundosEu preciso fazer o quê? Atualizar o meu, incluir esse novo risco no meu plano de risco, né?
+1:14:501 hora, 14 minutos e 50 segundosAh, [limpando a garganta] uma pessoa saiu do meu projeto, eu preciso substituir esse recurso. Eu,
+1:14:571 hora, 14 minutos e 57 segundoscomo gerente vou buscar o novo recurso para substituir aquele recurso que saiu, ou seja, eu estou executando.
+1:15:061 hora, 15 minutos e 6 segundosPercebe? Mudanças. Podem vir solicitações de mudanças. Que que eu tenho que fazer? simplesmente acatar
+1:15:151 hora, 15 minutos e 15 segundosessa mudança e começar a fazer. A gente vai ver que tem algumas questões que a gente precisa analisar.
+1:15:251 hora, 15 minutos e 25 segundosfase de execução. Depois da fase de execução, existe uma fase que é, digamos assim, permeia todo o processo.
+1:15:371 hora, 15 minutos e 37 segundosÉ a fase de controle e monitoramento.
+1:15:401 hora, 15 minutos e 40 segundosÉ a fase em que eu estou controlando a execução do meu projeto.
+1:15:501 hora, 15 minutos e 50 segundosEu estou monitorando, eu estou acompanhando o progresso, né?
+1:15:581 hora, 15 minutos e 58 segundosEntão ali eu tô executando, criei o novo relatório, criei de mandei pá pá pá, pera aí,
+1:16:061 hora, 16 minutos e 6 segundoseu já gastei eh o que era necessário, o que era esperado nessa fase, eu vou
+1:16:131 hora, 16 minutos e 13 segundospoder acompanhar. Opa, eu cheguei a 20% de execução física do meu projeto, mas eu já gastei
+1:16:231 hora, 16 minutos e 23 segundos40% do financeiro. tem alguma coisa desbalanceada.
+1:16:301 hora, 16 minutos e 30 segundosComo é que eu só executei 20% e gastei 40%?
+1:16:341 hora, 16 minutos e 34 segundosTem alguma coisa que não tá legal. Vou analisar, vou ver o que aconteceu.
+1:16:411 hora, 16 minutos e 41 segundosProvavelmente eu gastei horas a mais do que eu tinha planejado. Preciso
+1:16:491 hora, 16 minutos e 49 segundosdescobrir onde. Vocês percebem? Então isso eu estou monitorando, tô controlando.
+1:16:571 hora, 16 minutos e 57 segundosE esse desvio, como é que eu vou corrigir esse desvio?
+1:17:021 hora, 17 minutos e 2 segundosÉ, lembra do risco? Eu vou ter um novo risco e agora como é que eu vou resolver
+1:17:091 hora, 17 minutos e 9 segundosesse risco? Como é que eu vou reagir, responder a essa ocorrência?
+1:17:171 hora, 17 minutos e 17 segundosA mudança normalmente eu vou ter o quê? uma análise.
+1:17:251 hora, 17 minutos e 25 segundosEntão, eu preciso ter um processo de responder a mudança. Ah, eu não quero
+1:17:331 hora, 17 minutos e 33 segundosque faça desse jeito mais, não. Quero que faça do outro jeito. Ih, mas espera aí, isso vai impactar aqui, ali, acolá.
+1:17:421 hora, 17 minutos e 42 segundosIsso vai gerar um custo disso, disso, daquilo. Vai ter um atraso aqui, ali e lá.
+1:17:491 hora, 17 minutos e 49 segundosÉ isso mesmo que você quer? Quem vai pagar essa conta?
+1:17:571 hora, 17 minutos e 57 segundosTá todo mundo ciente?
+1:18:011 hora, 18 minutos e 1 segundoTodo mundo concorda? Tá aprovado a mudança, a gente vai mudar. Tá aprovado, tá aprovado. Percebe isso?
+1:18:111 hora, 18 minutos e 11 segundosO gerente precisa ter esse jogo de cintura para levantar as questões, apresentar as questões, discutir,
+1:18:191 hora, 18 minutos e 19 segundosnegociar e voltar para implementar. Eu faço isso monitorando e controlando o meu projeto.
+1:18:291 hora, 18 minutos e 29 segundosA comunicação tá sendo adequada?
+1:18:351 hora, 18 minutos e 35 segundosVocês estão recebendo os relatórios a contento.
+1:18:391 hora, 18 minutos e 39 segundosO nível da informação está adequado, a periodicidade está adequada. Ah, não.
+1:18:451 hora, 18 minutos e 45 segundos15 15 dias tá demais. me dê a cada mês ou o contrário, 15 dias é pouco, eu
+1:18:521 hora, 18 minutos e 52 segundosquero acompanhar isso toda semana, beleza? Vamos ajustar.
+1:18:571 hora, 18 minutos e 57 segundosEntão isso é monitoramento, é controle, tá? Isso, gente, eu gero como artefatos
+1:19:041 hora, 19 minutos e 4 segundoso quê? os meus relatórios de desempenho, registros de novos riscos,
+1:19:151 hora, 19 minutos e 15 segundosregistros de mudanças e o processo de aprovação ou não de uma mudança.
+1:19:241 hora, 19 minutos e 24 segundosPlanos de ação. Lembra quando a gente falou que, ó, e agora aconteceu isso, que que eu, como é que eu vou resolver isso? Planos de ação para resolver desvios.
+1:19:361 hora, 19 minutos e 36 segundosné? Atualização da minha documentação como um todo. Então, tudo isso faz parte
+1:19:431 hora, 19 minutos e 43 segundosdo meu processo de monitoramento e controle. Eu avalio o progresso,
+1:19:511 hora, 19 minutos e 51 segundoseu analiso os resultados e caso haja algum desvio, eu preciso
+1:19:571 hora, 19 minutos e 57 segundosagir para colocar esse desvio na na nos trilhos novamente. A velocidade tá muito devagar, precisa acelerar.
+1:20:081 hora, 20 minutos e 8 segundosAh, velocidade tá muito rápida, preciso desacelerar. Tem isso também.
+1:20:151 hora, 20 minutos e 15 segundosTem isso também, né? A gente precisa ter o equilíbrio. A gente precisa ter o equilíbrio.
+1:20:251 hora, 20 minutos e 25 segundosProcesso vai, projeto caminha, chega numa fase em que a gente precisa encerrar o projeto.
+1:20:351 hora, 20 minutos e 35 segundosa gente entrega aquele produto, [limpando a garganta] entrega aquela
+1:20:411 hora, 20 minutos e 41 segundosmeta que atingiu e a gente precisa validar
+1:20:491 hora, 20 minutos e 49 segundostudo que foi entregue, os resultados.
+1:20:551 hora, 20 minutos e 55 segundosA gente submete, na grande maioria das vezes, um aceite formal,
+1:21:021 hora, 21 minutos e 2 segundosum registro formal. de que o produto entregue atende ao que foi solicitado
+1:21:111 hora, 21 minutos e 11 segundosdentro dos prazos, a qualidade, etc, etc, etc.
+1:21:151 hora, 21 minutos e 15 segundos[roncando] Eu preciso muitas vezes encerrar uma série de contratos, né? Eu posso ter tido um contrato com
+1:21:241 hora, 21 minutos e 24 segundosfornecedores de uma equipe de apoio, sei lá. Eu posso ter tido um contrato, eu aluguei uma
+1:21:311 hora, 21 minutos e 31 segundosmáquina, eu contratei a licença de um software que eu não preciso mais, eu vou encerrar.
+1:21:411 hora, 21 minutos e 41 segundosEu contratei, eu fiz o aluguel de de uma máquina que eu não preciso mais e vou encerrar. Então, encerramento de
+1:21:491 hora, 21 minutos e 49 segundoscontratos, dispensa de recursos, eh validação das entregas, realização do
+1:21:571 hora, 21 minutos e 57 segundosaceite normal, algo que é muito importante, que quase ninguém faz.
+1:22:061 hora, 22 minutos e 6 segundosRegistro das lições aprendidas.
+1:22:121 hora, 22 minutos e 12 segundosa gente passa por uma série de questões, uma série de problemas inéditos muitas vezes numa organização,
+1:22:201 hora, 22 minutos e 20 segundosné, e que a gente não registra como é que resolveu aquilo, como é que passou por aquilo,
+1:22:271 hora, 22 minutos e 27 segundoscomo é que conciliou, negociou, a gente não regista. Aí lá na frente outra equipe pode passar por algo muito
+1:22:351 hora, 22 minutos e 35 segundossimular. Puxa, como é que você Ah, não tem tão importante que a gente registre
+1:22:421 hora, 22 minutos e 42 segundosas lições aprendidas, que a gente guarde, obviamente a documentação e o conhecimento e possa
+1:22:511 hora, 22 minutos e 51 segundoscompartilhar essa lição, fazer um um
+1:22:581 hora, 22 minutos e 58 segundosuma apresentação ou um compilado do que foi importante.
+1:23:031 hora, 23 minutos e 3 segundose comemorar o resultado. Importante a gente celebrar resultados, né? E são atividades que a gente pelo
+1:23:121 hora, 23 minutos e 12 segundosmenos deveria ter como meta ao final a encerrar um projeto. E como saída, né, como artefatos,
+1:23:201 hora, 23 minutos e 20 segundoso termo de aceite, seja do seu cliente, seja do seu usuário final, dos stakeholders,
+1:23:281 hora, 23 minutos e 28 segundoseh, patrocinadores, que são os donos daquele produto, etc., seja lá de quem for. Relatórios finais, os registros de lições aprendidas.
+1:23:391 hora, 23 minutos e 39 segundosNormalmente a gente usa ferramentas wik para fazer isso, uma série de de a gente tinha isso bem interessante no
+1:23:481 hora, 23 minutos e 48 segundosConfluence, uma área só de lições aprendidas, problemas que a gente passou
+1:23:541 hora, 23 minutos e 54 segundose soluções que a gente implementou e muitas vezes eram únicas ou iniciantes dentro da organização.
+1:24:041 hora, 24 minutos e 4 segundosE a documentação do projeto atualizada.
+1:24:081 hora, 24 minutos e 8 segundosÉ sempre bom, porque outras equipes, outros gerentes podem aprender com a sua experiência,
+1:24:161 hora, 24 minutos e 16 segundoscerto? Então esse é o, digamos assim, aquilo que a gente preconiza que uma boa
+1:24:231 hora, 24 minutos e 23 segundosgestão faça em termos de projetos, iniciação, planejamento, execução.
+1:24:301 hora, 24 minutos e 30 segundosDentro desse cenário, monitoramento e controle e ao final uma finalização formal.
+1:24:391 hora, 24 minutos e 39 segundospara que a gente encerre formalmente a o término, a conclusão com o sucesso do seu projeto.
+1:24:491 hora, 24 minutos e 49 segundosE aí, antes de de encerrar, a gente já tá já indo por 5, 10 minutos finais,
+1:24:571 hora, 24 minutos e 57 segundoseu queria eh que vocês contribuíssem aqui, participassem
+1:25:031 hora, 25 minutos e 3 segundosfalando de alguns projetos que vocês já fizeram ou gostariam de fazer
+1:25:131 hora, 25 minutos e 13 segundosou estão fazendo, desenvolvendo, trabalhando, seja no âmbito profissional, seja seja no âmbito
+1:25:201 hora, 25 minutos e 20 segundospessoal, projeto, como eu disse, um projeto de uma viagem, projeto aí de um mestrado, o
+1:25:281 hora, 25 minutos e 28 segundosprojeto de um, sei lá, de uma compra de um de um bem, pode ser um
+1:25:361 hora, 25 minutos e 36 segundosprojeto. Eu posso transformar isso num projeto, eu posso transformar um sonho num projeto, eu devo transformar os meus
+1:25:431 hora, 25 minutos e 43 segundossonhos em projetos, né? Eu gostaria que vocês me ajudassem aí trazendo
+1:25:501 hora, 25 minutos e 50 segundosalgumas referências ou algumas ideias ou de projetos que vocês têm ou estão tendo ou estão trabalhando ou que pretendem
+1:25:581 hora, 25 minutos e 58 segundosfazer eh no futuro.
+1:26:071 hora, 26 minutos e 7 segundosPergunta dois para refletir aqui quando vocês vão trazendo aí. O que que poderia ou pode acontecer
+1:26:151 hora, 26 minutos e 15 segundosquando um projeto começa sem objetivos claros prazos, sem as responsabilidades bem definidas?
+1:26:261 hora, 26 minutos e 26 segundosQue que vocês acham que pode acontecer?
+1:26:331 hora, 26 minutos e 33 segundosE na visão de vocês, o que que é mais importante para o sucesso?
+1:26:411 hora, 26 minutos e 41 segundosplanejamento, pessoas, recursos,
+1:26:501 hora, 26 minutos e 50 segundostecnologia, o quê? Não só o que, mas por quê?
+1:26:591 hora, 26 minutos e 59 segundosÉ sempre, a gente precisa sempre justificar as nossas respostas, os nossos pensamentos, as nossas ideias.
+1:27:101 hora, 27 minutos e 10 segundosPor que que eu penso isso? Baseado em quê? Era sempre importante justificar, né?
+1:27:171 hora, 27 minutos e 17 segundosEntão, ninguém trouxe aqui. Acho que tá estão meio
+1:27:241 hora, 27 minutos e 24 segundostímidos na noite de hoje, mas eu deixo aqui essas reflexões para que vocês possam eh a partir de
+1:27:341 hora, 27 minutos e 34 segundosagora, quem sabe eh tratar ou ou trazer pro âmbito dos projetos [roncando] essas questões, né?
+1:27:451 hora, 27 minutos e 45 segundosou comprar um carro. Agora vou vou transformar isso num projeto e aí analisar aquilo tudo, né?
+1:27:561 hora, 27 minutos e 56 segundosIvan diz que não fiz projeto, mas vejo oportunidade de desenvolvimento no pessoal segurança digital, profissional, migração, infraestrutura.
+1:28:061 hora, 28 minutos e 6 segundosIsso é o que você tá trabalhando. Isso é o que você tá planejando.
+1:28:131 hora, 28 minutos e 13 segundosMigração e infraestrutura. Isso é o que que você gostaria de de fazer, Ivan?
+1:28:211 hora, 28 minutos e 21 segundosO que você já está fazendo.
+1:28:311 hora, 28 minutos e 31 segundosÓ, Geralda Kilder. Geraldo, estou realizando um projeto de um sistema de estoque. Legal.
+1:28:381 hora, 28 minutos e 38 segundosE aí, Geraldo, tem alguma coisa que você poderia fazer, falar pra gente, trazer
+1:28:441 hora, 28 minutos e 44 segundospra gente que eu comentei que é similar ou que eh você viu acontecer aí nesse projeto
+1:28:541 hora, 28 minutos e 54 segundosde de estoque, do sistema de estoque, como é que vocês estão tratando?
+1:29:001 hora e 29 minutospor exemplo, eh tem um plano termo de abertura, foi feito
+1:29:081 hora, 29 minutos e 8 segundosalgum tipo de planejamento, tem na fase de iniciação, tem aí a identificação do stakeholders,
+1:29:171 hora, 29 minutos e 17 segundostem o objetivo? Você tem o objetivo claro desse seu sistema?
+1:29:231 hora, 29 minutos e 23 segundosVocê sabe quem são os stakeholders desse seu sistema?
+1:29:341 hora, 29 minutos e 34 segundosTem isso formalizado através de um termo de abertura, por exemplo.
+1:29:441 hora, 29 minutos e 44 segundosEu queria ouvir nesse sentido. Quem mais?
+1:29:551 hora, 29 minutos e 55 segundosEstamos terminando a aula, mas dá tempo aqui da gente trocar uma ideia ainda que é importante,
+1:30:021 hora, 30 minutos e 2 segundosgente, vocês perceberem que tudo isso que a gente tá falando tem uma aplicabilidade diretíssima,
+1:30:101 hora, 30 minutos e 10 segundosseja no cotidiano, seja no trabalho de vocês, diretíssimo, ainda que não todo escopo,
+1:30:201 hora, 30 minutos e 20 segundosnão tudo, Mas muito do que a gente vê aqui, a gente é capaz de aplicar no nosso dia a dia, como falei, em projetos
+1:30:271 hora, 30 minutos e 27 segundospessoais, né? Fazer uma estimativa de custo, estabelecer o que que a gente quer realmente, que que eu quero, né?
+1:30:401 hora, 30 minutos e 40 segundosEu vou fazer uma viagem, vai custar quanto?
+1:30:461 hora, 30 minutos e 46 segundosEu vou para onde? Eu vou começar a viagem por onde? Vou fazer o quê? Ó, meu cronograma.
+1:30:531 hora, 30 minutos e 53 segundosE tem risco. E se minha bala extraviar, eu faço o quê? Ó, gestão de riscos, não é?
+1:31:041 hora, 31 minutos e 4 segundosEntão essa parte de gestão de projetos eu acho fantástica, porque ela é aplicável a várias coisas, vários
+1:31:121 hora, 31 minutos e 12 segundosempreendimentos que a gente faz, várias atividades que a gente se propõe a fazer, desde uma viagem, uma simples
+1:31:191 hora, 31 minutos e 19 segundosviagem de férias até o planejamento aí de um curso, de uma construção, a uma
+1:31:271 hora, 31 minutos e 27 segundoscompra de um imóvel, quem sabe aí vocês estão planejando aqui adquirir um imóvel. Tudo isso, gente, dá paraa gente
+1:31:351 hora, 31 minutos e 35 segundostratar como um projeto, certo?
+1:31:411 hora, 31 minutos e 41 segundosEh, eu acredito que eu tô chegando aqui no meu limite de horário e eu devolvo pro professor Éber.
+1:31:561 hora, 31 minutos e 56 segundosProfessor, não tá dentro, professor, não tá no limite, não. Tá tranquilo, tá tudo certo. Pessoal, gostaria de
+1:32:041 hora, 32 minutos e 4 segundosagradecer a, ó, o K tá colocando mais um comentário aqui, professor. Vou projetar em tela aqui pra gente.
+1:32:111 hora, 32 minutos e 11 segundosColoquei data de início e fim, conversei com as partes interessadas para verificar os problemas e para criar formas de dinamizar. Que bacana isso aí.
+1:32:211 hora, 32 minutos e 21 segundosvocê já está atuando como um verdadeiro gerente de projetos. E na aula que vem,
+1:32:291 hora, 32 minutos e 29 segundoseh, Kildre, a gente vai ver algumas das habilidades que um bom gestor de projetos precisa
+1:32:371 hora, 32 minutos e 37 segundosdesenvolver eh dentro do do âmbito aí da de uma boa que a gente chama de [limpando a garganta] uma uma gestão adequada. Tá bom?
+1:32:471 hora, 32 minutos e 47 segundosParabéns.
+1:32:511 hora, 32 minutos e 51 segundosIsso aí, professor. Gostaria de agradecer o professor pela aula, participação de todos aqui. Continue mandando ali sua participação, sua
+1:32:581 hora, 32 minutos e 58 segundosdúvida. Vai agregando muito aqui no no conteúdo que o professor tá passando pra gente aqui. OK, professor, muito obrigado.
+1:33:071 hora, 33 minutos e 7 segundosAté semana que vem.
+1:33:081 hora, 33 minutos e 8 segundosAté semana que vem. Eu que agradeço a todos aí. A gente se encontra em breve. Ciao. Ja.

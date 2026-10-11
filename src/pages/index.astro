@@ -1,0 +1,37 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import SiteHeader from "../components/SiteHeader.astro";
+---
+<BaseLayout title="Caderno de estudo · Matérias" description="Caderno de estudo organizado por matérias e posts." extraStyles>
+<SiteHeader label="MATÉRIAS" />
+<main class="home">
+<section class="hero">
+<span class="eyebrow">SEU PERCURSO DE APRENDIZAGEM</span>
+<h1>Escolha uma matéria.<br>
+<em>Explore cada descoberta.</em>
+</h1>
+<p class="lead">Um lugar para reunir o que você está aprendendo. Encontre sua matéria e navegue pelos posts, exemplos e atividades de estudo.</p>
+<div class="meta">1 matéria disponível · 2 posts para estudar</div>
+</section>
+<h2 class="catalog-title">Suas matérias</h2>
+<div class="lesson-grid subject-grid">
+<a class="lesson-card subject-card" href="/gestao-de-projetos/">
+<span class="eyebrow">TECNOLOGIA / 2 POSTS</span>
+<div class="subject-symbol" aria-hidden="true">01</div>
+<h2>Gestão de Projetos Tecnológicos</h2>
+<p>Do planejamento à entrega: fundamentos, liderança, comunicação e controle de projetos.</p>
+<div class="subject-topics">
+<span>Fundamentos</span>
+<span>Pessoas</span>
+<span>Controle</span>
+</div>
+<strong>Explorar os posts →</strong>
+</a>
+</div>
+<div class="callout">
+<h3>Seu estudo, organizado</h3>
+<p>Cada matéria reúne seus próprios posts. Escolha um tema, acompanhe as explicações e pratique com os exemplos e as atividades de cada aula.</p>
+</div>
+<footer>Caderno pessoal de estudo<br>Matérias → Posts → Leitura e prática</footer>
+</main>
+</BaseLayout>

@@ -1,0 +1,384 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import SiteHeader from "../components/SiteHeader.astro";
+---
+<BaseLayout title="Aula 01 · Gestão de Projetos Tecnológicos">
+<div id="progress" aria-hidden="true">
+</div>
+<SiteHeader lesson />
+<div class="layout">
+<aside>
+<p class="breadcrumb">
+<a href="/">Todas as matérias</a>
+<br>
+<a href="/gestao-de-projetos/">Gestão de Projetos</a>
+</p>
+<span class="eyebrow">NESTA AULA</span>
+<nav>
+<a href="#essencia">01 · O que é um projeto</a>
+<a href="#planejar">02 · Por que planejar</a>
+<a href="#equilibrio">03 · Restrições e pessoas</a>
+<a href="#ciclo">04 · Da ideia ao aceite</a>
+<a href="#pratica">05 · Aplicação prática</a>
+<a href="#revisao">06 · Teste seu conhecimento</a>
+<a href="#slides">07 · Slides da aula</a>
+</nav>
+<p>Leia, aplique e revise.<br>Aprender gestão é aprender a fazer boas perguntas.</p>
+</aside>
+<main>
+<section class="hero">
+<span class="eyebrow">AULA 01 / GUIA DE ESTUDO</span>
+<h1>Da ideia à entrega:<br>
+<em>como gerir um projeto tecnológico.</em>
+</h1>
+<p class="lead">Uma solução útil começa com um objetivo claro. Para chegar até ela, é preciso conectar pessoas, recursos, tempo e decisões.</p>
+<div class="meta">Síntese da aula do Prof. Dr. Rogério Lacerda · Introdução à gestão de projetos</div>
+<div class="hero-map">
+<span>IDEIA</span>
+<b>→</b>
+<span>PLANO</span>
+<b>→</b>
+<span>ENTREGA</span>
+<b>→</b>
+<span>VALOR</span>
+</div>
+</section>
+<div class="takeaway">
+<strong>A ideia central</strong>
+<p>Gerenciar projetos é aplicar conhecimentos, habilidades, ferramentas e técnicas para atender às demandas do projeto. O trabalho envolve integrar decisões, e vai muito além de cobrar tarefas.</p>
+</div>
+<section id="essencia">
+<span class="eyebrow">01 / FUNDAMENTOS</span>
+<h2>O que transforma uma iniciativa em projeto?</h2>
+<p>Um projeto é um empreendimento temporário voltado a um produto, serviço ou resultado único. Tem início e fim, um objetivo a atingir e atividades que precisam ser coordenadas sob restrições de recursos.</p>
+<div class="cards">
+<div>
+<b>Temporário</b>
+<p>Possui um horizonte de conclusão. O resultado pode continuar sendo usado depois que o projeto termina.</p>
+</div>
+<div>
+<b>Progressivo</b>
+<p>Avança por etapas; o entendimento e o detalhamento da solução evoluem durante o trabalho.</p>
+</div>
+<div>
+<b>Único</b>
+<p>Busca um resultado específico em determinado contexto, mesmo usando práticas já conhecidas.</p>
+</div>
+</div>
+<h3>Projeto, processo e operação</h3>
+<p>Um processo organiza atividades. Na comparação apresentada na aula, processos operacionais sustentam um trabalho contínuo e repetitivo; projetos organizam uma iniciativa temporária. Processos também podem existir dentro de um projeto.</p>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Critério</th>
+<th>Projeto</th>
+<th>Operação contínua</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Horizonte</td>
+<td>Início e fim definidos</td>
+<td>Continuidade do serviço</td>
+</tr>
+<tr>
+<td>Foco</td>
+<td>Entregar um resultado específico</td>
+<td>Eficiência e consistência</td>
+</tr>
+<tr>
+<td>Software</td>
+<td>Implantar um novo sistema</td>
+<td>Atender usuários do sistema</td>
+</tr>
+<tr>
+<td>Infraestrutura</td>
+<td>Migrar dados para uma nova plataforma</td>
+<td>Monitorar a plataforma diariamente</td>
+</tr>
+<tr>
+<td>Vida pessoal</td>
+<td>Organizar uma viagem de férias</td>
+<td>Manter uma rotina de despesas</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="note">Para lembrar: desenvolver o desenho de um novo carro é projeto; fabricar unidades repetidamente é operação.</p>
+</section>
+<section id="planejar">
+<span class="eyebrow">02 / INTENÇÃO ANTES DA AÇÃO</span>
+<h2>Planejar reduz decisões improvisadas.</h2>
+<p>Começar a desenvolver sem planejamento pode parecer rápido. A aula destaca o que costuma surgir depois: retrabalho, atrasos, desperdício, custos sem controle e entregas que não atendem às expectativas.</p>
+<p>Planejar torna o objetivo mais claro, organiza dependências, estima prazos e recursos, antecipa riscos e combina como o progresso será comunicado. É um investimento na execução e precisa ser revisitado quando o contexto muda.</p>
+<div class="callout">
+<h3>Antes de “colocar a mão na massa”</h3>
+<ol>
+<li>Qual problema estamos resolvendo e qual resultado esperamos?</li>
+<li>O que entra no escopo e o que fica fora?</li>
+<li>Quem entrega, quem decide e quem aceita?</li>
+<li>Quais atividades dependem de outras e quais podem ocorrer em paralelo?</li>
+<li>Quais riscos e critérios de qualidade precisamos considerar?</li>
+</ol>
+</div>
+<h3>De onde vêm os projetos tecnológicos?</h3>
+<p>Da demanda de mercado, de uma oportunidade estratégica, de uma solicitação do cliente, de um avanço tecnológico ou de um requisito legal. Desenvolvimento de software, integração de sistemas, migração de dados, infraestrutura e dashboards são exemplos discutidos na aula.</p>
+</section>
+<section id="equilibrio">
+<span class="eyebrow">03 / DECISÕES CONECTADAS</span>
+<h2>Escopo, prazo e custo formam um equilíbrio.</h2>
+<p>Escopo define os limites do trabalho; prazo organiza quando ele será feito; custo representa o consumo de recursos. Alterar um desses elementos pode exigir ajustes nos demais e afetar a qualidade.</p>
+<div class="constraint">
+<div>
+<span>ESCOPO</span>
+<strong>O que entregar?</strong>
+</div>
+<div>
+<span>PRAZO</span>
+<strong>Até quando?</strong>
+</div>
+<div>
+<span>CUSTO</span>
+<strong>Com quais recursos?</strong>
+</div>
+</div>
+<div class="interactive">
+<span class="eyebrow">EXPLORE UMA DECISÃO</span>
+<h3>O cenário mudou. O que considerar?</h3>
+<div id="scenario-buttons">
+<button data-scenario="0" aria-pressed="true">Mais funcionalidades</button>
+<button data-scenario="1" aria-pressed="false">Prazo menor</button>
+<button data-scenario="2" aria-pressed="false">Orçamento menor</button>
+</div>
+<p id="scenario-text" aria-live="polite">
+</p>
+<small>Exemplos didáticos: os efeitos dependem do contexto, não são previsões automáticas.</small>
+</div>
+<p>A aula exemplifica um perigo: atrasar o desenvolvimento e tentar compensar encurtando os testes. A entrega pode chegar com mais defeitos. Por isso, qualidade precisa de critérios e métricas combinados, tanto para o processo quanto para os entregáveis.</p>
+<h3>O projeto também depende de pessoas.</h3>
+<p>
+<strong>Partes interessadas (stakeholders)</strong> são pessoas ou grupos que participam, influenciam ou são afetados pelo projeto: clientes, usuários, equipe, fornecedores, direção e patrocinadores. O patrocinador é uma dessas partes, não um sinônimo de todas elas.</p>
+<p>Expectativas podem entrar em conflito. O gestor precisa negociar prioridades, esclarecer responsabilidades e adaptar a comunicação ao público. Um relatório técnico para a equipe e um relato de impactos e decisões para a direção podem exigir linguagens e periodicidades diferentes.</p>
+<h3>Risco: ameaça ou oportunidade</h3>
+<p>Riscos são incertezas que podem prejudicar ou favorecer os objetivos. A falta de um recurso pode ameaçar a entrega; um aporte adicional pode abrir uma oportunidade. Identifique probabilidade, impacto, responsável e resposta adequada.</p>
+<div class="cards two">
+<div>
+<b>Risco do projeto</b>
+<p>Duas pessoas deixam a equipe durante o desenvolvimento. Planejar transferência de conhecimento e substituição ajuda a responder ao impacto.</p>
+</div>
+<div>
+<b>Requisito do produto</b>
+<p>O sistema precisa continuar disponível se um componente falhar. Redundância pode integrar a solução e deve ser discutida como requisito, com seus custos.</p>
+</div>
+</div>
+</section>
+<section id="ciclo">
+<span class="eyebrow">04 / DA IDEIA AO ACEITE</span>
+<h2>Um roteiro para conduzir o trabalho.</h2>
+<p>A aula apresenta iniciação, planejamento, execução, monitoramento e controle e encerramento. Use esse roteiro para entender as responsabilidades; as atividades podem se sobrepor e os planos podem ser atualizados.</p>
+<div class="phase-tabs" role="tablist" aria-label="Etapas do projeto">
+<button role="tab" id="tab-0" aria-controls="phase-panel" aria-selected="true" data-phase="0">01 · Iniciação</button>
+<button role="tab" id="tab-1" aria-controls="phase-panel" aria-selected="false" data-phase="1">02 · Planejamento</button>
+<button role="tab" id="tab-2" aria-controls="phase-panel" aria-selected="false" data-phase="2">03 · Execução</button>
+<button role="tab" id="tab-3" aria-controls="phase-panel" aria-selected="false" data-phase="3">04 · Monitoramento e controle</button>
+<button role="tab" id="tab-4" aria-controls="phase-panel" aria-selected="false" data-phase="4">05 · Encerramento</button>
+</div>
+<div id="phase-panel" role="tabpanel" aria-labelledby="tab-0">
+</div>
+<figure>
+<button class="image-button" data-image="/assets/slide-11.jpg" aria-label="Ampliar slide 11: ciclo de vida">
+<img src="/assets/slide-11.jpg" alt="Gráfico do slide 11: nível de custos e pessoal cresce na execução e diminui no encerramento" loading="lazy">
+</button>
+<figcaption>Slide 11 · Perfil ilustrativo de custos e pessoal ao longo do ciclo. A curva não representa o custo acumulado nem uma regra para todos os projetos.</figcaption>
+</figure>
+<div class="callout">
+<h3>Monitorar é comparar e agir.</h3>
+<p>Na aula, o professor usa o exemplo de 20% de execução física e 40% do orçamento consumido. Isso pede investigação: o desembolso pode seguir um perfil diferente do avanço das entregas. Compare com o plano, identifique causas e então decida a correção.</p>
+<p>Para mudanças: registre a solicitação → analise impactos → negocie → obtenha a decisão de quem tem autoridade → atualize planos e comunique → execute o que foi aprovado.</p>
+</div>
+</section>
+<section id="pratica">
+<span class="eyebrow">05 / APLIQUE O CONHECIMENTO</span>
+<h2>Um sistema de estoque como fio condutor.</h2>
+<p>Um aluno menciona esse tipo de projeto ao final da aula. O exemplo abaixo é uma elaboração didática para aplicar os conceitos; seus números não foram definidos pelo professor.</p>
+<div class="case">
+<span class="eyebrow">EXEMPLO DIDÁTICO</span>
+<h3>Implantar o controle de estoque de uma pequena loja.</h3>
+<p>
+<strong>Objetivo:</strong> disponibilizar, em oito semanas, cadastro de produtos, entradas, saídas e consulta de saldo, com validação do responsável pela loja.</p>
+<p>
+<strong>Escopo inicial:</strong> essas quatro funções e treinamento básico. Integração com fornecedores fica fora desta entrega.</p>
+<p>
+<strong>Qualidade:</strong> validar, com casos de teste acordados, se o saldo reflete corretamente as movimentações.</p>
+<p>
+<strong>Partes interessadas:</strong> proprietário, usuários do estoque, equipe de desenvolvimento e responsável pelo aceite.</p>
+<p>
+<strong>Dependência:</strong> definir as regras de movimentação antes de implementar o cálculo de saldo. Preparar o treinamento pode avançar em paralelo às atividades compatíveis.</p>
+<p>
+<strong>Risco:</strong> o usuário responsável demorar a validar. Combine datas, disponibilidade e uma alternativa de decisão.</p>
+<p>
+<strong>Mudança:</strong> um pedido de integração exige análise de prazo, custo e escopo antes de assumir a nova entrega.</p>
+<p>
+<strong>Encerramento:</strong> aceite registrado, documentação entregue, operação orientada e lições aprendidas compartilhadas.</p>
+</div>
+<h3>Seu projeto em sete perguntas</h3>
+<p>Preencha este rascunho para transformar uma ideia em uma conversa concreta. Suas respostas ficam salvas apenas neste navegador, quando o armazenamento local estiver disponível.</p>
+<div id="worksheet">
+<label>1. Que problema quero resolver?<textarea data-note="0" rows="3" placeholder="Escreva seu rascunho…">
+</textarea>
+</label>
+<label>2. Qual resultado será entregue e o que fica fora?<textarea data-note="1" rows="3" placeholder="Escreva seu rascunho…">
+</textarea>
+</label>
+<label>3. Quando deve terminar?<textarea data-note="2" rows="3" placeholder="Escreva seu rascunho…">
+</textarea>
+</label>
+<label>4. Quem participa, decide e aceita?<textarea data-note="3" rows="3" placeholder="Escreva seu rascunho…">
+</textarea>
+</label>
+<label>5. Quais recursos e custos preciso estimar?<textarea data-note="4" rows="3" placeholder="Escreva seu rascunho…">
+</textarea>
+</label>
+<label>6. Quais riscos, dependências e respostas devo considerar?<textarea data-note="5" rows="3" placeholder="Escreva seu rascunho…">
+</textarea>
+</label>
+<label>7. Como vou medir qualidade e confirmar o aceite?<textarea data-note="6" rows="3" placeholder="Escreva seu rascunho…">
+</textarea>
+</label>
+</div>
+<div class="actions">
+<button id="export">Baixar minhas respostas</button>
+<button id="clear" class="secondary">Limpar respostas</button>
+<span id="save-status" role="status">
+</span>
+</div>
+</section>
+<section id="revisao">
+<span class="eyebrow">06 / RECUPERAÇÃO ATIVA</span>
+<h2>Feche o texto. Tente explicar.</h2>
+<p>Antes de consultar as respostas, tente dizer com suas palavras o que define um projeto, por que planejar e como a gestão acompanha a entrega.</p>
+<div id="quiz">
+</div>
+<button id="check">Conferir respostas</button>
+<button id="reset-quiz" class="secondary">Tentar novamente</button>
+<p id="score" role="status">
+</p>
+<h3>Cartões de revisão</h3>
+<details>
+<summary>O que é EAP?</summary>
+<p>Estrutura Analítica do Projeto: decomposição hierárquica do trabalho e das entregas, útil para organizar o escopo. Não é o cronograma.</p>
+</details>
+<details>
+<summary>O que são entregáveis?</summary>
+<p>Produtos, serviços ou resultados verificáveis produzidos no projeto. Código, documentação e resultados de testes são exemplos citados.</p>
+</details>
+<details>
+<summary>O que registrar no plano de comunicação?</summary>
+<p>Público, informação necessária, responsável, formato, canal e periodicidade. Ajuste a linguagem às decisões de cada público.</p>
+</details>
+<details>
+<summary>Por que registrar lições aprendidas?</summary>
+<p>Para que outras pessoas e projetos aproveitem problemas, decisões e soluções já experimentados.</p>
+</details>
+<details>
+<summary>Qual fator é o mais importante para o sucesso?</summary>
+<p>A aula propõe essa reflexão, sem eleger um fator universal. Justifique como planejamento, pessoas, recursos e acompanhamento se conectam no seu contexto.</p>
+</details>
+</section>
+<section id="slides">
+<span class="eyebrow">07 / MATERIAL DE APOIO</span>
+<h2>Volte aos slides quando precisar.</h2>
+<p>Imagens extraídas do PDF fornecido. Selecione uma página para ampliar; use Esc para fechar. As páginas de conteúdo vão de 2 a 17.</p>
+<div class="gallery">
+<button class="slide-card" data-image="/assets/slide-01.jpg" aria-label="Ampliar slide 1">
+<img src="/assets/slide-01.jpg" alt="Slide 1 da aula" loading="lazy">
+<span>SLIDE 01</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-02.jpg" aria-label="Ampliar slide 2">
+<img src="/assets/slide-02.jpg" alt="Slide 2 da aula" loading="lazy">
+<span>SLIDE 02</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-03.jpg" aria-label="Ampliar slide 3">
+<img src="/assets/slide-03.jpg" alt="Slide 3 da aula" loading="lazy">
+<span>SLIDE 03</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-04.jpg" aria-label="Ampliar slide 4">
+<img src="/assets/slide-04.jpg" alt="Slide 4 da aula" loading="lazy">
+<span>SLIDE 04</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-05.jpg" aria-label="Ampliar slide 5">
+<img src="/assets/slide-05.jpg" alt="Slide 5 da aula" loading="lazy">
+<span>SLIDE 05</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-06.jpg" aria-label="Ampliar slide 6">
+<img src="/assets/slide-06.jpg" alt="Slide 6 da aula" loading="lazy">
+<span>SLIDE 06</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-07.jpg" aria-label="Ampliar slide 7">
+<img src="/assets/slide-07.jpg" alt="Slide 7 da aula" loading="lazy">
+<span>SLIDE 07</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-08.jpg" aria-label="Ampliar slide 8">
+<img src="/assets/slide-08.jpg" alt="Slide 8 da aula" loading="lazy">
+<span>SLIDE 08</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-09.jpg" aria-label="Ampliar slide 9">
+<img src="/assets/slide-09.jpg" alt="Slide 9 da aula" loading="lazy">
+<span>SLIDE 09</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-10.jpg" aria-label="Ampliar slide 10">
+<img src="/assets/slide-10.jpg" alt="Slide 10 da aula" loading="lazy">
+<span>SLIDE 10</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-11.jpg" aria-label="Ampliar slide 11">
+<img src="/assets/slide-11.jpg" alt="Slide 11 da aula" loading="lazy">
+<span>SLIDE 11</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-12.jpg" aria-label="Ampliar slide 12">
+<img src="/assets/slide-12.jpg" alt="Slide 12 da aula" loading="lazy">
+<span>SLIDE 12</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-13.jpg" aria-label="Ampliar slide 13">
+<img src="/assets/slide-13.jpg" alt="Slide 13 da aula" loading="lazy">
+<span>SLIDE 13</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-14.jpg" aria-label="Ampliar slide 14">
+<img src="/assets/slide-14.jpg" alt="Slide 14 da aula" loading="lazy">
+<span>SLIDE 14</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-15.jpg" aria-label="Ampliar slide 15">
+<img src="/assets/slide-15.jpg" alt="Slide 15 da aula" loading="lazy">
+<span>SLIDE 15</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-16.jpg" aria-label="Ampliar slide 16">
+<img src="/assets/slide-16.jpg" alt="Slide 16 da aula" loading="lazy">
+<span>SLIDE 16</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-17.jpg" aria-label="Ampliar slide 17">
+<img src="/assets/slide-17.jpg" alt="Slide 17 da aula" loading="lazy">
+<span>SLIDE 17</span>
+</button>
+<button class="slide-card" data-image="/assets/slide-18.jpg" aria-label="Ampliar slide 18">
+<img src="/assets/slide-18.jpg" alt="Slide 18 da aula" loading="lazy">
+<span>SLIDE 18</span>
+</button>
+</div>
+</section>
+<footer>
+<h3>Sobre este guia</h3>
+<p>Produzido a partir da transcrição da Aula ao vivo 01 e das 18 páginas do material de Gestão de Projetos Tecnológicos, Unidade 1, do Prof. Dr. Rogério Lacerda / UniCesumar. Os exemplos adicionais e as interações são recursos de estudo, identificados no texto.</p>
+<p>Localize na gravação: conceitos e planejamento (6–23 min), projeto e operação (23–27 min), dimensões e pessoas (27–50 min), ciclo e etapas (50–84 min), reflexão e aplicação (84–93 min). Tempos aproximados da transcrição.</p>
+<p>Avisos administrativos da abertura foram omitidos. O conteúdo é uma síntese para revisão e pode ser complementado pelo livro-base da disciplina.</p>
+<a href="#">↑ Voltar ao início</a>
+</footer>
+</main>
+</div>
+<dialog id="lightbox">
+<button id="close-dialog" autofocus>Fechar ×</button>
+<img id="lightbox-image" alt="Slide da aula ampliado">
+</dialog>
+</BaseLayout>
+<script>
+  import "../scripts/aula-01.js";
+</script>
