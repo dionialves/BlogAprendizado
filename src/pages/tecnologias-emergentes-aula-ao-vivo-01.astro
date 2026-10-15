@@ -1,0 +1,133 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import SiteHeader from "../components/SiteHeader.astro";
+import draft from "../../.opencode/trabalhos/tecnologias-emergentes-aula-ao-vivo-01/post.md?raw";
+import visuals from "../../.opencode/trabalhos/tecnologias-emergentes-aula-ao-vivo-01/visuais.md?raw";
+
+// Compilação local: os documentos editoriais não são servidos ao navegador.
+// Este renderizador cobre apenas a marcação usada neste post revisado.
+const escape = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+const inline = (s: string) => escape(s)
+  .replace(/`([^`]+)`/g, "<code>$1</code>")
+  .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+  .replace(/\*([^*]+)\*/g, "<em>$1</em>")
+  .replace(/\[([^\]]+)\]\((#[a-z-]+)\)/g, '<a href="$2">$1</a>');
+const visualSections = visuals.split(/^## V\d /m).slice(1, 5);
+const figures = visualSections.map((section, i) => {
+  const field = (name: string) => {
+    const value = section.match(new RegExp(`^- \\*\\*${name}:\\*\\* (.+)$`, "m"))?.[1];
+    if (!value) throw new Error(`Campo visual ausente: ${name}`);
+    return value.startsWith("`") ? value.match(/^`([^`]+)`/)![1] : value.replace(/^“|”$/g, "");
+  };
+  const path = field("Caminho público");
+  const dimensions = field("Dimensões").match(/(\d+) × (\d+)/)!;
+  return `<figure id="figura-${i + 1}"><img src="${escape(path)}" width="${dimensions[1]}" height="${dimensions[2]}" alt="${escape(field("Alt"))}" loading="lazy" /><figcaption>${escape(field("Legenda"))}<br /><small>${escape(field("Crédito visível / referência"))}</small></figcaption><a href="${escape(path)}">Abrir diagrama ${i + 1} em tamanho original</a></figure>`;
+});
+let text = draft
+  .replace(/^# .+\n\n\*\*Tecnologias emergentes.+\n/m, "")
+  .replace(/^\*\*Necessidade visual V(\d)[^\n]+$/gm, (_, n) => `FIGURA${n}`)
+  .replace(/^Os rastreadores .+$/m, "As referências abaixo localizam os conteúdos nos materiais da aula.")
+  .replace(/^\*\*Estado editorial:\*\* .+$/m, "")
+  .replace(/Quadro textual para futura montagem acessível, sem necessidade de imagem\. /g, "")
+  .replace(/Matriz textual para futura montagem, derivada de/g, "Síntese de")
+  .replace(/ — D\d\d/g, "")
+  .replace(/os visuais propostos são sínteses próprias, ainda não imagens produzidas/g, "os diagramas deste guia são sínteses próprias, não recortes dos slides");
+// Retira IDs de trabalho, mas conserva localizadores públicos e ressalvas.
+text = text.replace(/\[([^\]\n]+)\]/g, (whole, content) => {
+  if (!/[ED]\d{3}|D\d{2}/.test(content)) return whole;
+  const clean = content.replace(/[ED]\d{3}(?:–[ED]\d{3})?|D\d{2}(?:–D\d{2})?/g, "")
+    .replace(/^[\s,;–]+|[\s,;–]+$/g, "").replace(/[,;]\s*[,;]/g, ";");
+  return clean ? `[${clean}]` : "";
+});
+text = text.replace(/\[Aplicação (?:didática )?de\]/g, "")
+  .replace(/\bT, /g, "`transcrição/aula01.txt`, ")
+  .replace(/\bS, /g, "`slides/aula01.pdf`, ")
+  .replace(/Base legível:/g, "Referências:");
+const blocks = text.trim().split(/\n\s*\n/);
+let answerOpen = false;
+let answerNumber = 0;
+const output: string[] = [];
+for (const block of blocks) {
+  if (/^#{2,3} /.test(block)) {
+    if (answerOpen) { output.push("</details>"); answerOpen = false; }
+    const match = block.match(/^(#{2,3}) (.+?)(?: \{#([a-z-]+)\})?$/)!;
+    output.push(`<h${match[1].length}${match[3] ? ` id="${match[3]}"` : ""}>${inline(match[2])}</h${match[1].length}>`);
+  } else if (/^FIGURA\d$/.test(block)) {
+    output.push(figures[Number(block.slice(6)) - 1]);
+  } else if (block.startsWith("|")) {
+    const rows = block.split("\n").filter((_, i) => i !== 1).map(row => row.split("|").slice(1, -1).map(cell => cell.trim()));
+    output.push(`<div class="table-scroll" role="region" aria-label="Tabela: ${escape(rows[0][0])}" tabindex="0"><table><thead><tr>${rows[0].map(cell => `<th scope="col">${inline(cell)}</th>`).join("")}</tr></thead><tbody>${rows.slice(1).map(row => `<tr>${row.map(cell => `<td>${inline(cell)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`);
+  } else if (/^(?:\d+\. |\- )/.test(block)) {
+    const tag = /^\d/.test(block) ? "ol" : "ul";
+    output.push(`<${tag}>${block.split("\n").map(line => `<li>${inline(line.replace(/^(?:\d+\. |\- )/, ""))}</li>`).join("")}</${tag}>`);
+  } else if (block.startsWith("> ")) {
+    output.push(`<blockquote><p>${inline(block.slice(2))}</p></blockquote>`);
+  } else {
+    if (/^\*\*Resposta/.test(block)) {
+      answerNumber++;
+      output.push(`<label for="te-aov01-resposta-${answerNumber}">Sua resposta ${answerNumber} (rascunho não salvo)</label><textarea id="te-aov01-resposta-${answerNumber}" rows="4"></textarea><details><summary>Conferir resposta comentada ${answerNumber}</summary>`);
+      answerOpen = true;
+    }
+    output.push(`<p>${inline(block)}</p>`);
+  }
+}
+if (answerOpen) output.push("</details>");
+const html = output.join("\n");
+---
+<BaseLayout title="Fábrica de software: do pedido à operação com qualidade e rastreabilidade" description="Aula ao vivo 01: fluxo, qualidade, métricas, ALM, modelos de operação e triagem de demandas.">
+  <SiteHeader technology label="AULA AO VIVO 01" />
+  <main id="te-aov01" class="study">
+    <div class="breadcrumb"><a href="/">Matérias</a> / <a href="/tecnologias-emergentes-em-engenharia-de-software/">Tecnologias emergentes em engenharia de software</a> / Aula ao vivo 01</div>
+    <section class="hero">
+      <span class="eyebrow">TECNOLOGIAS EMERGENTES EM ENGENHARIA DE SOFTWARE · AULA AO VIVO 01</span>
+      <h1>Fábrica de software: do pedido à operação com qualidade e rastreabilidade</h1>
+      <button type="button" data-te-print>Imprimir / salvar PDF</button>
+      <p class="meta">Quatro atividades e dez perguntas abertas, com respostas comentadas. Os rascunhos não são salvos: copie-os antes de sair.</p>
+    </section>
+    <article set:html={html} />
+    <footer><a href="/tecnologias-emergentes-em-engenharia-de-software/">Voltar aos posts da matéria</a> · <a href="#inicio">Voltar ao início</a><br />Caderno pessoal de estudo · Leitura e prática</footer>
+  </main>
+</BaseLayout>
+<style>
+  .study { margin: auto; padding: 32px 24px; max-width: 920px; }
+  .breadcrumb { font-size: 13px; overflow-wrap: anywhere; }
+  .study :global(h2) { margin-top: 64px; scroll-margin-top: 24px; }
+  .study :global(h3) { margin-top: 36px; }
+  .study :global(figure) { margin: 32px auto; max-width: 640px; }
+  .study :global(figure img) { display: block; width: 100%; height: auto; }
+  .study :global(figcaption) { margin: 12px 0; font-size: 15px; line-height: 1.6; }
+  .study :global(.table-scroll) { overflow-x: auto; margin: 24px 0; }
+  .study :global(table) { width: 100%; border-collapse: collapse; min-width: 540px; }
+  .study :global(th), .study :global(td) { border: 1px solid var(--line); padding: 12px; vertical-align: top; text-align: left; }
+  .study :global(th) { background: #e1efec; }
+  .study :global(textarea) { display: block; width: 100%; font: inherit; margin: 8px 0 20px; padding: 12px; }
+  .study :global(details) { padding: 18px; margin-bottom: 28px; border: 1px solid var(--line); }
+  .study :global(summary) { cursor: pointer; font-weight: 700; }
+  .study :global(code) { overflow-wrap: anywhere; }
+  .study :global(:focus-visible) { outline: 3px solid var(--green); outline-offset: 3px; }
+  @media (max-width: 600px) { .study { padding: 24px 16px; } .hero h1 { font-size: 36px; } }
+  @media print {
+    .study { max-width: none; padding: 0; }
+    [data-te-print], .breadcrumb { display: none; }
+    .study :global(.table-scroll) { overflow: visible; }
+    .study :global(table) { min-width: 0; font-size: 11px; }
+    .study :global(figure) { break-inside: avoid; max-width: 340px; }
+    .study :global(h2), .study :global(h3) { break-after: avoid; }
+    .study :global(details) { border: 0; padding: 0; }
+    .study :global(details > :not(summary)) { display: block !important; }
+  }
+</style>
+<script>
+  const root = document.querySelector('#te-aov01');
+  const answers = [...(root?.querySelectorAll('details') ?? [])] as HTMLDetailsElement[];
+  let previous: boolean[] | undefined;
+  window.addEventListener('beforeprint', () => {
+    previous = answers.map(answer => answer.open);
+    answers.forEach(answer => { answer.open = true; });
+  });
+  window.addEventListener('afterprint', () => {
+    answers.forEach((answer, i) => { answer.open = previous?.[i] ?? answer.open; });
+    previous = undefined;
+  });
+  root?.querySelector('[data-te-print]')?.addEventListener('click', () => window.print());
+</script>

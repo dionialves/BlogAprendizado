@@ -285,7 +285,7 @@ Essas perguntas conectam entrada, execução, entrega e operação. Nenhum mecan
 
 ### Atividade 1 — Diagnosticar e construir uma ficha
 
-**Enunciado — cenário fictício.** Na Horizonte, pedidos repetidos de declaração chegam por mensagens e não têm aceite documentado. Proponha uma ficha de serviço e explique como acompanhar a demanda até a operação.
+**Enunciado — cenário fictício.** Na Horizonte, pedidos repetidos de declaração chegam por mensagens e não têm aceite documentado, embora o procedimento de emissão seja conhecido e relativamente previsível. Proponha uma ficha de serviço e explique como acompanhar a demanda até a operação.
 
 Siga seis passos: identifique os problemas; escolha um tipo do catálogo; registre objetivo, regras, aceite e prioridade; explicite responsável e dependências; separe evidências de conclusão de gate; indique o que acompanhar depois da produção.
 

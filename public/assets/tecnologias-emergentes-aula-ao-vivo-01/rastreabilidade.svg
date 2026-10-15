@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1120" width="640" height="1120" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Vínculos para investigar uma mudança</title>
+  <desc id="descricao">Exemplo fictício: requisito REQ-17 ligado ao código C-42, à revisão PR-08 e ao teste T-05, à implantação DEP-03 e ao sinal operacional OP-02. Setas são vínculos de evidência, não prova de causalidade. Testes aprovados não excluem incidentes.</desc>
+  <metadata>Elaboração própria do Caderno de estudo. Base: aula ao vivo 01, transcrição/aula01.txt, L428–451 e L481–512; slides/aula01.pdf, complemento, p. 12 e 14. Exemplo e IDs fictícios autorais. Sem reprodução dos slides.</metadata>
+  <defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#31556c"/></marker></defs>
+  <rect width="640" height="1120" rx="20" fill="#f5f8fa"/>
+  <g font-family="system-ui, sans-serif" fill="#183447">
+    <text x="32" y="49" font-size="30" font-weight="700">Investigar uma mudança</text>
+    <text x="32" y="87" font-size="26">Horizonte: exemplo e IDs fictícios</text>
+    <g fill="#fff" stroke="#8da7b7" stroke-width="2">
+      <rect x="32" y="116" width="576" height="100" rx="12"/>
+      <rect x="32" y="250" width="576" height="100" rx="12"/>
+      <rect x="32" y="384" width="576" height="144" rx="12"/>
+      <rect x="32" y="562" width="576" height="100" rx="12"/>
+      <rect x="32" y="696" width="576" height="100" rx="12"/>
+    </g>
+    <g font-size="28" font-weight="700">
+      <text x="52" y="153">REQ-17 · Requisito</text>
+      <text x="52" y="287">C-42 · Alteração de código</text>
+      <text x="52" y="421">PR-08 · Revisão</text>
+      <text x="52" y="459">T-05 · Teste</text>
+      <text x="52" y="599">DEP-03 · Implantação</text>
+      <text x="52" y="733">OP-02 · Sinal operacional</text>
+    </g>
+    <g font-size="26">
+      <text x="52" y="191">Por que mudar? Qual é o aceite?</text>
+      <text x="52" y="325">O que foi modificado?</text>
+      <text x="52" y="503">Quem revisou? O que foi verificado?</text>
+      <text x="52" y="637">Qual versão foi levada à produção?</text>
+      <text x="52" y="771">Qual efeito foi observado?</text>
+    </g>
+    <g stroke="#31556c" stroke-width="2.5" marker-end="url(#seta)">
+      <path d="M320 220V245"/><path d="M320 354V379"/><path d="M320 532V557"/><path d="M320 666V691"/>
+    </g>
+    <rect x="32" y="833" width="576" height="251" rx="12" fill="#e1efec"/>
+    <text x="52" y="872" font-size="28" font-weight="700">Como ler as ligações</text>
+    <g font-size="26">
+      <text x="52" y="916">Setas são vínculos de evidência,</text>
+      <text x="52" y="954">não prova de causalidade.</text>
+      <text x="52" y="992">Testes aprovados não excluem incidentes.</text>
+      <text x="52" y="1030">Se faltar um vínculo, registre a lacuna;</text>
+      <text x="52" y="1068">não a preencha por suposição.</text>
+    </g>
+  </g>
+</svg>

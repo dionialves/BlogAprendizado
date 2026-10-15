@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 700" width="640" height="700" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Fábrica e metodologia: alcances distintos</title>
+  <desc id="descricao">A organização operacional da fábrica envolve o trabalho da equipe. Fábrica recebe, classifica, executa, controla e mede demandas. Metodologia ou abordagem organiza o trabalho da equipe nessa operação. São alcances coexistentes, não uma hierarquia de pessoas.</desc>
+  <metadata>Elaboração própria do Caderno de estudo. Base: aula ao vivo 01, transcrição/aula01.txt, L392–451; slides/aula01.pdf, complemento, p. 11–12. Sem reprodução dos slides.</metadata>
+  <rect width="640" height="700" rx="20" fill="#f5f8fa"/>
+  <g font-family="system-ui, sans-serif" fill="#183447">
+    <text x="32" y="49" font-size="30" font-weight="700">Fábrica e metodologia</text>
+    <text x="32" y="87" font-size="26">Alcances distintos, coexistência possível</text>
+    <rect x="32" y="119" width="576" height="465" rx="16" fill="#e1efec" stroke="#658e84" stroke-width="2"/>
+    <text x="56" y="165" font-size="30" font-weight="700">Fábrica · operação</text>
+    <text x="56" y="209" font-size="26">Receber, classificar e executar demandas.</text>
+    <text x="56" y="247" font-size="26">Controlar qualidade e medir desempenho.</text>
+    <rect x="56" y="285" width="528" height="194" rx="12" fill="#fff" stroke="#8da7b7" stroke-width="2"/>
+    <text x="80" y="331" font-size="28" font-weight="700">Metodologia ou abordagem</text>
+    <text x="80" y="374" font-size="26">Organiza o trabalho da equipe</text>
+    <text x="80" y="412" font-size="26">e o acompanhamento das atividades.</text>
+    <text x="80" y="455" font-size="24">Scrum e Kanban: exemplos citados.</text>
+    <text x="56" y="531" font-size="26">Critérios de entrada e conclusão,</text>
+    <text x="56" y="565" font-size="26">evidências e indicadores da operação.</text>
+    <text x="32" y="629" font-size="24">Caixas representam alcances, não cargos.</text>
+    <text x="32" y="667" font-size="24">Fábrica não é metodologia concorrente.</text>
+  </g>
+</svg>

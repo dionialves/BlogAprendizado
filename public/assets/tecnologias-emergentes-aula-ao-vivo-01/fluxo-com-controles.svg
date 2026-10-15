@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1190" width="640" height="1190" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Do pedido à operação</title>
+  <desc id="descricao">Percurso didático: requisitos, análise e projeto, implementação, testes, implantação e suporte e operação. As etapas podem iterar e ocorrer simultaneamente. Qualidade, segurança e conformidade atravessam o fluxo; gates verificam condições de avanço.</desc>
+  <metadata>Elaboração própria do Caderno de estudo. Base: aula ao vivo 01, transcrição/aula01.txt, L192–288, L334–338 e L428–451; slides/aula01.pdf, complemento, p. 7–10 e 12. Sem reprodução dos slides.</metadata>
+  <defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#31556c"/></marker></defs>
+  <rect width="640" height="1190" rx="20" fill="#f5f8fa"/>
+  <g font-family="system-ui, sans-serif" fill="#183447">
+    <text x="32" y="49" font-size="30" font-weight="700">Do pedido à operação</text>
+    <text x="32" y="87" font-size="24">Percurso didático, não sequência rígida</text>
+    <g fill="#fff" stroke="#8da7b7" stroke-width="2">
+      <rect x="32" y="116" width="576" height="100" rx="12"/>
+      <rect x="32" y="250" width="576" height="100" rx="12"/>
+      <rect x="32" y="384" width="576" height="100" rx="12"/>
+      <rect x="32" y="518" width="576" height="100" rx="12"/>
+      <rect x="32" y="652" width="576" height="100" rx="12"/>
+      <rect x="32" y="786" width="576" height="100" rx="12"/>
+    </g>
+    <g font-size="28" font-weight="700">
+      <text x="52" y="153">1 · Requisitos</text>
+      <text x="52" y="287">2 · Análise e projeto</text>
+      <text x="52" y="421">3 · Implementação</text>
+      <text x="52" y="555">4 · Testes</text>
+      <text x="52" y="689">5 · Implantação</text>
+      <text x="52" y="823">6 · Suporte e operação</text>
+    </g>
+    <g font-size="26">
+      <text x="52" y="191">Objetivo, regras, aceite e prioridades</text>
+      <text x="52" y="325">Impactos, dependências e riscos</text>
+      <text x="52" y="459">Código, revisão, build e testes unitários</text>
+      <text x="52" y="593">Verificar o comportamento esperado</text>
+      <text x="52" y="727">Entrega e resposta a problemas</text>
+      <text x="52" y="861">Disponibilidade, desempenho e erros</text>
+    </g>
+    <g stroke="#31556c" stroke-width="2.5" marker-start="url(#seta)" marker-end="url(#seta)">
+      <path d="M320 223V243"/><path d="M320 357V377"/><path d="M320 491V511"/><path d="M320 625V645"/><path d="M320 759V779"/>
+    </g>
+    <text x="32" y="925" font-size="24">Setas: percurso com revisões possíveis.</text>
+    <text x="32" y="959" font-size="24">Etapas podem ocorrer simultaneamente.</text>
+    <rect x="32" y="986" width="576" height="172" rx="12" fill="#e1efec"/>
+    <text x="52" y="1023" font-size="28" font-weight="700">Controles ao longo do fluxo</text>
+    <text x="52" y="1061" font-size="26">Qualidade, segurança e conformidade.</text>
+    <text x="52" y="1099" font-size="26">Gates verificam condições de avanço;</text>
+    <text x="52" y="1137" font-size="26">uma condição não atendida pode barrá-lo.</text>
+  </g>
+</svg>
