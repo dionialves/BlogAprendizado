@@ -3,12 +3,22 @@ interface Props {
   lesson?: boolean;
   technology?: boolean;
   label?: string;
+  subjectHref?: string;
+  fullBrand?: boolean;
 }
-const { lesson = false, technology = false, label = "MATÉRIAS" } = Astro.props;
+const { lesson = false, technology = false, label = "MATÉRIAS", subjectHref = "/gestao-de-projetos/", fullBrand = false } = Astro.props;
 ---
-<header>
-  <a href={lesson ? "/gestao-de-projetos/" : "/"} class="brand">
+<header class:list={{ "full-brand": fullBrand }}>
+  <a href={lesson ? subjectHref : "/"} class="brand">
     CADERNO DE ESTUDO <span>/ {lesson || technology ? "TECNOLOGIA" : "APRENDER E PRATICAR"}</span>
   </a>
   {lesson ? <button id="print">Imprimir / salvar PDF</button> : <span class="eyebrow">{label}</span>}
 </header>
+
+<style>
+  .full-brand .brand span { display: inline; }
+  @media (max-width: 720px) {
+    .full-brand { flex-wrap: wrap; }
+    .full-brand .brand { font-size: 9px; letter-spacing: 0.7px; }
+  }
+</style>

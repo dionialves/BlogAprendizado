@@ -2,21 +2,21 @@
   <title id="titulo">Porta única e três perguntas de triagem</title>
   <desc id="descricao">Da porta única, a triagem considera três perguntas sem precedência: rotina e repetição apontam para serviços; descoberta, hipóteses e evolução contínua, para produto; data inegociável ou obrigação legal, para projeto. Critérios podem se sobrepor. Iniciativas interdependentes podem exigir coordenação de programa ou portfólio, não uma quarta resposta exclusiva.</desc>
   <metadata>Elaboração própria do Caderno de estudo. Base: aula ao vivo 01, transcrição/aula01.txt, L570–653; slides/aula01.pdf, complemento, p. 16–18. Sem reprodução dos slides ou regra de desempate inventada.</metadata>
-  <defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#31556c"/></marker></defs>
-  <rect width="640" height="1110" rx="20" fill="#f5f8fa"/>
-  <g font-family="system-ui, sans-serif" fill="#183447">
+  <defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#216453"/></marker></defs>
+  <rect width="640" height="1110" rx="20" fill="#faf9f5"/>
+  <g font-family="system-ui, sans-serif" fill="#183b36">
     <text x="32" y="49" font-size="30" font-weight="700">Triagem pela natureza da demanda</text>
     <text x="32" y="87" font-size="24">Três perguntas, sem precedência universal</text>
-    <rect x="32" y="117" width="576" height="96" rx="12" fill="#e1efec" stroke="#658e84" stroke-width="2"/>
+    <rect x="32" y="117" width="576" height="96" rx="12" fill="#edf3ef" stroke="#216453" stroke-width="2"/>
     <text x="52" y="154" font-size="28" font-weight="700">Porta única → triagem</text>
     <text x="52" y="191" font-size="26">Identificar o tratamento adequado.</text>
-    <g fill="none" stroke="#31556c" stroke-width="2.5">
+    <g fill="none" stroke="#216453" stroke-width="2.5">
       <path d="M48 213V744"/>
       <path d="M48 337H83" marker-end="url(#seta)"/>
       <path d="M48 533H83" marker-end="url(#seta)"/>
       <path d="M48 729H83" marker-end="url(#seta)"/>
     </g>
-    <g fill="#fff" stroke="#8da7b7" stroke-width="2">
+    <g fill="#fff" stroke="#dce2da" stroke-width="2">
       <rect x="88" y="250" width="520" height="174" rx="12"/>
       <rect x="88" y="446" width="520" height="174" rx="12"/>
       <rect x="88" y="642" width="520" height="174" rx="12"/>
@@ -32,7 +32,7 @@
       <text x="108" y="729" font-size="28" font-weight="700">Aponta para projeto</text>
       <text x="108" y="773">Cronograma e marcos.</text>
     </g>
-    <rect x="32" y="851" width="576" height="223" rx="12" fill="#e1efec"/>
+    <rect x="32" y="851" width="576" height="223" rx="12" fill="#edf3ef"/>
     <text x="52" y="889" font-size="28" font-weight="700">Critérios podem se sobrepor</text>
     <g font-size="26">
       <text x="52" y="930">Ramos paralelos, não respostas exclusivas.</text>
