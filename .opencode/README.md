@@ -47,11 +47,13 @@ A base factual é exclusivamente `Matérias/<matéria>/`. Há dois tipos de post
 | Tipo | Base do post | Complementos |
 | --- | --- | --- |
 | Estudo dirigido do livro (`estudo-dirigido`) | Assunto, capítulo ou unidade do livro. É o padrão para pedidos de temas. | Slides, aulas conceituais e aulas ao vivo pertinentes. |
-| Aula ao vivo (`aula-ao-vivo`) | Assuntos efetivamente tratados no registro/transcrição da aula solicitada. | Livro e slides pertinentes; aulas conceituais para esclarecer os mesmos assuntos. |
+| Aula ao vivo (`aula-ao-vivo`) | Transcrição e slides definem a cobertura; livro em PDF fornece a base conceitual. | Assuntos adicionais documentados na aula são desenvolvidos mesmo quando ausentes do livro; aulas conceituais pertinentes podem esclarecer o recorte. |
 
 Aula conceitual não é aula ao vivo: se indicada como recorte, seus assuntos orientam a seleção de um estudo dirigido baseado no livro. Pedidos apenas de “aula 02” são classificados pelos materiais disponíveis; se não for possível distinguir, o coordenador pergunta. Fonte principal ausente não é substituída silenciosamente.
 
-O dossiê registra o tipo de estudo e o papel de cada fonte. Post e cartão identificam “Estudo dirigido do livro” ou “Aula ao vivo”, e as referências separam base e complementos. Posts existentes orientam o formato, mas não substituem fontes. Aprofundamentos geram novas páginas vinculadas ao post de origem quando existente, sem exigir vínculo com uma aula para estudos do livro.
+Para aula ao vivo, os três materiais (transcrição, slides e livro em PDF) são necessários. A pesquisa produz uma matriz por assunto e a revisão confere sua cobertura. Comparações, divergências e decisões editoriais ficam no dossiê. O post ensina conceitos de forma integrada para quem não assistiu à aula, sem uma sequência de falas, timestamps ou pedidos para escolher entre versões. As referências finais preservam a rastreabilidade.
+
+O dossiê registra o tipo de estudo e o papel de cada fonte. Post e cartão identificam “Estudo dirigido do livro” ou “Aula ao vivo”, e as referências identificam a base conceitual e os materiais da aula, ou livro e complementos no estudo dirigido. Posts existentes orientam o formato, mas não substituem fontes. Aprofundamentos geram novas páginas vinculadas ao post de origem quando existente, sem exigir vínculo com uma aula para estudos do livro.
 
 Os textos seguem voz de tutor em português brasileiro, com densidade sustentada pelas fontes. Exemplos fictícios são identificados. Lacunas não são preenchidas com pesquisa externa ou conhecimento geral do modelo.
 
@@ -64,3 +66,9 @@ O publicador atualiza páginas, assets, cartões e contagens, executa o build e 
 Se houver interrupção, peça ao `editor-do-blog` para retomar o dossiê pelo caminho. Ele deve verificar a validade dos artefatos e continuar do último estágio confirmado. Falhas de leitura, Git ou autenticação são reportadas sem falsa conclusão.
 
 O destino atual é o remoto do projeto na branch `main`. Hospedagem não foi definida: push confirmado significa conteúdo enviado ao repositório. A afirmação de site publicado na internet requer um deploy configurado e verificado.
+
+As fontes são indicadas junto aos trechos por números sobrescritos clicáveis, levando às referências completas no fim da página. Nomes de documentos, páginas, slides e localizadores ficam nessas entradas finais. Cada entrada oferece retorno às citações. O padrão detalhado está em `editorial.md`.
+
+## Padrão de layout
+
+O contrato `layout.md` documenta a aparência e o comportamento aprovados dos dois primeiros posts de Gestão de Projetos para todas as matérias: marca e impressão no cabeçalho, índice numerado persistente à esquerda, cores e tipografia compartilhadas e barra fina de progresso no topo. Também define adaptação para celular, impressão e verificações. O coordenador fornece esse contrato aos agentes em cada execução. A atualização das regras não modifica automaticamente os posts existentes.

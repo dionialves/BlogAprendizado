@@ -11,13 +11,13 @@ Trate `Matérias/` como caminho relativo à raiz do projeto. Localize a pasta re
 | Tipo | Fonte principal e organização | Complementos |
 | --- | --- | --- |
 | `estudo-dirigido` | Livro da matéria: assunto, capítulo ou unidade solicitado orienta a seleção e progressão dos conceitos. | Slides, aulas conceituais e aulas ao vivo pertinentes ao recorte. |
-| `aula-ao-vivo` | Registro/transcrição da aula ao vivo solicitada: seus assuntos efetivamente tratados orientam o escopo e o plano. | Trechos pertinentes do livro e slides; aulas conceituais podem esclarecer os mesmos assuntos. |
+| `aula-ao-vivo` | Transcrição e slides delimitam os assuntos da aula; o livro em PDF é a base conceitual para desenvolver o estudo. | Conteúdos pertinentes de aulas conceituais; assuntos adicionais documentados na aula são preservados mesmo quando ausentes do livro. |
 
 Pedidos de assunto, capítulo ou unidade adotam `estudo-dirigido` por padrão. Aula conceitual é complemento do estudo dirigido, não deve ser confundida com aula ao vivo. Se uma aula conceitual for indicada como recorte, identifique seus assuntos e desenvolva-os com o livro como base. Para pedidos apenas de “aula 02”, examine os materiais para identificar o tipo; pergunte se os arquivos não permitirem distinguir. Não deduza o tipo só pelo número.
 
-No estudo dirigido, localize o recorte no sumário e nas páginas do livro antes de complementar com aulas. Na aula ao vivo, extraia primeiro os assuntos do registro da aula e depois relacione-os ao livro e slides, sem transformar o post em uma cobertura genérica de todo o capítulo. Identifique explicações complementares como tais, sem atribuí-las ao que foi dito ao vivo. Complementos devem aprofundar o recorte ou explicar pré-requisitos, não ampliá-lo indiscriminadamente.
+No estudo dirigido, localize o recorte no sumário e nas páginas do livro antes de complementar com aulas. Na aula ao vivo, extraia primeiro os assuntos do registro da aula e depois relacione-os ao livro e slides, sem transformar o post em uma cobertura genérica de todo o capítulo. Integre as explicações pertinentes em uma progressão de aprendizagem, preservando a origem no dossiê e nas referências finais, sem interromper o ensino com relatos sobre cada fonte. Complementos devem aprofundar o recorte ou explicar pré-requisitos, não ampliá-lo indiscriminadamente.
 
-Registre a função de cada fonte (principal ou complementar) e o tipo de aula (ao vivo ou conceitual). Ausência ou ilegibilidade da fonte principal impede concluir aquele tipo de estudo: não substitua silenciosamente livro por aula, nem registro de aula ao vivo por slides. Divergências não são resolvidas automaticamente pela prioridade; devem ser conferidas e explicitadas com evidência.
+Registre a função específica de cada fonte e o tipo de aula (ao vivo ou conceitual). Para aula ao vivo, leia e confronte transcrição, slides e livro em PDF: os dois primeiros determinam a cobertura e o livro fornece a base conceitual. Ausência ou ilegibilidade de um desses três materiais deve ser registrada como bloqueio para concluir o estudo integrado; não substitua silenciosamente um material por outro. No estudo dirigido, o livro continua indispensável e não se exige aula. Divergências devem ser investigadas no dossiê conforme as regras abaixo.
 
 Crie um dossiê em `.opencode/trabalhos/<slug>/`, com slug único, contendo:
 
@@ -39,8 +39,43 @@ Atualize o estado de cada etapa em `escopo.md`. Em retomadas, confira artefatos 
 - Identifique exemplos e dados inventados como fictícios/didáticos. Não atribua ao professor frases ou explicações criadas pelo redator.
 - Todo conceito factual, resposta de exercício e informação em diagramas precisa ter suporte no mapa de evidências. Aplique o mesmo critério a legendas e textos alternativos.
 - Distinga citações literais de paráfrases. Evite reproduções extensas dos materiais. Referências finais devem localizar as informações por arquivo/título e página, slide ou trecho; IDs de trabalho não substituem referências compreensíveis no post.
-- Divergências entre fontes devem ser explicitadas e resolvidas com evidência; não escolha arbitrariamente nem esconda incertezas.
+- Investigue divergências com evidência no dossiê. Não transfira ao leitor a tarefa de decidir entre versões; siga o tratamento de divergências abaixo.
 - Se o aprofundamento exceder as fontes, explique o limite e desenvolva apenas o que estiver sustentado.
+
+## Estudo integrado da aula: ensinar o conteúdo
+
+O post deve permitir que alguém que não assistiu à aula aprenda os assuntos nela trabalhados. É um material autossuficiente de estudo, com definições, relações, explicações, exemplos e prática. Não é uma ata, uma transcrição comentada ou uma comparação pública entre professor, slides e livro.
+
+### Pesquisa e cobertura obrigatórias
+
+- Leia a transcrição integralmente, examine todos os slides e localize no livro em PDF os conceitos pertinentes. O livro é sempre a base conceitual, mas não limita a cobertura aos assuntos que contém.
+- Em `evidencias.md`, construa uma matriz por assunto com: assunto/subassunto, localização na transcrição, slide pertinente, capítulo/página do livro, síntese sustentada, divergências ou lacunas, encaminhamento e seção prevista do post. Use “não localizado” quando não houver correspondência; não invente equivalências.
+- Preserve assuntos e exemplos substantivos documentados na aula mesmo quando ausentes do livro. Nesses casos, use o suporte efetivamente disponível na transcrição e nos slides, sem inventar confirmação no livro nem completar com conhecimento externo.
+- Registre todos os assuntos identificados e seu destino no plano. Saudações, avisos administrativos, repetições e digressões sem conteúdo de estudo podem ser excluídos com justificativa interna. Em aprofundamento temático, registre quais assuntos ficam fora do recorte solicitado.
+
+### Síntese e divergências
+
+Compare as fontes antes de redigir. Investigue diferenças de terminologia, simplificações, possíveis erros de transcrição e contradições nas fontes originais. Registre no dossiê a evidência e a decisão editorial; a prioridade do livro não autoriza apagar assuntos adicionais da aula nem decidir contradições sem suporte.
+
+Quando houver solução sustentada, ensine diretamente a formulação conferida. Quando duas formulações descreverem contextos diferentes, explique os conceitos e suas condições de aplicação. Não use “o professor disse X, mas o slide diz Y” como substituto de uma explicação. Não peça ao estudante que escolha uma versão.
+
+Se uma incerteza material não puder ser resolvida, não apresente nenhuma versão duvidosa como fato. Registre o bloqueio no dossiê e retorne ao coordenador; uma contradição essencial impede a aprovação. Uma limitação pontual pode ser informada de forma breve e conceitual quando não prejudicar os objetivos de aprendizagem, sem transformar o artigo em um relatório de apuração.
+
+### Redação e critérios de aprovação
+
+Organize por conceitos e progressão didática, não pela ordem de falas, timestamps ou slides. Explique termos antes de usá-los; desenvolva relações, aplicações e limites com suporte documental. Referências finais garantem rastreabilidade; IDs, timestamps, trechos de conferência e a matriz comparativa ficam no dossiê. Localizadores da transcrição podem aparecer nas referências finais, sem pontuar o desenvolvimento.
+
+Reprove texto que dependa de ter assistido à aula, omita assuntos substantivos sem justificativa de recorte ou substitua explicações por “o professor falou”, “na transcrição”, “no minuto”, “o slide diz” e citações de falas. Atribuições pontuais só cabem quando indispensáveis ao próprio conceito estudado; não devem estruturar a narrativa. Não exponha decisões editoriais, conflitos entre fontes ou instruções de escolha ao estudante. O revisor deve conferir a cobertura da matriz e a qualidade didática, além da exatidão factual.
+
+## Referências numeradas e navegação
+
+Toda indicação de fonte de um trecho deve aparecer como um número sobrescrito clicável ao lado da frase ou do parágrafo sustentado, levando à entrada correspondente na seção “Referências”, ao final da mesma página. Não escreva no corpo nomes de arquivos, títulos de fontes, páginas, slides, timestamps ou expressões como “segundo o livro” para indicar procedência. A explicação deve continuar fluida; os detalhes bibliográficos ficam nas referências finais. A regra vale também para fontes conceituais de tabelas, figuras e respostas comentadas; créditos de autoria e licença de imagens continuam visíveis quando necessários.
+
+- Numere as entradas pela ordem da primeira citação no texto, mantendo numeração única e contínua na página, inclusive quando as fontes forem agrupadas por função. Reutilize o número quando a mesma fonte e o mesmo localizador sustentarem outro trecho. Para localizadores diferentes, crie entradas distintas. Se um trecho depender de várias entradas, acrescente os números correspondentes.
+- Em `post.md`, use marcadores numerados com links internos e registre a correspondência entre número, IDs de evidência e fonte/localizador no dossiê. IDs como E001 são internos e não aparecem na página publicada.
+- Na página Astro, use HTML semântico, por exemplo: `<sup><a id="citacao-1-1" href="#referencia-1" aria-label="Ver referência 1">1</a></sup>`. Cada ocorrência deve ter um ID único (`citacao-1-2` etc.) e o destino final deve existir, por exemplo `<li id="referencia-1">…</li>`. Não dependa de JavaScript para navegar.
+- Cada entrada final deve conter número, título/arquivo, tipo de material e localização precisa: página do livro/PDF, slide ou trecho/seção da transcrição (timestamp somente se disponível). Inclua links de retorno às respectivas citações, com rótulos acessíveis. Não invente endereços nem publique documentos internos para criar links: a ligação obrigatória é com a referência ao final da página.
+- Confira que todos os números levam à entrada correta, que todas as entradas são citadas e que a numeração visível corresponde ao destino. Verifique IDs únicos, retornos, navegação por teclado, foco visível e leitura em dispositivos móveis. Na impressão, números e referências devem continuar legíveis.
 
 ## Visuais
 
@@ -54,7 +89,7 @@ Guarde os arquivos finais em `public/assets/<slug>/`. Use caminhos `/assets/<slu
 
 ## Integração e revisão
 
-Crie uma página nova com slug descritivo e sem colisão. Identifique visivelmente o tipo como “Estudo dirigido do livro” ou “Aula ao vivo” no post e no cartão da matéria, distinguindo unidade/capítulo de número de aula. Nas referências, separe fonte principal e complementos. Aprofundamentos devem apontar para o post de origem quando existente; estudos do livro não exigem vínculo com uma aula. Não invente links. Reutilize BaseLayout, SiteHeader e os padrões atuais de estilos, navegação, ampliação de imagens e atividades quando pertinentes. Examine scripts antes de reutilizá-los: seletores e chaves de armazenamento devem funcionar e não misturar respostas de posts diferentes.
+Crie uma página nova com slug descritivo e sem colisão. Identifique visivelmente o tipo como “Estudo dirigido do livro” ou “Aula ao vivo” no post e no cartão da matéria, distinguindo unidade/capítulo de número de aula. Nas referências, identifique o livro como base conceitual e, em aulas ao vivo, transcrição e slides como materiais da aula; no estudo dirigido, separe livro e complementos. Aprofundamentos devem apontar para o post de origem quando existente; estudos do livro não exigem vínculo com uma aula. Não invente links. Reutilize BaseLayout, SiteHeader e os padrões atuais de estilos, navegação, ampliação de imagens e atividades quando pertinentes. Examine scripts antes de reutilizá-los: seletores e chaves de armazenamento devem funcionar e não misturar respostas de posts diferentes.
 
 Atualize página da matéria, catálogo, contagens e ligações necessárias. Para nova matéria, crie sua página e cartão. Preserve a experiência de impressão, leitura móvel e navegação por âncoras. Não refatore o site inteiro para publicar um post.
 
@@ -69,3 +104,7 @@ Antes do commit, inspecione `git status`, `git diff`, `git log --oneline -10` e 
 O dossiê deve acompanhar o commit sem arquivos temporários, binários intermediários ou segredos. Registre as verificações em `publicacao.md` antes do commit; informe SHA e resultado do push na resposta final, evitando um segundo commit só para registrar o próprio SHA.
 
 Entrega final: título, caminho e URL relativa do post, resumo do conteúdo, fontes principais, validações, SHA e resultado do push. Sem hospedagem conhecida, diga “enviado ao repositório”; só declare deploy/site online após verificar o mecanismo e seu resultado.
+
+## Contrato de layout
+
+Leia e aplique `.opencode/layout.md` em toda criação, montagem e revisão visual. O padrão aprovado são os dois primeiros posts de Gestão de Projetos, independentemente da matéria. O coordenador deve fornecer explicitamente esse caminho aos agentes junto das regras editoriais e do dossiê. A revisão final deve conferir os critérios visuais e funcionais desse contrato.

@@ -9,8 +9,12 @@ Leia `.opencode/editorial.md`, escopo, plano, evidências e texto revisado. Prod
 
 Respeite o tipo de estudo e os papéis das fontes. Uma imagem de slide usada no estudo dirigido é complemento, não evidência de que o post corresponde a uma aula ao vivo. Identifique livro, aula conceitual ou aula ao vivo corretamente nos créditos e legendas.
 
-Priorize recortes legíveis de slides/PDFs autorizados e SVGs próprios para explicar exemplos, fluxos e relações. Não altere os documentos de origem. SVGs devem ser seguros, responsivos e sem scripts. Mantenha os conceitos ancorados em evidências.
+Priorize recortes legíveis de slides/PDFs autorizados e SVGs próprios para explicar exemplos, fluxos e relações. Não altere os documentos de origem. SVGs devem ser seguros, responsivos e sem scripts. Mantenha os conceitos ancorados em evidências. Em aulas ao vivo, os visuais devem explicar os conceitos da síntese integrada; não exponha a matriz de fontes, timestamps ou conflitos editoriais como conteúdo de estudo. Prefira diagramas próprios quando um recorte apenas reproduzir falas ou dificultar a compreensão autônoma.
 
 Pesquisa externa é permitida somente para obter ilustrações e verificar procedência/licença. Registre origem, autoria, licença, URLs e data. Não importe conceitos da internet nem use imagens sem reutilização verificável. Gere imagens por IA apenas se uma ferramenta real estiver disponível; registre prompt e ferramenta e identifique a geração na legenda. Caso contrário, use recursos locais ou SVG sem bloquear a execução.
 
 Forneça finalidade, dimensões quando conhecidas, caminho público, legenda, crédito e texto alternativo para cada imagem. Confira legibilidade e remova dados pessoais desnecessários dos recortes. Não faça commit ou push. Retorne arquivos criados e orientações de montagem ao publicador.
+
+Para indicar as fontes conceituais de figuras e tabelas, use chamadas numéricas sobrescritas para as referências finais, alinhadas à numeração do texto. Preserve créditos visíveis de autoria e licença quando necessários; detalhes documentais de página/slide ficam na entrada final.
+
+Leia `.opencode/layout.md` e mantenha figuras e diagramas compatíveis com a paleta, largura de leitura, tipografia e responsividade aprovadas. Não crie um layout alternativo para o post.
