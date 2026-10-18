@@ -1,0 +1,8 @@
+---
+import StudyPostLayout from "../layouts/StudyPostLayout.astro";
+import { renderStudy } from "../lib/render-study";
+import draft from "../../.opencode/trabalhos/tecnologias-emergentes-aula-ao-vivo-03/post.md?raw";
+import visuals from "../../.opencode/trabalhos/tecnologias-emergentes-aula-ao-vivo-03/visuais.md?raw";
+const html = renderStudy(draft, visuals, "03");
+---
+<StudyPostLayout title="Software industrial: camadas, qualidade e integração resiliente" description="Aula ao vivo 03: cinco camadas, qualidade mensurável e três casos de diagnóstico, sincronização offline e idempotência, com prática comentada." lesson="03" html={html} />

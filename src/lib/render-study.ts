@@ -23,7 +23,7 @@ export function renderStudy(draft: string, visuals: string, lesson: string) {
     return `<figure id="figura-${lesson}-${i + 1}"><a href="${path}" aria-label="Abrir diagrama ${i + 1} em tamanho original"><img src="${path}" width="${dimensions[1]}" height="${dimensions[2]}" alt="${escape(unquote(field('Alt')))}" loading="lazy" /></a><figcaption>${escape(unquote(field('Legenda')))} <span>Elaboração própria.</span>${citations}</figcaption></figure>`;
   });
   let text = draft.replace(/^# .+\n\n\*\*Aula ao vivo[^\n]+\n\n/, '');
-  const insertBefore = lesson === '01' ? ['## Acordos', '### Exemplo didático fictício: três pedidos acadêmicos'] : ['## Processos:', '## Síntese e prática'];
+  const insertBefore = lesson === '03' ? ['## Tipos de software', '### Idempotência:'] : lesson === '01' ? ['## Acordos', '### Exemplo didático fictício: três pedidos acadêmicos'] : ['## Processos:', '## Síntese e prática'];
   insertBefore.forEach((needle, index) => {
     if (!text.includes(needle)) throw new Error(`Posição visual ausente: ${needle}`);
     text = text.replace(needle, `FIGURA${index}\n\n${needle}`);
