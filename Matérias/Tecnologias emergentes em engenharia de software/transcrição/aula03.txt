@@ -1,0 +1,729 @@
+O que é extensão universitária? A partir de 2023, o MEC exige que estudantes do ensino superior completem atividades de
+0:3232 segundosextensão. A resolução prevê a dedicação de no mínimo, 10% do total da carga horária curricular para a extensão
+0:3939 segundosuniversitária. Por exemplo, se seu curso tem 3.400 horas, você precisa completar no mínimo 340 horas em atividades de
+0:4848 segundosextensão. Caso contrário, mesmo se aprovado em todas as disciplinas, você não receberá seu diploma. Como participar dos projetos? Nossa
+0:5757 segundosUniversidade oferece diversos projetos de extensão no estudio. Acesse o menu lateral extensão e inscreva-se. Você
+1:041 minuto e 4 segundostambém pode contribuir com novos projetos. Acesse a aba Faça parte e clique em Quero Participar para enviar sua sugestão. Para mais informações
+1:131 minuto e 13 segundossobre a exigência de extensão universitária, acesse nosso site dedicado a esclarecer todas as suas dúvidas.
+1:211 minuto e 21 segundosOlá, pessoal. Boa noite. Sejam todos muito bem-vindos. Quem vai assistir gravado,
+1:301 minuto e 30 segundosbom dia, boa tarde também. Nossa terceira aula de tecnologias emergentes em engenharia de software. Gostaria de
+1:391 minuto e 39 segundosagradecer o pessoal aí que já está no no chat. Fiquem à vontade, tá pessoal?
+1:451 minuto e 45 segundosPodem mandar perguntas, apareçam.
+1:491 minuto e 49 segundosPessoal, o engenheiro de software é um resolvedor de problemas e os problemas mais sérios que existem no mundo, que
+1:581 minuto e 58 segundossão os problemas de abstratos, são aqueles problemas que estão nas ideias, no conhecimento.
+2:072 minutos e 7 segundosEntão, pessoal, eh a IA veio para para nos ajudar bastante,
+2:132 minutos e 13 segundosmas é a cabeça, né, do engenheiro de software que resolve. Tá bem? Então, tendo isso em mente, antes de eu chamar
+2:222 minutos e 22 segundoso professor Rômulo para nossa nossa aula, eu vou passar aqui alguns recados que são importantes.
+2:332 minutos e 33 segundosEntão, pessoal, TCS Codiva, poxa, tem até novembro, pessoal, vamos participar,
+2:402 minutos e 40 segundosquem tiver um tempo aí, ó, vale muito a pena. Quem gosta de codificar, essa historinha de ah não, a Iá vai
+2:502 minutos e 50 segundoscodificar pra gente, não é bem assim não, tá? A gente tem que saber os meandos das estruturas de dados, das várias linguagens.
+2:592 minutos e 59 segundosEntão, assim, vamos dar uma atenção bem eh para esse tipo de de atividade.
+3:073 minutos e 7 segundosOutra coisa é o fellowship, pessoal, também excelente, até o dia 25/10.
+3:143 minutos e 14 segundosas inscrições vale a pena também.
+3:183 minutos e 18 segundosÉ isso, professor Rômulo, seja bem-vindo, professor. Olá, muito boa noite, professor Emerson.
+3:263 minutos e 26 segundosBoa noite à turma, né? Começar parabenizando aí, né, o professor Emerson, ao professor Cléber e a nós, né, como professores aí
+3:353 minutos e 35 segundospelo dia, né, dia do professor. E não seria tão bom quanto, né, no dia do professor, a gente exercendo a atividade
+3:423 minutos e 42 segundosde de ensinar, de educar, né, de capacitar, né, a nossa atual e futura geração para os desafios que o mercado
+3:503 minutos e 50 segundosoferece, né? É isso aí. Eu costumo dizer, né, que o engenheiro de software ele é um professor, né, tá sempre ensinando, né, o projeto a andar melhor.
+4:034 minutos e 3 segundos[risadas]
+4:044 minutos e 4 segundosEntão é isso aí, galera.
+4:064 minutos e 6 segundos[limpando a garganta]
+4:074 minutos e 7 segundosProfe, vou deixá-los com o pessoal.
+4:094 minutos e 9 segundosPessoal, tô aqui nos bastidores, qualquer coisa é só chamar, tá? Beleza. Com licença.
+4:174 minutos e 17 segundosVamos lá, então, pessoal.
+4:204 minutos e 20 segundosVamos lá, terceira aula, né, da nossa disciplina Tecnologias Emergentes em engenharia de software, tá? Nessa
+4:274 minutos e 27 segundosterceira aula, pessoal, eh iremos estudar três assuntos, tá? Eles são bem importantes
+4:354 minutos e 35 segundospara o desenvolvimento de sistemas modernos, tá? Primeiro aí são as camadas de software em ambientes industriais.
+4:424 minutos e 42 segundosEntão, a gente vai sair um pouquinho hoje do tradicional, tá? Vamos falar dos requisitos de qualidade, integração de
+4:504 minutos e 50 segundossistemas, né, envolvendo aí evidências técnicas, tá?
+4:544 minutos e 54 segundosInicialmente, né, conheceremos as camadas de software presente nos ambientes industriais, que compreende
+5:025 minutos e 2 segundosali, né, eh, soluções tecnológicas, né, como que elas podem envolver diferentes componentes, né, desde aí, né, sensores
+5:105 minutos e 10 segundospassando por controladores, até mesmo, eh, sistemas de gestão empresarial, né, serviço e nuvem, ferramentas de apoio à
+5:175 minutos e 17 segundosdecisão, dentre alguns, tá? Veremos, pessoal, que cada camada ela possui características e possui necessidades
+5:265 minutos e 26 segundosbem específicas, tá? Por exemplo, lá nos dispositivos industriais,
+5:325 minutos e 32 segundos[limpando a garganta]
+5:335 minutos e 33 segundosa preocupação ela pode estar relacionada à latência e à comunicação entre os sensores.
+5:425 minutos e 42 segundosJá nos sistemas corporativos, né, podemos ter como preocupação a garantia da integridade, da consistência das informações.
+5:535 minutos e 53 segundosE lá nos serviços em nuvem, talvez ali a disponibilidade, a o desempenho, né, ele tornam-se aí
+6:026 minutos e 2 segundosmais importante, tá? Na sequência, pessoal, estudaremos aí os requisitos, né, de qualidade software. Extremamente
+6:106 minutos e 10 segundosimportante essa parte, né, destacando aí as cinco dimensões, tá? que é disponibilidade, desempenho, integridade,
+6:186 minutos e 18 segundosrastreabilidade, segurança e privacidade. Tudo isso aí faz parte daquilo que a gente define como se fosse qualidade software, alinha, claro, da observabilidade.
+6:296 minutos e 29 segundosAprenderemos que não basta afirmar que o sistema é rápido, que o sistema é seguro e que o sistema é confiável. Precisamos
+6:366 minutos e 36 segundoscomprovar, né, que essas características aí elas existem por meio de métricas, né, por meio de indicadores, né? E aí
+6:446 minutos e 44 segundosdiscutiremos vários, tá? Tempo de resposta, taxa de erros, disponibilidade, registro de auditoria,
+6:506 minutos e 50 segundosenfim. Tá? Eh, em seguida, abordaremos a integração entre sistemas, compreendendo [limpando a garganta]
+6:596 minutos e 59 segundosa importância de contratos de API, deionamento, de testes automatizados para essas
+7:087 minutos e 8 segundosintegrações, o conceito de idemotência que iremos apresentar e discutir e também de mecanismos de tratamento de falhas, tá?
+7:187 minutos e 18 segundosTambém nessa aula discutiremos a importância da observabilidade eh das evidências automatizadas, tá? Utilizando
+7:267 minutos e 26 segundoslogs, métricas, rastreabilidade, pipelines, né? Eh, C e CD, integra, entrega contínua para acompanhamento de
+7:357 minutos e 35 segundosfuncionamento do funcionamento das aplicações e também da identificação de problemas de forma mais rápida, assertiva, né? E ao longo
+7:447 minutos e 44 segundosdessa aula também, pessoal, analisaremos alguns estudos de caso. Então, eu vou trazer alguns estudos de casos para tornar os conhecimentos duros, mais
+7:517 minutos e 51 segundospalatáveis, tá? E esse e nesse conhecimento, nesse estudo de casos, vamos envolver eh algumas linhas de
+7:587 minutos e 58 segundosprodução, tá? Eh, monitoramento agrícola, eh pedidos aí de problemas de pedido
+8:058 minutos e 5 segundosduplicado, né, problemas após a implantação de uma nova versão, enfim, tá? Esses exemplos eles vão demonstrar como que os conceitos que iremos
+8:148 minutos e 14 segundosestudar, eles podem ser aplicados na identificação de falhas, na definição de prioridades e também na escolha de soluções técnicas mais adequadas.
+8:248 minutos e 24 segundosBeleza, galera? Assim, eu esqueci de falar, mas assim, ao longo dessa disciplina eu vou
+8:308 minutos e 30 segundoster alguns problemas, né? Eh, em razão de algumas viagens que eu tenho que fazer, né? Eu já tinha avisado ao
+8:388 minutos e 38 segundosprofessor Cléber, ao coordenador do curso antes mesmo o pessoal da do início dessa disciplina. Falei: "Poxa, professor Créber, eu vou ter que fazer
+8:458 minutos e 45 segundosalgumas viagens". E coincidiu que essas viagens, né, como elas são pagas, né, eh, pelo local onde eu tô trabalhando,
+8:538 minutos e 53 segundosassim, eu não tenho muita, eh, flexibilidade e mudança, né? tenho que receber o, né, e viajar e retornar eh pro meu projeto de doutorado.
+9:039 minutos e 3 segundosEntão, essas viagens, muitas delas, pessoal, eu vou ter que sair às vezes aqui na madrugada da quarta-feira para quinta-feira, tá? Assim, serviço
+9:119 minutos e 11 segundospúblico, né, pessoal? O cara compra a a a passagem mais barata, às vezes tá pouco se lixando como é que vai ser a sua vida. Enfim, não tô reclamando, né,
+9:189 minutos e 18 segundosporque tá me ajudando a desenvolver o meu projeto de pesquisa. é bom para mim, né? E é bom também paraa instituição que tá recebendo aí, digamos assim, os frutos dos resultados da minha pesquisa.
+9:299 minutos e 29 segundosEh, mas atrapalhou um pouquinho aqui a nossa disciplina, né? De forma que assim, já na próxima aula, eh, eu essa certamente eu terei problemas, tá?
+9:389 minutos e 38 segundosPorque assim, o a minha viagem vai ser justamente no momento que acontece a aula. Aí eu havia eh conversado com o professor Cléber e falei para ele o
+9:469 minutos e 46 segundosseguinte: "Professor, para que a gente não faça uma aula gravada, cara, às vezes o aluno gosta da aula, né, dessa interação. Às vezes o cara gosta, né, eu
+9:549 minutos e 54 segundosgosto de tá ali o Rômulo falando, aí eu vou perguntando, a gente bate um papo, enfim, para que a gente eh permita com
+10:0110 minutos e 1 segundoque os alunos tenha essa aula com transmissão simultânea. Eu propus a ele, não sei se vai acontecer, tá, pessoal, que a gente fizesse na quarta-feira ao
+10:0910 minutos e 9 segundosinvés da quinta. Então assim, meio que o mesmo horário, boa noite Patrícia, [roncando] mas só que na quarta-feira de forma aqui o seguinte, né? Caso a
+10:1810 minutos e 18 segundosPatrícia, Juliano, o Henrique, né, o Gartulo e o Jonathan tem a disponibilidade na quarta-feira, ele ao
+10:2610 minutos e 26 segundosinvés de assistir na quinta, ele assiste na quarta. Isso não significa que vai acontecer, tá pessoal? Eu só propus.
+10:3310 minutos e 33 segundosAí ele assiste na quarta-feira, mas caso, por exemplo, a Patrícia, ela não tenha hom-feira já tá agendado que eu resolvi determinado problema, né? Eu
+10:4110 minutos e 41 segundostenho outra aula, enfim. Aí ela assiste a aula eh já gravada um dia antes, tá?
+10:4810 minutos e 48 segundosEntendeu? De forma que a gente consiga se ajustar, né? Eh, permita com que o aluno consiga ter a aula com transmissão
+10:5510 minutos e 55 segundossimultânea, né? Reduza os custos de ter que ter uma aula gravada, baixar, editar e por aí vai. também fica fácil, né,
+11:0311 minutos e 3 segundospara que a aula, né, já que ela foi gravada um dia antes, ela já pode ser já automaticamente ela já tá disponibilizada e a gente tem essa
+11:1111 minutos e 11 segundosflexibilidade, tá? Aí talvez você pergunte assim: "Rômulo, eh, eu não posso ir na quarta-feira, eh, eu vou assistir na quinta, mas e e
+11:1911 minutos e 19 segundosas minhas dúvidas como é que fica?" Sintam-se à vontade para encaminhar as dúvidas para o professor Emerson, né?
+11:2411 minutos e 24 segundosFale, fala com o mediador, né? Eh, ou, né, encaminhar para mim, tá, pessoal?
+11:2811 minutos e 28 segundosNão tem nenhum problema quanto a isso, tá? Não tem, tá?
+11:3111 minutos e 31 segundose de forma que assim toda e qualquer dúvida que porventura surja vocês consigam, enfim, superar, tá? Eh, vai ter quinta-feira, são três viagens que
+11:4011 minutos e 40 segundoseu vou fazer, tá, pessoal? São três quinta-feira seguida, essa próxima e mais duas. Vai ter eh eh dias que assim que eu retorno na sexta-feira. Eu
+11:4911 minutos e 49 segundosacredito que isso seja assim. Aí, provavelmente nesse dia que eu retorno na quinta, eu acho que eu vou ter algum local aonde eu vou que permita com que
+11:5711 minutos e 57 segundoseu consiga ter um computador, uma câmera e consiga ministrar aula em outro local.
+12:0112 minutos e 1 segundoSe isso acontecer, nada vai mudar, tá? A gente vai avisar com antecedência. Aí eu entro em cena, não aqui onde eu tô, no
+12:1012 minutos e 10 segundosmeu estúdio, né? Em casa, eu tenho totalmente preparado, mas eu vou est, sei lá, talvez, né, de posse aí de um notebook para que a gente consiga manter
+12:1712 minutos e 17 segundosnaturalmente as nossas aulas, mas tudo vai ser avisado com antecedência, tá bom, pessoal? para que, né, isso não afete o bom andamento do curso. De uma
+12:2512 minutos e 25 segundosforma ou de outra, seja gravada, seja transmissão ou seja um dia antes, a qualidade, a preocupação, né, com o conteúdo das aulas e com a evolução de
+12:3212 minutos e 32 segundosvocês está assegurada. Fique tranquilo, né, que assim que a gente não vai, digamos assim, eh, diminuir o nível de
+12:3912 minutos e 39 segundosqualidade em razão desses ajustes que precisamos fazer, beleza, pessoal?
+12:4412 minutos e 44 segundosCombinado aí, né, só avisando para vocês, né, vai ser informado, né, para que a gente consiga se ajustar, tá? para que não pegue ninguém de surpresa.
+12:5112 minutos e 51 segundosBeleza? Vamos lá. Voltando paraa nossa aula aqui, pessoal, vamos começar a nossa discussão de hoje, né, apresentando as camadas de software. Só
+12:5812 minutos e 58 segundosque o seguinte, em que ambiente? Em ambientes industriais, tá? Talvez muitos de vocês eh vão se deparar com um cenário totalmente diferente ao longo
+13:0713 minutos e 7 segundosdessa discussão aqui, tá? Então, pessoal, quando pensamos aí em uma indústria, principalmente uma indústria moderna,
+13:1513 minutos e 15 segundosprecisamos entender que não existe apenas ali, sei lá, um sistema que é responsável por tudo, tá? Na realidade,
+13:2413 minutos e 24 segundostemos diferentes tecnologias atuando eh desde o controle de máquinas, tem um
+13:3113 minutos e 31 segundossistema ali por trás, até o planejamento e a tomada de decisões estratégicas de alto nível, tá?
+13:3813 minutos e 38 segundosPrimeira camada é a camada dos dispositivos e do controle, mais baixo nível, mais perto do hard ali, né? Essa camada aí,
+13:4713 minutos e 47 segundospessoal, ela é composta, tá, dentro de um ambiente industrial por sensores, por atuadores, por controladores lógicos
+13:5713 minutos e 57 segundosprogramáveis que são conhecidos, eu vou falar muito no termo CLP, né? Controladores, lógico, programáveis, tá?
+14:0514 minutos e 5 segundosE esses equipamentos, pessoal, eles são responsáveis pela coleta de informação, sensores, né? Eh, pela pelo controle de
+14:1414 minutos e 14 segundosprocessos físicos, dentre outros. Por exemplo, né? Se eu tiver uma fábrica de bebidas, tá? Eu posso ter um sensor que
+14:2214 minutos e 22 segundosele tá medindo ali a temperatura da bebida. Vocês concordam não? Ele pode medir ali o nível, né, da quantidade que tem dentro de um tanque, um sensor, tá?
+14:3214 minutos e 32 segundosEnquanto que uma um controlador lógico programável, eu vou começar a falar agora CLP, tá pessoal, que é mais
+14:3914 minutos e 39 segundoscurtinho. Enquanto que o CLP ele controla válvulas, ele controla motores
+14:4614 minutos e 46 segundospara manter, por exemplo, a produção funcionando corretamente. Olha o cenário diferente que a gente tá nessa aula, tá?
+14:5314 minutos e 53 segundosEm seguida, pessoal, temos uma camada que é responsável pela execução operacional desse ambiente industrial de
+15:0215 minutos e 2 segundosfábrica, na qual encontramos sistemas. É comum vocês ver sistema como o sistema Escada, né? Já ouvi falar nesse sistema
+15:1015 minutos e 10 segundosaí? O sistema MS, tá? O escada, pessoal, ele é um sistema que ele permite
+15:1715 minutos e 17 segundossupervisionar equipamentos e acompanhar variáveis do processo industrial.
+15:2315 minutos e 23 segundosJá o sistema MENS, tá, ele ajuda a gerenciar a execução de uma linha de produção, por exemplo, né, aonde ela vai
+15:3115 minutos e 31 segundoseh registrar as ordens, as as quantidades padronizadas, as paradas, caso aconteça, né, indicadores
+15:3815 minutos e 38 segundosoperacionais, dentre outros, tá? Então, perceba, né, Rômulo mudou, né, talvez para muito de vocês seja algo totalmente
+15:4615 minutos e 46 segundosinovador, porque às vezes a gente não se depara com esse tipo de ambiente, mas ele existe, existe bastante, tá pessoal, né? com profissionais engenheiros aí extremamente bem valorizados, tá?
+15:5815 minutos e 58 segundosDepois, pessoal, temos a camada de gestão empresarial, tá? Eh, nessa camada, ela é representada principalmente pelos sistemas ERPS, tá?
+16:0916 minutos e 9 segundos[roncando] E esses sistemas aí eles eh integrammações de diferentes setores. É como se fosse um sistema grandão em que ele vai juntar
+16:1716 minutos e 17 segundoso estoque junto com compras, junto com produção, junto com finanças, tá?
+16:2216 minutos e 22 segundosEh, por exemplo, né, quando uma ordem de produção é concluída, o RP ele já tem a
+16:2916 minutos e 29 segundoscapacidade de receber essa informação, de atualizar os registros de estoque, por exemplo, porque ele se integra com vários sistemas dentro de um grande
+16:3816 minutos e 38 segundossistemão. Vamos colocar assim. A quarta camada, pessoal, perceba que dentro de uma indústria não é só ali o sensor, não, tá? Tem diferentes níveis. A quarta
+16:4716 minutos e 47 segundoscamada, ela envolve a parte de nuvem de integração com outros sistemas e por aí vai. Aqui, pessoal, utilizamos
+16:5516 minutos e 55 segundosplataformas de IoT industrial, também conhecida por IIOT, né, que é a IoT da indústria, tá? Essas plataformas
+17:0517 minutos e 5 segundoselas servem para conectar equipamentos, aplicações, para armazenar dados, para disponibilizar informações, né, enfim.
+17:1217 minutos e 12 segundosTá? Tudo isso, pessoal, permite eh que você consiga acompanhar remotamente o desempenho, né, de diferentes unidades
+17:1917 minutos e 19 segundosindustriais, tá? Para finalizar aqui a discussão, né, temos a camada de apoio à decisão, tá, que utiliza ferramentas
+17:2817 minutos e 28 segundosanalíticas, tá? Que utiliza ferramentas de inteligência artificial, né, para transformar os dados em informações
+17:3617 minutos e 36 segundosestratégicas, tá? Podemos aplicar, pessoal, algoritmos de aprendizado máquina para, por exemplo, identificar
+17:4417 minutos e 44 segundospadrões de consumo de energia. Vocês concordam comigo, né? Eu posso utilizar algoritmos de A para prever falhas no equipamento, que é chamada manutenção
+17:5217 minutos e 52 segundospreditiva, para otimizar processos eh produtivos, dentre outros. Beleza? Olha o tamanho da encrenca dessa aula aqui,
+18:0018 minutostá, pessoal? Vamos lá, vamos evoluir, tá?
+18:0418 minutos e 4 segundosAh, ainda no tema, né, pessoal, camadas de software ambiente industrial, eu quero que todos vocês eh observem a imagem,
+18:1118 minutos e 11 segundosné, a figura aí desse slide, né? E essa figura, pessoal, ela apresenta as principais categorias de software que são utilizadas dentro de ambientes
+18:2018 minutos e 20 segundosindustriais e como que essas categorias elas podem influenciar, elas podem se relacionar dentro de uma mesma
+18:2818 minutos e 28 segundosorganização. Vamos colocar assim. É importante compreender que uma indústria moderna, ela não depende apenas de um
+18:3518 minutos e 35 segundosúnico sistema, já falamos sobre isso, tá? Mas ela vai depender de diferentes soluções tecnológicas, né, que trabalham de maneira integrada, tá?
+18:4618 minutos e 46 segundosCada categoria, ela possui suas características, suas responsabilidades e também os seus requisitos de qualidade específicos, tá? Lá no centro da figura,
+18:5518 minutos e 55 segundospessoal, temos ali o núcleo de integração, tá? Esse núcleo ele pode interpretar
+19:0219 minutos e 2 segundoscomo o conjunto de dados e como os serviços compartilhados, né, acontece entre os diferentes tipos
+19:1019 minutos e 10 segundosde sistemas, né? Perceba a parte de integração, né? Ao redor da integração
+19:1819 minutos e 18 segundosencontramos sete categorias de software, né? Primeiro temos sistemas críticos, tá? utilizados em operações nas quais,
+19:2619 minutos e 26 segundospessoal, se acontecer uma falha, né, essa falha provoca uma consequência grave, por isso que ele é crítico, tá?
+19:3319 minutos e 33 segundosPor exemplo, sistema [limpando a garganta] de controle de equipamentos industriais, crítico, eh, sistema de segurança operacional,
+19:4119 minutos e 41 segundoscrítico, tá? Nesses casos, disponibilidade, 24 horas por dia, 7 dias por disponibilidade,
+19:4819 minutos e 48 segundosconfiabilidade e principalmente a segurança são requisitos indispensáveis.
+19:5419 minutos e 54 segundosTá? Em seguida, temos o quê, pessoal? Os sistemas corporativos. Aí entra o que a gente já falou, tá? O ERP, por exemplo,
+20:0120 minutos e 1 segundoque é responsável por também integrar informações de estoque, com compras, com produção, com finança, com eh marketing,
+20:0920 minutos e 9 segundosenfim. E aqui, pessoal, a principal preocupação desse carinha aqui, ela tá mais na consistência dos dados, tá na
+20:1720 minutos e 17 segundosintegração entre os diferentes processos de negócio. Rômulo, vamos baixar um pouquinho mais o nível. Vamos, mas vamos
+20:2420 minutos e 24 segundoslá pros sistemas embarcados, tá? Eh, são software, pessoal, que eles são executados diretamente
+20:3320 minutos e 33 segundosem um equipamento ou diretamente em um dispositivo. Outra camada, tá?
+20:3920 minutos e 39 segundosPodemos citar, por exemplo, o software de um controlador industrial que ele monitora os sensores e aciona aí os
+20:4720 minutos e 47 segundosmotores. Por exemplo, esses sistemas, pessoal, eles normalmente precisam atender requisitos
+20:5420 minutos e 54 segundosespecíficos de desempenho, de confiabilidade, de tempo de resposta.
+21:0021 minutosTempo de resposta ali, ele é às vezes bem rígido para esse tipo de sistemas, tá?
+21:0621 minutos e 6 segundoslá na categoria. Olha só, pessoal, vocês já ouviram falar, eh, opa, é isso mesmo, Dougley, software de microcontroladoras,
+21:1321 minutos e 13 segundostá? Quem assim, quem é apaixonado por essa área aí é o professor Emerson, tá?
+21:1821 minutos e 18 segundosÉ uma paixão gigantesca aí, tem trabalhos aí, né, muito significativos nessa área aí, né, um cara assim que ele
+21:2521 minutos e 25 segundoscompartilha comigo aí, né, eu eu sou ele ele trabalhou mais, digamos assim, né?
+21:3121 minutos e 31 segundosEle ele ele ele está mais no nível profissional e eu tô mais no nível de de paixão. Eu eu curto essa área assim mais
+21:3921 minutos e 39 segundosde apaixonado. Ele ele vivenciou mais isso aí, né? Tem mais experiência para contar dentro desse cenário aí. Tá?
+21:4621 minutos e 46 segundosVamos lá. Aí tem um termo aqui, pessoal, que eu queria perguntar para vocês, uma outra categoria que é a categoria chamada é analytics
+21:5421 minutos e 54 segundosa IT. Vocês já ouviram falar nisso? Tá, vamos tchau. B aí, cara. Tá, vamos lá.
+22:0122 minutos e 1 segundoanalytic com IoT, com IA. É isso. É, é justamente isso, tá? É uma solução, pessoal, que ela vai combinar análise de
+22:0922 minutos e 9 segundosdados que vem lá do analytics com inteligência artificial, AI, né, com IoT, internet das coisas, tá? Por
+22:1722 minutos e 17 segundosexemplo, eu posso ter ali um sensor industrial, aí eu tira, né? Eh, para fornecer informações para algoritmos
+22:2622 minutos e 26 segundoscapazes de identificar um padrão. Aí entrou a inteligência artificial e não só identificar um padrão, prever falhas.
+22:3322 minutos e 33 segundosAí ele vai fazer analítica, né? Análise de dados. Legal. Olha só, o negócio ficando maneiro. Tem ali uma camada,
+22:4022 minutos e 40 segundospessoal, que é o ED IoT, né? que é a camada de borda ali da IoT. Deixa eu responder a pergunta ali. As aulas
+22:4922 minutos e 49 segundosconceituais do professor Emerson são ótimas. Ele olha. Ah, legal, pô. Não assisti, cara. Boa dica, tá? Vou lá assistir as aulas. [risadas]
+22:5922 minutos e 59 segundosAh, que maneiro, cara. Tá. Eh, o o Ed Aoti, tá, vou assistir, tá? Aí, já me
+23:0623 minutos e 6 segundosdeu. Eu acho que eu não tenho acesso, cara. Eu não tenho, como professor, acho que eu não tenho acesso ao ambiente de, mas enfim, depois eu vou conversar com
+23:1323 minutos e 13 segundosele para ver, né? Já tenho diversão para eu fazer no final de semana, tá? Vamos lá. E a IoT, pessoal, representa o quê?
+23:2223 minutos e 22 segundosVamos lá. É o processamento que é feito bem próximo do dispositivo,
+23:2923 minutos e 29 segundosné? ali nas adjacências do do dado que é produzido pelo dispositivo. Em vez de
+23:3623 minutos e 36 segundosvocê enviar todas as informações para uma nuvem, para uma cloud, parte desse processamento ela acontece de forma local. E isso tem uma razão de ser.
+23:4423 minutos e 44 segundosMuitas vezes, cara, eh ele precisa de uma resposta rápida, então a latência aí eh dependências de conexão com a
+23:5123 minutos e 51 segundosinternet podem detonar o serviço. Aí eu tenho parte do processamento ali junto ao dispositivo chamado IoT. Temos
+23:5923 minutos e 59 segundostambém, pessoal, soluções de software como serviço, SAS, né, como soluções de computação novo que é cloud, né, que vão disponibilizar aplicações para
+24:0724 minutos e 7 segundosarmazenamento, para processamento muitas vezes massivo de dados e por aí vai. Um exemplo seria o quê, pessoal? Uma plataforma que é utilizada para
+24:1524 minutos e 15 segundosacompanhar de forma remota, por exemplo, a produção de várias unidades industriais. Isso aí vai est na nuvem, o cara acompanha por um dashboard muito
+24:2224 minutos e 22 segundostop de linha e vai tá aí como software, como serviço disponibilizado no cloud. E para finalizar a discussão aqui, eh, os
+24:3024 minutos e 30 segundosaplicativos móveis, tá, né, que permite com que os operadores, os técnicos, né, os gestores, eles consigam consultar na
+24:3724 minutos e 37 segundospalma da mão as informações e não só consultar, executar atividades diretamente pelo seu celular, pelo seu tablet, né, como, por exemplo, registro
+24:4624 minutos e 46 segundosde inspeção, acompanhamento de uma ordem de serviço, eh receber uma notificação ou um alerta e por aí vai. Legal.
+24:5424 minutos e 54 segundosPerceba que agora a gente entrou novo universo, tá? Não sei para vocês aí, né?
+24:5824 minutos e 58 segundosEu acredito que paraa grande maioria talvez, né, tenham entrado em um novo, né, um novo universo. Beleza? Vamos lá.
+25:0625 minutos e 6 segundosCamada de soft ambiente industriais, tá, pessoal? Imaginem que estamos trabalhando em uma indústria e recebemos a seguinte formação. O sistema parou de
+25:1525 minutos e 15 segundosfuncionar. E aí, Juliano JPA? Tá. E aí, Patrícia Oliveira? Tema parou de
+25:2225 minutos e 22 segundosfuncionar. Legal. A primeira pergunta que devemos fazer é: qual o sistema que apresentou o problema?
+25:3025 minutos e 30 segundosAfinal, pessoal, dentro de uma indústria, utilizamos aí diversas aplicações, né?
+25:3525 minutos e 35 segundosDiversos dispositivos, serviços que trabalham de maneira integrados e por aí vai, tá? Vamos lá. A primeira camada, né, que eu vou monitorar e controlar,
+25:4425 minutos e 44 segundosné, para entender melhor esses problemas, pessoal, é a camada de dispositivos, tá? e de operação que envolve sensores, atuadores, já discutimos um pouco dela, né?
+25:5325 minutos e 53 segundosControladoras, tá? Nessa camada, os problemas agora, tá? Problemas eles podem estar relacionado ao quê? A uma
+25:5925 minutos e 59 segundoscomunicação que é perdida, a ao funcionamento inadequado de um equipamento e por aí vai, tá? Às vezes,
+26:0726 minutos e 7 segundossei lá, um sensor mal calibrado, né? Um sensor com, sei lá, com seu firme é desatualizado e por aí vai. Segunda
+26:1426 minutos e 14 segundoscamada, pessoal, é a camada de execução e de manufatura. né? Na qual encontramos o quê? Os famosos sistemas escada, né?
+26:2126 minutos e 21 segundosOs famosos sistemas do tipo MS, né? Que aqueles temas que acompanham a produção, que registram as operações, que confirmam a execução das atividades e por aí vai, tá?
+26:3226 minutos e 32 segundosUma falha nessa camada, ela certamente, pessoal, vai impedir, né, o registro correto em uma operação de uma ordem de
+26:4126 minutos e 41 segundosprodução, por exemplo, tá? Então essa camada tem que ser bastante cuidada. Ela é crítica para o negócio. Em seguida, temos o quê, pessoal? Temos aí a camada
+26:5026 minutos e 50 segundosde gestão e a camada de negócio, tá? Que ela é representada pelos sistemas RP, né? Aqui tem aqueles problemas que
+26:5826 minutos e 58 segundosenvolvem, sei lá, divergência de estoque, inconsistência, né? Problemas financeiros, falhas de integração e por aí vai. Quarta camada é a parte de nuvem
+27:0727 minutos e 7 segundoseem serviços, responsável por disponibilizar os APIs, integrar aplicações, processar eventos, oferecer
+27:1327 minutos e 13 segundosrecursos computacionais de mais alto, né, mais alta envergadura, vamos colocar assim, mais robusto, né? Nessa camada,
+27:2127 minutos e 21 segundospessoal, precisamos observar indicadores como disponibilidade da nuvem, como latência, como taxa de erros e por aí vai. Temos ainda a camada de apoio à
+27:2827 minutos e 28 segundosdecisão, né, eh, que utiliza ferramentas de análise de dados eh combinada com inteligência artificial e às vezes combinada com até dispositivos IoT, né?
+27:4027 minutos e 40 segundosE podemos ter nessa camada aí eh resultados de previsão, indicadores, eh decisões fundamentadas e por aí vai, né?
+27:5127 minutos e 51 segundosObserve, pessoal, direita ali, né? a figura mais à direita ali que temos, ela ela tem uma uma linha de tempo do
+27:5827 minutos e 58 segundosprocesso, né, que vai do desenvolvimento de software, né, organizando aí em sete etapas, né, eh começa pela descoberta,
+28:0628 minutos e 6 segundosrefino, planejamento, desenvolvimento, teste, homologação e release, tá? É importante que a gente perceba que essa figura, pessoal, ela representa um
+28:1528 minutos e 15 segundosciclo, né, de desenvolvimento e um ciclo de entrega. e não não
+28:2228 minutos e 22 segundoseh as cinco camadas que a gente falou da arquitetura industrial, né, que estudamos, tá? Então, né, eh, mas eu
+28:3028 minutos e 30 segundosquero que vocês compreendam que esses dois conceitos eles estão correlacionados, tá? Cinco camadas de software dentro desenvolmento industrial
+28:3728 minutos e 37 segundosque correlacionam com aquele fluxo, né, da linha do tempo de um processo de desenvolvimento de um software. Eles
+28:4528 minutos e 45 segundosexiste correlações, tá? principalmente quando identificamos aí um problema em determinada camada, né, podemos organizar a sua correlação utilizando, né, essas etapas de desenvolvimento.
+28:5728 minutos e 57 segundosVamos descrever melhor isso aí, tá, pessoal? Vamos lá. Agora vamos começar a fatiar, tá? Eh, vamos analisar duas
+29:0529 minutos e 5 segundoscamadas importantes, né? Vamos começar agora a fatiar, a gente citou e vamos detalhar, eh, que é a camada de dispositivos/ra
+29:1429 minutos e 14 segundosoperação e a camada de execução/ra manufatura. Primeiro, pessoal, temos a camada de dispositivo/ra operação, né?
+29:2029 minutos e 20 segundosVai envolver o quê? Sensores, atuadores, controladores, equipamentos e por aí vai. Que que essa camada faz? Coleta dados e faz o controle de processos
+29:2829 minutos e 28 segundosfísicos, tá? Nessa camada aí temos uma pergunta bem fundamental, que é o seguinte, tá? Eh, o comando enviado a
+29:3629 minutos e 36 segundosequipamento, ele chega corretamente? E esse e e eu tenho uma resposta eh retornada dentro do tempo esperado, né?
+29:4629 minutos e 46 segundosum problema desse nível, tá? Para responder essa pergunta, pessoal, precisamos o quê? Monitorar.
+29:5329 minutos e 53 segundosPrecisamos ter indicadores, né, que permitam identificar aspectos como latência, como perda de pacote, como
+30:0030 minutosestabilidade da rede, como disponibilidade da energia e por aí vai, tá? Imagine, pessoal, que eu tenho um sensor de temperatura, né, que esteja
+30:0730 minutos e 7 segundosenviando informações para um CLP. Vai tá lá enviando várias informações, mas a conexão apresentou uma interrupção ou
+30:1530 minutos e 15 segundosuma falha frequente ali. Nesse caso, pessoal, algumas leituras podem não ter
+30:2230 minutos e 22 segundoschegado ali ao sistema de supervisão, né? E isso vai comprometer o acompanhamento da linha de produção.
+30:2930 minutos e 29 segundosVocês concordam comigo ou não? Tá? como e e como que eu consigo, qual a solução para isso, né? Sei lá, eu posso
+30:3630 minutos e 36 segundosutilizar, por exemplo, um buffer local, tá?
+30:4130 minutos e 41 segundosEsse buff ele vai fazer o quê? Ele vai armazenar temporariamente as medições.
+30:4530 minutos e 45 segundosEntão, perceba, tá? Eu tenho o sensor medindo e tenho um CLP recebendo a medição, só que teve um problema na rede, né? Aí eu tenho ali no meu
+30:5230 minutos e 52 segundosdispositivo um buffer local em que assim ele ele verifica que eu não tô conseguindo enviar, mas ele vai guardando localmente em forma armazena temporariamente.
+31:0231 minutos e 2 segundosNo momento em que a rede for restabelecida, o que que ele faz? Ele envia aquilo ali rajada, tá? Também poderemos eh eh ter pessoal um mecanismo
+31:1131 minutos e 11 segundoschamado de retry, né, com eh eh backof exponencial, né? Esse recurso ele vai
+31:1931 minutos e 19 segundosaumentar progressivamente o intervalos entre as tentativas de comunicação.
+31:2331 minutos e 23 segundosLegal? E essas técnicas, pessoal, ela tem que respeitar requisitos de tempo e de segurança de operação, tá?
+31:3131 minutos e 31 segundosPassando agora para a camada de execução de manufatura, né? Aí encontramos ali eh os famosos sistemas cada sistema MS,
+31:3931 minutos e 39 segundoslegal, que são responsáveis por supervisionar a produção, registrar operações, né?
+31:4431 minutos e 44 segundosExecução de ordens de fabricação e por aí vai.
+31:4831 minutos e 48 segundosA preocupação aqui, pessoal, tá onde? Tá em garantir que as ordens sejam registradas, sejam processadas, sejam
+31:5731 minutos e 57 segundosconfirmadas corretamente, tá? Por exemplo, né? Imagine que uma linha de produção ela conclua a fabricação de um
+32:0632 minutos e 6 segundosdeterminado tipo de produto, mas, né, o MENS, ele não recebe a confirmação dessa operação.
+32:1632 minutos e 16 segundosIsso pode gerar o quê, pessoal?
+32:1832 minutos e 18 segundosInconsistência, né, nos registros de produção e, posteriormente pode ter problemas nos dados que são enviados para o RP. Vamos lá. O Douglas, comunicação. Ah, comunicação com buff.
+32:2932 minutos e 29 segundosLegal. Tá, né? Essa eu não sabia que pode sim, pode, do, pode, né? Você pode
+32:3632 minutos e 36 segundosmuniciar o seu buffer com o seu sensor com buffer, né? E e você ter controles do tipo assim, né? Controle de conexão,
+32:4432 minutos e 44 segundosné? Do tipo, né? No momento que for restabelecida, ela volta a enviar no momento onde ela parou. Mas é tranquilo.
+32:5132 minutos e 51 segundosTecnologia simples, tá? Tem e que permite você conseguir contornar esses problemas, tá? Então, perceba, tá, que se tá continuando medindo, né? Só que o
+32:5932 minutos e 59 segundosseguinte, tá? Eh, eu, né, e dependendo do tipo de monitoramento, você consegue inclusive eh identificar, né, falou: "Olha, eu tenho uma série temporal de
+33:0833 minutos e 8 segundosregistros que são coletados e enviados eh tem um um gap, uma lacuna dessa falha temporal. Isso significa o quê? Pode ter algum problema. Pode ter um problema no
+33:1733 minutos e 17 segundossensor, pode ser um problema na rede, pode ser um problema em algum local. E de repente do nada, né, essa lacuna ela voltou a ser preenchida porque ele começou a enviar novamente. Então o
+33:2533 minutos e 25 segundossistema de monitoramento eles fazem o controle disso, tá bacana para caramba.
+33:3033 minutos e 30 segundosRecentemente eu eu eu ministrei um curso pessoal de novo SQL, banco de dados no SQL, e a gente trabalhou com os bancos de dados série temporais, bem legal, tá?
+33:3833 minutos e 38 segundosNão sei se vocês chegaram a fazer o curso, mas foi bem interessante. Eh, apresentando justamente um problema dessa natureza, tá? de envio de sensores
+33:4733 minutos e 47 segundosaí, de coletas de sensores para um banco de dados de série temporais. Legal.
+33:5433 minutos e 54 segundosIsso com carinho de tempo, né? Com time stamp, tá? Isso mesmo, tá, Douglas? Né?
+33:5933 minutos e 59 segundosEntão assim, ele tem uma uma marcação que é feita nos dados coletados, né?
+34:0334 minutos e 3 segundosChamada de time stamp, que é um carimbo de tempo, n? E esse carinho de tempo, ele ele tem uma precisão muito grande aí, né? Frações e frações frações de
+34:1134 minutos e 11 segundossegundo, né? para que ele consiga identificar eh efetivamente o momento pelo qual a informação chegou, tá?
+34:1834 minutos e 18 segundosAh, sim, foi a última matéria que o professor passou, né? Ah, acho que o Julian tava na aula, não tava? Julian tava lá com com a gente, né? O couro
+34:2434 minutos e 24 segundoscomendo ali, cara. Uma das disciplinas mais complexas que eu ministrei, tá? Para graduação, eu tirei o chapéu, tá?
+34:3334 minutos e 33 segundosPara disciplina e paraa turma que conseguiu responder. Muito bem. Beleza.
+34:3634 minutos e 36 segundosEntão, pessoal, ah, que mais aqui, pessoal, vamos lá.
+34:4134 minutos e 41 segundosEh, vamos dar um exemplo aqui, tá, pessoal? Vamos imaginar que eu tenho uma linha de produção em que ela conclua a
+34:4934 minutos e 49 segundosfabricação de um determinado produto, né? O MEI, o o MS ele não recebeu informação. Isso gerou o quê, pessoal?
+34:5834 minutos e 58 segundosUma inconsistência nos registros de produção e um problema
+35:0535 minutos e 5 segundosdo MENS para o RP, tá? Olha o negócio começando a escalar para outros níveis.
+35:1135 minutos e 11 segundosPara identificar esse problema, podemos o quê? Acompanhar os indicadores como disponibilidade por turno. Eu posso eh ter indicadores como taxa de confirmação
+35:1935 minutos e 19 segundosde ordens, eh crescimento nas feiras de mensagens, eh tempo entre a emissão e o tempo entre
+35:2735 minutos e 27 segundosa confirmação de causa de operação, dentre outros, tá, pessoal? Então, assim, essa estratégia aí de resiliência, vamos colocar assim, ela eh
+35:3635 minutos e 36 segundospermite com que você consiga utilizar filas locais, tá? mecanismos de reenvio para garantir que as informações elas
+35:4535 minutos e 45 segundospossam ser transmitidas posteriormente, né, quando, por exemplo, a comunicação for restabelecida, né, tudo isso com controles para evitar, sei lá,
+35:5335 minutos e 53 segundosprocessamentos duplicados, né? O cara mandar duas vezes é a mesma coisa, tem que ter controle, tá? Né? Isso é hoje dia fácil, tá? Existe muitos protocolos
+36:0036 minutosque controlam, inclusive, sei lá, cara, no ele tem eh alguns protocolos, por exemplo, que ele numera o o os bits de
+36:1036 minutos e 10 segundosuma informação, então ele consegue encadear certinho do outro lado, verificar se o o bit não veio duplicado,
+36:1736 minutos e 17 segundosenfim, tá? Assunto aí para disciplina de redes, né? Vamos lá avançar mais um pouquinho, tá, pessoal? Agora vamos
+36:2536 minutos e 25 segundosentrar em novas camadas, tá? eh na camada aí de gestão de negócio, né? Eh,
+36:3236 minutos e 32 segundoseu gosto muito dessa camada porque eu trabalhei muito com parte de essa camada de gestão de negócio, essa
+36:4036 minutos e 40 segundoscamada voltada para para apoio à decisão, tá? Apoio decisão gosto muito também, tá, pessoal? Eh, gestão de negócio, primeiro, gestão de negócio
+36:4836 minutos e 48 segundospaga bem, tá? Tá? Gestão de negócio, pessoal, ela é representada ali pel aqueles grandes sistemas que integram outros sistemas, tá?
+36:5636 minutos e 56 segundosEh, nessa camada, a preocupação, né, central tá o quê? Em garantir a integridade e garantir a consistência das informações entre os vários
+37:0437 minutos e 4 segundossistemas, tá? Vamos lá. Vou vamos imaginar aqui um uma falha, tá? Eh, imagine que uma empresa ela produza 500
+37:1237 minutos e 12 segundosunidades de um determinado produto, só que assim, no RP só chegou 480. E aí, pessoal? [roncando]
+37:2037 minutos e 20 segundosQue aí inconsistência, né? Divergência, né? Essa divergência, ela pode comprometer sim ou sim o controle do
+37:2737 minutos e 27 segundosestoque, o planejamento da produção, o faturamento, tá? Eh, e para identificar a origem desse problema, tá?
+37:3637 minutos e 36 segundosPrecisamos acompanhar os indicadores de quantidade de registros divergentes, eh, as taxas de reconciliação e o tempo
+37:4537 minutos e 45 segundosnecessário para corrigir essas inconsistências. Perceba que muito dessa nossa aula aqui, tá assim, determinadas camadas, problemas que podem acontecer e
+37:5237 minutos e 52 segundoscomo que eu posso monitorar, controlar e resolver os problemas, tá?
+37:5837 minutos e 58 segundosQue mais aí? Não, ah, agora que eu comecei, ainda tem ali a parte da eh
+38:0438 minutos e 4 segundosa degradação graciosa entra para o sistema eh não travar totalmente, né, que é o padrão gás. Pô, legal, cara. Boa observação, da Lugre. Top. né?
+38:1538 minutos e 15 segundosExcepcionar observação. Boa, boa, boa.
+38:1838 minutos e 18 segundosLegal mesmo, tá? Eh, ainda ali, pessoal, na gestão, eu já ia pular, tá? Na gestão, tem ali uma, ainda bem que tá ali em né? Tá vendo? Tá em
+38:2638 minutos e 26 segundos ali, né? Idepotência, tá? Eh, um conceito importante, pessoal, o conceito de iden potência. É até ruim de falar,
+38:3538 minutos e 35 segundosné? Dá uma travada na língua, né? Né? E o que que é isso, né? E depotência, pessoal, significa a garantia de que a
+38:4138 minutos e 41 segundosrepetição de uma operação, ela não vai produzir efeitos adicionais indevidos, tá? Por exemplo,
+38:5038 minutos e 50 segundosse uma ordem de produção foi enviada duas vezes devido a uma falha de comunicação, o ERP ele não vai registrar duas vezes a entrada no estoque, né?
+38:5938 minutos e 59 segundosEntão o sistema ele é idotente, idem potente, né? Idem potência, tá? Em seguida, pessoal, temos a camada de
+39:0739 minutos e 7 segundosnuvem de serviço, tá? que é responsável ali por disponibilizar as APIs, processar os eventos, eh permitir comunicação entre sistemas e por aí vai,
+39:1539 minutos e 15 segundostá? Nessa camada aí precisamos eh nos preocupar com o quê? Com eh taxas de indicadores de qualidade serviços, né,
+39:2439 minutos e 24 segundosque é conhecido por pela siga SLI e pela siga SLO, por exemplo, tá? Eh, podemos
+39:3139 minutos e 31 segundoseh estabelecer eh que 95% das requisições de um API,
+39:3939 minutos e 39 segundos95% elas devem ser respondidas com tempo de até 2 segundos, tá? Se esse limite
+39:4639 minutos e 46 segundosfor ultrapassado, os sistemas de monitoramento eles poderão emitir um alerta para que a equipe ela investigue
+39:5339 minutos e 53 segundosque existe um problema, tá? Eh, vamos lá, deixa eu responder ali pro Douglas. É enviar um pagamento para um gate.
+40:0040 minutosLegal. Novamente, quando não existe respostas assíncrona, o sistema não pode. Isso, exatamente, né? Um outro exemplo, tá d? Exatamente. Tá? Então,
+40:0840 minutos e 8 segundosperceba que quanto quanto eh se o sistema ele possui característica de ID potência, significa que mesmo ele enviando duas vezes, ele vai estabelecer
+40:1740 minutos e 17 segundoscontroles que permitam com que o seguinte eu identifique que esse pacote veio dobrado e eu descarte ele, tá?
+40:2240 minutos e 22 segundosDescarta, veio dobrado, né? Não vou adistrar duas vezes. Beleza? tem controles para isso aí.
+40:2940 minutos e 29 segundosVamos lá. Outro exemplo que podemos utilizar, pessoal, é um exemplo de uma estrutura chamada de fitur flex, né? Eh, que permite com que você consiga ativar
+40:3840 minutos e 38 segundose que você consiga desativar funcionalidade sem precisar realizar uma nova implantação completa, né? Isso aí
+40:4640 minutos e 46 segundosfacilita bem a liberação gradual dos recursos, tá? e também reduz os riscos associados à atualização. E para
+40:5340 minutos e 53 segundosfinalizar, pessoal, temos ali a camada de apoio à decisão. Essa também gosto de muito, né, cara? Quem trabalha com com des ama essa parte aí, tá, professor?
+41:0441 minutos e 4 segundosEla eh ela utiliza análise de dados, né, eh indicadores, né, utiliza aí modelos de inteligência artificial eh para
+41:1141 minutos e 11 segundosprocessos de apoio à decisão operacional e muitas vezes apoio à decisão estratégica, tá? Principal desafio
+41:1941 minutos e 19 segundoscamada, qual que é, Romul? É garantir que a qualidade dos dados, né, a origem dos dados sejam eh fidedignos aí no
+41:2641 minutos e 26 segundosprocesso de análise, né? O data quality ali é o grande gargalo dessa área, tá?
+41:3141 minutos e 31 segundosSei lá, se você se o dado for ruim, tudo aquilo que você vai fazer com dado é ruim, tá? Eh, imagine, pessoal, que uma indústria ela utiliza o modelo de
+41:3941 minutos e 39 segundosinteligência artificial com intuito de prever falhas em equipamentos. Então, equipamento uma máquina cara que não pode parar, cara. O que é que eu vou fazer? utilizar o
+41:4741 minutos e 47 segundosmodelo de a saber exatamente ali, né, quando que essa máquina vai apresentar uma falha e eu faço uma manutenção antes da falha para evitar isso aí, né? Se os
+41:5541 minutos e 55 segundossensores começam a produzir informações incorretas, né, sensor mal calibrado, tal, ou sei lá, se o comportamento da
+42:0242 minutos e 2 segundosmáquina ela muda de forma significativa, cara, as previsões poderão, vocês concordam que elas poderão perder a precisão, tá? E esse fenômeno aí, ele
+42:1142 minutos e 11 segundospode estar relacionado ao ao chamado de um desvio de dados. né, que ocorre
+42:1842 minutos e 18 segundosquando uma mudança na distribuição dos dados acontece ou o conceito de ou o
+42:2542 minutos e 25 segundostermo mudança de conceito, que é quando muda a relação entre esses dados e o resultado que devemos prever. E é por
+42:3442 minutos e 34 segundosisso, pessoal, que precisamos acompanhar indicadores de completitude, né, de atualidade, de qualidade dos dados, né,
+42:4242 minutos e 42 segundosalém, é claro, dos dos do desempenho, né, da curácia ali, dos modelos preditivos que iremos utilizar, tá?
+42:5242 minutos e 52 segundosVamos lá, para dar um susto em vocês, pessoal, né, e para alegria, uma hora dessa tá o professor Emerson, talvez sorrindo, olhando para essa imagem aí.
+43:0143 minutos e 1 segundoVamos lá, vamos trazer um case aí.
+43:0343 minutos e 3 segundospessoal, né, que tá associado àquilo que a gente discutiu, tá? Então, eu tenho aqui uma uma um estudo de caso, né, que
+43:1143 minutos e 11 segundosapresenta falhas, só que essa falha aí, pessoal, é uma falha numa linha de produção industrial. E aí, engenheiro,
+43:2043 minutos e 20 segundos[risadas]
+43:2143 minutos e 21 segundostá? Vamos aplicar aqui, pessoal, os conceitos que aprendemos de camadas de software, né, de diagnóstico de
+43:2843 minutos e 28 segundosproblemas e de indicadores de qualidades, né, para conseguir identificar, prever, controlar essas
+43:3643 minutos e 36 segundosfalhas, tá? Vamos lá. Eu quero que todos vocês imaginem que estamos trabalhando em uma fábrica de automóveis, tá? E de
+43:4443 minutos e 44 segundosrepente começa a ocorrer algumas interrupções na linha de montagem.
+43:5043 minutos e 50 segundosOs operadores eles relatam que algumas máquinas deixam de responder determinadas ordens de produção, também
+43:5743 minutos e 57 segundosnão são confirmadas e sei lá, o o sistema de gestão ele começa a apresentar divergências do estoque. Olha o tamanho da encrenca que você tem que
+44:0644 minutos e 6 segundoslhe dar diante dessa situação, né? Surge uma pergunta que é muito importante, tá?
+44:1444 minutos e 14 segundosVamos lá. [risadas] Onde que tá o problema?
+44:1944 minutos e 19 segundosproblema tá onde tá? Será que essa falha tá no sensor, tá no controlador?
+44:2644 minutos e 26 segundosTá no sistema, tá na execução da produção? Tá no RP? Legal. E é justamente nesse momento, pessoal, que
+44:3344 minutos e 33 segundosprecisamos compreender a arquitetura de um ambiente industrial. Por isso que eu falei nas camadas, tá? Eh, sabendo as camadas, eu consigo, sei lá, eh, melhor
+44:4244 minutos e 42 segundosinvestigar essas camadas de forma separada, tá? Primeiro, camada de dispositivos que tá ali os sensores, tá?
+44:5144 minutos e 51 segundosOs atuadores, tá? Aí a gente vai começar a verificar se os equipamentos estão coletando, estão transmitindo informações corretas, né? Podemos
+44:5944 minutos e 59 segundosanalisar, por exemplo, perda de pacote, a estabilidade da comunicação, o tempo de resposta entre o dispositivo e controlador e por aí vai. Em seguida,
+45:0845 minutos e 8 segundosné, vamos olhar ali os CLPs, né, os controladores lógicos programáveis, né, que são responsáveis pelos controles
+45:1645 minutos e 16 segundosdessas máquinas, tá? Se um sensor enviar informação, mas o CLP não conseguir receber corretamente, podemos claramente
+45:2445 minutos e 24 segundoster uma interrupção, né, um comportamento inadequado, né, do, digamos assim, do processo industrial.
+45:3145 minutos e 31 segundosDepois avançamos aí paraa próxima camada, né, que envolve ali os MENS, né, que é o sistema responsável pelo acompanhamento da execução da produção,
+45:4045 minutos e 40 segundostá? Nesse caso, pessoal, precisamos verificar se as ordens, né, elas estão sendo recebidas, processadas e
+45:4845 minutos e 48 segundosconfirmadas, tá? Perceba que eu tô em outra camada agora.
+45:5245 minutos e 52 segundosHom, qual o indicador que eu sei que a ordem foi recebida, confirmada e processada? Tá? Um indicador importante,
+45:5945 minutos e 59 segundospessoal, é a taxa de confirmação das ordens, tá lá um indicador bonitinho, tá? Você vai olhar e vai saber, né, onde
+46:0546 minutos e 5 segundosé que tá o problema, tá? Na sequência, podemos ir para uma camada mais acima tá lá o RP, né, que é responsável pela
+46:1346 minutos e 13 segundosgestão empresarial, né, dessa indústria aí. Se a ordem foi executada fisicamente,
+46:2046 minutos e 20 segundosmas só a confirmação não chegou corretamente no sistema de gestão, temos um problema, né? temos de cara uma divergência, principalmente entre a
+46:2946 minutos e 29 segundosquantidade que foi produzida e o estoque que foi registrado. Vocês concordam comigo?
+46:3546 minutos e 35 segundosAí também temos que verificar eh a camada de nuvem, né? Eh, a camada de monitoramento,
+46:4346 minutos e 43 segundosné? que pode reunir ali os logs, as métricas, as informações dos diferentes tipos de sistemas que vai permitir com
+46:5046 minutos e 50 segundosque você consiga identificar efetivamente onde a comunicação ela tá falhando. Por fim, pessoal, temos a camada de apoio à decisão, né, no qual
+46:5846 minutos e 58 segundosferramentas de análise de dados, elas podem identificar padrões de falhas, cinhar padrões, tá, de falhas,
+47:0747 minutos e 7 segundosacompanhar indicadores, né, apoiar as a ações de manutenção preventiva, dentre vários aí, né? Agora, pessoal, eh
+47:1547 minutos e 15 segundosobserve que o slide ali ele apresenta algumas métricas importantes para que a gente faça essa investigação, né? E quais são elas, né? Lado básico, tá,
+47:2347 minutos e 23 segundospessoal? Perda de pacote, uma métrica, tá? Latência, né? Que é o tempo que um pacote sai de um de um lado e chega no outro, né? Se a latência for baixa, significa que ele tem um bom desempenho.
+47:3347 minutos e 33 segundosSe a latência for alta, pode ter algum tipo de gargalo, algum problema.
+47:3747 minutos e 37 segundosDisponibilidade, tá? Eh, se a disponibilidade for baixa, pode ser que acontecer algum problema ali de
+47:4447 minutos e 44 segundoscomunicação, algo do gênero, né? Taxa de confirmação de ordem, tempo de parada de uma linha, outra médica aí. E todos
+47:5147 minutos e 51 segundosesses indicadores, pessoal, eles são importantes porque eles permitem eh substituir uma suposição, um achismo, né? E agora você tem uma evidência
+48:0048 minutostécnica, né? Eh, por exemplo, né? Se identificarmos uma elevada perda de
+48:0648 minutos e 6 segundospacote na comunicação entre o sensor e o CLP, temos uma indicação de que o
+48:1348 minutos e 13 segundosproblema pode estar na camada de dispositivos ou na infraestrutura de comunicação. Vocês concordam comigo?
+48:2148 minutos e 21 segundosEntretanto, ainda precisamos investigar e confirmar essa hipótese antes de concluir a causa, tá?
+48:2948 minutos e 29 segundosSe os equipamentos estiverem funcionando corretamente, mas as ordens não forem confirmadas no mês, tá? Devemos direcionar a nossa atenção, a nossa
+48:3748 minutos e 37 segundosinvestigação à camada de execução operacional, tá? Se as ordens forem confirmadas corretamente, mas o estoque
+48:4648 minutos e 46 segundosele tiver divergente, cara, não tem para onde ir, tá? Vou analisar ali o meu, as minhas integrações com o RP.
+48:5348 minutos e 53 segundosPercebam, pessoal, que o diagnóstico por camadas, ele permite com que você consiga reduzir o universo da sua
+49:0249 minutos e 2 segundosinvestigação, né, identificando aí com maior precisão, vamos colocar assim, os componentes que são responsáveis por determinados tipos de falha, tá? Agora,
+49:1049 minutos e 10 segundosprecisamos responder o seguinte, pessoal, onde a falha começou, tá? Onde a falha começou? É esse aí que é o grande lance da coisa, tá? A falha
+49:1949 minutos e 19 segundoscomeçou onde, né? Onde tá a origem desse desse grande problema, tá?
+49:2549 minutos e 25 segundosAh, sei lá, tá em alguma área de segurança, tá em algum processo contínuo de produção, tá em alguma integração de
+49:3349 minutos e 33 segundosinformações, tá? Uma falha, pessoal, que comprometa a área de segurança dos equipamentos ou dos operadores exige um
+49:4149 minutos e 41 segundostratamento mais imediato, vamos colocar assim. Legal.
+49:4649 minutos e 46 segundosAh, deixa eu ver o Willam ali. Existe softwares específicos para fazer essa varredura identificando onde essa fala tá. Existe vários software, né?
+49:5349 minutos e 53 segundosInclusive, eh, dentro de cada camadas, tá? Em cima de cada camada tem um softwares que fazem esse esse esses tratamentos, tá bom? Tá. Não sei se eu coloquei aí no case, não lembro, tá, né?
+50:0550 minutos e 5 segundosSe eu não coloquei no case, então Willam, me cobra aí que nas próximas aulas a gente apresenta aí, né, o software que pode ajudar nesse aspecto
+50:1250 minutos e 12 segundosaí, tá? Eu vou usar até um, né, que é um software chamado para eh, por exemplo, para
+50:2150 minutos e 21 segundosbanco de dados série temporais clássico aí em um ambiente fabril, onde eu tenho vários sensores aí enviando informações a um banco de dados que tem ali a necessidade de ter um carimbo de tempo.
+50:3150 minutos e 31 segundosEu tenho união ferramenta chamada é a parte spark. Não sei se vocês conhecem ela, excepcionalíssima para gerar as indicadores, aí mais assim, mas
+50:3850 minutos e 38 segundosbrutalmente excepcional, né, para fazer essas brincadeiras, tá pessoal? Vamos lá. Que o que que mais que faltou aqui,
+50:4650 minutos e 46 segundostá? Vamos lá. Qual que é o principal aprendizado desse estudo de caso, Roman?
+50:4950 minutos e 49 segundosÉ que o seguinte, não devemos tratar uma falha eh como se fosse um problema genérico de software, né? Então, começa a identificar pelas camadas ali para que
+50:5750 minutos e 57 segundosvocê chegue na falha de forma mais assertiva, OK, pessoal? Vamos lá. Agora vamos partir pro segundo, o segundo assunto da aula, tá? Que envolve
+51:0551 minutos e 5 segundosrequisitos de qualidade, tá? Quando afirmarmos, pessoal, que um software ele é rápido, ele é seguro, ele é confiável,
+51:1251 minutos e 12 segundosprecisamos comprovar que o software é rápido, seguro e confiável, tá? Não basta dizer que o sistema funciona bem, tá? É necessário dizer que ele tem
+51:2151 minutos e 21 segundosmétricas que permitam identificar, né, acompanhar o desempenho e fundamentar as decisões técnicas, tá? E veremos,
+51:3051 minutos e 30 segundospessoal, cinco dimensões, né, que são muito importantes para avaliar eh o que que eu considero como qualidade dentro
+51:3951 minutos e 39 segundosde um software, né? Como software qualidade em quê? Vamos lá. Primeiro, pessoal, né? Um software ele tem qualidade quando ele tem
+51:4751 minutos e 47 segundosdisponibilidade? Sim ou sim, tá? Eu diria que talvez, cara, uma das causas que mais te estressa aí é quando o
+51:5451 minutos e 54 segundossoftware sai do ar. Se o seu telefone vai tocar, cara, a certeza quase que absoluta é quando o software tiver fora
+52:0152 minutos e 1 segundodo ar, né? Então, disponibilidade, pessoal, ela representa a capacidade do sistema permanecer operacional quando
+52:0952 minutos e 9 segundosnecessário. Por exemplo, tá, uma indústria, podemos medir quantos minutos o sistema ficou indisponível durante determinado
+52:1752 minutos e 17 segundosturno, tá? Eh, diferenciando as paradas planejadas, tá? Parada planejada.
+52:2552 minutos e 25 segundosdas falhas que são inesperadas, tá?
+52:3052 minutos e 30 segundosSegunda dimensão tem a ver com o desempenho. Cara, eu diria que assim, quando você consegue controlar disponibilidade, desempenho, cara, sua vida começa a ficar feliz, tá?
+52:4152 minutos e 41 segundosControlou disponibilidade, controlou desempenho, provavelmente pelo menos o e os morteiros não vão cair tanto na sua cabeça, tá? Enquanto isso não acontecer, você vai est chorando, tá?
+52:5352 minutos e 53 segundoseh desempenho, né, representado pelo eh ali o indicador, por exemplo, P95, tá?
+53:0053 minutosEh, esse indicador, pessoal, ele mostra ali o tempo de resposta eh abaixo, né, do qual estão, por exemplo, 95% das
+53:0853 minutos e 8 segundosrequisições que são realizadas pelo sistema, tá? Vamos lá. Eh, eh, vamos imaginar que eu tenho uma API, né, que
+53:1653 minutos e 16 segundosela apresente aí o P95 para eu verificar desempenho.
+53:2153 minutos e 21 segundosE eu digo assim, ó, o P95 da PI é 2 segundos, tá?
+53:2653 minutos e 26 segundosIsso significa, pessoal, que 95% de todas as requisições que foram respondidas, elas precisam ser respondidas em até 2 segundos, senão eu
+53:3553 minutos e 35 segundosnão alcanço o P, o P95. Isso é um uma métrica de desempenho, tá? enquanto que
+53:4253 minutos e 42 segundos5% pode, sei lá, ter ali acima do segundos, tá? Esse indicador
+53:4953 minutos e 49 segundosele é importante porque ele permite identificar problemas que poderiam passar despercebidos se eh analisássemos apenas a média, tá? Apenas a média.
+54:0154 minutos e 1 segundoTerceira dimensão envolve o quê? Eh, integridade e rastreabilidade, tá?
+54:0954 minutos e 9 segundosPrecisamos garantir, pessoal, que os dados eles permaneçam corretos e que seja possível eu acompanhar o histórico,
+54:1854 minutos e 18 segundosrastreabilidade das alterações que foi realizada pelo sistema. Então, sempre que você consegue garantir integridade
+54:2554 minutos e 25 segundosdo dado e se tiver um problema ou se consigo chegar na raiz, né, de toda a evolução histórica, isso é como se fosse
+54:3354 minutos e 33 segundosum selo de que o seu software tem qualidade, por exemplo, tá? Quando o desenvolvedor ele modifica uma funcionalidade,
+54:4254 minutos e 42 segundosdevemos conseguir identificar qual requisito motivou aquela operação.
+54:4754 minutos e 47 segundosEntão, eu tenho um chamado que tem um requisito. Esse chamado de um requisito é atrelado, por exemplo, a um a um
+54:5554 minutos e 55 segundoscommit, a um, né, um commit ali, né, dentro aí de um chin log, mostrando toda a rabilidade desde a origem do problema,
+55:0355 minutos e 3 segundospassando ali pelo commit que foi feito no sistema, né, passando ali pelo, enfim, a a change log, a a versão gerada
+55:1255 minutos e 12 segundoscom as características ali daquele determinado tipo de modificação, conseguiu chegar de ponto a ponto aí, tá? rastreabilidade.
+55:2255 minutos e 22 segundosQuarta dimensão, pessoal, é a segurança e a privacidade, tá? Mas o que é que tem a ver segurança, privacidade com qualidade de software? Sim, pessoal, né?
+55:3455 minutos e 34 segundosAlgumas práticas importantes inclui o quê? Criptografia, controle de acesso baseado, sei lá, no princípio do menor
+55:4155 minutos e 41 segundosprivilégio, gerenciamento seguro das senhas e credenciais, verificações automatizadas de vulnerabilidade no software, tá? né? O
+55:5055 minutos e 50 segundosprofessor Emerson, não sei se foi nessa aula, foi no anterior, tá? Eh, ele falou sobre isso, tá? A parte lá de que você faz as verificações automatizadas das
+55:5955 minutos e 59 segundosvulnerabilidades, tá? Isso implica o quê? Sei lá, numa esteira deve ser ops, né? Uma análise estática do código.
+56:0456 minutos e 4 segundosAntes de colocar eh esse código em produção, né? Verifico uma análise estática do código e nessa análise estática eu consigo eh identificar
+56:1256 minutos e 12 segundospotenciais problemas de segurança antes mesmo que o software ele entre em produção. Ah, Ron. Mas se o problema de segurança surgir depois do software em
+56:2056 minutos e 20 segundosprodução, análise dinâmica do código, né? Ferramentas que você monitora o código em produção, né? Percebendo que agora esse software quando nasceu ele
+56:2856 minutos e 28 segundosnão tinha vulnerabilidade, mas com o passar do tempo ele já apresenta algo que você precisa trocar uma biblioteca, modificar aquele artefato ali que antes
+56:3656 minutos e 36 segundosnão era vulnerável, mas agora eh já existem vulnerabilidades conhecidas que pode explorar aquele seu problema de
+56:4556 minutos e 45 segundossoftware, tá? Então assim, aspecto relacionado à segurança, pessoal, importantitíssimo no aspecto de qualidade. Beleza? E por
+56:5356 minutos e 53 segundosfim, pessoal, já respondo ali o do Douglas, tá? A observabilidade, né? Um termo estranho, né? Observabilidade que
+57:0057 minutosque que acho é isso aí, tá? A observabilidade, pessoal, ela representa a capacidade de você compreender o comportamento interno, os bastidores, a
+57:0857 minutos e 8 segundosminança ali, o âmago, tá? De um sistema a partir de informações que ele produz.
+57:1357 minutos e 13 segundosEntão, produzir informação você exatamente, cara, né? É como se fosse aquele médico que é extremamente especialista, tá? Aquele médico fala
+57:2157 minutos e 21 segundosassim, ó, né? Eh, torce aí, levanta o braço, ele já sab onde é que tá o problema, né? O cara tem uma boa observabilidade, né? Um diagnóstico ali
+57:2957 minutos e 29 segundosbem preciso, tá? Vamos lá. O Douglas, né? O meu e-commerce, tá? O Douglas trabalha com e-commerce. Legal, tá, né?
+57:3557 minutos e 35 segundosTá, tá, tá, tá na Amazon aí, né, Douglas? Tá na Amazon aí, né? Se tiver depois aí, né, manda o teu e-mail aí para num futuro breve te encaminhar
+57:4457 minutos e 44 segundoscurrículo aí, tá? Aí, vamos lá. Mecom está sendo derrubado por um ataque da Holanda, professor. Caramba, cara, né?
+57:5157 minutos e 51 segundosProblema ali de, né, normal, tá, pessoal? Dependendo da, cara, principalmente o software dessa natureza, tá, que ele pode afetar o quê?
+57:5957 minutos e 59 segundosEh, dados financeiros, ele pode, né, tentar te cobrar alguma coisa, às vezes dando a imagem. Às vezes o que que ele quer só dando a imagem, né? Ah, o o
+58:0758 minutos e 7 segundose-commerce do cara é fraco, toda hora tá caindo. E o que mais ali, né? E eu tive que analisar a vulnerabilidade e melhorar também o file do do cloud fod.
+58:1658 minutos e 16 segundosBem legal, né? Você pode utilizar, tá, Douglas, algumas ferramentas para para essa parte aí, tá? Assim, em se tratando de parte de código, código, código,
+58:2458 minutos e 24 segundoscódigo, código, tá? É duas ferramentas boas para código, codificação, código do seu sistema é o seguinte, é você utilizar uma ferramenta de análise
+58:3158 minutos e 31 segundostática de código muito boa, tá? para que você o seguinte, antes do seu código entrar em produção, ela já analisa ele de forma estática, paradinho, tá? E ele
+58:3958 minutos e 39 segundosdiz assim: "Olha, existe um componente aqui ou existe uma biblioteca ou existe um procedimento que você fez que ele pode ser explorada por uma por um ataque
+58:4858 minutos e 48 segundosde negação de serviço." Arruma isso antes de você colocar esse software em produção. Opa, legal, recebi um alerta, vou lá, fiz a correção, né?
+58:5858 minutos e 58 segundosPasso novamente pela esteira. Esteira dá OK e vida que segue, tá? Son equip aí vai. Beleza, tá? Né? Assim, eu gosto de
+59:0659 minutos e 6 segundosvocês que vocês são muito apegados em ferramentas, tá? É, isso é bom, tá, pessoal? Uma característica muito importante. Mas assim, eh, eh, eh, eu,
+59:1559 minutos e 15 segundoseu digo assim, ó, quando você conhece eh eh muito bem os conceitos, as ferramentas vão e vão e você continua,
+59:2259 minutos e 22 segundostá? Quando eu comecei não tinha forfire, não tinha sona Kuber. Legal. E isso não significa que eu não venha me adaptar a uma ferramenta nova, porque eu sei os
+59:3059 minutos e 30 segundosconceitos. Legal, tá? Entendeu? Essa combinação entre conhecer e habilidade, tá? Conhecimento, habilidade e atitude,
+59:3959 minutos e 39 segundosprincipalmente, permite com que você consiga alcançar etapas legais, tá? Tem outras ferramentas também que são muito importantes para análise dinâmica.
+59:4659 minutos e 46 segundosFugiu, cara, o nome da me fugiu o nome da empresa aqui, veio e sumiu. Já já eu lembro, tá? São ferramentas bem consagradas que fazem análise não
+59:5559 minutos e 55 segundosestática, dinâmica, tá? Como assim dinâmica? O código já entrou em produção, tá lá o código lá funcionando e sei lá, o seu código pode ser alvo de
+1:00:021 hora e 2 segundosuma vulnerabilidade dele tá avaliando dinamicamente o código e te reporta, fala: "Olha, pô, agora pintou uma coisa estranha teu código mas esa aí, cara,
+1:00:091 hora e 9 segundosnão passei pela estática assim, né? Mas na época teu código era legal, hoje já não é mais, entendeu? Aí você vai lá e faz correções, tá? Em nível de código,
+1:00:171 hora e 17 segundostá? Mas existe outras formas de você conseguir fazer esses controles, tá?
+1:00:211 hora e 21 segundosAtravés de F, através de sistema de identificação de intrusão, sistema de prevenção de intrusão, tá? Deixa eu eu continuar dúvidas, senão eu fico em segurança e esqueço do do software, tá?
+1:00:321 hora e 32 segundosVamos lá. Aí aqui, pessoal, a gente chega numa outra num outro cenário, tá?
+1:00:371 hora e 37 segundosA gente começa a apresentar os requisitos de qualidade, né, em cima de determinadas características de sistema, tá, né? O que que é qualidade para um sistema embarcado, para um sistema corporativo, enfim, tá?
+1:00:491 hora e 49 segundosPrecisamos entender, pessoal, que as dimensões elas não possuem necessariamente a mesma prioridade em todos os projetos, tá? Tudo depende das características do software, tudo
+1:00:571 hora e 57 segundosdepende do ambiente em que ele funciona, tudo depende das consequências de uma possível falha, tudo depende de quem tá controlando tudo isso, tá? Primeiramente
+1:01:051 hora, 1 minuto e 5 segundostemos ali os sistemas embarcados, tá? Em que são software ali executados diretamente nos equipamentos, né, nos dispositivos físicos, tá? Né? Então
+1:01:141 hora, 1 minuto e 14 segundospodemos citar, por exemplo, ali um software responsável pelo controle de um robô industrial, tá? Nesse caso, o tempo
+1:01:211 hora, 1 minuto e 21 segundosde resposta, a confiabilidade, elas são fundamentais, né? Porque um atraso no processamento eh de um determinado
+1:01:291 hora, 1 minuto e 29 segundoscomando pode comprometer o funcionamento do próprio equipamento, tá? Em seguida, temos ali os nossos eh RPs, né, que integram o processo de informações, né,
+1:01:371 hora, 1 minuto e 37 segundosdiferentes setores, tá? Eh, principais requisitos ali estão relacionados ao quê? Requisitos de qualidade, né, pessoal? Tem a ver com o quê? com a
+1:01:441 hora, 1 minuto e 44 segundosintegridade dos dados, super importante no aspecto de qualidade para esses tipo de sistemas, rastreabilidade da informação e auditoria. Deu problema?
+1:01:531 hora, 1 minuto e 53 segundosOnde é que eu sei onde é que deu? Tá?
+1:01:551 hora, 1 minuto e 55 segundosPor exemplo, pessoal, eu faço uma movimentação de estoque legal que precisa ser registrada corretamente para evitar uma divergência, tá? Entre produção e setor financeiro. Legal.
+1:02:061 hora, 2 minutos e 6 segundosTem que ter auditoria, tem que ter rastreabilidade e tem que ter eh consistência, né, dessa informações, tá?
+1:02:151 hora, 2 minutos e 15 segundosJá os sistemas críticos, pessoal, são aqueles em que a falha pode provocar uma consequência grave, como sei lá, pô, a
+1:02:231 hora, 2 minutos e 23 segundosfalha pode provocar um acidente, não é isso? A falha pode provocar uma grande perda financeira, né? ou a falha pode provocar em risco a vida humana, tá?
+1:02:351 hora, 2 minutos e 35 segundosEntão são sistemas críticos, tá? Então podemos citar aí sistemas que são utilizados em equipamentos médicos, em aeronaves, em processos industriais de
+1:02:451 hora, 2 minutos e 45 segundosaltos riscos e por aí vai. Nesse ambiente, pessoal, precisamos eh de uma validação rigorosa
+1:02:541 hora, 2 minutos e 54 segundosde evidências técnicas claramente definidas, tá? mecanismos de redundância, falhou o primeiro, tem o
+1:03:021 hora, 3 minutos e 2 segundossegundo, falou o segundo, tem o terceiro. E mecanismos de controle de segurança, tá? Outra característica, pessoal, é dos sistemas móveis
+1:03:111 hora, 3 minutos e 11 segundosindustriais, tá? Perceba que eu tô, né, variando aí os tipos de software, né, que são utilizados ali para aqueles profissionais que trabalham em campo,
+1:03:181 hora, 3 minutos e 18 segundostá? Imagine, por exemplo, pessoal, um técnico realizando ali uma inspeção em uma propriedade rural, utilizando ali um aplicativo como tablet. Legal.
+1:03:291 hora, 3 minutos e 29 segundoscom a como a conexão com a com a internet ela pode ser instável, dependendo da localização em que esse
+1:03:361 hora, 3 minutos e 36 segundostécnico esteja, o sistema ele tem que funcionar de forma offline, ele tem que armazenar as informações localmente e
+1:03:441 hora, 3 minutos e 44 segundosdepois quando tiver rede ele vai ter a capacidade de sincronizar posteriormente, mantendo aí a integridade dos dados, tá? Temos também,
+1:03:521 hora, 3 minutos e 52 segundospessoal, sistemas em nuvem, né, que normalmente atende ali a diversos usuários, aplicações, tudo isso de forma simultânea, tá? Nesse cenário, ã,
+1:04:001 hora e 4 minutosprecisamos acompanhar indicadores como disponibilidade, como latência, como taxa de erros, como consumo dos recursos, tá? Porque eu tô pagando, né,
+1:04:071 hora, 4 minutos e 7 segundosa conta pagar. Eh, e também, pessoal, eh, utilizaremos práticas aí de observabilidade, tá? como ali os logs,
+1:04:151 hora, 4 minutos e 15 segundosas médicas, né, os traces, né, eh, alertas, né, que que vão estabelecer as
+1:04:231 hora, 4 minutos e 23 segundosmetas de qualidade por meio aí dos SLI e dos SLO. Para finalizar, temos tema de apoio à decisão que utiliza aí análise
+1:04:311 hora, 4 minutos e 31 segundosde dados junto com inteligência artificial para gerar informações, né, gerar recomendações e por aí vai, tá?
+1:04:381 hora, 4 minutos e 38 segundosDeixa eu olhar pra hora. Ainda tem um tempo demais, ainda vão me ouvir muito hoje ainda, tá? Vamos lá partir para um case aqui, pessoal. Vamos lá, todo mundo
+1:04:461 hora, 4 minutos e 46 segundosde olho na tela, né? Olha só que coisa interessante, pessoal. Estudo de caso aí totalmente diferente, tá? A gente tá falando agora em fábrica, estamos
+1:04:531 hora, 4 minutos e 53 segundosfalando agora em qu aí, né? Da parte do agro, tá? E o Brasil ele é assim, a gente a gente tem às vezes uma síndrome de viraata, né? de valorizar muita coisa
+1:05:021 hora, 5 minutos e 2 segundosque vem de fora e às vezes não dá valor as coisas que tem aqui. Pessoal, o o assim que tiver oportunidade de conhecer, cara, uma agricultura de
+1:05:111 hora, 5 minutos e 11 segundosprecisão, cara, teu queixo vai bater no chão e vai subir umas três vezes pelo menos do quanto de tecnologia que é envolvida nesse local, tá, pessoal?
+1:05:191 hora, 5 minutos e 19 segundosSensor para monitorar o nível de irrigação, né, o nível de quantidade de substância determinado solo. Assim, as
+1:05:271 hora, 5 minutos e 27 segundoscoisas são absurdas, cara. O nível de de tecnologia que tem desses locais, pessoal, é absurdamente assustador,
+1:05:371 hora, 5 minutos e 37 segundosentendeu? Vamos lá, vamos pro case aqui, pessoal.
+1:05:401 hora, 5 minutos e 40 segundosVamos analisar um estudo de casos, pessoal, sobre aí o desenvolvimento de um sistema de monitoramento agrícola, tá? Que ele precisa funcionar mesmo em
+1:05:481 hora, 5 minutos e 48 segundosuma região que tem ali problemas de conectividade limitada, é o caso do Brasil, né? Tem problemas ali em determinados locais, tem problemas de conexão, tá? Esse exemplo, pessoal, ele
+1:05:571 hora, 5 minutos e 57 segundosé interessante porque ele demonstra como os requisitos de qualidade de software eles precisam ser adaptados para condições reais de utilização de uma
+1:06:061 hora, 6 minutos e 6 segundosaplicação, né? Tem um problema de internet, precisa adaptar, tá? Imagine, pessoal, que eu tenho uma empresa agrícola em que ela utilize sensores de
+1:06:151 hora, 6 minutos e 15 segundosIoT, né? Eh, com objetivo de monitorar informações como temperatura, como umidade do solo, como as condições das
+1:06:241 hora, 6 minutos e 24 segundosplantações e por aí vai, tá? Além disso, os funcionários eles utilizam aplicativos móveis para registrar
+1:06:311 hora, 6 minutos e 31 segundosatividades ali ao longo do ali no campo, né? Como sei lá, nível de irrigação e aplicação de fertilizantes, eh,
+1:06:381 hora, 6 minutos e 38 segundosinspeções. Pô, eu não eu eu não entendo muito bem desse case, não. Legal. Ah, bacana. Alita. Vamos lá. O Juliano ali,
+1:06:461 hora, 6 minutos e 46 segundosa Imbrapa, cara. O Douglas, eu tô indo em novembro, cara. Eu tô indo, né? A Imbrapa é referência mundial única,
+1:06:521 hora, 6 minutos e 52 segundoscara. A Embrapa, ela é cara tão top cara assim, o o o nível de produção acadêmica
+1:07:001 hora e 7 minutosque existe numa numa instituição como Ibrapa, ela coloca tanta universidade no colo, vocês não fazem ideia, cara. Eu tô
+1:07:081 hora, 7 minutos e 8 segundosindo em novembro, tá? Só tiro de curiosidade de vocês, né? Numa dessas viagens malucas que eu tô fazendo, eh, eu tô indo lá para digital em Campinas,
+1:07:171 hora, 7 minutos e 17 segundosné, para, eh, apresentar um case de um sensor para dispositivos, tá? Assim, não
+1:07:261 hora, 7 minutos e 26 segundosvou falar muito, né, porque, sei lá, é uma futura bolsa aí de pesquisa de pós-doutorado que eu tô cavando. Então,
+1:07:331 hora, 7 minutos e 33 segundosvou apresentar um case lá e vou conhecer muita gente legal por lá, tá, galera?
+1:07:371 hora, 7 minutos e 37 segundosEmbrap é top, tá? O Juliano, eu trabalho com água, professor. Que legal, Juliano, bacana, tá? Vamos lá. Trabalha numa empresa que produz eh implementos
+1:07:441 hora, 7 minutos e 44 segundosagrícolas. Vê que legal. Eh, plantadeiras, demais implementos da área. Muito muito bacana, tá? Eh, a
+1:07:521 hora, 7 minutos e 52 segundosPatrícia Li queetec realmente aqui no Brasil, né? Tanto é que o seguinte, pessoal, a gente a gente é sacaneado,
+1:07:581 hora, 7 minutos e 58 segundossacaneado de for uma das poucas coisas que a gente tenha sacaneado, porque assim, eh, o pessoal de fora não consegue chegar ao nível de tecnologia
+1:08:071 hora, 8 minutos e 7 segundosque a gente tem, né? Por isso que o Brasil ele ele é diferente nesse nesse nesse nicho aí. Aí o que acontece? O pessoal começa a colocar barreiras, né?
+1:08:171 hora, 8 minutos e 17 segundosAh, tá detonando, enfim, existe um componente político, eu não quero entrar aqui, tá, pessoal? Mas na minha percepção, né? Eh, tá, o, eu, eu acho
+1:08:271 hora, 8 minutos e 27 segundosestranho, né, um país falar assim que quer defender o verde quando o verde dele já foi todo destruído, né? Por que
+1:08:351 hora, 8 minutos e 35 segundosque você não tá preocupado com seu verde, com refrostamento no seu país?
+1:08:381 hora, 8 minutos e 38 segundosque a tua preocupação aqui no Brasil que tá começando a aumentar a produtividade dele e tá saindo de um nível para outro nível. Enfim, tem umas discussões aí das mais varias positivas, mas não vou entrar no no na hoje não, tá? Legal.
+1:08:501 hora, 8 minutos e 50 segundosVamos lá. Que massa, professor, se precisar de ajuda aqui. Ponto beleza, cara. Vamos lá. Vamos voltar pro nosso case aqui, tá, pessoal?
+1:08:581 hora, 8 minutos e 58 segundosVamos lá. Na nossa empresa aqui, nosso estudo de caso, as barreiras políticas.
+1:09:021 hora, 9 minutos e 2 segundosExatamente, Patrícia. Isso mesmo, tá? Na minha, na minha visão é essa aí, tá? Tem gente que vai achar que não, né? Vai jogar pé de mim, inclusive, tá? Mas
+1:09:111 hora, 9 minutos e 11 segundosvamos lá. Eu eu trabalho em empresa para implementos agrícolas, para plataforma.
+1:09:151 hora, 9 minutos e 15 segundosAh, o Willam também tá, cara, quantidade de pessoas, né? Então, acertei nesse case aqui, tá? Vocês vão me ajudar.
+1:09:221 hora, 9 minutos e 22 segundosLegal. Eh, a empresa ela utiliza sensor, né? Monitora eh alguns dados, né? Eh, e os funcionários têm ali tablets e
+1:09:301 hora, 9 minutos e 30 segundosequipamentos para registrar atividade, né? O problema aqui, pessoal, aqui o seguinte, ó. Muitas propriedades rurais,
+1:09:371 hora, 9 minutos e 37 segundoselas hoje são localizadas em regiões, né, que não são muito bem favorecidas do ponto de vista de infraestrutura, onde
+1:09:451 hora, 9 minutos e 45 segundostem ali conexões com internet estáveis, né, às vezes inexistentes e por aí vai.
+1:09:511 hora, 9 minutos e 51 segundosHoje em dia, com a aquela internet satelital, eu esqueci, né, do Elon Musk, aí as coisas modificaram um pouquinho,
+1:09:591 hora, 9 minutos e 59 segundosné, sair o cenário, né? Mas assim, é uma realidade ainda hoje em dia, tá?
+1:10:051 hora, 10 minutos e 5 segundosIsso significa, pessoal, que eh os sensores eles podem continuar coletando informações, mas os dados dependendo do
+1:10:141 hora, 10 minutos e 14 segundosmomento, eles podem não ser enviados para a nuvem. A Starlink, obrigado aí, Patrícia. Starlink, tá? O Juliano ali, né? Valeu, né? Starlink, isso mesmo, né?
+1:10:231 hora, 10 minutos e 23 segundosJá já implementamos o próprio sistema GPS, cara.
+1:10:291 hora, 10 minutos e 29 segundosGPS de para lavoura e agora tem como fazer acompanhamento das linhas. Mas assim, vocês utilizam GPS, né? Só
+1:10:371 hora, 10 minutos e 37 segundosimplantaram, tá? Vocês implantaram o GPS dentro da legal, né? Já utiliza aí georreferenciamento, enfim, legal,
+1:10:441 hora, 10 minutos e 44 segundosbacana, tá? Eh, através de GPS pode tratar lá através do celular também, né?
+1:10:501 hora, 10 minutos e 50 segundosCom Bluetooth já conectado. Vê, vê a quantidade de tecnologia de coisa que vocês colocaram, né, apresentado para mim só nesse case, tá, pessoal?
+1:10:581 hora, 10 minutos e 58 segundosAí eu pergunto para vocês, tá? Diante desse cenário em que eu posso ter perda de conectividade, né? Aí eu começo a pensar, tá? Como garantir que o software
+1:11:061 hora, 11 minutos e 6 segundoscontinue funcionando mesmo quando vai faltar internet, tá?
+1:11:121 hora, 11 minutos e 12 segundosUma das principais soluções, pessoal, é implementar uma arquitetura chamada de offline first, né? Offline first, tá? No
+1:11:201 hora, 11 minutos e 20 segundosqual o aplicativo ele consegue executar suas funcionalidades essenciais, tá? Sem internet, armazenar os dados locais. né?
+1:11:281 hora, 11 minutos e 28 segundosEh, mesmo quando não existe a conexão, tá? Eh, e quando tiver conexão, ele sincroniza isso aí, né? Vamos imaginar, pessoal, um técnico que tá realizando
+1:11:361 hora, 11 minutos e 36 segundosuma inspeção, numa plantação, tá? Mesmo sem internet, ele chega lá no local, ele registra a atividade no aplicativo, essa
+1:11:451 hora, 11 minutos e 45 segundosinformação, ela fica armazenada localmente no dispositivo, né? E quando esse dispositivo se conectar com o servidor, aí ele vai enviar essas
+1:11:531 hora, 11 minutos e 53 segundosinformações, tá, né? quando ali a conectividade for restabelecida, tá?
+1:11:571 hora, 11 minutos e 57 segundosEntretanto, pessoal, não basta simplesmente enviar os dados, né?
+1:12:001 hora e 12 minutosPrecisamos implementar mecanismos de sincronização, de reconciliação, né? Garantindo que as informações sejam
+1:12:071 hora, 12 minutos e 7 segundosprocessadas corretamente, né? Não falte alguma coisa ou não chega alguma coisa de forma duplicada, tá?
+1:12:141 hora, 12 minutos e 14 segundosPara isso, pessoal, eh podemos utilizar, por exemplo, no software filas locais de sincronização,
+1:12:211 hora, 12 minutos e 21 segundosidentificadores únicos para cada tipo de registro, mecanismos de deduplicação,
+1:12:291 hora, 12 minutos e 29 segundostá? E dessa forma evitamos que uma mesma operação ela seja registrada várias vezes, né, quando acontece aí novas
+1:12:371 hora, 12 minutos e 37 segundostentativas de envio, tá? Agora, pessoal, relacionando esse cenário aos cinco requisitos de qualidade que estudamos anteriormente, né, podemos identificar o
+1:12:451 hora, 12 minutos e 45 segundosseguinte. Primeiro, disponibilidade. O aplicativo ele precisa continuar funcionando mesmo quando não tiver
+1:12:521 hora, 12 minutos e 52 segundosconexão, tá? Desempenho, podemos utilizar aí um indicador, né, um P95, né, para quê? para acompanhar, por
+1:12:591 hora, 12 minutos e 59 segundosexemplo, a sincronização dos registros, né, medindo quanto tempo as operações demoram para serem confirmada, quando
+1:13:061 hora, 13 minutos e 6 segundosretorna, né, ou quando existe ali a conectividade.
+1:13:111 hora, 13 minutos e 11 segundosTerceira dimensão é a parte da integridade, da rastreabilidade, né? Precisamos garantir que os dados coletados ele não sejam perdidos, não
+1:13:201 hora, 13 minutos e 20 segundossejam alterados, né? seja possível identificar, né, quando, onde, por qual razão o dispositivo determinou, né, que aquela informação fosse registrada, tá?
+1:13:301 hora, 13 minutos e 30 segundosO Douglas ali, o maquinário pode ter um módulo de memória acoplada, beleza, cara, pode, né, na PCB, eh, e quando voltar a reenviar isso, não só o módulo
+1:13:391 hora, 13 minutos e 39 segundosde memória, tá? Perceba que eu posso ter outras coisas interessantes, tá? Que a gente falamos aqui, né? Fila de sincronismo, né? A possibilidade de você evitar que a informação ela seja
+1:13:481 hora, 13 minutos e 48 segundosdeduplicada, né? Isso. Eh, eu tenho que eh montar um mecanismo para identificar de forma única cada registro, né, para
+1:13:551 hora, 13 minutos e 55 segundosque eu conseguir verificar efetivamente se faltou um deles ou se um deles foi enviado duas vezes e por aí vai, tá?
+1:14:041 hora, 14 minutos e 4 segundosEntão, é, tá? Eh, quarta dimensão, pessoal, segurança, privacidade. Vamos segurança, como vamos lá, né? Mesmo
+1:14:131 hora, 14 minutos e 13 segundosarmazenando informações locais, devemos proteger os dados por meio de criptografia. Vocês concordam comigo?
+1:14:191 hora, 14 minutos e 19 segundospor meio de autenticação, por meio de gerenciamento adequado das credenciais de cada usuário, né? Sei lá, né? aquela
+1:14:271 hora, 14 minutos e 27 segundosinformação em mãos erradas, ela pode ser, enfim, pode ser um dano à imagem ou um problema financeiro paraa organização.
+1:14:371 hora, 14 minutos e 37 segundosPor fim, temos a observabilidade, tá, pessoal, que permite acompanhar, né, o comportamento da solução, né, monitorar
+1:14:441 hora, 14 minutos e 44 segundosa quantidade de registros pendentes, né, a taxa de sucesso no mecanismo de sincronização, os conflitos de dados
+1:14:511 hora, 14 minutos e 51 segundosquando existir as falhas de comunicação e por aí vai. Beleza? Tranquilo, tranquilo, tranquilo. Olha como o tempo
+1:14:581 hora, 14 minutos e 58 segundospassa rápido, né? Vamos lá, mais um case aqui, pessoal. Vamos lá para case para ficar forte.
+1:15:051 hora, 15 minutos e 5 segundosVamos lá. Nesse nesse estudo de caso, pessoal, vamos analisar eh um problema de dos pedidos duplicados, né, na
+1:15:141 hora, 15 minutos e 14 segundosintegração do sistema. Perceba que agora eu subi de nível, eu tenho pedidos duplicados, tá? E eu utilizo aí como exemplo uma plataforma de e-commerce.
+1:15:251 hora, 15 minutos e 25 segundosLegal.
+1:15:261 hora, 15 minutos e 26 segundosNesse cenário é bastante comum, pessoal, em arquiteturas modernas, tá?
+1:15:311 hora, 15 minutos e 31 segundosEspecialmente quando a gente trabalha aí com APIs, com microsserviços, né, com sistemas de mensagerias e por aí vai.
+1:15:381 hora, 15 minutos e 38 segundosEh, eu quero que vocês imaginem uma empresa de comércio eletrônico eh que ela possui uma loja virtual, tá?
+1:15:441 hora, 15 minutos e 44 segundosIntegrada a um serviço de pagamento, tá?
+1:15:471 hora, 15 minutos e 47 segundosA forma mais fácil de imaginar é penso Amazon da vida. É um e-commerce, tem uma loja virtual que você compra, tem aí serviço de integração de pagamento, você
+1:15:551 hora, 15 minutos e 55 segundospode pagar por Pix, por isso, por aquilo e por aí vai. E eu tenho ali um RP que tá integrado também esse sistema, tá?
+1:16:021 hora, 16 minutos e 2 segundosEsse RP ele vai ser responsável por controle do estoque, faturamento
+1:16:051 hora, 16 minutos e 5 segundos[limpando a garganta]
+1:16:061 hora, 16 minutos e 6 segundose por aí vai. Quando um cliente realiza uma compra, o sistema ele registra o pedido e ele envia informações para os demais serviços.
+1:16:171 hora, 16 minutos e 17 segundosEntretanto, durante essa comunicação, aconteceu uma falha na rede, tá? Do lado
+1:16:251 hora, 16 minutos e 25 segundosdo eu enviei outro eu não recebi. Falha na rede. Essa é a parte boa, tá pessoal, de quem desenvolve, né, que sempre vai
+1:16:331 hora, 16 minutos e 33 segundosser ocupado. Que quem é ocupado sempre, pessoal, no processo de desenvolvimento.
+1:16:371 hora, 16 minutos e 37 segundosAí o primeiro culpado é o cara da RID, né? Segundo culpado é o cara do banco, né? Brincadeira.
+1:16:431 hora, 16 minutos e 43 segundosTá? Aí, como o sistema ele não recebe a confirmação de processamento, ele tenta
+1:16:501 hora, 16 minutos e 50 segundosenviar a mesma mensagem novamente. O problema, pessoal, é que a primeira mensagem ela pode ter sido processada corretamente, mesmo que ele não consiga
+1:16:591 hora, 16 minutos e 59 segundoster a confirmação chegado na origem. Às vezes chegou a mensagem do professor, mas não chegou a confirmação da mensagem. Então, a origem pensa que não
+1:17:071 hora, 17 minutos e 7 segundosfoi enviada. consequentemente, né, o serviço de pagamento, ele pode realizar uma cobrança duplicada, tá? Enquanto que
+1:17:141 hora, 17 minutos e 14 segundoso RP ele pode registrar duas movimentações de estoque para único pedido. Galera, quem nunca passou por isso? Eu já passei, tá,
+1:17:241 hora, 17 minutos e 24 segundosné? Às vezes você clica rápido ali no no na clicou na funcionalidade, não apresentou, clicou novamente, você foi lá e fez duas compras, tá?
+1:17:351 hora, 17 minutos e 35 segundosAhã. Agora, pessoal, observe uma arquitetura que é apresentada lá na parte superior do slide, né? E o dado
+1:17:431 hora, 17 minutos e 43 segundospode sido corrompido também. E isso dependendo de se você não utilizar mecanismo de criptografia e etc e tal, pode ser que alguém venha, capture esse
+1:17:501 hora, 17 minutos e 50 segundosdado, corrompa, né? Né, de hash e uma série de mecanismos de segurança para garantir.
+1:17:581 hora, 17 minutos e 58 segundosÀs vezes o cara pega o dado no meio, altera o dado e envia de volta. Aí assim, pra origem, pro destino tá acontecendo, né? Mas só que o cara lá no
+1:18:061 hora, 18 minutos e 6 segundosdestino, ele pega o dado que ele recebeu e ele faz um cálculo de resto e ele vê que o dado foi alterado, entendeu? Manda ele de novo. Esse dado aqui foi alterado, né? Existe mecanismo para uma
+1:18:151 hora, 18 minutos e 15 segundossérie de coisas, tá pessoal? E tudo isso envolve característica de qualidade do software. Vocês concordam comigo? Vamos lá. Lá na parte superior, pessoal, tá
+1:18:231 hora, 18 minutos e 23 segundosuma coisa bem deliciosa ali, tá? Que eu sugiro que vocês levem isso aí para uma pro final de semana, né? Enquanto eu vou ficar assistindo as aulas do professor
+1:18:311 hora, 18 minutos e 31 segundosEmerson lá, me divertindo com ele, vocês vão ficar aí eh concluindo as atividades de mapa, disso,
+1:18:381 hora, 18 minutos e 38 segundosdaquilo outro e fazendo estudo mais minucioso aqui do nosso case 3 aqui, tá?
+1:18:441 hora, 18 minutos e 44 segundosEntão vamos lá, pessoal. Eh, vamos observar a arquitetura que tá apresentada na parte superior do slide.
+1:18:491 hora, 18 minutos e 49 segundosTemos ali uma loja virtual, né? Nós temos ali um uma API gateway, temos um serviço de pedidos, um banco de dados,
+1:18:581 hora, 18 minutos e 58 segundosuma fila de mensagem e temos aí sistemas externos de pagamento via e também o RP.
+1:19:051 hora, 19 minutos e 5 segundosEssa arquitetura, pessoal, permite que você comece a enxergar e a distribuir responsabilidades entre os diferentes serviços, tá?
+1:19:151 hora, 19 minutos e 15 segundosEntretanto, também existe mecanismos para garantir que as informações sejam processadas corretamente, mesmo quando
+1:19:231 hora, 19 minutos e 23 segundosacontece falhas de comunicação, tá? E é nesse contexto que surge, né, a gente já falou que surge o conceito, lembra o conceito de idotência?
+1:19:341 hora, 19 minutos e 34 segundosSistemas idempotên, tem umas palavras que é ruim de falar, né? Tá? E de potência, pessoal, ela significa você executar uma mesma operação várias vezes.
+1:19:451 hora, 19 minutos e 45 segundosEh, mesmo você executando várias vezes, ela só vai produzir o único resultado final, né, que é execução da tarefa uma única vez, tá?
+1:19:551 hora, 19 minutos e 55 segundosPor exemplo, pessoal, eu fiz um pedido, né? Eu tenho eh eh se um pedido possuir o identificador 1 2 3 4 5, tá? Caramba,
+1:20:051 hora, 20 minutos e 5 segundosquiet, ó. A Jesus amado, né? vocês começam a conversar comigo, eu me empolgo, né? A hora vai passando, né? Beleza, vamos lá.
+1:20:131 hora, 20 minutos e 13 segundosEh, podemos utilizar, pessoal, o identificado no 1 2 3 4 1 2 3 4 5, né?
+1:20:181 hora, 20 minutos e 18 segundosEh, podemos utilizar uma chave de ID idem potência associado a essa operação
+1:20:251 hora, 20 minutos e 25 segundosque é 1 2 3 4 5. Antes de processar uma nova solicitação, o serviço ele verifica se aquela chave já foi utilizada ou se não foi utilizada.
+1:20:351 hora, 20 minutos e 35 segundosSe a operação tiver sido concluída, o sistema ele não deve mais realizar novamente cobrança ou modificação no
+1:20:421 hora, 20 minutos e 42 segundosestoque na chave de potente 1 2 3 4 5, né? Eh, ele poderá retornar o resultado anteriormente registrado caso tenha
+1:20:511 hora, 20 minutos e 51 segundosalgum problema, tá? Outro mecanismo importante que a gente pode utilizar, pessoal, é o mecanismo de retry, né, que
+1:20:581 hora, 20 minutos e 58 segundosrepresenta ali uma nova tentativa de execução após uma falha que aconteceu.
+1:21:061 hora, 21 minutos e 6 segundosEntretanto, não devemos realizar tentativas de forma indefinida, tá? Para isso, utilizamos aí o conceito de back
+1:21:161 hora, 21 minutos e 16 segundosoff, né? backoff que estabelece aí intervalos progressivos, né, cada vez maiores entre
+1:21:251 hora, 21 minutos e 25 segundosas tentativas, né, o que reduz aí a, digamos assim, a sobrecarga do serviço. Não conseguir, repete, repete, repete. Vai tá ali um gargalo.
+1:21:331 hora, 21 minutos e 33 segundosQuando a mensagem ela continua apresentando problemas e não pode ser processada após as
+1:21:411 hora, 21 minutos e 41 segundostentativas previstas, eh podemos encaminhar, por exemplo, para uma DLQ, né, uma fila de mensagens não
+1:21:501 hora, 21 minutos e 50 segundosentregues, tá? Essa fila, ela permite isolar mensagens problemáticas eh para um processo de investigação.
+1:22:001 hora e 22 minutosPor isso que é filhas de mensagens não entregues. E posterior à fase de investigação, você vai fazer um reprocessamento controlado dessas
+1:22:091 hora, 22 minutos e 9 segundosmensagens, evitando que essas mensagens prejudiquem [limpando a garganta] o processamento de outras operações que estão acontecendo,
+1:22:191 hora, 22 minutos e 19 segundostá? Também precisamos considerar, pessoal, os contratos de integração, tá utilizando ali, especificações como, sei lá, a Open API,
+1:22:291 hora, 22 minutos e 29 segundosné? Podemos documentar os formatos das requisições, podemos a os campos obrigatórios, os códigos de resposta, as regras de compatibilidade e por aí vai,
+1:22:381 hora, 22 minutos e 38 segundostá? Esses contratos eles devem ser verificados por testes automatizados, tá? especialmente quando uma nova versão
+1:22:451 hora, 22 minutos e 45 segundosde algum componente ela for disponibilizada, né, pessoal? Agora observe ali que o slide dele também destaca a importância do timeout também,
+1:22:551 hora, 22 minutos e 55 segundostá? Isso, não ficar esperando a resposta indefinida. Beleza, Douglas? Muito bem lembrado, time out, né? Existe mecanismos aí de controle justamente
+1:23:021 hora, 23 minutos e 2 segundostime out, né? Para não ficar esperando definitivamente. E é controle, tá, pessoal? Às vezes você coloca um timeout
+1:23:091 hora, 23 minutos e 9 segundoscurto e, sei lá, a a mensagem ainda tava processando, tá? Calma aí, cara. Legal.
+1:23:181 hora, 23 minutos e 18 segundosEntão assim, e eu já passei por um um problema assim, tá? O cara colocou umate bem juntinho, só que teve um problema em
+1:23:261 hora, 23 minutos e 26 segundosque demorou um pouco a mais para que a mensagem fosse processada. Aí o que que aconteceu? toda aquela mensagem ali, ela entrava no time out.
+1:23:341 hora, 23 minutos e 34 segundosAí o cara teve que reajustar a qualidade da da rede para que o sistema voltasse a funcionar ou recalibrar o seu time out, né? Entendeu, né? Você pode ter médicas,
+1:23:441 hora, 23 minutos e 44 segundostá? Você identificar uma baixa performance da rede, você pode, né? É, ajustar para que o seu timeout aumente em razão de que a rede tá um pouco mais
+1:23:521 hora, 23 minutos e 52 segundoscongestionada, sei lá, é como se fosse um trânsito, tá? Você sabe que determinado momento de de trânsito, né, o seu deslocamento do trabalho para casa
+1:24:001 hora e 24 minutosvai ser um pouco mais longo, porque tá tendo trânsito e sei lá, se não tiver trânsito, você vai chegar mais rapidamente. Legal.
+1:24:081 hora, 24 minutos e 8 segundosEh, observe, pessoal, que o slide ele apresenta ali o aspecto da observabilidade. Deixa eu olhar pro meu tempo. Jesus. Vamos lá. Precisamos
+1:24:151 hora, 24 minutos e 15 segundosacompanhar os logs, as métricas, a o rastreamento distribuído, né, para compreender como cada pedido aconteceu em diferentes serviços, tá? Entre os
+1:24:231 hora, 24 minutos e 23 segundosprincipais indicadores, temos o quê, pessoal? Ah, monitoramento das taxas de pedidos duplicados, a latência, né? A
+1:24:301 hora, 24 minutos e 30 segundosfamosa P95, já falamos, taxa de erros, que mais? A quantidade de mensagens caminhadas para aquela fila chamada DLQ,
+1:24:381 hora, 24 minutos e 38 segundosné? Fila de mensagens não processadas, né? O tempo necessário para reconciliar informações que são consideradas inconsistentes. Cara, tem muita coisa que a gente pode analisar aqui, tá?
+1:24:511 hora, 24 minutos e 51 segundosFalar isso aí. Falar isso aí, Douglas. O professor Emerson Mibad, cara, que ele tá, cara, não tá assim, compreenda, tá, pessoal? O professor formador, ele tem
+1:24:591 hora, 24 minutos e 59 segundosele tem um ele tem um tempo mais curto quando comparado a outros a outros colaboradores, vamos colocar assim,
+1:25:071 hora, 25 minutos e 7 segundoscara, professor Emil chega bem antes, às vezes sai muito bem depois do do que eu chego, tá? E assim, a e o bom que a soma dos trabalhos dele, meu com de outras
+1:25:161 hora, 25 minutos e 16 segundosequipes tornam aí uma qualidade bacana, né, de entrega de resultado para vocês, tá?
+1:25:221 hora, 25 minutos e 22 segundosQue mais que a gente pode eh verificar aqui, pessoal? Vamos lá, pra gente fechar, né, pessoal? Eh, o o principal aprendizado deste todo de caso aqui é
+1:25:301 hora, 25 minutos e 30 segundosque uma integração confiável, ela precisa estar preparada para a ocorrência de falhas, atrasos, mensagens
+1:25:371 hora, 25 minutos e 37 segundosduplicadas, mudanças de contrato, dentre outras coisas. Beleza? Vamos lá. Deixa eu ver se ainda dá para falar um pouquinho mais. Ainda tem um tempinho,
+1:25:451 hora, 25 minutos e 45 segundostá? Deixa eu olhar para esse slide, deixa eu olhar para o outro. Cara, não vai fazer sentido, tá? Porque se eu começar a falar desse slide, que que vai acontecer? Eu não vou conseguir falar do
+1:25:541 hora, 25 minutos e 54 segundosestudo de casa, tá? Então, talvez seja mais interessante na próxima aula eu começar pel esse slide aqui, integração em evidências, para que eu apresente
+1:26:011 hora, 26 minutos e 1 segundoesse outro estudo de casos que é uma falha pós implantação de uma nova versão, tá? Ainda tem uns minutinhos, tá? Chamar o professor Emerson aí para
+1:26:091 hora, 26 minutos e 9 segundosver se ainda tem algumas mensagens para que a gente possa vir a falar. Mas pessoal, na próxima aula a gente vai começar essa parte aqui, tá? Discussão
+1:26:171 hora, 26 minutos e 17 segundostá boa, discussão não é importante, então vamos evoluir de forma gradual, tá? Isso aí, professor.
+1:26:241 hora, 26 minutos e 24 segundosChega de mim por hoje. [risadas] Na que é isso, pessoal? Eu também gostaria de de tocar até, não tem
+1:26:331 hora, 26 minutos e 33 segundosproblema nenhum, mas é que também tem gente que depende da gente, né, terminar e, né, pra gente passar a bola para para
+1:26:411 hora, 26 minutos e 41 segundosoutras coisas. Mas a gente tem um tempinho, né, professor? Eu queria, né, falar uma coisa para vocês. Eu coloquei um laboratório,
+1:26:491 hora, 26 minutos e 49 segundosum laboratório extra, tá, pessoal? A gente tá discutindo muito sobre engenharia reversa da de tudo, né? O
+1:26:581 hora, 26 minutos e 58 segundosfamoso R. Então, assim, eu coloquei um laboratório bem simples, tá, pessoal?
+1:27:041 hora, 27 minutos e 4 segundosEscolhi até linguagem de python, não sei de onde eu tirei. É porque assim, eu dou aula também para criança e adolescente
+1:27:121 hora, 27 minutos e 12 segundosde robótica, tá? Então assim, eh, eu gosto de deixar as coisas bem simples, né, para para vocês poderem entender.
+1:27:211 hora, 27 minutos e 21 segundosEntão, é interessante hoje, né, o que a gente conversa sobre, eh, que ele veio trazer para para nós
+1:27:281 hora, 27 minutos e 28 segundosque trabalhamos em sistemas críticos uma possibilidade muito boa. A principal linguagem de programação que a gente
+1:27:371 hora, 27 minutos e 37 segundosutiliza sistemas críticos, principalmente aqui no Brasil, é o C.
+1:27:421 hora, 27 minutos e 42 segundosé o ser puro, né? Aquele ser mais mais, nada disso. E o ser puro ele tem um problema crítico, né? Comecei por isso, né?
+1:27:501 hora, 27 minutos e 50 segundosO gerenciamento de memória. Uhum.
+1:27:531 hora, 27 minutos e 53 segundosGerenciamento de memória é uma coisa muito difícil, né? Vocês já tiveram esses problemas ponteiros, gente, não, né?
+1:28:001 hora e 28 minutosSó que hoje o que que acontece? A I, cara, ela trata o C ela trata o Python.
+1:28:081 hora, 28 minutos e 8 segundosEntão assim, o problema de criticidade de memória para ela a lockock. É isso.
+1:28:151 hora, 28 minutos e 15 segundosÉ, [risadas] entendeu? Então isso aí para para irá, cara, isso aí é muito muito simples.
+1:28:241 hora, 28 minutos e 24 segundosEntão é muito transparente. Então o que que acontece? Hoje a gente tem que focar muito na velocidade dos nossos projetos.
+1:28:321 hora, 28 minutos e 32 segundosEntão a a linguagem C ela é própria para isso, né? Então, na aviação a gente utiliza C o porque ele é muito rápido,
+1:28:411 hora, 28 minutos e 41 segundossó que ele tem problema de de alocação de de memória, né? Então, com a IA hoje e a engenharia reversa, a gente
+1:28:501 hora, 28 minutos e 50 segundosconsegue, né, transformar projetos legados eh de uma forma muito mais eh segura, muito mais rápida, entendeu?
+1:29:001 hora e 29 minutosEntão assim, eh, eu coloquei esse laboratório, dei uma olhada. A ide a ideia é você o quê? Você eh trazer esse
+1:29:111 hora, 29 minutos e 11 segundosprojeto antigo para uma nova linguagem ou você utilizar esse projeto antigo e e evoluir ele, né? Melhorar a qualidade
+1:29:181 hora, 29 minutos e 18 segundosdele. Além da engenharia reversa, é justamente a a evolução do sistema. É porque às vezes quando você evolui,
+1:29:271 hora, 29 minutos e 27 segundosquando você evolui para trazer para uma linguagem mais atual, pode ser que a sua manutenibilidade ela se torne mais atrativa, porque você não tem que lidar
+1:29:361 hora, 29 minutos e 36 segundoscom não tem que lidar com linguagens tão antigas, né? Que não tem talvez tantos especialistas nessas linguagens antigas, né?
+1:29:421 hora, 29 minutos e 42 segundosA vantagem do legado, né? Eh, porque, por exemplo, aeronave ela voa 30, 40 anos até você modificar o, né, você
+1:29:511 hora, 29 minutos e 51 segundosfazer um um lead time, né, que a gente fala.
+1:29:561 hora, 29 minutos e 56 segundosE então esse tempo todo, e a a própria linguagem ela vai se deteriorando, né?
+1:30:021 hora, 30 minutos e 2 segundosEh, comandos novos que vão surgindo, padrões novos de de estrutura. Então, se
+1:30:091 hora, 30 minutos e 9 segundoscom a IA hoje a gente consegue, né, eh, acoplar esse tipo de de padrões em sistemas novos, né? Hoje a gente
+1:30:181 hora, 30 minutos e 18 segundostransforma aeronaves antigas, né, da geração de terceira geração em aeronaves de geração quatro, geração 4 e5, né? O
+1:30:281 hora, 30 minutos e 28 segundosnosso sonho é transformar, por exemplo, essas e essas eh evoluções elas e dependem muito do software, depende muito do
+1:30:351 hora, 30 minutos e 35 segundoscara, que bacana. Não sabia. Legal. É igual, por exemplo, né, o que aconteceu a semana passada, né, nossa primeira aeronave de caça totalmente fabricada no
+1:30:441 hora, 30 minutos e 44 segundosBrasil, o gripen, ele é uma aeronave fabricada em volta do software. Você pensa o software e depois você pensa os outros sistemas.
+1:30:541 hora, 30 minutos e 54 segundosCaramba.
+1:30:541 hora, 30 minutos e 54 segundosEntão, o pessoal aí que trabalha com a agricultura, né, hoje você pensa o quê?
+1:30:581 hora, 30 minutos e 58 segundosVocê pensa o software na agricultura, né? Você já imagina o o software tocando
+1:31:051 hora, 31 minutos e 5 segundosum um trator que vai fazer uma acoplagem com com o sistema de de irrigação que vai
+1:31:121 hora, 31 minutos e 12 segundosque vai fazer uma acoplagem com o próprio sistema de entendimento da planta.
+1:31:181 hora, 31 minutos e 18 segundosEntão isso [limpando a garganta] aí também, pessoal, traz uma curva de aprendizagem.
+1:31:221 hora, 31 minutos e 22 segundosÉ o quê? Você trabalhar com esse tipo de sistema, você tem que levar em consideração eh o sistema em si. tanto o hardware,
+1:31:321 hora, 31 minutos e 32 segundosné, como o sistema, né, ah, como que funciona uma plantação, como que
+1:31:391 hora, 31 minutos e 39 segundosfunciona uma irrigação? Então, o engenheiro de software hoje ele tem, né, possibilidades nessas áreas, só que ele
+1:31:481 hora, 31 minutos e 48 segundostem que entender do sistema. Claro que a Iá tá aí para para ajudar a gente, né? A curva de aprendizagem cai lá, cai lá no pé.
+1:31:581 hora, 31 minutos e 58 segundosIsso aí, profe.
+1:32:021 hora, 32 minutos e 2 segundosTem gente, agradeço gigantemente pelo apoio, agradeço pela colaboração nessa reta final de aula aí. Muito bacana, tá? É bom, né, a gente conhecer um pouquinho
+1:32:101 hora, 32 minutos e 10 segundosmais aí do professor Emerson e assim e o agradecimento especial vai ser pros alunos, tá? Não sei se você percebeu, professor Emerson. Cara, a participação hoje foi nota 11, não foi nota 10, não.
+1:32:201 hora, 32 minutos e 20 segundosAí depois vocês cobram aí do professor Hermerson aí 0 V alguma coisa mais na nota. É brincadeira, tá? Mas a participação do pessoal foi legal. não
+1:32:271 hora, 32 minutos e 27 segundosfoi uma participação, né, eh, preocupada efetivamente com a evolução, né, de cada um, tá? Isso é importante. Isso aí
+1:32:351 hora, 32 minutos e 35 segundospermite que vocês e identificar que vocês já estão começando, né, a subir degraus. Isso deixa a gente bem, né, bem
+1:32:431 hora, 32 minutos e 43 segundosorgulhoso, né, do produto geral, né, os engenheiros que a gente estão colocando no mercado aí, que com certeza vão ser
+1:32:501 hora, 32 minutos e 50 segundosdiferenciais nesse mercado, tá? É muito bacana, pessoal. pessoal. Eh, igual o Douglas tá perguntando aí, né? C e assembly, né? A gente não usa assembly.
+1:33:001 hora e 33 minutosAssembleia é mais é para fazer desassemblagem, né? Mas o a gente utiliza C e o hada. Só que o é uma
+1:33:091 hora, 33 minutos e 9 segundoslinguagem pouco usada no Brasil, né, pessoal? Então, a gente prefere o ser.
+1:33:141 hora, 33 minutos e 14 segundosEntão, quem quer entrar para essa área aí, dá uma dá um up no C. [risadas] É difícil, mas vale a pena, tá, profe?
+1:33:271 hora, 33 minutos e 27 segundosBeleza, meu amigo. Forte abraço aí a todos, né?
+1:33:301 hora, 33 minutos e 30 segundosFiquem com Deus, tem uma boa semana e semana que vem, né, serão informados aí como é que vai ser a dinâmica da próxima aula, tá bom?
+1:33:361 hora, 33 minutos e 36 segundosIsso aí. A gente a gente coloca todo mundo a pá, pessoal. Muito obrigado. Até a próxima.
+1:33:421 hora, 33 minutos e 42 segundosValeu, galera. [risadas] Até mais.
