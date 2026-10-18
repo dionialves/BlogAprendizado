@@ -1,0 +1,18 @@
+---
+import StudyPostLayout from "../layouts/StudyPostLayout.astro";
+import { renderStudy } from "../lib/render-study";
+import draft from "../../.opencode/trabalhos/gestao-projetos-aula-ao-vivo-03/post.md?raw";
+import visualNotes from "../../.opencode/trabalhos/gestao-projetos-aula-ao-vivo-03/visuais.md?raw";
+// Os campos do dossiê usam rótulos próprios; normalizá-los preserva o renderizador compartilhado.
+const visuals = visualNotes.replace(/^- Caminho público:/gm, "- Caminho:")
+  .replace(/^- Dimensões intrínsecas\/viewBox:/gm, "- Dimensões:")
+  .replace(/^- Texto alternativo:/gm, "- Alt:")
+  .replace(/^- Legenda pronta: (“[^”]+”).*$/gm, "- Legenda: $1")
+  .replace(/ Elaboração própria\./g, "")
+  .replace(/^- Autoria\/crédito:.*$/gm, (line, offset) => offset < visualNotes.indexOf("## 2.") ? "- Crédito: **9** **10**" : "- Crédito: **13** **14** **15**");
+const html = renderStudy(draft.replace("**Ideia central:** ", "").replace(/<!-- VISUAL \d:[\s\S]*?-->/g, ""), visuals, "03", {
+  insertBefore: ["## Da autorização ao escopo", "### Organizar atividades no tempo"],
+  draftPrefix: "gp",
+});
+---
+<StudyPostLayout title="PMBOK: como integrar as decisões de um projeto tecnológico" description="Aula ao vivo 03 de Gestão de Projetos: dez áreas, TAP, escopo, EAP, cronograma, custos, qualidade, comunicação, riscos e aquisições, com prática comentada." lesson="03" subjectHref="/gestao-de-projetos/" subjectName="Gestão de Projetos Tecnológicos" html={html} />

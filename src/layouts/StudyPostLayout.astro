@@ -1,9 +1,8 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import SiteHeader from "../components/SiteHeader.astro";
-interface Props { title: string; description: string; lesson: string; html: string; }
-const { title, description, lesson, html } = Astro.props;
-const subjectHref = "/tecnologias-emergentes-em-engenharia-de-software/";
+interface Props { title: string; description: string; lesson: string; html: string; subjectHref?: string; subjectName?: string; }
+const { title, description, lesson, html, subjectHref = "/tecnologias-emergentes-em-engenharia-de-software/", subjectName = "Tecnologias Emergentes em Engenharia de Software" } = Astro.props;
 const body = html;
 const opening = body.slice(0, body.indexOf("<h2"));
 const openingParagraphs = [...opening.matchAll(/<p>([\s\S]*?)<\/p>/g)].map(match => match[1]);
@@ -21,7 +20,7 @@ const sections = [...body.matchAll(/<h2 id="([^"]+)">([\s\S]*?)<\/h2>([\s\S]*?)(
   <SiteHeader lesson fullBrand subjectHref={subjectHref} />
   <div class="layout study-layout">
     <aside>
-      <p class="breadcrumb"><a href="/">Todas as matérias</a><br /><a href={subjectHref}>Tecnologias Emergentes em Engenharia de Software</a></p>
+      <p class="breadcrumb"><a href="/">Todas as matérias</a><br /><a href={subjectHref}>{subjectName}</a></p>
       <span class="eyebrow">NESTE POST</span>
       <nav aria-label="Seções do post">
         {sections.map(section => <a href={`#${section.id}`}><span>{section.number} · </span><Fragment set:html={section.title} /></a>)}
@@ -38,7 +37,7 @@ const sections = [...body.matchAll(/<h2 id="([^"]+)">([\s\S]*?)<\/h2>([\s\S]*?)(
       <section class="hero">
         <span class="eyebrow">AULA AO VIVO {lesson} / GUIA DE ESTUDO</span>
         <h1>{title.split(": ")[0]}:<br /><em>{title.split(": ").slice(1).join(": ")}</em></h1>
-        <p class="meta">Tecnologias Emergentes em Engenharia de Software · Leitura + prática + revisão</p>
+        <p class="meta">{subjectName} · Leitura + prática + revisão</p>
         <p class="meta" id="draft-status">Os rascunhos das atividades não são salvos: copie-os antes de sair.</p>
         <p class="lead" set:html={introduction} />
         {takeaway && <div class="takeaway"><strong>A ideia central</strong><p set:html={takeaway} /></div>}
